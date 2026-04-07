@@ -246,12 +246,70 @@ def build_inventory_csv(machines: list, updated: str) -> str:
 
 # ── Helpers ────────────────────────────────────────────────────────────────
 
-def atomic_write(path: str, content: str, binary: bool = False):
+def atomic_write(path: str, content: str):
     tmp = path + ".tmp"
-    mode = "wb" if binary else "w"
-    with open(tmp, mode) as f:
-        f.write(content if binary else content)
+    with open(tmp, "w") as f:
+        f.write(content)
     os.replace(tmp, path)
+
+
+def load_prev_stocks(csv_path: str) -> dict:
+    """Read previous inventory.csv → {(freezer_id, skuid): stock}."""
+    prev = {}
+    if not os.path.exists(csv_path):
+        return prev
+    with open(csv_path, newline="") as f:
+        for row in csv.DictReader(f):
+            try:
+                prev[(row["freezer_id"], row["skuid"])] = int(row["stock"])
+            except (KeyError, ValueError):
+                pass
+    return prev
+
+
+def append_stock_changes(machines: list, prev: dict, updated: str, history_path: str) -> int:
+    """
+    Compare current stocks to previous snapshot.
+    Append one row per changed product to inventory_history.csv.
+
+    Negative delta  →  items sold (or shrinkage)
+    Positive delta  →  restocked
+    """
+    FIELDS = [
+        "timestamp", "freezer_id", "location_id", "machine_name",
+        "skuid", "barcode", "name", "price",
+        "old_stock", "new_stock", "delta",
+    ]
+    write_header = not os.path.exists(history_path)
+    changes = 0
+
+    with open(history_path, "a", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=FIELDS)
+        if write_header:
+            writer.writeheader()
+        for m in machines:
+            for p in m["products"]:
+                key = (m["freezer_id"], p["skuid"])
+                old = prev.get(key)
+                new = p["stock"]
+                if old is None or old == new:
+                    continue
+                writer.writerow({
+                    "timestamp":    updated,
+                    "freezer_id":   m["freezer_id"],
+                    "location_id":  m["location_id"],
+                    "machine_name": m["machine_name"],
+                    "skuid":        p["skuid"],
+                    "barcode":      p["barcode"],
+                    "name":         p["name"],
+                    "price":        p["price"],
+                    "old_stock":    old,
+                    "new_stock":    new,
+                    "delta":        new - old,
+                })
+                changes += 1
+
+    return changes
 
 
 # ── Main ───────────────────────────────────────────────────────────────────
@@ -263,6 +321,9 @@ def main():
 
     updated = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
+    # Load previous snapshot before overwriting it
+    prev_stocks = load_prev_stocks("docs/inventory.csv")
+
     print("Scraping machines…")
     machines = scrape_all(token)
     print()
@@ -273,21 +334,28 @@ def main():
     prices = build_prices_json(machines, updated)
     atomic_write("docs/products.json", json.dumps(prices, separators=(",", ":")))
     total_products = sum(l["productCount"] for l in prices["locations"])
-    print(f"✓ docs/products.json  — {total_products} products across {len(prices['locations'])} locations")
+    print(f"✓ docs/products.json       — {total_products} products across {len(prices['locations'])} locations")
 
-    # 2. inventory JSON
+    # 2. inventory snapshot JSON
     inv = build_inventory_json(machines, updated)
     atomic_write("docs/inventory.json", json.dumps(inv, indent=2))
     total_skus = sum(m["total_skus"] for m in inv["machines"])
     low_total  = sum(m["low_stock"]  for m in inv["machines"])
-    print(f"✓ docs/inventory.json — {total_skus} SKU-slots across {len(inv['machines'])} machines"
+    print(f"✓ docs/inventory.json      — {total_skus} SKU-slots across {len(inv['machines'])} machines"
           f"  ({low_total} low-stock)")
 
-    # 3. inventory CSV
+    # 3. inventory snapshot CSV (current state, overwrites)
     csv_data = build_inventory_csv(machines, updated)
     atomic_write("docs/inventory.csv", csv_data)
     rows = csv_data.count("\n") - 1
-    print(f"✓ docs/inventory.csv  — {rows} rows")
+    print(f"✓ docs/inventory.csv       — {rows} rows (current snapshot)")
+
+    # 4. history CSV (append-only, only changed rows)
+    n_changes = append_stock_changes(machines, prev_stocks, updated, "docs/inventory_history.csv")
+    if prev_stocks:
+        print(f"✓ docs/inventory_history.csv — {n_changes} stock change(s) logged")
+    else:
+        print(f"✓ docs/inventory_history.csv — first run, no previous snapshot to diff")
 
     # Summary by machine
     print()

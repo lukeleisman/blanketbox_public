@@ -1,0 +1,37 @@
+name: Refresh Prices
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # every 30 minutes
+  workflow_dispatch:           # allow manual trigger from Actions tab
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write          # needed to push products.json back to the repo
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - run: pip install requests
+
+      - name: Fetch prices from Sandstar OPS
+        env:
+          SANDSTAR_USERNAME: ${{ secrets.SANDSTAR_USERNAME }}
+          SANDSTAR_PASSWORD_HASH: ${{ secrets.SANDSTAR_PASSWORD_HASH }}
+        run: python ops_scraper.py
+
+      - name: Commit updated products.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/products.json
+          git diff --staged --quiet && echo "No changes to commit." && exit 0
+          git commit -m "chore: refresh prices $(date -u +%H:%M)"
+          git push

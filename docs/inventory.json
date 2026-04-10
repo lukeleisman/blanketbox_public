@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T22:38:34Z",
+  "updated": "2026-04-10T23:36:11Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2085,11 +2085,11 @@
           "name": "Chobani vanilla",
           "price": 2.49,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177241491063878.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-04-09 18:44:10"
+          "stock_updated": "2026-04-10 17:42:03"
         },
         {
           "skuid": "S0B246944DEAE1000",
@@ -2169,11 +2169,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 5,
+          "stock": 2,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 29,
           "stock_warning": 0,
-          "stock_updated": "2026-04-09 11:43:00"
+          "stock_updated": "2026-04-10 18:30:19"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2397,11 +2397,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-04-08 21:47:23"
+          "stock_updated": "2026-04-10 17:42:03"
         },
         {
           "skuid": "S0B2BC10A038C1008",

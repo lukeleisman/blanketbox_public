@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T19:44:39Z",
+  "updated": "2026-04-10T20:38:40Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1544,11 +1544,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 2.97,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 11,
-          "fill_pct": 36,
+          "fill_pct": 27,
           "stock_warning": 0,
-          "stock_updated": "2026-04-07 00:10:57"
+          "stock_updated": "2026-04-10 14:45:10"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1916,11 +1916,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 13,
-          "fill_pct": 23,
+          "fill_pct": 15,
           "stock_warning": 0,
-          "stock_updated": "2026-04-08 22:58:02"
+          "stock_updated": "2026-04-10 14:45:10"
         },
         {
           "skuid": "S0B2D48452F7E1005",

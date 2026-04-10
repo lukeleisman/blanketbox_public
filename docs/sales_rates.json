@@ -1,0 +1,4478 @@
+{
+  "computed": "2026-04-10T13:47:42.001105",
+  "rates": [
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "3 Musketeers",
+      "barcode": "040000422082",
+      "daily_rate": 0.2,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Advil 10 pack",
+      "barcode": "305730151108",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Banana Boat Sport Ultra 30 SPF 1oz",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Bausch + Lomb Renu Multi Purpose Contact Solution",
+      "barcode": "1011903954",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Bear Naked Vanilla Granola",
+      "barcode": "F0B2C18F46F081000",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Beef Liver Dog Treats",
+      "barcode": "850076106010",
+      "daily_rate": 0.0622,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 5
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Betterway Toilet Paper Roll",
+      "barcode": "860002564531",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Blistex Lip Balm",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Brooklyn Bean Coffee - Bridge Blend",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Buldak Spicy Ramen",
+      "barcode": "8801073211506",
+      "daily_rate": 0.1,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Burt's Bees Original Lip Balm",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Cascade Platinum",
+      "barcode": "037000807049",
+      "daily_rate": 0.0089,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Cliff  Chocolate Chip Protein Bar",
+      "barcode": "643843713944",
+      "daily_rate": 0.1378,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 4
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Clorox Wipes Lemon Scent",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Colgate optic white toothpaste",
+      "barcode": "F0B2C18F96E511004",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Crest Scope Minibrush",
+      "barcode": "728947000128",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Crunchy Peanut Butter Cliff Bar",
+      "barcode": "2225210120",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Cup noodles chicken",
+      "barcode": "7066203003",
+      "daily_rate": 0.0956,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 8
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Dawn Ultra 22 oz EZ Squeeze",
+      "barcode": "030772002087",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Deluxe Journal with Pen",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Dial Foaming Antibacterial and Moisturizing Handwash",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Dove Advance Care",
+      "barcode": "F0B2BACA802B71009",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Dove Dark Chocolate",
+      "barcode": "F0B26A521553D1002",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Dove Men Care",
+      "barcode": "F0B2BACA608A3100A",
+      "daily_rate": 0.0089,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Drawstring Medium Trash Bags",
+      "barcode": "01370032664",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Energizer AAA Batteries",
+      "barcode": "039800099099",
+      "daily_rate": 0.0089,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Gatorade Glacier Cherry",
+      "barcode": "520010247",
+      "daily_rate": 0.0633,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 3
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Hefty Ultra Strong Scent Free 40 Bags",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Icebreakers IceCubes Peppermint",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "JNJ first aid",
+      "barcode": "F0B2C19076DF51003",
+      "daily_rate": 0.0244,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Kleenex Tissues on the Go",
+      "barcode": "036000123234",
+      "daily_rate": 0.0089,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Lane Linen Towel",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "M&M'S, Peanut Milk Chocolate Candy",
+      "barcode": "006ckhkp04",
+      "daily_rate": 0.22,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 9
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "M&M\u2019s Milk Chocolate",
+      "barcode": "04003100",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Memory Game",
+      "barcode": "F0B29439727A41003",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Method foaming hand soap - sweet water",
+      "barcode": "81793900361",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Mochi Gummies Sour Watermellon",
+      "barcode": "F0B271C157A6E1005",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Mrs. Thinsters Chocolate Chip Cookies",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Nature's Bakery - Raspberry Fig Bar",
+      "barcode": "047495013054",
+      "daily_rate": 0.0289,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Natures Bakery blueberry fig bat",
+      "barcode": "047495112900",
+      "daily_rate": 0.0789,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Neck Fan Portable 3 Speed, Rechargeable",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Nonni\u2019s Chocolate Biscotti",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "NutellaGo",
+      "barcode": "0980080005",
+      "daily_rate": 0.0444,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Oreo Cookies-Sleeve Pack",
+      "barcode": "044000047009",
+      "daily_rate": 0.1622,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 8
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Pesto Rustic Basil",
+      "barcode": "076808007879",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Promarx Retractable Pen",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Rumbo Lenta Lavorazione Pasta",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Skittles Original Candy",
+      "barcode": "040000001607",
+      "daily_rate": 0.0089,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Sloosh Beach Balls",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Snickers Candy Bar",
+      "barcode": "040000424314",
+      "daily_rate": 0.2178,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Soft Soap Antibacterial White Tea & Berry",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Softsoap Antibacterial Kitchen Fresh Hands Scent",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Sour Patch Kids Watermelon",
+      "barcode": "F0B273E97D6C21009",
+      "daily_rate": 0.0178,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 4
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Sour Skittles",
+      "barcode": "402660",
+      "daily_rate": 0.0133,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 3
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Spicy Ramen Original",
+      "barcode": "F0B273E91EFC61001",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Starbucks Ground Coffee Breakfast Blend 12 oz",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Starburst Fave Reds",
+      "barcode": "040000009702",
+      "daily_rate": 0.0333,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 3
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Starburst original",
+      "barcode": "400000051",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Tampax Regular 10ct",
+      "barcode": "",
+      "daily_rate": 0.0333,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Thinster Brownie Batter",
+      "barcode": "0840515100020",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Tide Pods",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Trident Spearmint 20 pieces",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Tums Antacid Smoothies Assorted 12 ct",
+      "barcode": "307660740605",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Twix Candy Bar",
+      "barcode": "04043506",
+      "daily_rate": 0.3111,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Tylenol 10 Pack",
+      "barcode": "300450449153",
+      "daily_rate": 0.0244,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Visine Red Eye Hydrating Comfort .28 fl oz",
+      "barcode": "5570811968",
+      "daily_rate": 0.0089,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "Wine Aerators",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Ambient",
+      "product_name": "betterway toilet paper roll",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Bare Coconut Chips",
+      "barcode": "013971003413",
+      "daily_rate": 0.06,
+      "confidence": "low",
+      "total_sold_30d": 2,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Bubblr twisted elixir",
+      "barcode": "02843539923",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Celsius Grape",
+      "barcode": "8939200091",
+      "daily_rate": 0.1289,
+      "confidence": "medium",
+      "total_sold_30d": 5,
+      "total_sold_90d": 5
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Celsius Kiwi Guava",
+      "barcode": "889392010145",
+      "daily_rate": 0.1967,
+      "confidence": "medium",
+      "total_sold_30d": 7,
+      "total_sold_90d": 10
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Celsius Sparkling Orange",
+      "barcode": "8939200031",
+      "daily_rate": 0.0544,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Celsius Watermelon",
+      "barcode": "8939200362",
+      "daily_rate": 0.0533,
+      "confidence": "low",
+      "total_sold_30d": 2,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Celsius Wild Berry",
+      "barcode": "8939200032",
+      "daily_rate": 0.0089,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Cheez-It 1.5 oz",
+      "barcode": "2410012261",
+      "daily_rate": 0.1367,
+      "confidence": "low",
+      "total_sold_30d": 4,
+      "total_sold_90d": 13
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Chobani 20g",
+      "barcode": "818290015167",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Chobani Protein",
+      "barcode": "818290017734",
+      "daily_rate": 0.0467,
+      "confidence": "low",
+      "total_sold_30d": 2,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Chobani Protein Strawberries & Cream",
+      "barcode": "818290017710",
+      "daily_rate": 0.0533,
+      "confidence": "low",
+      "total_sold_30d": 2,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Chobani cherry berry",
+      "barcode": "818290012395",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Chobani vanilla",
+      "barcode": "818290015150",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Cliff  Chocolate Chip Protein Bar",
+      "barcode": "643843713944",
+      "daily_rate": 0.1733,
+      "confidence": "medium",
+      "total_sold_30d": 6,
+      "total_sold_90d": 10
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Coca-Cola 12oz can",
+      "barcode": "04963406",
+      "daily_rate": 0.0633,
+      "confidence": "low",
+      "total_sold_30d": 2,
+      "total_sold_90d": 5
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Diet Coke 12oz can",
+      "barcode": "04965802",
+      "daily_rate": 0.2911,
+      "confidence": "high",
+      "total_sold_30d": 10,
+      "total_sold_90d": 11
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Dove Dark Chocolate",
+      "barcode": "F0B26A521553D1002",
+      "daily_rate": 0.0089,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Fair Life Core Power 26g Vanilla Protein Shake",
+      "barcode": "1162002196",
+      "daily_rate": 0.1067,
+      "confidence": "low",
+      "total_sold_30d": 4,
+      "total_sold_90d": 4
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Fairlife Core Power - Strawberry (26g Complete Protein)",
+      "barcode": "1162002198",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Fairlife Core Power Chocolate 26g",
+      "barcode": "811620022002",
+      "daily_rate": 0.2956,
+      "confidence": "high",
+      "total_sold_30d": 10,
+      "total_sold_90d": 13
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Fiji 500ML",
+      "barcode": "632565000012",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Gatorade Fruit Punch",
+      "barcode": "052000328660",
+      "daily_rate": 0.1911,
+      "confidence": "medium",
+      "total_sold_30d": 7,
+      "total_sold_90d": 9
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Gatorade Glacier Cherry",
+      "barcode": "520010247",
+      "daily_rate": 0.0767,
+      "confidence": "low",
+      "total_sold_30d": 3,
+      "total_sold_90d": 4
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Gatorade Lemon Lime",
+      "barcode": "052000328684",
+      "daily_rate": 0.0311,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Gatorade_Cool_Blue",
+      "barcode": "052000324815",
+      "daily_rate": 0.2222,
+      "confidence": "medium",
+      "total_sold_30d": 9,
+      "total_sold_90d": 11
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "IQ Bar Chocolate Sea Salt",
+      "barcode": "850004554029",
+      "daily_rate": 0.08,
+      "confidence": "low",
+      "total_sold_30d": 3,
+      "total_sold_90d": 3
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "JNJ first aid",
+      "barcode": "F0B2C19076DF51003",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "La Colombe Draft Latte Vanilla",
+      "barcode": "0491300019",
+      "daily_rate": 0.1567,
+      "confidence": "medium",
+      "total_sold_30d": 6,
+      "total_sold_90d": 9
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "M&M'S, Peanut Milk Chocolate Candy",
+      "barcode": "006ckhkp04",
+      "daily_rate": 0.1667,
+      "confidence": "medium",
+      "total_sold_30d": 5,
+      "total_sold_90d": 7
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Monster Energy",
+      "barcode": "070847811169",
+      "daily_rate": 0.1033,
+      "confidence": "low",
+      "total_sold_30d": 4,
+      "total_sold_90d": 5
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Monster Energy Zerosugar",
+      "barcode": "070847012474",
+      "daily_rate": 0.15,
+      "confidence": "medium",
+      "total_sold_30d": 5,
+      "total_sold_90d": 14
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Nature's Bakery - Raspberry Fig Bar",
+      "barcode": "047495013054",
+      "daily_rate": 0.0333,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 3
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Natures Bakery blueberry fig bat",
+      "barcode": "047495112900",
+      "daily_rate": 0.1467,
+      "confidence": "medium",
+      "total_sold_30d": 6,
+      "total_sold_90d": 7
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Oikos Peach Protein",
+      "barcode": "8056042042852",
+      "daily_rate": 0.0667,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Oreo Cookies-Sleeve Pack",
+      "barcode": "044000047009",
+      "daily_rate": 0.1589,
+      "confidence": "medium",
+      "total_sold_30d": 5,
+      "total_sold_90d": 10
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Pop Secret popcorn",
+      "barcode": "F0B2BAC9D24491000",
+      "daily_rate": 0.0889,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Recess ras-lime",
+      "barcode": "850019179743",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Recess strawberry rose",
+      "barcode": "F0B2C858213931002",
+      "daily_rate": 0.1233,
+      "confidence": "medium",
+      "total_sold_30d": 5,
+      "total_sold_90d": 6
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Rice Krispies Treats Original",
+      "barcode": "038000765414",
+      "daily_rate": 0.14,
+      "confidence": "low",
+      "total_sold_30d": 4,
+      "total_sold_90d": 4
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "S. Pellegrino Blood Orange 11.15oz",
+      "barcode": "041508992688",
+      "daily_rate": 0.0833,
+      "confidence": "low",
+      "total_sold_30d": 3,
+      "total_sold_90d": 4
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "San Pellegrino Aranciata",
+      "barcode": "041508235785",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "San Pelligrino Pomegranate and Orange",
+      "barcode": "0041508659376",
+      "daily_rate": 0.0089,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Snickers Candy Bar",
+      "barcode": "040000424314",
+      "daily_rate": 0.2644,
+      "confidence": "medium",
+      "total_sold_30d": 9,
+      "total_sold_90d": 13
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Snyder's Mini Pretzels",
+      "barcode": "077975082102",
+      "daily_rate": 0.0567,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Sour Patch Kids Box",
+      "barcode": "070462098358",
+      "daily_rate": 0.08,
+      "confidence": "low",
+      "total_sold_30d": 3,
+      "total_sold_90d": 3
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "Twix Candy Bar",
+      "barcode": "04043506",
+      "daily_rate": 0.3178,
+      "confidence": "high",
+      "total_sold_30d": 11,
+      "total_sold_90d": 11
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "V8 Energy Pomegranate Blueberry",
+      "barcode": "051000196217",
+      "daily_rate": 0.08,
+      "confidence": "low",
+      "total_sold_30d": 3,
+      "total_sold_90d": 3
+    },
+    {
+      "machine": "333 North Broad Cooler",
+      "product_name": "V8 Splash Berry BLEND",
+      "barcode": "5100014653",
+      "daily_rate": 0.03,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Animal Finger Puppets",
+      "barcode": "F0B263F6DB2C81005",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Bazic Memo Book",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Blistex Lip Balm",
+      "barcode": "041388220611",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Burt's Bees Original Lip Balm",
+      "barcode": "792850155992",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Carmex Lip Balm",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Clarke D Tin Whistle",
+      "barcode": "5060122441056",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Clarke Tin Whistle",
+      "barcode": "5060122441056",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Clif Bar - Oatmeal Raisin Walnut",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Clif Bar Chocolate Brownie",
+      "barcode": "722252101808",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Crayola Crayons",
+      "barcode": "071662000240",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Curad First Aid Pack",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "D'Addario EJ69 Banjo Strings",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "D'Addario Eclipse Tuner",
+      "barcode": "1995419158",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "D'Addario Mandolin EJ73 String Set",
+      "barcode": "1995491071",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "D'Addario Pro Winder",
+      "barcode": "019954926809",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "D'addario EJ16 Guitar String Set",
+      "barcode": "1995412114",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Deluxe Journal with Pen",
+      "barcode": "826635333364",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Disneyland Sticker & Activity Book",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Dominant A, D, G Violin String Set",
+      "barcode": "003918101532",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Dunlop Maraca Shaker Egg",
+      "barcode": "10137017772",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Energizer 123 Lithium",
+      "barcode": "039800082725",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Energizer 2032 Battery",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Energizer 9V_2 Battery (2 pack)",
+      "barcode": "3980003678",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Energizer AA Batteries",
+      "barcode": "039800011329",
+      "daily_rate": 0.03,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Energizer AAA Batteries",
+      "barcode": "039800099099",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Energizer CR2 Lithium Battery 2 pack",
+      "barcode": "3980002297",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Gen Tek USB Wall Charger",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Gen Tek USB-C Cable",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Gold Bond Healing Cream",
+      "barcode": "024291293897",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Gorilla Snot Pick Grip",
+      "barcode": "5389093001",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Halls Cough Drops - Honey Lemon",
+      "barcode": "",
+      "daily_rate": 0.0333,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Handy Solutions Wipes",
+      "barcode": "024291293699",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Hindersine 3V Rosin",
+      "barcode": "5036678003260",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Hohner",
+      "barcode": "F0B23D477A6CA1001",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Hohner Kazoo",
+      "barcode": "F0B23D47534341008",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Hohner Kazoo Green",
+      "barcode": "F0B25AF9E30E0100B",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Hohner Kazoo Yellow",
+      "barcode": "F0B25AF9C75B81006",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Hohner Kazoo purple",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Horner Kazoo",
+      "barcode": "F0B24D6D673AD1000",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "HotHands Hand Warmers",
+      "barcode": "9473307589",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Jonas Friddle Hot Sauce",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Kleenex Tissues on the Go",
+      "barcode": "036000123234",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Kodama - 3D Tree Spirit",
+      "barcode": "F0B25B432DDA71006",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Kyser BMU Banjo/Mando Capo",
+      "barcode": "0926501410",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Kyser Quick-Change",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Magnetic Fidget Sphere",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Magnetic People",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Narcan",
+      "barcode": "6954762700",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Nestle Pure Life Water",
+      "barcode": "06827465",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Pirastro violin E string",
+      "barcode": "016710105122",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Promarx Retractable Pen",
+      "barcode": "087508114538",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Purell Hand Sanitizer",
+      "barcode": "073852292237",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Rubber Chicken",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Shrimp Scalpi Head Massager",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Stay free Maxi Pads",
+      "barcode": "078300070320",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Sun Flower Hand Held Folding Fan",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Tampax Regular 10ct",
+      "barcode": "073010214095",
+      "daily_rate": 0.0333,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Tater Tats Temporary Tattoos (8 pack)",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Tide To Go Stick",
+      "barcode": "037000018704",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "BorellisBox",
+      "product_name": "Trim Nail Clipper",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Absolutely Cool Water Spray Fan",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Advil 10 pack",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Animal Finger Puppets",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Banana Boat Sport Ultra 30 SPF 1oz",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Blistex Lip Balm",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Carmex Lip Balm",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Coppertone Sport 30 (7oz)",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Coppertone Water Babies Spray 50 SPF",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Cozy Soft Polar Fleece Throw",
+      "barcode": "086553146068",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Expressions Clasp Free Hair Elastics",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Hagon Pro Rain Poncho",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Hot Wheels Car Cadillac Hypercar",
+      "barcode": "027084120134",
+      "daily_rate": 0.0089,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Huggies Little Swimmers Swim Diapers",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "IcyHot Original Cream Pain Relief 3oz",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Kleenex Tissues on the Go",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Mattel Uno Card Game",
+      "barcode": "F0B22ECBC02F0100A",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Nerf 5\" Foam Basketball",
+      "barcode": "F0B270973FC07100A",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Nerf 5\" Foam Football",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Nerf 5\" Foam Soccer Ball",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Nerf Vortex Aero Howler Football",
+      "barcode": "025725582853",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Nerf Vortex Ultra Grip Football",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Neutrogena Beach Defense 70 Lotion",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Neutrogena Ultra Sheer Body Mist Sunscreen",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Off! FamilyCare Insert Repellent",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Paw Patrol Jumbo Coloring Book",
+      "barcode": "9781690260646",
+      "daily_rate": 0.0133,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 3
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Penn Championship Tennis Balls 3 pack",
+      "barcode": "072489010016",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "PlayDay Water Blaster Squirt Gun",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Propel Fitness Water Mix Packets - 10 pk- Kiwi Strawberry",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Purell Hand Sanitizer",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Purina Beggin' Dog Treats Bratwurst & Bacon 6oz",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Rubber Chicken",
+      "barcode": "F0B239FFE14991002",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Skip-Bo Card Game",
+      "barcode": "6919030201292",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Soft Flannel Zig Zag Throw",
+      "barcode": "086553148758",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Stay free Maxi Pads",
+      "barcode": "078300070320",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Sun Flower Hand Held Folding Fan",
+      "barcode": "F0B2716F0831E100A",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Swim Goggles Adult",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Tylenol 10 Pack",
+      "barcode": "300450449153",
+      "daily_rate": 0.0289,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Weather Zone Umbrella",
+      "barcode": "082815004213",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "Wonder Nation no show Socks 3 pack",
+      "barcode": "730838901124",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "YONEX AS-30 Badminton Feather Shuttlecocks 12 pack",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab1",
+      "product_name": "play day Bubble Blast Solution",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Absolutely Cool Water Spray Fan",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Advil 10 pack",
+      "barcode": "305730151108",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Burt's Bees Original Lip Balm",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "CRBN Pickleball Paddle Eraser",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Carmex Lip Balm",
+      "barcode": "083078113148",
+      "daily_rate": 0.0089,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Crayola Crayons",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Curad First Aid Pack",
+      "barcode": "193489016393",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Degree Deodorant",
+      "barcode": "024291276463",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Franklin X-40 Pickleballs 3 pack",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Gatorade Zero Powder Packets Glacial Freeze 10 pk",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Gen Tek USB Lightning Cable",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Gen Tek USB-C Cable",
+      "barcode": "789949230319",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Hagon Pro Rain Poncho",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Halls Cough Drops - Honey Lemon",
+      "barcode": "312546628724",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "HotHands Hand Warmers",
+      "barcode": "9473307589",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Hustle Clean Body Wipe",
+      "barcode": "859992003021",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "IcyHot Original Cream Pain Relief 3oz",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Mega Tac Pickleball Overgrip 2 pack",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Nerf 5\" Foam Football",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Nerf Vortex Ultra Grip Football",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Off! FamilyCare Insert Repellent",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Penn Championship Tennis Balls 3 pack",
+      "barcode": "072489010016",
+      "daily_rate": 0.0333,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Performance Gummies Power Up",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Performance Gummies Recover",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Propel Fitness Water Mix Packets - 10 pk- Kiwi Strawberry",
+      "barcode": "052000010886",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Secret Powder Fresh Deodorant",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Stay free Maxi Pads",
+      "barcode": "078300070320",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Sun Flower Hand Held Folding Fan",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Tampax Regular 10ct",
+      "barcode": "073010214095",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Tylenol 10 Pack",
+      "barcode": "300450449153",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "Weather Zone Umbrella",
+      "barcode": "",
+      "daily_rate": 0.0333,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "ChicagoDryCab2-Warren",
+      "product_name": "play day Bubble Blast Solution",
+      "barcode": "6952192723332",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "AMG Energy Bites Strawberry Vanilla",
+      "barcode": "860001992922",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "AMG Snacks Energy Bites Espresso",
+      "barcode": "860001992939",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Advil 10 pack",
+      "barcode": "305730151108",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Apple & Eve Apple Juice",
+      "barcode": "6019401590052",
+      "daily_rate": 0.0222,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 5
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Apple & Eve berry medley",
+      "barcode": "6019401590106",
+      "daily_rate": 0.0267,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 6
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Apple & Eve fruit punch",
+      "barcode": "12124145",
+      "daily_rate": 0.0178,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 4
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Apple Jacks Cereal",
+      "barcode": "F0B2C6B35D1081000",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Arizona Arnold Palmer Lite Half & Half Iced Tea Lemonade",
+      "barcode": "1300872591",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Bang Energy Blue Razz",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Bang Energy Peach Mango",
+      "barcode": "1076486381",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Bang Energy Purple Haze",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Bare Coconut Chips",
+      "barcode": "013971003413",
+      "daily_rate": 0.0733,
+      "confidence": "low",
+      "total_sold_30d": 3,
+      "total_sold_90d": 3
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Bausch + Lomb Renu Multi Purpose Contact Solution",
+      "barcode": "1011903954",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Betterway Toilet Paper Roll",
+      "barcode": "860002564531",
+      "daily_rate": 0.0089,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Buldak Spicy Ramen",
+      "barcode": "8801073211506",
+      "daily_rate": 0.09,
+      "confidence": "low",
+      "total_sold_30d": 3,
+      "total_sold_90d": 6
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "CELSIUS 12oz",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "COCA-COLA",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Camera Violation",
+      "barcode": "666",
+      "daily_rate": 0.03,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Cascade Platinum",
+      "barcode": "037000807049",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Celsius Cherry Cola",
+      "barcode": "88939200170",
+      "daily_rate": 0.1167,
+      "confidence": "low",
+      "total_sold_30d": 2,
+      "total_sold_90d": 19
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Celsius Grape",
+      "barcode": "8939200091",
+      "daily_rate": 0.0844,
+      "confidence": "low",
+      "total_sold_30d": 2,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Celsius Kiwi Guava",
+      "barcode": "",
+      "daily_rate": 0.2333,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Celsius Kiwi Guava 12oz",
+      "barcode": "8939201014",
+      "daily_rate": 0.0633,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 12
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Celsius Peach Vibes",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Celsius Sparkling Orange",
+      "barcode": "8939200031",
+      "daily_rate": 0.1033,
+      "confidence": "low",
+      "total_sold_30d": 3,
+      "total_sold_90d": 12
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Celsius Tropical Vibe",
+      "barcode": "00889392021394",
+      "daily_rate": 0.0222,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 5
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Celsius Watermelon",
+      "barcode": "8939200362",
+      "daily_rate": 0.0667,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Cheez-It 1.5 oz",
+      "barcode": "2410012261",
+      "daily_rate": 0.0844,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Chips Ahoy Original Chocolate Chip Cookies",
+      "barcode": "4400004314",
+      "daily_rate": 0.0178,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 4
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Clorox Wipes Lemon Scent",
+      "barcode": "F0B239C6DAB1D1003",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Coca-Cola Original Taste",
+      "barcode": "049000053418",
+      "daily_rate": 0.3933,
+      "confidence": "medium",
+      "total_sold_30d": 8,
+      "total_sold_90d": 62
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Colgate Wisp",
+      "barcode": "0350000680761",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Corn Pops Cereal",
+      "barcode": "F0B2C6B34663C1007",
+      "daily_rate": 0.0089,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Crest Scope Minibrush",
+      "barcode": "728947000128",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Cup noodles chicken",
+      "barcode": "7066203003",
+      "daily_rate": 0.0833,
+      "confidence": "low",
+      "total_sold_30d": 3,
+      "total_sold_90d": 4
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Dawn Ultra 22 oz EZ Squeeze",
+      "barcode": "030772002087",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Deer park water",
+      "barcode": "082657500638",
+      "daily_rate": 0.3533,
+      "confidence": "high",
+      "total_sold_30d": 12,
+      "total_sold_90d": 15
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Diet Coke 12oz can",
+      "barcode": "04965802",
+      "daily_rate": 0.2878,
+      "confidence": "medium",
+      "total_sold_30d": 8,
+      "total_sold_90d": 27
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Diet Pepsi",
+      "barcode": "012000171956",
+      "daily_rate": 0.1067,
+      "confidence": "low",
+      "total_sold_30d": 4,
+      "total_sold_90d": 4
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Dove Dark Chocolate",
+      "barcode": "F0B26A521553D1002",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Drawstring Medium Trash Bags",
+      "barcode": "01370032664",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Everyone Nourishing Lotion",
+      "barcode": "636874226514",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Fairlife Chocolate Protein 30g",
+      "barcode": "1162002211",
+      "daily_rate": 0.0422,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 5
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Fairlife Core Power Chocolate 26g",
+      "barcode": "811620022002",
+      "daily_rate": 0.1356,
+      "confidence": "medium",
+      "total_sold_30d": 5,
+      "total_sold_90d": 5
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Fiji 500ML",
+      "barcode": "632565000012",
+      "daily_rate": 0.0444,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 10
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Frosted Flakes cereal",
+      "barcode": "F0B2C6BBCDF7C1004",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Gatorade Fruit Punch",
+      "barcode": "052000328660",
+      "daily_rate": 0.3378,
+      "confidence": "high",
+      "total_sold_30d": 10,
+      "total_sold_90d": 32
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Gatorade Glacier Cherry",
+      "barcode": "520010247",
+      "daily_rate": 0.07,
+      "confidence": "low",
+      "total_sold_30d": 2,
+      "total_sold_90d": 5
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Gatorade Lemon Lime",
+      "barcode": "052000328684",
+      "daily_rate": 0.0711,
+      "confidence": "low",
+      "total_sold_30d": 2,
+      "total_sold_90d": 10
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Gatorade_Cool_Blue",
+      "barcode": "052000324815",
+      "daily_rate": 0.1956,
+      "confidence": "medium",
+      "total_sold_30d": 5,
+      "total_sold_90d": 23
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Gen Tek USB Wall Charger",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "General Med First Aid",
+      "barcode": "F0B2BACA081481008",
+      "daily_rate": 0.0089,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Gold Bond Healing Cream",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Health -Ade",
+      "barcode": "851861006119",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Icebreakers IceCubes Peppermint",
+      "barcode": "348430",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Just Ice Tea Peach Oolong 16oz",
+      "barcode": "195372325155",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Kind Bar Dark Chocolate Nuts Sea Salt",
+      "barcode": "602652257919",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "La Colombe Draft Latte Caramel",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "La Colombe Draft Latte Mocha",
+      "barcode": "0491300013",
+      "daily_rate": 0.04,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 5
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "La Colombe Draft Latte Vanilla",
+      "barcode": "0491300019",
+      "daily_rate": 0.09,
+      "confidence": "low",
+      "total_sold_30d": 2,
+      "total_sold_90d": 5
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "M&M Peanut",
+      "barcode": "04003207",
+      "daily_rate": 0.3711,
+      "confidence": "high",
+      "total_sold_30d": 11,
+      "total_sold_90d": 35
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Milano",
+      "barcode": "014100043706",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Mochi Gummies Sour Watermellon",
+      "barcode": "F0B271C157A6E1005",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Monster Energy",
+      "barcode": "070847811169",
+      "daily_rate": 0.0933,
+      "confidence": "low",
+      "total_sold_30d": 3,
+      "total_sold_90d": 5
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Monster Energy Zerosugar",
+      "barcode": "070847012474",
+      "daily_rate": 0.0733,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 3
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Mrs. Thinsters Chocolate Chip Cookies",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "NO COW BAR CHOC FUDGE",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Naked Blue Machine 15.2oz Bottle",
+      "barcode": "082592727152",
+      "daily_rate": 0.18,
+      "confidence": "medium",
+      "total_sold_30d": 6,
+      "total_sold_90d": 12
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Naked Strawberry Banana 15.2oz",
+      "barcode": "082592194152",
+      "daily_rate": 0.09,
+      "confidence": "low",
+      "total_sold_30d": 3,
+      "total_sold_90d": 6
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Nature Valley Granola Bar",
+      "barcode": "016000264694",
+      "daily_rate": 0.0133,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 3
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Nature's Bakery - Raspberry Fig Bar",
+      "barcode": "047495013054",
+      "daily_rate": 0.0422,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 5
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Natures Bakery blueberry fig bat",
+      "barcode": "047495112900",
+      "daily_rate": 0.0633,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Nestle Pure Life Water",
+      "barcode": "06827465",
+      "daily_rate": 0.1244,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 28
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Neutrogena Beach Defense spf 50",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Neutrogena Make-up Remover 7 Plant-Based Towelettes",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Neutrogena Ultra Sheer Body Mist Sunscreen",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Nonni\u2019s Chocolate Biscotti",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "NutellaGo",
+      "barcode": "0980080005",
+      "daily_rate": 0.1267,
+      "confidence": "low",
+      "total_sold_30d": 2,
+      "total_sold_90d": 24
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "OKF Red Smoothie",
+      "barcode": "884394007872",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Oikos Peach Protein",
+      "barcode": "8056042042852",
+      "daily_rate": 0.1667,
+      "confidence": "medium",
+      "total_sold_30d": 7,
+      "total_sold_90d": 7
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Oreo Cookies-Sleeve Pack",
+      "barcode": "044000047009",
+      "daily_rate": 0.4489,
+      "confidence": "medium",
+      "total_sold_30d": 9,
+      "total_sold_90d": 77
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Oreo King Size",
+      "barcode": "044000082086",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "O\u00edkos Pro",
+      "barcode": "036632042842",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Pepsi 12oz",
+      "barcode": "01201303",
+      "daily_rate": 0.08,
+      "confidence": "low",
+      "total_sold_30d": 2,
+      "total_sold_90d": 10
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Pepsi Diet 12oz Can",
+      "barcode": "01280504",
+      "daily_rate": 0.0289,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Playa bowls",
+      "barcode": "F0B2C4C2272311009",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Pop Secret popcorn",
+      "barcode": "F0B2BAC9D24491000",
+      "daily_rate": 0.15,
+      "confidence": "medium",
+      "total_sold_30d": 5,
+      "total_sold_90d": 12
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Propel Berry 20 Oz",
+      "barcode": "052000001693",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Propel kiwi strawberry",
+      "barcode": "052000001716",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Pure Fuel Limitless Lemonade",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "RED BULL SUGAR FREE",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Red Bull",
+      "barcode": "611269991000",
+      "daily_rate": 0.0311,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 7
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Red Bull Sugar Free",
+      "barcode": "611269101713",
+      "daily_rate": 0.06,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 11
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Rice Krispies Treats Original",
+      "barcode": "038000765414",
+      "daily_rate": 0.2233,
+      "confidence": "medium",
+      "total_sold_30d": 9,
+      "total_sold_90d": 9
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "SPINDRIFT SPARKLING WATER, LEMON",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "San Pellegrino Cherry and Lemon",
+      "barcode": "4150856661",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "San Pelligrino Pomegranate and Orange",
+      "barcode": "0041508659376",
+      "daily_rate": 0.0222,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 5
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "SanPellegrino Grapefruit",
+      "barcode": "4150819278",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Shale Snacks Pomegranate Vanilla Flavored Cashews",
+      "barcode": "893869003288",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Snickers Candy Bar",
+      "barcode": "040000424314",
+      "daily_rate": 0.3578,
+      "confidence": "high",
+      "total_sold_30d": 12,
+      "total_sold_90d": 17
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Snyder's Mini Pretzels",
+      "barcode": "077975082102",
+      "daily_rate": 0.1767,
+      "confidence": "medium",
+      "total_sold_30d": 5,
+      "total_sold_90d": 22
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Softsoap Antibacterial Kitchen Fresh Hands Scent",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Soylent Strawberry 11 fl. oz.",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Spicy Ramen Original",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Spindrift Blood Orange Tangerine",
+      "barcode": "5001714219",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Spindrift Lemon",
+      "barcode": "856579002750",
+      "daily_rate": 0.0089,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Spindrift Lime",
+      "barcode": "5657900280",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Starbucks Frappuccino Vanilla",
+      "barcode": "12000813313",
+      "daily_rate": 0.0667,
+      "confidence": "low",
+      "total_sold_30d": 2,
+      "total_sold_90d": 6
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Starburst Fave Reds",
+      "barcode": "040000009702",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Tampax Regular 10ct",
+      "barcode": "",
+      "daily_rate": 0.0333,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Thinster Brownie Batter",
+      "barcode": "0840515100020",
+      "daily_rate": 0.0178,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 4
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Thinsters Toasted Coconut Cookies",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Tide Pods",
+      "barcode": "037000955832",
+      "daily_rate": 0.0089,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Trim Nail Clipper",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Trip Peach Ginger",
+      "barcode": "1011968027",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Twix Candy Bar",
+      "barcode": "04043506",
+      "daily_rate": 0.6111,
+      "confidence": "high",
+      "total_sold_30d": 21,
+      "total_sold_90d": 23
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Tylenol 10 Pack",
+      "barcode": "300450449153",
+      "daily_rate": 0.0244,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "V8 Splash Tropical Blend",
+      "barcode": "5100014654",
+      "daily_rate": 0.04,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 9
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "V8 energy peach mango",
+      "barcode": "051000196200",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "VPX BANG STAR BLAST",
+      "barcode": "610764863652",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Visine Red Eye Hydrating Comfort .28 fl oz",
+      "barcode": "5570811968",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Vita Coco Coconut Water Organic",
+      "barcode": "898999011011",
+      "daily_rate": 0.0378,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 4
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Vita coconut water",
+      "barcode": "89899900002",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Wassup Watermelon  Gummy Candy",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "Wonderful Pistachios No Shells Roasted & Salted",
+      "barcode": "014113910712",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "PhillyTrueCooler",
+      "product_name": "betterway toilet paper roll",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "3 Musketeers",
+      "barcode": "040000422082",
+      "daily_rate": 0.17,
+      "confidence": "medium",
+      "total_sold_30d": 6,
+      "total_sold_90d": 9
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "AMG Energy Bites Strawberry Vanilla",
+      "barcode": "860001992922",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "AMG Snacks Energy Bites Espresso",
+      "barcode": "860001992939",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "AMG Snacks Energy Bites Lemon Coconut",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Animal Finger Puppets",
+      "barcode": "F0B263F6DB2C81005",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Apple & Eve Apple Juice",
+      "barcode": "6019401590052",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Apple & Eve fruit punch",
+      "barcode": "12124145",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Arizona Arnold Palmer Lite Half & Half Iced Tea Lemonade",
+      "barcode": "1300872591",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Bang Energy Blue Razz",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Barritts Ginger Beer 12 oz",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Beef Liver Dog Treats",
+      "barcode": "850076106010",
+      "daily_rate": 0.06,
+      "confidence": "low",
+      "total_sold_30d": 2,
+      "total_sold_90d": 4
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Buldak Spicy Ramen",
+      "barcode": "8801073211506",
+      "daily_rate": 0.0689,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "CELSIUS 12oz",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "COCA-COLA",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Camera Violation",
+      "barcode": "666",
+      "daily_rate": 0.0333,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Candy M&M Plain",
+      "barcode": "04043108",
+      "daily_rate": 0.0222,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 5
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Celsius Arctic Vibe",
+      "barcode": "8939202141",
+      "daily_rate": 0.0933,
+      "confidence": "low",
+      "total_sold_30d": 3,
+      "total_sold_90d": 7
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Celsius Cherry Cola",
+      "barcode": "88939200170",
+      "daily_rate": 0.1267,
+      "confidence": "low",
+      "total_sold_30d": 3,
+      "total_sold_90d": 19
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Celsius Grape",
+      "barcode": "8939200091",
+      "daily_rate": 0.1489,
+      "confidence": "medium",
+      "total_sold_30d": 6,
+      "total_sold_90d": 6
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Celsius Kiwi Guava 12oz",
+      "barcode": "8939201014",
+      "daily_rate": 0.0567,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 10
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Celsius Peach Vibes",
+      "barcode": "889392010190",
+      "daily_rate": 0.0267,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 6
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Celsius Sparkling Orange",
+      "barcode": "8939200031",
+      "daily_rate": 0.0933,
+      "confidence": "low",
+      "total_sold_30d": 2,
+      "total_sold_90d": 12
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Celsius Tropical Vibes",
+      "barcode": "889392021394",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Celsius Watermelon",
+      "barcode": "8939200362",
+      "daily_rate": 0.0622,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 5
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Celsius Wild Berry",
+      "barcode": "8939200032",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Cheez It Original",
+      "barcode": "024100123223",
+      "daily_rate": 0.1067,
+      "confidence": "low",
+      "total_sold_30d": 4,
+      "total_sold_90d": 4
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Chobani Black Cherry",
+      "barcode": "F0B2C6BA19DA7100B",
+      "daily_rate": 0.0222,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 5
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Chobani Blueberry Greek Yogurt",
+      "barcode": "894700010052",
+      "daily_rate": 0.0533,
+      "confidence": "low",
+      "total_sold_30d": 2,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Chobani Protein",
+      "barcode": "818290017734",
+      "daily_rate": 0.0333,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Chobani Strawberry",
+      "barcode": "9470001004",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Chobani cherry berry",
+      "barcode": "818290012395",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Chobani vanilla",
+      "barcode": "818290015150",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Clif Bar Chocolate Chip",
+      "barcode": "722252100900",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Clif Bar Crunchy Peanut Butter",
+      "barcode": "722252101204",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Coca-Cola 12oz can",
+      "barcode": "04963406",
+      "daily_rate": 0.0633,
+      "confidence": "low",
+      "total_sold_30d": 2,
+      "total_sold_90d": 5
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Cocoa Krisp cereal",
+      "barcode": "F0B2C6BB0DE621004",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Colgate optic white toothpaste",
+      "barcode": "F0B2C18F96E511004",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Cup noodles chicken",
+      "barcode": "7066203003",
+      "daily_rate": 0.0689,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "DIET COKE",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Deer park water",
+      "barcode": "082657500638",
+      "daily_rate": 0.2444,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Diet Coke 12oz can",
+      "barcode": "04965802",
+      "daily_rate": 0.3556,
+      "confidence": "high",
+      "total_sold_30d": 11,
+      "total_sold_90d": 28
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Dove Dark Chocolate",
+      "barcode": "F0B26A521553D1002",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Fairlife Chocolate Protein 30g",
+      "barcode": "1162002211",
+      "daily_rate": 0.0633,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 12
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Fairlife Core Power Chocolate 26g",
+      "barcode": "811620022002",
+      "daily_rate": 0.0844,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Fiji 500ML",
+      "barcode": "632565000012",
+      "daily_rate": 0.0444,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 10
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Frosted Flakes cereal",
+      "barcode": "F0B2C6BBCDF7C1004",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Fruit Loops Cereal",
+      "barcode": "F0B2C6BC04A97100B",
+      "daily_rate": 0.0089,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Gatorade Fruit Punch",
+      "barcode": "052000328660",
+      "daily_rate": 0.1789,
+      "confidence": "low",
+      "total_sold_30d": 3,
+      "total_sold_90d": 18
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Gatorade Glacier Cherry",
+      "barcode": "520010247",
+      "daily_rate": 0.0722,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 5
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Gatorade Lemon Lime",
+      "barcode": "052000328684",
+      "daily_rate": 0.0411,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 4
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Gatorade_Cool_Blue",
+      "barcode": "052000324815",
+      "daily_rate": 0.1211,
+      "confidence": "low",
+      "total_sold_30d": 2,
+      "total_sold_90d": 9
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Goslings Ginger Beer",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Green Olives",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Hillshire Genoa Salame",
+      "barcode": "044500201819",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Hohner Kazoo",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "IQ Bar Chocolate Mint Chip",
+      "barcode": "850004554692",
+      "daily_rate": 0.0533,
+      "confidence": "low",
+      "total_sold_30d": 2,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Justin's Peanut Butter Cup, Dark Chocolate",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "La Colombe Draft Latte Caramel",
+      "barcode": "0491300092",
+      "daily_rate": 0.0089,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "La Colombe Draft Latte Mocha",
+      "barcode": "0491300013",
+      "daily_rate": 0.0333,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 3
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "La Colombe Draft Latte Vanilla",
+      "barcode": "0491300019",
+      "daily_rate": 0.1067,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 6
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "M&M'S, Peanut Milk Chocolate Candy",
+      "barcode": "006ckhkp04",
+      "daily_rate": 0.4022,
+      "confidence": "high",
+      "total_sold_30d": 13,
+      "total_sold_90d": 25
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Magnetic Fidget Sphere",
+      "barcode": "F0B263F734F7E100A",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Magnetic People",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Mochi Gummies Sour Watermellon",
+      "barcode": "F0B271C157A6E1005",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Monster Energy",
+      "barcode": "070847811169",
+      "daily_rate": 0.0744,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Monster Energy Zerosugar",
+      "barcode": "070847012474",
+      "daily_rate": 0.06,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 3
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Mrs. Thinsters Chocolate Chip Cookies",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "NO COW BAR CHOC FUDGE",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Naked Juice Mighty Mango 15.2oz Bottle",
+      "barcode": "082592660152",
+      "daily_rate": 0.06,
+      "confidence": "low",
+      "total_sold_30d": 2,
+      "total_sold_90d": 4
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Nature Valley Granola Bar",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Nature's Bakery - Raspberry Fig Bar",
+      "barcode": "047495013054",
+      "daily_rate": 0.0333,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Natures Bakery blueberry fig bat",
+      "barcode": "047495112900",
+      "daily_rate": 0.1167,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Nestle Pure Life Water",
+      "barcode": "06827465",
+      "daily_rate": 0.04,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 9
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "NutellaGo",
+      "barcode": "0980080005",
+      "daily_rate": 0.0489,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "OKF Red Smoothie",
+      "barcode": "884394007872",
+      "daily_rate": 0.0089,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Olli Snack Pack",
+      "barcode": "813039021454",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Oreo Cookies-Sleeve Pack",
+      "barcode": "044000047009",
+      "daily_rate": 0.1556,
+      "confidence": "medium",
+      "total_sold_30d": 5,
+      "total_sold_90d": 9
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Panera Broccoli",
+      "barcode": "F0B2D11EAC47A1004",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Pepsi 12oz",
+      "barcode": "01201303",
+      "daily_rate": 0.0767,
+      "confidence": "low",
+      "total_sold_30d": 2,
+      "total_sold_90d": 9
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Pepsi Diet 12oz Can",
+      "barcode": "01280504",
+      "daily_rate": 0.05,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 8
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Pop Secret popcorn",
+      "barcode": "F0B2BAC9D24491000",
+      "daily_rate": 0.1,
+      "confidence": "low",
+      "total_sold_30d": 3,
+      "total_sold_90d": 5
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Propel Berry 20 Oz",
+      "barcode": "052000001693",
+      "daily_rate": 0.0133,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 3
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Propel kiwi strawberry",
+      "barcode": "052000001716",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Pure Fuel Limitless Lemonade",
+      "barcode": "898886117406",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Pure Leaf Unsweetened",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "RED BULL SUGAR FREE",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Recess strawberry rose",
+      "barcode": "F0B2C858213931002",
+      "daily_rate": 0.0533,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Red Bull",
+      "barcode": "611269991000",
+      "daily_rate": 0.0222,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 5
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Red Bull Sugar Free",
+      "barcode": "611269101713",
+      "daily_rate": 0.0289,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Rice Krispies Treats Crispy-Original",
+      "barcode": "038000524042",
+      "daily_rate": 0.1333,
+      "confidence": "medium",
+      "total_sold_30d": 5,
+      "total_sold_90d": 5
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Rubber Chicken",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "SPINDRIFT SPARKLING WATER, LEMON",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Sabra Smart Snacks Guacamole Chips",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Sabra-Classic Hummus with Pretzels",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "San Pellegrino Cherry and Lemon",
+      "barcode": "4150856661",
+      "daily_rate": 0.0089,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 2
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "San Pelligrino Pomegranate and Orange",
+      "barcode": "0041508659376",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "SanPellegrino Grapefruit",
+      "barcode": "4150819278",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Shale Snacks Pomegranate Vanilla Flavored Cashews",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Shrimp Scalpi Head Massager",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Siggi\u2019s mixed berries yougurt",
+      "barcode": "850004695005",
+      "daily_rate": 0.0133,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 3
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Snickers Candy Bar",
+      "barcode": "040000424314",
+      "daily_rate": 0.34,
+      "confidence": "high",
+      "total_sold_30d": 11,
+      "total_sold_90d": 21
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Sour Patch Kids Box",
+      "barcode": "",
+      "daily_rate": 0.1,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Sour Patch Kids Soft & Chewy Candy",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Sour Patch Kids Watermelon",
+      "barcode": "F0B273E97D6C21009",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Soylent Creamy Chocolate 11 fl oz",
+      "barcode": "5836900679",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Soylent Strawberry 11 fl. oz.",
+      "barcode": "5836900682",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Spindrift Blood Orange Tangerine",
+      "barcode": "5001714219",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Spindrift Lemon",
+      "barcode": "856579002750",
+      "daily_rate": 0.0267,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 6
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Spindrift Lime",
+      "barcode": "5657900280",
+      "daily_rate": 0.0044,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Splash Balls (Set of 4)",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Starbucks Espresso & Cream",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Starbucks Frappuccino Vanilla",
+      "barcode": "12000813313",
+      "daily_rate": 0.0711,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 7
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Starbucks_Frappuccino_Vanilla",
+      "barcode": "012000813313",
+      "daily_rate": 0.0267,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 1
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Thinster Brownie Batter",
+      "barcode": "0840515100020",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Thinsters Toasted Coconut Cookies",
+      "barcode": "840515100396",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Trip Peach Ginger",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Twix Candy Bar",
+      "barcode": "04043506",
+      "daily_rate": 0.4356,
+      "confidence": "high",
+      "total_sold_30d": 14,
+      "total_sold_90d": 28
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "V8 Splash Berry BLEND",
+      "barcode": "5100014653",
+      "daily_rate": 0.0467,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 6
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "V8 Splash Mango Peach",
+      "barcode": "0051000217691",
+      "daily_rate": 0.0467,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 7
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Vita Coco Coconut Water Organic",
+      "barcode": "898999011011",
+      "daily_rate": 0.04,
+      "confidence": "low",
+      "total_sold_30d": 1,
+      "total_sold_90d": 5
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Wassup Watermelon  Gummy Candy",
+      "barcode": "",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    },
+    {
+      "machine": "TheHaven#2-cooler",
+      "product_name": "Wonderful Pistachios No Shells Roasted & Salted",
+      "barcode": "014113910712",
+      "daily_rate": 0.0,
+      "confidence": "no_recent",
+      "total_sold_30d": 0,
+      "total_sold_90d": 0
+    }
+  ]
+}

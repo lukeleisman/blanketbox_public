@@ -27,11 +27,11 @@ jobs:
           SANDSTAR_PASSWORD_HASH: ${{ secrets.SANDSTAR_PASSWORD_HASH }}
         run: python ops_scraper.py
 
-      - name: Commit updated products.json
+      - name: Commit updated data files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/products.json
+          git add docs/
           git diff --staged --quiet && echo "No changes to commit." && exit 0
-          git commit -m "chore: refresh prices $(date -u +%H:%M)"
+          git commit -m "chore: refresh data $(date -u +%H:%M)"
           git push

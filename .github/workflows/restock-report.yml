@@ -1,0 +1,31 @@
+name: Restock Report
+
+on:
+  schedule:
+    # Monday and Thursday at 7:00 AM Eastern (12:00 UTC in summer, 11:00 UTC in winter)
+    - cron: '0 11 * * 1,4'
+  workflow_dispatch:   # manual trigger from Actions tab
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - run: pip install requests openpyxl
+
+      - name: Generate and email restock report
+        timeout-minutes: 10
+        env:
+          SANDSTAR_USERNAME: ${{ secrets.SANDSTAR_USERNAME }}
+          SANDSTAR_PASSWORD_HASH: ${{ secrets.SANDSTAR_PASSWORD_HASH }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          RESTOCK_EMAIL_TO: ${{ secrets.RESTOCK_EMAIL_TO }}
+        run: python restock_report.py --email

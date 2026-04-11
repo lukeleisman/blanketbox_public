@@ -73,3 +73,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-11T02:23:34Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,7,6,-1
 2026-04-11T02:23:34Z,16213,haven,TheHaven#2-cooler,S0B2C6B35D1081002,F0B2C6B35D1081000,Apple Jacks Cereal,1.99,3,2,-1
 2026-04-11T02:23:34Z,16213,haven,TheHaven#2-cooler,S0B2C6BC04A97100D,F0B2C6BC04A97100B,Fruit Loops Cereal,1.99,4,3,-1
+2026-04-11T04:33:23Z,15519,doylestown,333 North Broad Ambient,S0B2D5C6DC51A1001,810125972157,Liquid IV StraWatermelon,2.07,14,13,-1
+2026-04-11T04:33:23Z,15519,doylestown,333 North Broad Ambient,S0B2D5E2DEE2A1004,840315300699,Raw Sugar Santal,6.99,2,1,-1
+2026-04-11T04:33:23Z,15519,doylestown,333 North Broad Ambient,S0B260510FB391004,860002564531,Betterway Toilet Paper Roll,3.57,10,9,-1
+2026-04-11T04:33:23Z,16214,doylestown,333 North Broad Cooler,S0B2D5DE0BABD100A,810119680266,Trip Elderflower Mint,5.27,6,5,-1
+2026-04-11T04:33:23Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,12,11,-1

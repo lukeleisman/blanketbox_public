@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T02:23:34Z",
+  "updated": "2026-04-11T04:33:23Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -78,11 +78,11 @@
           "name": "Betterway Toilet Paper Roll",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 12,
-          "fill_pct": 83,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-08 22:46:42"
+          "stock_updated": "2026-04-10 21:43:28"
         },
         {
           "skuid": "S0B2D5C80C7741005",
@@ -306,11 +306,11 @@
           "name": "Liquid IV StraWatermelon",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531062586319.png",
-          "stock": 14,
+          "stock": 13,
           "capacity": 15,
-          "fill_pct": 93,
+          "fill_pct": 87,
           "stock_warning": 0,
-          "stock_updated": "2026-04-08 22:46:09"
+          "stock_updated": "2026-04-10 21:43:28"
         },
         {
           "skuid": "S0B2D5C726B89100A",
@@ -522,11 +522,11 @@
           "name": "Raw Sugar Santal",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177533999648768.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-04 22:41:38"
+          "stock_updated": "2026-04-10 21:43:28"
         },
         {
           "skuid": "S0B27699FEBAC1004",
@@ -979,11 +979,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 12,
+          "stock": 11,
           "capacity": 13,
-          "fill_pct": 92,
+          "fill_pct": 85,
           "stock_warning": 0,
-          "stock_updated": "2026-04-07 12:48:52"
+          "stock_updated": "2026-04-10 22:31:25"
         },
         {
           "skuid": "S0B2BC10A038C1008",
@@ -1219,11 +1219,11 @@
           "name": "Trip Elderflower Mint",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177533493701966.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-04-04 15:47:20"
+          "stock_updated": "2026-04-10 22:31:25"
         },
         {
           "skuid": "S0B266D76782F1002",

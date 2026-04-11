@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T11:30:53Z",
+  "updated": "2026-04-11T13:00:27Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2229,11 +2229,11 @@
           "name": "Fig Newtowns",
           "price": 2.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17749722455349.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-09 11:43:00"
+          "stock_updated": "2026-04-11 07:35:45"
         },
         {
           "skuid": "S0B246944DF011004",
@@ -2385,11 +2385,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 6,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-10 20:57:47"
+          "stock_updated": "2026-04-11 07:35:45"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2553,11 +2553,11 @@
           "name": "Sargento Balanced Breaks",
           "price": 2.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176917881680440.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-04-08 21:47:23"
+          "stock_updated": "2026-04-11 07:35:45"
         },
         {
           "skuid": "S0B2D4831AA261009",

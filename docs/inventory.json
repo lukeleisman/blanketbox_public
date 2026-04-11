@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T14:06:31Z",
+  "updated": "2026-04-11T15:02:10Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2169,11 +2169,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 7,
-          "fill_pct": 29,
+          "fill_pct": 14,
           "stock_warning": 0,
-          "stock_updated": "2026-04-10 18:30:19"
+          "stock_updated": "2026-04-11 09:48:38"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2589,11 +2589,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063645024.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-08 21:47:23"
+          "stock_updated": "2026-04-11 09:23:18"
         },
         {
           "skuid": "S0B246944E3C71001",

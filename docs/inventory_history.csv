@@ -67,3 +67,9 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-10T23:36:11Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,5,2,-3
 2026-04-10T23:36:11Z,16213,haven,TheHaven#2-cooler,S0B2D484E0EFD1001,014100043706,Milano,2.57,8,7,-1
 2026-04-10T23:36:11Z,16213,haven,TheHaven#2-cooler,S0B2D11E583291001,818290015150,Chobani vanilla,2.49,3,2,-1
+2026-04-11T02:23:34Z,15521,philly,PhillyTrueCooler,S0B27699FEBDB1004,04003207,M&M Peanut,2.57,9,8,-1
+2026-04-11T02:23:34Z,16213,haven,TheHaven#2-cooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,5.27,7,6,-1
+2026-04-11T02:23:34Z,16213,haven,TheHaven#2-cooler,S0B2D484E0EFD1001,014100043706,Milano,2.57,7,5,-2
+2026-04-11T02:23:34Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,7,6,-1
+2026-04-11T02:23:34Z,16213,haven,TheHaven#2-cooler,S0B2C6B35D1081002,F0B2C6B35D1081000,Apple Jacks Cereal,1.99,3,2,-1
+2026-04-11T02:23:34Z,16213,haven,TheHaven#2-cooler,S0B2C6BC04A97100D,F0B2C6BC04A97100B,Fruit Loops Cereal,1.99,4,3,-1

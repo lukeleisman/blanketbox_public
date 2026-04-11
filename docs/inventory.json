@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T15:02:10Z",
+  "updated": "2026-04-11T15:56:41Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -775,11 +775,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-10 11:04:42"
+          "stock_updated": "2026-04-11 10:47:24"
         },
         {
           "skuid": "S0B2D527638181007",
@@ -931,11 +931,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 3.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 12,
-          "fill_pct": 92,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-04-08 22:02:29"
+          "stock_updated": "2026-04-11 10:47:24"
         },
         {
           "skuid": "S0B2D11D53BB51008",

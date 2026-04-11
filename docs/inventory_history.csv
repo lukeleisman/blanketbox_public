@@ -81,3 +81,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-11T13:00:27Z,16213,haven,TheHaven#2-cooler,S0B2D48427F221004,044000037444,Fig Newtowns,2.27,9,8,-1
 2026-04-11T13:00:27Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,6,4,-2
 2026-04-11T13:00:27Z,16213,haven,TheHaven#2-cooler,S0B2D4835B16E100B,046100019054,Sargento Balanced Breaks,2.27,6,5,-1
+2026-04-11T14:06:31Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,1,0,-1
+2026-04-11T14:06:31Z,16213,haven,TheHaven#2-cooler,S0B2D527638181007,036632074782,Delight Cinnabon,3.27,5,4,-1

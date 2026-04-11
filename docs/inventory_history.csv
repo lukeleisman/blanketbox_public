@@ -87,3 +87,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-11T15:02:10Z,16213,haven,TheHaven#2-cooler,S0B246944E4B51008,012000813313,Starbucks_Frappuccino_Vanilla,4.27,5,4,-1
 2026-04-11T15:56:41Z,16214,doylestown,333 North Broad Cooler,S0B2D4851D7141003,195372325155,Just Ice Tea Peach Oolong 16oz,3.97,11,10,-1
 2026-04-11T15:56:41Z,16214,doylestown,333 North Broad Cooler,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.57,4,3,-1
+2026-04-11T18:47:17Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,17,15,-2
+2026-04-11T18:47:17Z,15521,philly,PhillyTrueCooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,9,8,-1
+2026-04-11T18:47:17Z,15521,philly,PhillyTrueCooler,S0B2D113959A71003,8056042042852,Oikos Peach Protein,4.57,3,2,-1
+2026-04-11T18:47:17Z,15521,philly,PhillyTrueCooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,2.97,7,6,-1

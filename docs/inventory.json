@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T17:32:24Z",
+  "updated": "2026-04-11T18:47:17Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -811,11 +811,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 17,
+          "stock": 15,
           "capacity": 21,
-          "fill_pct": 81,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-04-08 22:02:29"
+          "stock_updated": "2026-04-11 13:19:06"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1328,11 +1328,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 8,
-          "fill_pct": 112,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-04 08:12:28"
+          "stock_updated": "2026-04-11 13:20:08"
         },
         {
           "skuid": "S0B246944E4EB1007",
@@ -1580,11 +1580,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 2.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173685359821166.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 10,
-          "fill_pct": 70,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-04-07 23:07:55"
+          "stock_updated": "2026-04-11 13:30:34"
         },
         {
           "skuid": "S0B2D11356C5A1005",
@@ -1736,11 +1736,11 @@
           "name": "Oikos Peach Protein",
           "price": 4.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177404889920946.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 10,
-          "fill_pct": 30,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-04-07 08:44:45"
+          "stock_updated": "2026-04-11 12:50:07"
         },
         {
           "skuid": "S0B246944E3D51001",

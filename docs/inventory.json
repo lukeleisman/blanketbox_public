@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12T09:12:34Z",
+  "updated": "2026-04-12T10:07:21Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -955,11 +955,11 @@
           "name": "La Colombe Draft Latte Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363400918041.png",
-          "stock": 4,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-04-08 11:13:18"
+          "stock_updated": "2026-04-12 04:51:07"
         },
         {
           "skuid": "S0B2D5C66B220100B",

@@ -114,3 +114,9 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-12T05:24:39Z,16214,doylestown,333 North Broad Cooler,S0B2D4851D7141003,195372325155,Just Ice Tea Peach Oolong 16oz,3.97,10,9,-1
 2026-04-12T05:24:39Z,16214,doylestown,333 North Broad Cooler,S0B246944E4141002,052000328684,Gatorade Lemon Lime,2.97,3,2,-1
 2026-04-12T05:24:39Z,15521,philly,PhillyTrueCooler,S0B2BAC9D24491002,F0B2BAC9D24491000,Pop Secret popcorn,2.27,3,2,-1
+2026-04-12T06:53:20Z,15519,doylestown,333 North Broad Ambient,S0B27699FEC921007,047495400700,Natures Bakery - Double Chocolate Brownie,2.57,8,7,-1
+2026-04-12T06:53:20Z,15519,doylestown,333 North Broad Ambient,S0B2D5C726B89100A,850039286827,Liquid IV WhtPeach,2.07,15,14,-1
+2026-04-12T06:53:20Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,11,10,-1
+2026-04-12T06:53:20Z,15521,philly,PhillyTrueCooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,2.97,3,2,-1
+2026-04-12T06:53:20Z,15521,philly,PhillyTrueCooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,10,9,-1
+2026-04-12T06:53:20Z,15521,philly,PhillyTrueCooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,9,8,-1

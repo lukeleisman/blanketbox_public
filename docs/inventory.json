@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-12T22:35:54Z",
+  "updated": "2026-04-12T23:35:57Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1943,8 +1943,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 57,
-      "in_stock": 55,
-      "out_of_stock": 2,
+      "in_stock": 53,
+      "out_of_stock": 4,
       "low_stock": 0,
       "products": [
         {
@@ -2277,11 +2277,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 2.97,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-08 21:47:23"
+          "stock_updated": "2026-04-12 18:26:58"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -2301,11 +2301,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 2.97,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-08 21:47:23"
+          "stock_updated": "2026-04-12 18:26:58"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2457,11 +2457,11 @@
           "name": "Oikos Peach Protein",
           "price": 3.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177404889920946.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-08 21:47:23"
+          "stock_updated": "2026-04-12 18:26:58"
         },
         {
           "skuid": "S0B29439334411007",
@@ -2601,11 +2601,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-12 15:02:26"
+          "stock_updated": "2026-04-12 18:26:58"
         },
         {
           "skuid": "S0B2D48452F7E1005",

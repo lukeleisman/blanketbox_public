@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T23:35:55Z",
+  "updated": "2026-04-12T02:40:17Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -138,11 +138,11 @@
           "name": "Cliff  Chocolate Chip Protein Bar",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17674936233687.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-04-09 21:12:13"
+          "stock_updated": "2026-04-11 20:38:30"
         },
         {
           "skuid": "S0B2D5CAD34F61005",
@@ -354,11 +354,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 12,
-          "fill_pct": 92,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-04-07 22:37:47"
+          "stock_updated": "2026-04-11 20:51:13"
         },
         {
           "skuid": "S0B2D5CAB0B6E1005",
@@ -534,11 +534,11 @@
           "name": "Rice Krispies Treats Original",
           "price": 1.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254759829271.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 11,
-          "fill_pct": 55,
+          "fill_pct": 45,
           "stock_warning": 0,
-          "stock_updated": "2026-04-05 19:17:01"
+          "stock_updated": "2026-04-11 20:51:13"
         },
         {
           "skuid": "S0B246944E6CF1007",
@@ -642,11 +642,11 @@
           "name": "Waffle cones",
           "price": 4.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531046030934.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-04-04 22:41:38"
+          "stock_updated": "2026-04-11 20:51:13"
         }
       ]
     },
@@ -667,11 +667,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-04-10 08:07:06"
+          "stock_updated": "2026-04-11 20:40:20"
         },
         {
           "skuid": "S0B246944E4EB1007",
@@ -871,11 +871,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 2.97,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-04-08 22:02:29"
+          "stock_updated": "2026-04-11 20:58:58"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1135,11 +1135,11 @@
           "name": "San Pellegrino Aranciata",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17145040865182.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-04 15:47:20"
+          "stock_updated": "2026-04-11 19:07:02"
         },
         {
           "skuid": "S0B29D2F2643D100B",
@@ -1147,11 +1147,11 @@
           "name": "San Pelligrino Pomegranate and Orange",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17601191596212.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-04-07 21:33:27"
+          "stock_updated": "2026-04-11 20:58:58"
         },
         {
           "skuid": "S0B2D4822727E1001",
@@ -1270,8 +1270,8 @@
       "machine_name": "PhillyTrueCooler",
       "address": "4200 Ludlow St, Philadelphia PA, 10104",
       "total_skus": 55,
-      "in_stock": 55,
-      "out_of_stock": 0,
+      "in_stock": 54,
+      "out_of_stock": 1,
       "low_stock": 0,
       "products": [
         {
@@ -1412,11 +1412,11 @@
           "name": "Chobani vanilla",
           "price": 2.49,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177241491063878.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 4,
-          "fill_pct": 50,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-04-09 22:18:38"
+          "stock_updated": "2026-04-11 19:04:33"
         },
         {
           "skuid": "S0B246944E2701006",
@@ -1484,11 +1484,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 8,
+          "stock": 6,
           "capacity": 13,
-          "fill_pct": 62,
+          "fill_pct": 46,
           "stock_warning": 0,
-          "stock_updated": "2026-04-08 22:04:32"
+          "stock_updated": "2026-04-11 20:27:39"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1604,11 +1604,11 @@
           "name": "IQ Bar Chocolate Mint Chip",
           "price": 3.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17633311766684.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 2,
-          "fill_pct": 200,
+          "fill_pct": 150,
           "stock_warning": 0,
-          "stock_updated": "2026-04-04 08:12:28"
+          "stock_updated": "2026-04-11 19:04:33"
         },
         {
           "skuid": "S0B2D4851D7141003",
@@ -1616,11 +1616,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 4.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-04-04 08:12:28"
+          "stock_updated": "2026-04-11 20:27:29"
         },
         {
           "skuid": "S0B25FC5C5C991003",
@@ -1628,11 +1628,11 @@
           "name": "La Colombe Draft Latte Caramel",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363410135042.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-04 08:12:28"
+          "stock_updated": "2026-04-11 21:13:01"
         },
         {
           "skuid": "S0B25FC5DA5DD1003",
@@ -1640,11 +1640,11 @@
           "name": "La Colombe Draft Latte Mocha",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363418524043.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 4,
-          "fill_pct": 25,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-04 08:12:28"
+          "stock_updated": "2026-04-11 21:13:01"
         },
         {
           "skuid": "S0B27699FEBDB1004",
@@ -1892,11 +1892,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-04-09 16:23:05"
+          "stock_updated": "2026-04-11 20:15:01"
         },
         {
           "skuid": "S0B2BDAFAD0A2100A",
@@ -1943,8 +1943,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 57,
-      "in_stock": 57,
-      "out_of_stock": 0,
+      "in_stock": 56,
+      "out_of_stock": 1,
       "low_stock": 0,
       "products": [
         {
@@ -1977,11 +1977,11 @@
           "name": "Beef Liver Dog Treats",
           "price": 20.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174907930543359.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-04-08 21:47:23"
+          "stock_updated": "2026-04-11 20:18:18"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -2577,11 +2577,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 2,
+          "stock": 0,
           "capacity": 8,
-          "fill_pct": 25,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-09 18:44:10"
+          "stock_updated": "2026-04-11 20:18:18"
         },
         {
           "skuid": "S0B246944E4B51008",

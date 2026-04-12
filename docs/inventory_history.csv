@@ -124,3 +124,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-12T11:06:44Z,15521,philly,PhillyTrueCooler,S0B2BAC9D24491002,F0B2BAC9D24491000,Pop Secret popcorn,2.27,2,1,-1
 2026-04-12T11:06:44Z,15521,philly,PhillyTrueCooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,9,8,-1
 2026-04-12T16:00:16Z,15521,philly,PhillyTrueCooler,S0B2D113959A71003,8056042042852,Oikos Peach Protein,4.57,2,1,-1
+2026-04-12T18:00:57Z,16214,doylestown,333 North Broad Cooler,S0B25FC5AF4F7100C,0491300019,La Colombe Draft Latte Vanilla,4.27,2,1,-1

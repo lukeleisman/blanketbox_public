@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T22:44:15Z",
+  "updated": "2026-04-13T23:42:43Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -198,11 +198,11 @@
           "name": "Febreze mini",
           "price": 2.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176988543591486.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-04 22:41:38"
+          "stock_updated": "2026-04-13 18:38:33"
         },
         {
           "skuid": "S0B2D48427F221004",

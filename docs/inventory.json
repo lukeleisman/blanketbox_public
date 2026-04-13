@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T13:28:05Z",
+  "updated": "2026-04-13T15:03:23Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -657,8 +657,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 50,
-      "in_stock": 46,
-      "out_of_stock": 4,
+      "in_stock": 45,
+      "out_of_stock": 5,
       "low_stock": 0,
       "products": [
         {
@@ -847,11 +847,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 14,
-          "fill_pct": 71,
+          "fill_pct": 64,
           "stock_warning": 0,
-          "stock_updated": "2026-04-09 17:21:05"
+          "stock_updated": "2026-04-13 09:27:02"
         },
         {
           "skuid": "S0B2D5C69069E1009",
@@ -955,11 +955,11 @@
           "name": "La Colombe Draft Latte Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363400918041.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 5,
-          "fill_pct": 20,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-12 12:30:16"
+          "stock_updated": "2026-04-13 09:27:02"
         },
         {
           "skuid": "S0B2D5C66B220100B",

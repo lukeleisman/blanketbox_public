@@ -149,3 +149,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-13T05:42:58Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,3,2,-1
 2026-04-13T05:42:58Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,4,3,-1
 2026-04-13T05:42:58Z,16213,haven,TheHaven#2-cooler,S0B2D4832F5941002,046100203187,Sargento Balanced Breaks,2.27,4,3,-1
+2026-04-13T13:28:05Z,16213,haven,TheHaven#2-cooler,S0B2D11356C5A1005,851861006119,Health -Ade,6.99,1,0,-1

@@ -155,3 +155,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-13T16:42:41Z,16213,haven,TheHaven#2-cooler,S0B246944E4B51008,012000813313,Starbucks_Frappuccino_Vanilla,4.27,4,3,-1
 2026-04-13T20:56:36Z,16214,doylestown,333 North Broad Cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,2.97,2,1,-1
 2026-04-13T20:56:36Z,16214,doylestown,333 North Broad Cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,2.97,9,8,-1
+2026-04-13T21:54:16Z,16214,doylestown,333 North Broad Cooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,5.27,9,8,-1

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T20:56:36Z",
+  "updated": "2026-04-13T21:54:16Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -847,11 +847,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 14,
-          "fill_pct": 64,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-04-13 09:27:02"
+          "stock_updated": "2026-04-13 16:10:36"
         },
         {
           "skuid": "S0B2D5C69069E1009",

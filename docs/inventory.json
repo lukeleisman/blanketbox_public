@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T02:45:26Z",
+  "updated": "2026-04-13T05:42:58Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1844,11 +1844,11 @@
           "name": "Sargento Balanced Brakes \u2013 Ritz Crackers",
           "price": 2.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17619174397577.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-04 11:24:38"
+          "stock_updated": "2026-04-12 21:52:18"
         },
         {
           "skuid": "S0B2D4832F5941002",
@@ -2013,11 +2013,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 8,
-          "fill_pct": 25,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-04-08 21:47:23"
+          "stock_updated": "2026-04-12 22:51:07"
         },
         {
           "skuid": "S0B261B990D101007",
@@ -2385,11 +2385,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-04-12 15:02:26"
+          "stock_updated": "2026-04-12 22:51:07"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2541,11 +2541,11 @@
           "name": "Sargento Balanced Breaks",
           "price": 2.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177067823857843.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-08 21:47:23"
+          "stock_updated": "2026-04-12 22:51:07"
         },
         {
           "skuid": "S0B2D4835B16E100B",
@@ -2601,11 +2601,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-04-12 18:26:58"
+          "stock_updated": "2026-04-12 22:51:07"
         },
         {
           "skuid": "S0B2D48452F7E1005",

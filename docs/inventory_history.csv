@@ -144,3 +144,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-13T02:45:26Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,8,7,-1
 2026-04-13T02:45:26Z,15521,philly,PhillyTrueCooler,S0B246944E2701006,049000053418,Coca-Cola Original Taste,2.57,6,4,-2
 2026-04-13T02:45:26Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,2.97,4,3,-1
+2026-04-13T05:42:58Z,15521,philly,PhillyTrueCooler,S0B2D4822727E1001,046100354032,Sargento Balanced Brakes – Ritz Crackers,2.27,5,4,-1
+2026-04-13T05:42:58Z,16213,haven,TheHaven#2-cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,2,1,-1
+2026-04-13T05:42:58Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,3,2,-1
+2026-04-13T05:42:58Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,4,3,-1
+2026-04-13T05:42:58Z,16213,haven,TheHaven#2-cooler,S0B2D4832F5941002,046100203187,Sargento Balanced Breaks,2.27,4,3,-1

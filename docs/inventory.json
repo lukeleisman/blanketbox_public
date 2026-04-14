@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T18:44:06Z",
+  "updated": "2026-04-14T20:05:33Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -713,7 +713,7 @@
           "skuid": "S0B2D11DA769B1008",
           "barcode": "818290015167",
           "name": "Chobani 20g",
-          "price": 2.49,
+          "price": 2.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177405945790669.png",
           "stock": 1,
           "capacity": 1,
@@ -725,7 +725,7 @@
           "skuid": "S0B2D11E680501004",
           "barcode": "818290012395",
           "name": "Chobani cherry berry",
-          "price": 2.49,
+          "price": 2.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177241446295575.png",
           "stock": 5,
           "capacity": 5,
@@ -761,7 +761,7 @@
           "skuid": "S0B2D11E583291001",
           "barcode": "818290015150",
           "name": "Chobani vanilla",
-          "price": 2.49,
+          "price": 2.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177241491063878.png",
           "stock": 5,
           "capacity": 5,
@@ -917,7 +917,7 @@
           "skuid": "S0B2D11356C5A1005",
           "barcode": "851861006119",
           "name": "Health -Ade",
-          "price": 7.17,
+          "price": 5.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177404864183160.png",
           "stock": 2,
           "capacity": 2,
@@ -941,7 +941,7 @@
           "skuid": "S0B2D11D53BB51008",
           "barcode": "851861006126",
           "name": "Kombucha",
-          "price": 7.17,
+          "price": 5.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176169975175786.png",
           "stock": 4,
           "capacity": 4,
@@ -1061,7 +1061,7 @@
           "skuid": "S0B2D112FB7F01006",
           "barcode": "F0B2D112FB7F01004",
           "name": "Panera Autumn Squash",
-          "price": 11.97,
+          "price": 9.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177404826798251.png",
           "stock": 2,
           "capacity": 2,
@@ -1073,7 +1073,7 @@
           "skuid": "S0B2D11EAC47A1006",
           "barcode": "F0B2D11EAC47A1004",
           "name": "Panera Broccoli",
-          "price": 12.97,
+          "price": 9.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177406052644360.png",
           "stock": 1,
           "capacity": 1,
@@ -1157,7 +1157,7 @@
           "skuid": "S0B2D4822727E1001",
           "barcode": "046100354032",
           "name": "Sargento Balanced Brakes \u2013 Ritz Crackers",
-          "price": 2.77,
+          "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17619174397577.png",
           "stock": 6,
           "capacity": 6,
@@ -1169,7 +1169,7 @@
           "skuid": "S0B2D4835B16E100B",
           "barcode": "046100019054",
           "name": "Sargento Balanced Breaks",
-          "price": 2.77,
+          "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176917881680440.png",
           "stock": 6,
           "capacity": 6,
@@ -1181,7 +1181,7 @@
           "skuid": "S0B2D4833F7471002",
           "barcode": "046100355480",
           "name": "Sargento Balanced Breaks White Cheddar Almonds and cranberries",
-          "price": 2.77,
+          "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176339862618913.png",
           "stock": 6,
           "capacity": 6,
@@ -1193,7 +1193,7 @@
           "skuid": "S0B2D4831AA261009",
           "barcode": "0046100353530",
           "name": "Sargento Cheese & Crackers",
-          "price": 2.77,
+          "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172367251813627.png",
           "stock": 6,
           "capacity": 6,
@@ -1269,9 +1269,9 @@
       "location_name": "Philadelphia",
       "machine_name": "PhillyTrueCooler",
       "address": "4200 Ludlow St, Philadelphia PA, 10104",
-      "total_skus": 50,
-      "in_stock": 49,
-      "out_of_stock": 1,
+      "total_skus": 54,
+      "in_stock": 52,
+      "out_of_stock": 2,
       "low_stock": 0,
       "products": [
         {
@@ -1284,7 +1284,7 @@
           "capacity": 5,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B25FC5136E7100C",
@@ -1293,10 +1293,10 @@
           "price": 5.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363337064737.png",
           "stock": 2,
-          "capacity": 4,
-          "fill_pct": 50,
+          "capacity": 2,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -1308,7 +1308,7 @@
           "capacity": 2,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2A44D16D23100C",
@@ -1317,10 +1317,10 @@
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176202960060787.png",
           "stock": 4,
-          "capacity": 8,
-          "fill_pct": 50,
+          "capacity": 4,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -1329,10 +1329,10 @@
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
           "stock": 9,
-          "capacity": 8,
-          "fill_pct": 112,
+          "capacity": 9,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2668475B231007",
@@ -1341,10 +1341,10 @@
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173400663718739.png",
           "stock": 3,
-          "capacity": 4,
-          "fill_pct": 75,
+          "capacity": 3,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2D11DA769B1008",
@@ -1353,10 +1353,10 @@
           "price": 2.49,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177405945790669.png",
           "stock": 2,
-          "capacity": 4,
-          "fill_pct": 50,
+          "capacity": 2,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2D497020C51001",
@@ -1368,7 +1368,7 @@
           "capacity": 5,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2D11E4F77D1002",
@@ -1380,7 +1380,7 @@
           "capacity": 6,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2D11E583291001",
@@ -1389,10 +1389,10 @@
           "price": 2.49,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177241491063878.png",
           "stock": 3,
-          "capacity": 4,
-          "fill_pct": 75,
+          "capacity": 3,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B246944E2701006",
@@ -1401,10 +1401,10 @@
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/166197041201682.jpeg",
           "stock": 6,
-          "capacity": 13,
-          "fill_pct": 46,
+          "capacity": 6,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2BAC924065100B",
@@ -1413,10 +1413,10 @@
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176642324576087.png",
           "stock": 5,
-          "capacity": 4,
-          "fill_pct": 125,
+          "capacity": 5,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -1425,10 +1425,10 @@
           "price": 1.87,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
           "stock": 8,
-          "capacity": 10,
-          "fill_pct": 80,
+          "capacity": 8,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2D527638181007",
@@ -1440,7 +1440,7 @@
           "capacity": 3,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2D527865D2100C",
@@ -1449,10 +1449,10 @@
           "price": 3.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177514355024033.png",
           "stock": 2,
-          "capacity": 3,
-          "fill_pct": 67,
+          "capacity": 2,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -1461,10 +1461,10 @@
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
           "stock": 6,
-          "capacity": 13,
-          "fill_pct": 46,
+          "capacity": 6,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1473,10 +1473,10 @@
           "price": 4.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
           "stock": 3,
-          "capacity": 5,
-          "fill_pct": 60,
+          "capacity": 3,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B25FC55972D1006",
@@ -1485,10 +1485,10 @@
           "price": 4.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363365739242.png",
           "stock": 4,
-          "capacity": 5,
-          "fill_pct": 80,
+          "capacity": 4,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2D055ACE44100B",
@@ -1500,7 +1500,7 @@
           "capacity": 5,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B246944DFD21006",
@@ -1512,7 +1512,7 @@
           "capacity": 10,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -1521,10 +1521,10 @@
           "price": 2.97,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
           "stock": 10,
-          "capacity": 11,
-          "fill_pct": 91,
+          "capacity": 10,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1533,10 +1533,10 @@
           "price": 2.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
           "stock": 4,
-          "capacity": 5,
-          "fill_pct": 80,
+          "capacity": 4,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -1545,10 +1545,10 @@
           "price": 2.97,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
           "stock": 3,
-          "capacity": 5,
-          "fill_pct": 60,
+          "capacity": 3,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -1557,10 +1557,10 @@
           "price": 2.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173685359821166.png",
           "stock": 4,
-          "capacity": 10,
-          "fill_pct": 40,
+          "capacity": 4,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2D11356C5A1005",
@@ -1572,7 +1572,19 @@
           "capacity": 2,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
+        },
+        {
+          "skuid": "S0B2D90DF10651003",
+          "barcode": "071879700049",
+          "name": "Jennie\u2019s Coconut bites",
+          "price": 19.99,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619046579382.png",
+          "stock": 3,
+          "capacity": 3,
+          "fill_pct": 100,
+          "stock_warning": 0,
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2D4851D7141003",
@@ -1581,10 +1593,10 @@
           "price": 4.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
           "stock": 5,
-          "capacity": 7,
-          "fill_pct": 71,
+          "capacity": 5,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B25FC5C5C991003",
@@ -1593,10 +1605,10 @@
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363410135042.png",
           "stock": 2,
-          "capacity": 3,
-          "fill_pct": 67,
+          "capacity": 2,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B25FC5DA5DD1003",
@@ -1605,10 +1617,10 @@
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363418524043.png",
           "stock": 0,
-          "capacity": 4,
-          "fill_pct": 0,
+          "capacity": 0,
+          "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B27699FEBDB1004",
@@ -1617,10 +1629,10 @@
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17266696341915.png",
           "stock": 9,
-          "capacity": 12,
-          "fill_pct": 75,
+          "capacity": 9,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B27699FEBD41002",
@@ -1629,10 +1641,10 @@
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254811305183.png",
           "stock": 6,
-          "capacity": 0,
-          "fill_pct": null,
+          "capacity": 6,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -1641,10 +1653,10 @@
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
           "stock": 2,
-          "capacity": 7,
-          "fill_pct": 29,
+          "capacity": 2,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1653,10 +1665,10 @@
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
           "stock": 2,
-          "capacity": 3,
-          "fill_pct": 67,
+          "capacity": 2,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -1665,10 +1677,10 @@
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
           "stock": 8,
-          "capacity": 7,
-          "fill_pct": 114,
+          "capacity": 8,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2C377094211003",
@@ -1680,7 +1692,7 @@
           "capacity": 3,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2C3772FF3A1009",
@@ -1692,7 +1704,7 @@
           "capacity": 3,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1704,7 +1716,7 @@
           "capacity": 8,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2D113959A71003",
@@ -1713,10 +1725,10 @@
           "price": 4.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177404889920946.png",
           "stock": 7,
-          "capacity": 10,
-          "fill_pct": 70,
+          "capacity": 7,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B246944E3D51001",
@@ -1725,10 +1737,22 @@
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
           "stock": 9,
-          "capacity": 13,
-          "fill_pct": 69,
+          "capacity": 9,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
+        },
+        {
+          "skuid": "S0B2D90E22889100A",
+          "barcode": "850004867082",
+          "name": "Organic Maca/Mush powder",
+          "price": 17.99,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619066858741.png",
+          "stock": 3,
+          "capacity": 3,
+          "fill_pct": 100,
+          "stock_warning": 0,
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2BAC9D24491002",
@@ -1736,11 +1760,11 @@
           "name": "Pop Secret popcorn",
           "price": 2.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 1,
-          "capacity": 4,
-          "fill_pct": 25,
+          "stock": 0,
+          "capacity": 1,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 14:57:47"
         },
         {
           "skuid": "S0B246944DE9D1007",
@@ -1749,10 +1773,10 @@
           "price": 3.37,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/611269991000.jpg",
           "stock": 2,
-          "capacity": 3,
-          "fill_pct": 67,
+          "capacity": 2,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B27699FEBAC1004",
@@ -1761,10 +1785,10 @@
           "price": 1.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177190083350690.png",
           "stock": 8,
-          "capacity": 11,
-          "fill_pct": 73,
+          "capacity": 8,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2D3E6DA5E01005",
@@ -1773,10 +1797,22 @@
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17145040865182.png",
           "stock": 1,
-          "capacity": 0,
-          "fill_pct": null,
+          "capacity": 1,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
+        },
+        {
+          "skuid": "S0B2D90DB76B5100C",
+          "barcode": "041508302074",
+          "name": "San Pellegrino Essenza",
+          "price": 3.77,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619022990038.png",
+          "stock": 5,
+          "capacity": 5,
+          "fill_pct": 100,
+          "stock_warning": 0,
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2D4822727E1001",
@@ -1785,10 +1821,10 @@
           "price": 1.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17619174397577.png",
           "stock": 4,
-          "capacity": 6,
-          "fill_pct": 67,
+          "capacity": 4,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2D4835B16E100B",
@@ -1800,7 +1836,7 @@
           "capacity": 6,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2D4832F5941002",
@@ -1812,7 +1848,7 @@
           "capacity": 6,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2D4831AA261009",
@@ -1821,10 +1857,22 @@
           "price": 1.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172367251813627.png",
           "stock": 5,
-          "capacity": 6,
-          "fill_pct": 83,
+          "capacity": 5,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
+        },
+        {
+          "skuid": "S0B2D90DD9337100C",
+          "barcode": "016000215214",
+          "name": "Simply Chex",
+          "price": 5.99,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17761903682628.png",
+          "stock": 5,
+          "capacity": 5,
+          "fill_pct": 100,
+          "stock_warning": 0,
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B27699FEBCD1003",
@@ -1833,10 +1881,10 @@
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
           "stock": 6,
-          "capacity": 10,
-          "fill_pct": 60,
+          "capacity": 6,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2BDAFAD0A2100A",
@@ -1845,10 +1893,10 @@
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/167724588341663.png",
           "stock": 4,
-          "capacity": 5,
-          "fill_pct": 80,
+          "capacity": 4,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B246944E3C71001",
@@ -1857,10 +1905,10 @@
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
           "stock": 10,
-          "capacity": 13,
-          "fill_pct": 77,
+          "capacity": 10,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         },
         {
           "skuid": "S0B2D48452F7E1005",
@@ -1869,10 +1917,10 @@
           "price": 4.49,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176913044023980.png",
           "stock": 4,
-          "capacity": 6,
-          "fill_pct": 67,
+          "capacity": 4,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:39:48"
+          "stock_updated": "2026-04-14 13:49:02"
         }
       ]
     },

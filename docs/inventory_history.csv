@@ -224,3 +224,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-14T18:44:06Z,15521,philly,PhillyTrueCooler,S0B27699FEBDB1004,04003207,M&M Peanut,2.57,8,9,1
 2026-04-14T18:44:06Z,15521,philly,PhillyTrueCooler,S0B2D4832F5941002,046100203187,Sargento Balanced Breaks,1.97,5,6,1
 2026-04-14T18:44:06Z,15521,philly,PhillyTrueCooler,S0B2D4831AA261009,0046100353530,Sargento Cheese & Crackers,1.97,6,5,-1
+2026-04-14T20:05:33Z,15521,philly,PhillyTrueCooler,S0B2BAC9D24491002,F0B2BAC9D24491000,Pop Secret popcorn,2.27,1,0,-1

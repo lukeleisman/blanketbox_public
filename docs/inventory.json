@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T14:03:29Z",
+  "updated": "2026-04-14T15:49:20Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -657,8 +657,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 50,
-      "in_stock": 45,
-      "out_of_stock": 5,
+      "in_stock": 44,
+      "out_of_stock": 6,
       "low_stock": 0,
       "products": [
         {
@@ -1255,11 +1255,11 @@
           "name": "V8 Energy Pomegranate Blueberry",
           "price": 2.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176852335580693.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-07 13:56:22"
+          "stock_updated": "2026-04-14 09:20:02"
         }
       ]
     },

@@ -256,3 +256,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-14T21:13:06Z,16214,doylestown,333 North Broad Cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,2.97,8,12,4
 2026-04-14T21:13:06Z,16214,doylestown,333 North Broad Cooler,S0B2D11EAC47A1006,F0B2D11EAC47A1004,Panera Broccoli,9.97,1,0,-1
 2026-04-14T21:13:06Z,16214,doylestown,333 North Broad Cooler,S0B2D112FB7F01006,F0B2D112FB7F01004,Panera Autumn Squash,9.97,2,0,-2
+2026-04-14T22:10:52Z,15519,doylestown,333 North Broad Ambient,S0B2BA2E2259B1009,643843713944,Cliff  Chocolate Chip Protein Bar,2.67,3,2,-1
+2026-04-14T22:10:52Z,15519,doylestown,333 North Broad Ambient,S0B2C18F46F081002,F0B2C18F46F081000,Bear Naked Vanilla Granola,1.97,0,2,2
+2026-04-14T22:10:52Z,16214,doylestown,333 North Broad Cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,2.97,8,7,-1
+2026-04-14T22:10:52Z,16214,doylestown,333 North Broad Cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,2.97,12,11,-1

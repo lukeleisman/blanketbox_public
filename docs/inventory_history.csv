@@ -188,3 +188,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-14T05:24:48Z,16213,haven,TheHaven#2-cooler,S0B2BDAE8D5FB1006,520010247,Gatorade Glacier Cherry,2.97,4,3,-1
 2026-04-14T05:24:48Z,16213,haven,TheHaven#2-cooler,S0B246944E4141002,052000328684,Gatorade Lemon Lime,2.97,0,9,9
 2026-04-14T05:24:48Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,2.97,3,11,8
+2026-04-14T07:07:37Z,15521,philly,PhillyTrueCooler,S0B2C377070EC1001,082592194152,Naked Strawberry Banana 15.2oz,4.99,3,2,-1
+2026-04-14T07:07:37Z,15521,philly,PhillyTrueCooler,S0B2D113959A71003,8056042042852,Oikos Peach Protein,4.57,1,-1,-2
+2026-04-14T07:07:37Z,15521,philly,PhillyTrueCooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,6,5,-1

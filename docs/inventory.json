@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T23:42:43Z",
+  "updated": "2026-04-14T02:38:12Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -679,11 +679,11 @@
           "name": "Celsius Kiwi Guava",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1633372949844.jpeg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-08 22:08:19"
+          "stock_updated": "2026-04-13 21:08:40"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -1039,11 +1039,11 @@
           "name": "Oikos Peach Protein",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177404889920946.png",
-          "stock": -1,
+          "stock": -2,
           "capacity": 3,
-          "fill_pct": -33,
+          "fill_pct": -67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-09 23:03:41"
+          "stock_updated": "2026-04-13 20:25:29"
         },
         {
           "skuid": "S0B2D113B5A891001",
@@ -1953,11 +1953,11 @@
           "name": "3 Musketeers",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168901411356537.jpeg",
-          "stock": 4,
+          "stock": 1,
           "capacity": 10,
-          "fill_pct": 40,
+          "fill_pct": 10,
           "stock_warning": 0,
-          "stock_updated": "2026-04-10 13:35:05"
+          "stock_updated": "2026-04-13 19:31:12"
         },
         {
           "skuid": "S0B2C6B35D1081002",

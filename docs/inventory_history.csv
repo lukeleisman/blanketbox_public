@@ -273,3 +273,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-15T03:47:59Z,16213,haven,TheHaven#2-cooler,S0B2D11EAC47A1006,F0B2D11EAC47A1004,Panera Broccoli,11.97,1,2,1
 2026-04-15T03:47:59Z,16213,haven,TheHaven#2-cooler,S0B2BDAE8D5FB1006,520010247,Gatorade Glacier Cherry,2.97,3,4,1
 2026-04-15T03:47:59Z,15452,borellis,BorellisBox,S0B260513C72C1004,312546628724,Halls Cough Drops - Honey Lemon,1.99,10,9,-1
+2026-04-15T06:00:39Z,15521,philly,PhillyTrueCooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,8,7,-1

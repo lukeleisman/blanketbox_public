@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T11:04:18Z",
+  "updated": "2026-04-15T12:10:50Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -895,11 +895,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 2.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023828232980.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 12,
-          "fill_pct": 92,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 16:44:59"
+          "stock_updated": "2026-04-15 06:36:47"
         },
         {
           "skuid": "S0B2D11356C5A1005",
@@ -2133,11 +2133,11 @@
           "name": "Deer park water",
           "price": 1.87,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-15 06:46:08"
         },
         {
           "skuid": "S0B2D527638181007",

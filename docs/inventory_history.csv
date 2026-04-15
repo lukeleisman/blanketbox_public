@@ -281,3 +281,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-15T08:12:49Z,15521,philly,PhillyTrueCooler,S0B2D4822727E1001,046100354032,Sargento Balanced Brakes – Ritz Crackers,1.97,4,3,-1
 2026-04-15T11:04:18Z,15521,philly,PhillyTrueCooler,S0B26D8C6EAF31008,666,Camera Violation,25.0,2,1,-1
 2026-04-15T11:04:18Z,15521,philly,PhillyTrueCooler,S0B27699FEBDB1004,04003207,M&M Peanut,2.57,8,7,-1
+2026-04-15T12:10:50Z,16214,doylestown,333 North Broad Cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,2.97,11,10,-1
+2026-04-15T12:10:50Z,16213,haven,TheHaven#2-cooler,S0B246944E9A41003,082657500638,Deer park water,1.87,4,3,-1

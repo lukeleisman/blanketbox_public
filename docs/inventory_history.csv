@@ -265,3 +265,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-14T23:11:53Z,15521,philly,PhillyTrueCooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,10,9,-1
 2026-04-14T23:11:53Z,15521,philly,PhillyTrueCooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,9,8,-1
 2026-04-14T23:11:53Z,15521,philly,PhillyTrueCooler,S0B27699FEBDB1004,04003207,M&M Peanut,2.57,9,8,-1
+2026-04-15T00:07:00Z,16214,doylestown,333 North Broad Cooler,S0B2D5C69069E1009,009800120086,Ferrero Chocolate,7.97,6,5,-1

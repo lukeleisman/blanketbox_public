@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T23:11:53Z",
+  "updated": "2026-04-15T00:07:00Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -172,7 +172,7 @@
           "skuid": "S0B2D917CE7351001",
           "barcode": "850004867556",
           "name": "Coconut Milk Powder",
-          "price": 25.99,
+          "price": 21.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177620080991539.png",
           "stock": 2,
           "capacity": 2,
@@ -232,7 +232,7 @@
           "skuid": "S0B2D917A76A51001",
           "barcode": "860012118977",
           "name": "Happy Aging Glow Shots",
-          "price": 11.99,
+          "price": 7.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17762006501629.png",
           "stock": 10,
           "capacity": 10,
@@ -388,7 +388,7 @@
           "skuid": "S0B2D917EFADE1003",
           "barcode": "857245003927",
           "name": "Moringa Powder",
-          "price": 25.99,
+          "price": 21.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177620094612312.png",
           "stock": 3,
           "capacity": 3,
@@ -604,7 +604,7 @@
           "skuid": "S0B2D9181A6F3100A",
           "barcode": "850047325037",
           "name": "Vegan Protein Shake",
-          "price": 12.99,
+          "price": 11.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177620112122363.png",
           "stock": 3,
           "capacity": 3,
@@ -847,11 +847,11 @@
           "name": "Ferrero Chocolate",
           "price": 7.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531031494529.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 15:49:54"
+          "stock_updated": "2026-04-14 19:00:03"
         },
         {
           "skuid": "S0B246944E40F1008",

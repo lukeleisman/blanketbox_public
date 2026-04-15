@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T15:47:17Z",
+  "updated": "2026-04-15T17:05:17Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1087,11 +1087,11 @@
           "name": "Recess ras-lime",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177385828906772.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 15:49:54"
+          "stock_updated": "2026-04-15 10:55:29"
         },
         {
           "skuid": "S0B2C858213931004",
@@ -2025,11 +2025,11 @@
           "name": "Celsius Sparkling Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174415817238848.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-15 12:00:48"
         },
         {
           "skuid": "S0B2D11E680501004",

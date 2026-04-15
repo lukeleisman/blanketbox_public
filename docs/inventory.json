@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T09:56:19Z",
+  "updated": "2026-04-15T11:04:18Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1316,11 +1316,11 @@
           "name": "Camera Violation",
           "price": 25.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174454737098059.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:49:02"
+          "stock_updated": "2026-04-15 05:28:26"
         },
         {
           "skuid": "S0B2A44D16D23100C",
@@ -1640,11 +1640,11 @@
           "name": "M&M Peanut",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17266696341915.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 9,
-          "fill_pct": 89,
+          "fill_pct": 78,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 17:24:14"
+          "stock_updated": "2026-04-15 05:28:26"
         },
         {
           "skuid": "S0B27699FEBD41002",

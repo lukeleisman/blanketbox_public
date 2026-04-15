@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T20:03:51Z",
+  "updated": "2026-04-15T21:26:26Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1977,11 +1977,11 @@
           "name": "Beef Liver Dog Treats",
           "price": 20.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174907930543359.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-15 15:29:31"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -2553,11 +2553,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-15 15:29:31"
         },
         {
           "skuid": "S0B246944E4B51008",
@@ -2589,11 +2589,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-15 15:29:31"
         },
         {
           "skuid": "S0B2D48452F7E1005",

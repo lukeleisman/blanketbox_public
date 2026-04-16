@@ -318,3 +318,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-16T14:56:11Z,15521,philly,PhillyTrueCooler,S0B2C85783CD31007,1162002196,Fair Life Core Power 26g Vanilla Protein Shake,4.97,3,2,-1
 2026-04-16T14:56:11Z,15521,philly,PhillyTrueCooler,S0B2D527638181007,036632074782,Delight Cinnabon,3.27,3,2,-1
 2026-04-16T14:56:11Z,15521,philly,PhillyTrueCooler,S0B2D484E0EFD1001,014100043706,Milano,2.57,1,0,-1
+2026-04-16T16:24:31Z,15519,doylestown,333 North Broad Ambient,S0B2885215A1B1003,047495112900,Natures Bakery blueberry fig bat,2.57,10,9,-1
+2026-04-16T16:24:31Z,15519,doylestown,333 North Broad Ambient,S0B2D917A76A51001,860012118977,Happy Aging Glow Shots,7.99,10,9,-1
+2026-04-16T16:24:31Z,15521,philly,PhillyTrueCooler,S0B25FC55972D1006,1162002211,Fairlife Chocolate Protein 30g,4.57,4,3,-1

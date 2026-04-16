@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T14:56:11Z",
+  "updated": "2026-04-16T16:24:31Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -234,11 +234,11 @@
           "name": "Happy Aging Glow Shots",
           "price": 7.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17762006501629.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 16:28:55"
+          "stock_updated": "2026-04-16 10:18:40"
         },
         {
           "skuid": "S0B2D11E008E11008",
@@ -438,11 +438,11 @@
           "name": "Natures Bakery blueberry fig bat",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866563574429.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 16:28:55"
+          "stock_updated": "2026-04-16 10:18:40"
         },
         {
           "skuid": "S0B271C0F5611100C",
@@ -1472,11 +1472,11 @@
           "name": "Fairlife Chocolate Protein 30g",
           "price": 4.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363365739242.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:49:02"
+          "stock_updated": "2026-04-16 09:56:43"
         },
         {
           "skuid": "S0B2D055ACE44100B",

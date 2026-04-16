@@ -322,3 +322,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-16T16:24:31Z,15519,doylestown,333 North Broad Ambient,S0B2D917A76A51001,860012118977,Happy Aging Glow Shots,7.99,10,9,-1
 2026-04-16T16:24:31Z,15521,philly,PhillyTrueCooler,S0B25FC55972D1006,1162002211,Fairlife Chocolate Protein 30g,4.57,4,3,-1
 2026-04-16T19:16:34Z,16213,haven,TheHaven#2-cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,8,7,-1
+2026-04-16T22:07:02Z,15521,philly,PhillyTrueCooler,S0B2D497020C51001,818290015600,Chobani Cherry Berry drink,3.97,5,4,-1
+2026-04-16T22:07:02Z,15521,philly,PhillyTrueCooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,5,4,-1
+2026-04-16T22:07:02Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,5,4,-1
+2026-04-16T22:07:02Z,16213,haven,TheHaven#2-cooler,S0B2BDAE8D5FB1006,520010247,Gatorade Glacier Cherry,3.0,4,3,-1

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T21:10:25Z",
+  "updated": "2026-04-16T22:07:02Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1352,11 +1352,11 @@
           "name": "Chobani Cherry Berry drink",
           "price": 3.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177499201322740.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:49:02"
+          "stock_updated": "2026-04-16 16:50:10"
         },
         {
           "skuid": "S0B2D11E4F77D1002",
@@ -1448,11 +1448,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-15 22:05:10"
+          "stock_updated": "2026-04-16 16:49:29"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2253,11 +2253,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-16 16:14:52"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -2565,11 +2565,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-04-15 21:31:20"
+          "stock_updated": "2026-04-16 16:14:52"
         },
         {
           "skuid": "S0B2D48452F7E1005",

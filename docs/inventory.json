@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T12:42:41Z",
+  "updated": "2026-04-16T14:56:11Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -991,11 +991,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 15:49:54"
+          "stock_updated": "2026-04-16 08:47:27"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -1159,11 +1159,11 @@
           "name": "Sargento Balanced Breaks",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176917881680440.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 15:49:54"
+          "stock_updated": "2026-04-16 08:47:27"
         },
         {
           "skuid": "S0B2D4833F7471002",
@@ -1258,8 +1258,8 @@
       "machine_name": "PhillyTrueCooler",
       "address": "4200 Ludlow St, Philadelphia PA, 10104",
       "total_skus": 54,
-      "in_stock": 52,
-      "out_of_stock": 2,
+      "in_stock": 51,
+      "out_of_stock": 3,
       "low_stock": 0,
       "products": [
         {
@@ -1424,11 +1424,11 @@
           "name": "Delight Cinnabon",
           "price": 3.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177514340736730.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:49:02"
+          "stock_updated": "2026-04-16 08:10:13"
         },
         {
           "skuid": "S0B2D527865D2100C",
@@ -1460,11 +1460,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 4.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:49:02"
+          "stock_updated": "2026-04-16 09:35:02"
         },
         {
           "skuid": "S0B25FC55972D1006",
@@ -1640,11 +1640,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-16 00:25:07"
+          "stock_updated": "2026-04-16 09:35:02"
         },
         {
           "skuid": "S0B246944DEF51002",

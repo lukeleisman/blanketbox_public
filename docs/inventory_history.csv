@@ -313,3 +313,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-16T12:42:41Z,15521,philly,PhillyTrueCooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,4.97,10,9,-1
 2026-04-16T12:42:41Z,16213,haven,TheHaven#2-cooler,S0B2C6B35D1081002,F0B2C6B35D1081000,Apple Jacks Cereal,1.99,5,4,-1
 2026-04-16T12:42:41Z,16213,haven,TheHaven#2-cooler,S0B2C6BC04A97100D,F0B2C6BC04A97100B,Fruit Loops Cereal,1.99,5,4,-1
+2026-04-16T14:56:11Z,16214,doylestown,333 North Broad Cooler,S0B246944DEF51002,070847811169,Monster Energy,4.27,3,2,-1
+2026-04-16T14:56:11Z,16214,doylestown,333 North Broad Cooler,S0B2D4835B16E100B,046100019054,Sargento Balanced Breaks,2.07,6,5,-1
+2026-04-16T14:56:11Z,15521,philly,PhillyTrueCooler,S0B2C85783CD31007,1162002196,Fair Life Core Power 26g Vanilla Protein Shake,4.97,3,2,-1
+2026-04-16T14:56:11Z,15521,philly,PhillyTrueCooler,S0B2D527638181007,036632074782,Delight Cinnabon,3.27,3,2,-1
+2026-04-16T14:56:11Z,15521,philly,PhillyTrueCooler,S0B2D484E0EFD1001,014100043706,Milano,2.57,1,0,-1

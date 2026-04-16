@@ -305,3 +305,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-16T03:54:01Z,16213,haven,TheHaven#2-cooler,S0B2D4851D7141003,195372325155,Just Ice Tea Peach Oolong 16oz,4.07,5,4,-1
 2026-04-16T03:54:01Z,16213,haven,TheHaven#2-cooler,S0B2D4822727E1001,046100354032,Sargento Balanced Brakes – Ritz Crackers,2.27,5,4,-1
 2026-04-16T03:54:01Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,2.97,11,10,-1
+2026-04-16T06:02:24Z,15521,philly,PhillyTrueCooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,2.97,10,9,-1
+2026-04-16T06:02:24Z,15521,philly,PhillyTrueCooler,S0B27699FEBD41002,04003100,M&M’s Milk Chocolate,2.57,5,4,-1
+2026-04-16T06:02:24Z,15521,philly,PhillyTrueCooler,S0B2D484E0EFD1001,014100043706,Milano,2.57,2,1,-1
+2026-04-16T06:02:24Z,15521,philly,PhillyTrueCooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,7,4,-3
+2026-04-16T06:02:24Z,15521,philly,PhillyTrueCooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,5,3,-2

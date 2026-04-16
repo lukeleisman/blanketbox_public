@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T03:54:01Z",
+  "updated": "2026-04-16T06:02:24Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1532,11 +1532,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 2.97,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:49:02"
+          "stock_updated": "2026-04-15 23:59:57"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1652,11 +1652,11 @@
           "name": "M&M\u2019s Milk Chocolate",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254811305183.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 17:24:14"
+          "stock_updated": "2026-04-15 23:59:57"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -1664,11 +1664,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:49:02"
+          "stock_updated": "2026-04-16 00:25:07"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1748,11 +1748,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 5,
+          "stock": 3,
           "capacity": 9,
-          "fill_pct": 56,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-04-15 22:05:10"
+          "stock_updated": "2026-04-16 00:25:07"
         },
         {
           "skuid": "S0B2D90E22889100A",
@@ -1916,11 +1916,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 7,
+          "stock": 4,
           "capacity": 10,
-          "fill_pct": 70,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-04-15 02:00:41"
+          "stock_updated": "2026-04-16 00:25:07"
         },
         {
           "skuid": "S0B2D48452F7E1005",

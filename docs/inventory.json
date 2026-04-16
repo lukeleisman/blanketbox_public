@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T00:06:43Z",
+  "updated": "2026-04-16T03:54:01Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1472,11 +1472,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:49:02"
+          "stock_updated": "2026-04-15 22:05:10"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1748,11 +1748,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 9,
-          "fill_pct": 67,
+          "fill_pct": 56,
           "stock_warning": 0,
-          "stock_updated": "2026-04-15 01:08:51"
+          "stock_updated": "2026-04-15 22:05:10"
         },
         {
           "skuid": "S0B2D90E22889100A",
@@ -1928,11 +1928,11 @@
           "name": "Vita coconut water",
           "price": 4.49,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176913044023980.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:49:02"
+          "stock_updated": "2026-04-15 21:32:49"
         }
       ]
     },
@@ -1943,8 +1943,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 57,
-      "in_stock": 57,
-      "out_of_stock": 0,
+      "in_stock": 56,
+      "out_of_stock": 1,
       "low_stock": 0,
       "products": [
         {
@@ -2181,11 +2181,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-15 20:50:39"
         },
         {
           "skuid": "S0B25FC55972D1006",
@@ -2265,11 +2265,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 2.97,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-15 22:28:10"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -2313,11 +2313,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 4.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-15 21:31:20"
         },
         {
           "skuid": "S0B2D11D53BB51008",
@@ -2373,11 +2373,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-15 21:31:20"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2493,11 +2493,11 @@
           "name": "Sargento Balanced Brakes \u2013 Ritz Crackers",
           "price": 2.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17619174397577.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-15 21:31:20"
         },
         {
           "skuid": "S0B2D4832F5941002",
@@ -2589,11 +2589,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-04-15 15:29:31"
+          "stock_updated": "2026-04-15 21:31:20"
         },
         {
           "skuid": "S0B2D48452F7E1005",
@@ -2613,11 +2613,11 @@
           "name": "Waffle cones",
           "price": 4.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531046030934.png",
-          "stock": 2,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-15 20:50:39"
         },
         {
           "skuid": "S0B2D527352ED100A",

@@ -310,3 +310,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-16T06:02:24Z,15521,philly,PhillyTrueCooler,S0B2D484E0EFD1001,014100043706,Milano,2.57,2,1,-1
 2026-04-16T06:02:24Z,15521,philly,PhillyTrueCooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,7,4,-3
 2026-04-16T06:02:24Z,15521,philly,PhillyTrueCooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,5,3,-2
+2026-04-16T12:42:41Z,15521,philly,PhillyTrueCooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,4.97,10,9,-1
+2026-04-16T12:42:41Z,16213,haven,TheHaven#2-cooler,S0B2C6B35D1081002,F0B2C6B35D1081000,Apple Jacks Cereal,1.99,5,4,-1
+2026-04-16T12:42:41Z,16213,haven,TheHaven#2-cooler,S0B2C6BC04A97100D,F0B2C6BC04A97100B,Fruit Loops Cereal,1.99,5,4,-1

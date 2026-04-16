@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T11:06:15Z",
+  "updated": "2026-04-16T12:42:41Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1496,11 +1496,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 4.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:49:02"
+          "stock_updated": "2026-04-16 07:23:50"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -1941,11 +1941,11 @@
           "name": "Apple Jacks Cereal",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177126364981765.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-16 06:23:39"
         },
         {
           "skuid": "S0B2740EB95E01006",
@@ -2229,11 +2229,11 @@
           "name": "Fruit Loops Cereal",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177127272492393.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-16 06:23:39"
         },
         {
           "skuid": "S0B246944E40F1008",

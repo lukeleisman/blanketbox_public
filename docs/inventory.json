@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T17:52:03Z",
+  "updated": "2026-04-16T19:16:34Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1989,11 +1989,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-16 13:11:43"
         },
         {
           "skuid": "S0B261B990D101007",

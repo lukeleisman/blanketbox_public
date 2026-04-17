@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T23:09:56Z",
+  "updated": "2026-04-17T00:05:21Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1424,11 +1424,11 @@
           "name": "Delight Cinnabon",
           "price": 3.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177514340736730.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-04-16 08:10:13"
+          "stock_updated": "2026-04-16 18:54:20"
         },
         {
           "skuid": "S0B2D527865D2100C",
@@ -2289,11 +2289,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 4.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-04-15 21:31:20"
+          "stock_updated": "2026-04-16 18:19:37"
         },
         {
           "skuid": "S0B2D11D53BB51008",

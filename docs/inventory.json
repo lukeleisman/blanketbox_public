@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T06:04:04Z",
+  "updated": "2026-04-17T08:12:24Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -967,11 +967,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 13,
+          "stock": 11,
           "capacity": 13,
-          "fill_pct": 100,
+          "fill_pct": 85,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 15:49:54"
+          "stock_updated": "2026-04-17 03:06:35"
         },
         {
           "skuid": "S0B2BC10A038C1008",
@@ -1556,11 +1556,11 @@
           "name": "Health -Ade",
           "price": 5.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177404864183160.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:49:02"
+          "stock_updated": "2026-04-17 01:50:54"
         },
         {
           "skuid": "S0B2D90DF10651003",
@@ -2313,11 +2313,11 @@
           "name": "La Colombe Draft Latte Caramel",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363410135042.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-17 01:16:36"
         },
         {
           "skuid": "S0B25FC5DA5DD1003",

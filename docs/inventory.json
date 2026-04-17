@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T11:56:11Z",
+  "updated": "2026-04-17T13:26:35Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -655,11 +655,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 15:49:54"
+          "stock_updated": "2026-04-17 07:32:49"
         },
         {
           "skuid": "S0B246944E4EB1007",
@@ -1039,11 +1039,11 @@
           "name": "Oikos Peach Protein",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177404889920946.png",
-          "stock": 15,
+          "stock": 14,
           "capacity": 16,
-          "fill_pct": 94,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 22:09:42"
+          "stock_updated": "2026-04-17 07:32:49"
         },
         {
           "skuid": "S0B2D113B5A891001",
@@ -1436,11 +1436,11 @@
           "name": "Delight Mocha",
           "price": 3.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177514355024033.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:49:02"
+          "stock_updated": "2026-04-17 08:19:28"
         },
         {
           "skuid": "S0B246944E3EC1003",

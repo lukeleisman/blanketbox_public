@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T14:41:50Z",
+  "updated": "2026-04-17T16:02:03Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1989,11 +1989,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-16 13:11:43"
+          "stock_updated": "2026-04-17 10:35:40"
         },
         {
           "skuid": "S0B261B990D101007",
@@ -2181,11 +2181,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.17,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 6,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-17 10:35:40"
         },
         {
           "skuid": "S0B2D48427F221004",
@@ -2445,11 +2445,11 @@
           "name": "Rice Krispies Treats Crispy-Original",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594963907831.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-17 10:35:40"
         },
         {
           "skuid": "S0B2CC2D2640F1005",

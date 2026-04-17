@@ -346,3 +346,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-17T13:26:35Z,15521,philly,PhillyTrueCooler,S0B2D527865D2100C,036632078186,Delight Mocha,3.27,2,1,-1
 2026-04-17T14:41:50Z,16214,doylestown,333 North Broad Cooler,S0B246944E4EB1007,889392010145,Celsius Kiwi Guava,3.57,3,2,-1
 2026-04-17T14:41:50Z,15521,philly,PhillyTrueCooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,4.97,9,8,-1
+2026-04-17T16:02:03Z,16213,haven,TheHaven#2-cooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,5.17,6,4,-2
+2026-04-17T16:02:03Z,16213,haven,TheHaven#2-cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,7,6,-1
+2026-04-17T16:02:03Z,16213,haven,TheHaven#2-cooler,S0B246944E34E1008,038000524042,Rice Krispies Treats Crispy-Original,2.07,4,3,-1

@@ -335,3 +335,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-17T03:51:06Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,4,3,-1
 2026-04-17T03:51:06Z,16213,haven,TheHaven#2-cooler,S0B2D11EAC47A1006,F0B2D11EAC47A1004,Panera Broccoli,9.99,2,1,-1
 2026-04-17T03:51:06Z,16213,haven,TheHaven#2-cooler,S0B246944E4141002,052000328684,Gatorade Lemon Lime,3.0,9,8,-1
+2026-04-17T06:04:04Z,15521,philly,PhillyTrueCooler,S0B2D113EDC9E1004,013971003413,Bare Coconut Chips,2.27,5,4,-1
+2026-04-17T06:04:04Z,15521,philly,PhillyTrueCooler,S0B2D4835B16E100B,046100019054,Sargento Balanced Breaks,1.97,6,5,-1

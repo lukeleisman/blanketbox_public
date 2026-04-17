@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T22:40:05Z",
+  "updated": "2026-04-17T23:39:47Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -847,11 +847,11 @@
           "name": "Ferrero Chocolate",
           "price": 7.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531031494529.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:00:03"
+          "stock_updated": "2026-04-17 18:18:36"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -895,11 +895,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023828232980.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 12,
-          "fill_pct": 83,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-15 06:36:47"
+          "stock_updated": "2026-04-17 18:18:36"
         },
         {
           "skuid": "S0B2D11356C5A1005",
@@ -1508,11 +1508,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.07,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-04-16 19:36:12"
+          "stock_updated": "2026-04-17 18:21:32"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1892,11 +1892,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 10,
-          "fill_pct": 30,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-04-16 19:36:12"
+          "stock_updated": "2026-04-17 18:21:32"
         },
         {
           "skuid": "S0B2D48452F7E1005",

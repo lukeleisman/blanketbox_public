@@ -352,3 +352,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-17T17:14:08Z,16214,doylestown,333 North Broad Cooler,S0B2D4831AA261009,0046100353530,Sargento Cheese & Crackers,2.07,6,5,-1
 2026-04-17T17:14:08Z,15521,philly,PhillyTrueCooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,4,3,-1
 2026-04-17T18:12:06Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,9,8,-1
+2026-04-17T19:37:31Z,15519,doylestown,333 North Broad Ambient,S0B27699FEC921007,047495400700,Natures Bakery - Double Chocolate Brownie,2.57,7,6,-1
+2026-04-17T19:37:31Z,15519,doylestown,333 North Broad Ambient,S0B2D5C6DC51A1001,810125972157,Liquid IV StraWatermelon,2.07,12,11,-1
+2026-04-17T19:37:31Z,16214,doylestown,333 North Broad Cooler,S0B2D4851D7141003,195372325155,Just Ice Tea Peach Oolong 16oz,3.97,7,6,-1
+2026-04-17T19:37:31Z,16214,doylestown,333 North Broad Cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,10,9,-1

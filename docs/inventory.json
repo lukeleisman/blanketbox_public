@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T18:12:06Z",
+  "updated": "2026-04-17T19:37:31Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -306,11 +306,11 @@
           "name": "Liquid IV StraWatermelon",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531062586319.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 13,
-          "fill_pct": 92,
+          "fill_pct": 85,
           "stock_warning": 0,
-          "stock_updated": "2026-04-15 01:55:52"
+          "stock_updated": "2026-04-17 13:18:38"
         },
         {
           "skuid": "S0B2D5C726B89100A",
@@ -426,11 +426,11 @@
           "name": "Natures Bakery - Double Chocolate Brownie",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368269911559.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 16:28:55"
+          "stock_updated": "2026-04-17 13:18:38"
         },
         {
           "skuid": "S0B2885215A1B1003",
@@ -919,11 +919,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 3.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-15 14:23:08"
+          "stock_updated": "2026-04-17 14:04:23"
         },
         {
           "skuid": "S0B2D11D53BB51008",
@@ -1231,11 +1231,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 11,
-          "fill_pct": 91,
+          "fill_pct": 82,
           "stock_warning": 0,
-          "stock_updated": "2026-04-15 14:23:08"
+          "stock_updated": "2026-04-17 14:04:23"
         },
         {
           "skuid": "S0B2C6B2751C8100B",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T00:05:21Z",
+  "updated": "2026-04-17T03:51:06Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -859,11 +859,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 16:44:59"
+          "stock_updated": "2026-04-16 20:44:07"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1508,11 +1508,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.07,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-15 23:59:57"
+          "stock_updated": "2026-04-16 19:36:12"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1892,11 +1892,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 10,
-          "fill_pct": 40,
+          "fill_pct": 30,
           "stock_warning": 0,
-          "stock_updated": "2026-04-16 00:25:07"
+          "stock_updated": "2026-04-16 19:36:12"
         },
         {
           "skuid": "S0B2D48452F7E1005",
@@ -1919,8 +1919,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 57,
-      "in_stock": 56,
-      "out_of_stock": 1,
+      "in_stock": 55,
+      "out_of_stock": 2,
       "low_stock": 0,
       "products": [
         {
@@ -1977,11 +1977,11 @@
           "name": "Celsius Cherry Cola",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176202960060787.png",
-          "stock": 2,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-16 22:13:30"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -2265,11 +2265,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-16 20:52:19"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2349,11 +2349,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-04-15 21:31:20"
+          "stock_updated": "2026-04-16 21:42:29"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2421,11 +2421,11 @@
           "name": "Panera Broccoli",
           "price": 9.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177406052644360.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-16 20:05:36"
         },
         {
           "skuid": "S0B2BAC9D24491002",

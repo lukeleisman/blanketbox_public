@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T10:57:11Z",
+  "updated": "2026-04-17T11:56:11Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1919,8 +1919,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 57,
-      "in_stock": 55,
-      "out_of_stock": 2,
+      "in_stock": 54,
+      "out_of_stock": 3,
       "low_stock": 0,
       "products": [
         {
@@ -2397,11 +2397,11 @@
           "name": "Naked Strawberry Banana 15.2oz",
           "price": 4.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176054114397470.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-15 18:05:02"
+          "stock_updated": "2026-04-17 06:46:34"
         },
         {
           "skuid": "S0B246944E3D51001",

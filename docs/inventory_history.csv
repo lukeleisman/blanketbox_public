@@ -340,3 +340,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-17T08:12:24Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,13,11,-2
 2026-04-17T08:12:24Z,15521,philly,PhillyTrueCooler,S0B2D11356C5A1005,851861006119,Health -Ade,5.97,2,1,-1
 2026-04-17T08:12:24Z,16213,haven,TheHaven#2-cooler,S0B25FC5C5C991003,0491300092,La Colombe Draft Latte Caramel,4.27,3,2,-1
+2026-04-17T11:56:11Z,16213,haven,TheHaven#2-cooler,S0B2C377070EC1001,082592194152,Naked Strawberry Banana 15.2oz,4.99,1,0,-1

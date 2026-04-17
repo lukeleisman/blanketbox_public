@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T13:26:35Z",
+  "updated": "2026-04-17T14:41:50Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -667,11 +667,11 @@
           "name": "Celsius Kiwi Guava",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1633372949844.jpeg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 15:49:54"
+          "stock_updated": "2026-04-17 08:27:40"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -1496,11 +1496,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 4.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-16 07:23:50"
+          "stock_updated": "2026-04-17 08:37:38"
         },
         {
           "skuid": "S0B246944E40F1008",

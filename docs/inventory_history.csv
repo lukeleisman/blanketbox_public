@@ -360,3 +360,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-17T23:39:47Z,16214,doylestown,333 North Broad Cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,10,9,-1
 2026-04-17T23:39:47Z,15521,philly,PhillyTrueCooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.07,8,7,-1
 2026-04-17T23:39:47Z,15521,philly,PhillyTrueCooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,3,2,-1
+2026-04-18T02:30:14Z,15519,doylestown,333 North Broad Ambient,S0B2BA2E2259B1009,643843713944,Cliff  Chocolate Chip Protein Bar,2.67,2,1,-1
+2026-04-18T02:30:14Z,15521,philly,PhillyTrueCooler,S0B2C377070EC1001,082592194152,Naked Strawberry Banana 15.2oz,4.99,8,7,-1
+2026-04-18T02:30:14Z,15521,philly,PhillyTrueCooler,S0B2D11E583291001,818290015150,Chobani vanilla,2.27,3,2,-1
+2026-04-18T02:30:14Z,15521,philly,PhillyTrueCooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.07,4,3,-1
+2026-04-18T02:30:14Z,15521,philly,PhillyTrueCooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,2,1,-1

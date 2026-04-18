@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T23:39:47Z",
+  "updated": "2026-04-18T02:30:14Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -138,11 +138,11 @@
           "name": "Cliff  Chocolate Chip Protein Bar",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17674936233687.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 16:45:14"
+          "stock_updated": "2026-04-17 19:26:32"
         },
         {
           "skuid": "S0B2D5CAD34F61005",
@@ -1376,11 +1376,11 @@
           "name": "Chobani vanilla",
           "price": 2.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177241491063878.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:49:02"
+          "stock_updated": "2026-04-17 19:57:53"
         },
         {
           "skuid": "S0B246944E2701006",
@@ -1544,11 +1544,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173685359821166.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:49:02"
+          "stock_updated": "2026-04-17 21:12:48"
         },
         {
           "skuid": "S0B2D11356C5A1005",
@@ -1700,11 +1700,11 @@
           "name": "Naked Strawberry Banana 15.2oz",
           "price": 4.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176054114397470.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:49:02"
+          "stock_updated": "2026-04-17 21:03:27"
         },
         {
           "skuid": "S0B2D113959A71003",
@@ -1892,11 +1892,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 10,
-          "fill_pct": 20,
+          "fill_pct": 10,
           "stock_warning": 0,
-          "stock_updated": "2026-04-17 18:21:32"
+          "stock_updated": "2026-04-17 21:03:27"
         },
         {
           "skuid": "S0B2D48452F7E1005",

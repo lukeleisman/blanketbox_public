@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T22:36:01Z",
+  "updated": "2026-04-18T23:36:02Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1003,11 +1003,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 9,
-          "fill_pct": 89,
+          "fill_pct": 78,
           "stock_warning": 0,
-          "stock_updated": "2026-04-17 12:40:54"
+          "stock_updated": "2026-04-18 18:04:26"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1352,11 +1352,11 @@
           "name": "Chobani Cherry Berry drink",
           "price": 3.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177499201322740.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-04-16 16:50:10"
+          "stock_updated": "2026-04-18 17:57:13"
         },
         {
           "skuid": "S0B2D11E4F77D1002",
@@ -1676,11 +1676,11 @@
           "name": "Naked Blue Machine 15.2oz Bottle",
           "price": 4.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176054088564564.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:49:02"
+          "stock_updated": "2026-04-18 18:31:38"
         },
         {
           "skuid": "S0B2C3772FF3A1009",
@@ -1868,11 +1868,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-18 11:39:16"
+          "stock_updated": "2026-04-18 18:31:38"
         },
         {
           "skuid": "S0B2BDAFAD0A2100A",
@@ -2289,11 +2289,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 4.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 5,
-          "fill_pct": 40,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-04-18 02:16:13"
+          "stock_updated": "2026-04-18 18:00:05"
         },
         {
           "skuid": "S0B2D11D53BB51008",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T14:10:00Z",
+  "updated": "2026-04-18T15:06:46Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -691,11 +691,11 @@
           "name": "Celsius Watermelon",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173400663718739.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 15:49:54"
+          "stock_updated": "2026-04-18 09:15:46"
         },
         {
           "skuid": "S0B2D11DA769B1008",
@@ -991,11 +991,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-04-16 08:47:27"
+          "stock_updated": "2026-04-18 09:13:48"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -1460,11 +1460,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 4.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-04-16 09:35:02"
+          "stock_updated": "2026-04-18 09:54:32"
         },
         {
           "skuid": "S0B25FC55972D1006",

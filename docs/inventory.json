@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T10:07:38Z",
+  "updated": "2026-04-18T11:07:45Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1919,8 +1919,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 57,
-      "in_stock": 54,
-      "out_of_stock": 3,
+      "in_stock": 53,
+      "out_of_stock": 4,
       "low_stock": 0,
       "products": [
         {
@@ -2109,11 +2109,11 @@
           "name": "Deer park water",
           "price": 1.87,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 3,
+          "stock": 0,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-15 06:46:08"
+          "stock_updated": "2026-04-18 05:28:17"
         },
         {
           "skuid": "S0B2D527638181007",

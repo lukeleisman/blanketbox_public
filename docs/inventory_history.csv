@@ -375,3 +375,12 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-18T05:07:46Z,16213,haven,TheHaven#2-cooler,S0B2C6BC04A97100D,F0B2C6BC04A97100B,Fruit Loops Cereal,1.99,4,3,-1
 2026-04-18T06:45:56Z,16214,doylestown,333 North Broad Cooler,S0B246944E5841006,889392000313,Celsius Orange,3.57,3,2,-1
 2026-04-18T06:45:56Z,16214,doylestown,333 North Broad Cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,6,5,-1
+2026-04-18T07:59:35Z,15519,doylestown,333 North Broad Ambient,S0B2D5C86DD211005,829515300579,Veggie Straws SS,3.97,9,8,-1
+2026-04-18T07:59:35Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,10,9,-1
+2026-04-18T07:59:35Z,16214,doylestown,333 North Broad Cooler,S0B2D4835B16E100B,046100019054,Sargento Balanced Breaks,2.07,5,4,-1
+2026-04-18T07:59:35Z,16214,doylestown,333 North Broad Cooler,S0B2BDAE8D5FB1006,520010247,Gatorade Glacier Cherry,3.0,6,5,-1
+2026-04-18T07:59:35Z,15521,philly,PhillyTrueCooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,3,2,-1
+2026-04-18T07:59:35Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,8,7,-1
+2026-04-18T07:59:35Z,16213,haven,TheHaven#2-cooler,S0B246944E6801005,040000422082,3 Musketeers,2.57,9,8,-1
+2026-04-18T07:59:35Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,8,7,-1
+2026-04-18T07:59:35Z,16213,haven,TheHaven#2-cooler,S0B2D4851D7141003,195372325155,Just Ice Tea Peach Oolong 16oz,4.07,3,2,-1

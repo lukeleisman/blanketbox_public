@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T06:45:56Z",
+  "updated": "2026-04-18T07:59:35Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -618,11 +618,11 @@
           "name": "Veggie Straws SS",
           "price": 3.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177186917532634.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 16:28:55"
+          "stock_updated": "2026-04-18 02:51:09"
         },
         {
           "skuid": "S0B2D5C6B3EBA1001",
@@ -871,11 +871,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 15:49:54"
+          "stock_updated": "2026-04-18 02:49:47"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -967,11 +967,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 13,
-          "fill_pct": 77,
+          "fill_pct": 69,
           "stock_warning": 0,
-          "stock_updated": "2026-04-17 23:28:38"
+          "stock_updated": "2026-04-18 02:49:47"
         },
         {
           "skuid": "S0B2BC10A038C1008",
@@ -1159,11 +1159,11 @@
           "name": "Sargento Balanced Breaks",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176917881680440.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-16 08:47:27"
+          "stock_updated": "2026-04-18 02:49:47"
         },
         {
           "skuid": "S0B2D4833F7471002",
@@ -1724,11 +1724,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 9,
-          "fill_pct": 33,
+          "fill_pct": 22,
           "stock_warning": 0,
-          "stock_updated": "2026-04-16 00:25:07"
+          "stock_updated": "2026-04-18 02:06:38"
         },
         {
           "skuid": "S0B2D90E22889100A",
@@ -1929,11 +1929,11 @@
           "name": "3 Musketeers",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168901411356537.jpeg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-18 02:16:13"
         },
         {
           "skuid": "S0B2C6B35D1081002",
@@ -2145,11 +2145,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-18 02:16:13"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2289,11 +2289,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 4.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-04-16 18:19:37"
+          "stock_updated": "2026-04-18 02:16:13"
         },
         {
           "skuid": "S0B2D11D53BB51008",
@@ -2529,11 +2529,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 9,
-          "fill_pct": 89,
+          "fill_pct": 78,
           "stock_warning": 0,
-          "stock_updated": "2026-04-15 15:29:31"
+          "stock_updated": "2026-04-18 02:16:13"
         },
         {
           "skuid": "S0B246944E4B51008",

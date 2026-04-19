@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T21:59:15Z",
+  "updated": "2026-04-19T22:48:50Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1508,11 +1508,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.07,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 10,
-          "fill_pct": 70,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-04-17 18:21:32"
+          "stock_updated": "2026-04-19 17:13:46"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1628,11 +1628,11 @@
           "name": "M&M\u2019s Milk Chocolate",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254811305183.png",
-          "stock": 3,
+          "stock": 1,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 17,
           "stock_warning": 0,
-          "stock_updated": "2026-04-18 11:39:16"
+          "stock_updated": "2026-04-19 17:13:46"
         },
         {
           "skuid": "S0B2D484E0EFD1001",

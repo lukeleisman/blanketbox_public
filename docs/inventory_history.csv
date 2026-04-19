@@ -419,3 +419,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-19T16:01:43Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,3,2,-1
 2026-04-19T16:01:43Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,7,6,-1
 2026-04-19T16:01:43Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,3,2,-1
+2026-04-19T22:48:50Z,15521,philly,PhillyTrueCooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.07,7,6,-1
+2026-04-19T22:48:50Z,15521,philly,PhillyTrueCooler,S0B27699FEBD41002,04003100,M&M’s Milk Chocolate,2.57,3,1,-2

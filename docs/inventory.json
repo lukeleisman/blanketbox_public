@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T08:11:53Z",
+  "updated": "2026-04-19T09:24:09Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -667,11 +667,11 @@
           "name": "Celsius Kiwi Guava",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1633372949844.jpeg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-04-17 08:27:40"
+          "stock_updated": "2026-04-19 03:13:49"
         },
         {
           "skuid": "S0B246944E5841006",

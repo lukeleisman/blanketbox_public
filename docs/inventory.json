@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T14:09:51Z",
+  "updated": "2026-04-19T15:06:31Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1941,11 +1941,11 @@
           "name": "Apple Jacks Cereal",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177126364981765.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-04-16 06:23:39"
+          "stock_updated": "2026-04-19 09:55:39"
         },
         {
           "skuid": "S0B2740EB95E01006",
@@ -2217,11 +2217,11 @@
           "name": "Frosted Flakes cereal",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177127250090090.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-19 09:55:39"
         },
         {
           "skuid": "S0B2C6BC04A97100D",

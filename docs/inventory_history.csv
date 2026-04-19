@@ -416,3 +416,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-19T09:24:09Z,16214,doylestown,333 North Broad Cooler,S0B246944E4EB1007,889392010145,Celsius Kiwi Guava,3.57,2,1,-1
 2026-04-19T15:06:31Z,16213,haven,TheHaven#2-cooler,S0B2C6B35D1081002,F0B2C6B35D1081000,Apple Jacks Cereal,1.99,4,3,-1
 2026-04-19T15:06:31Z,16213,haven,TheHaven#2-cooler,S0B2C6BBCDF7C1006,F0B2C6BBCDF7C1004,Frosted Flakes cereal,1.99,5,4,-1
+2026-04-19T16:01:43Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,3,2,-1
+2026-04-19T16:01:43Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,7,6,-1
+2026-04-19T16:01:43Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,3,2,-1

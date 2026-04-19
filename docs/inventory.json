@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T23:36:02Z",
+  "updated": "2026-04-19T02:45:23Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -90,11 +90,11 @@
           "name": "Betterway Toilet Paper Roll",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 16:28:55"
+          "stock_updated": "2026-04-18 20:31:39"
         },
         {
           "skuid": "S0B2D5C80C7741005",
@@ -1003,11 +1003,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 9,
-          "fill_pct": 78,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-18 18:04:26"
+          "stock_updated": "2026-04-18 18:49:45"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1258,8 +1258,8 @@
       "machine_name": "PhillyTrueCooler",
       "address": "4200 Ludlow St, Philadelphia PA, 10104",
       "total_skus": 54,
-      "in_stock": 51,
-      "out_of_stock": 3,
+      "in_stock": 50,
+      "out_of_stock": 4,
       "low_stock": 0,
       "products": [
         {
@@ -1784,11 +1784,11 @@
           "name": "San Pellegrino Aranciata",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17145040865182.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:49:02"
+          "stock_updated": "2026-04-18 20:17:17"
         },
         {
           "skuid": "S0B2D90DB76B5100C",
@@ -1868,11 +1868,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-18 18:31:38"
+          "stock_updated": "2026-04-18 18:36:05"
         },
         {
           "skuid": "S0B2BDAFAD0A2100A",

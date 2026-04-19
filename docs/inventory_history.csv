@@ -405,3 +405,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-18T23:36:02Z,15521,philly,PhillyTrueCooler,S0B2D497020C51001,818290015600,Chobani Cherry Berry drink,3.97,4,3,-1
 2026-04-18T23:36:02Z,15521,philly,PhillyTrueCooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,5,4,-1
 2026-04-18T23:36:02Z,16213,haven,TheHaven#2-cooler,S0B2D4851D7141003,195372325155,Just Ice Tea Peach Oolong 16oz,4.07,2,1,-1
+2026-04-19T02:45:23Z,15519,doylestown,333 North Broad Ambient,S0B260510FB391004,860002564531,Betterway Toilet Paper Roll,3.57,9,8,-1
+2026-04-19T02:45:23Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,7,6,-1
+2026-04-19T02:45:23Z,15521,philly,PhillyTrueCooler,S0B2D3E6DA5E01005,041508235785,San Pellegrino Aranciata,3.77,1,0,-1
+2026-04-19T02:45:23Z,15521,philly,PhillyTrueCooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,4,3,-1

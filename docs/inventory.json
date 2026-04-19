@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T06:59:18Z",
+  "updated": "2026-04-19T08:11:53Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -967,11 +967,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 9,
+          "stock": 7,
           "capacity": 13,
-          "fill_pct": 69,
+          "fill_pct": 54,
           "stock_warning": 0,
-          "stock_updated": "2026-04-18 02:49:47"
+          "stock_updated": "2026-04-19 02:07:47"
         },
         {
           "skuid": "S0B2BC10A038C1008",
@@ -1568,11 +1568,11 @@
           "name": "Jennie\u2019s Coconut bites",
           "price": 19.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619046579382.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:49:02"
+          "stock_updated": "2026-04-19 02:20:00"
         },
         {
           "skuid": "S0B2D4851D7141003",
@@ -1664,11 +1664,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:49:02"
+          "stock_updated": "2026-04-19 02:20:00"
         },
         {
           "skuid": "S0B2C377094211003",
@@ -1772,11 +1772,11 @@
           "name": "Rice Krispies Treats Original",
           "price": 1.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177190083350690.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:49:02"
+          "stock_updated": "2026-04-19 02:20:00"
         },
         {
           "skuid": "S0B2D3E6DA5E01005",

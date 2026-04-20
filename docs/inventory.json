@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T08:09:20Z",
+  "updated": "2026-04-20T10:15:29Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -655,11 +655,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-04-18 00:47:03"
+          "stock_updated": "2026-04-20 03:39:08"
         },
         {
           "skuid": "S0B246944E4EB1007",
@@ -679,11 +679,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-04-18 00:47:03"
+          "stock_updated": "2026-04-20 03:39:08"
         },
         {
           "skuid": "S0B2668475B231007",

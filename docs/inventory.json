@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T02:46:21Z",
+  "updated": "2026-04-20T05:42:52Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 52,
-      "in_stock": 51,
-      "out_of_stock": 1,
+      "in_stock": 50,
+      "out_of_stock": 2,
       "low_stock": 0,
       "products": [
         {
@@ -126,11 +126,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-15 14:23:24"
+          "stock_updated": "2026-04-19 23:57:16"
         },
         {
           "skuid": "S0B2BA2E2259B1009",
@@ -150,11 +150,11 @@
           "name": "Cliff Mini",
           "price": 1.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531478317755.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 16:28:55"
+          "stock_updated": "2026-04-19 23:57:16"
         },
         {
           "skuid": "S0B248CF276F51003",
@@ -258,11 +258,11 @@
           "name": "JACK LINKS TERIYAKI BEEF STEAK",
           "price": 4.57,
           "image": "https://image-us.sandstar.com/images/goods/000008/goods/000008/mergoods/1590023341331.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 16:28:55"
+          "stock_updated": "2026-04-19 23:55:53"
         },
         {
           "skuid": "S0B26860EB3691005",
@@ -366,11 +366,11 @@
           "name": "Mini Chips Ahoy",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177198316396981.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 16:28:55"
+          "stock_updated": "2026-04-19 23:55:53"
         },
         {
           "skuid": "S0B27933ECA6F1006",
@@ -1258,8 +1258,8 @@
       "machine_name": "PhillyTrueCooler",
       "address": "4200 Ludlow St, Philadelphia PA, 10104",
       "total_skus": 54,
-      "in_stock": 42,
-      "out_of_stock": 12,
+      "in_stock": 39,
+      "out_of_stock": 15,
       "low_stock": 0,
       "products": [
         {
@@ -1508,11 +1508,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.07,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 10,
-          "fill_pct": 60,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-19 17:13:46"
+          "stock_updated": "2026-04-19 22:59:41"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1544,11 +1544,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173685359821166.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 4,
-          "fill_pct": 25,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-18 11:39:16"
+          "stock_updated": "2026-04-20 00:21:37"
         },
         {
           "skuid": "S0B2D11356C5A1005",
@@ -1628,11 +1628,11 @@
           "name": "M&M\u2019s Milk Chocolate",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254811305183.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 6,
-          "fill_pct": 17,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-19 17:13:46"
+          "stock_updated": "2026-04-19 22:59:41"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -1700,11 +1700,11 @@
           "name": "Naked Strawberry Banana 15.2oz",
           "price": 4.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176054114397470.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-17 21:03:27"
+          "stock_updated": "2026-04-19 22:30:25"
         },
         {
           "skuid": "S0B2D113959A71003",
@@ -1724,11 +1724,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 9,
-          "fill_pct": 11,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-18 11:39:16"
+          "stock_updated": "2026-04-19 22:59:41"
         },
         {
           "skuid": "S0B2D90E22889100A",
@@ -1796,11 +1796,11 @@
           "name": "San Pellegrino Essenza",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619022990038.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-04-17 22:23:39"
+          "stock_updated": "2026-04-19 22:30:25"
         },
         {
           "skuid": "S0B2D4822727E1001",

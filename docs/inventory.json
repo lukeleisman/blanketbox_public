@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T15:16:43Z",
+  "updated": "2026-04-20T16:40:22Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2001,11 +2001,11 @@
           "name": "Celsius Sparkling Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174415817238848.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-15 12:00:48"
+          "stock_updated": "2026-04-20 10:36:46"
         },
         {
           "skuid": "S0B2D11E680501004",

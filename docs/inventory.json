@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T21:11:19Z",
+  "updated": "2026-04-20T22:08:36Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -799,11 +799,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 16,
+          "stock": 14,
           "capacity": 17,
-          "fill_pct": 94,
+          "fill_pct": 82,
           "stock_warning": 0,
-          "stock_updated": "2026-04-18 17:01:48"
+          "stock_updated": "2026-04-20 16:52:34"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1195,11 +1195,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 18,
+          "stock": 17,
           "capacity": 21,
-          "fill_pct": 86,
+          "fill_pct": 81,
           "stock_warning": 0,
-          "stock_updated": "2026-04-17 23:28:38"
+          "stock_updated": "2026-04-20 16:52:34"
         },
         {
           "skuid": "S0B2D5DE0BABD100A",
@@ -1257,9 +1257,9 @@
       "location_name": "Philadelphia",
       "machine_name": "PhillyTrueCooler",
       "address": "4200 Ludlow St, Philadelphia PA, 10104",
-      "total_skus": 54,
+      "total_skus": 56,
       "in_stock": 39,
-      "out_of_stock": 15,
+      "out_of_stock": 17,
       "low_stock": 0,
       "products": [
         {
@@ -1333,6 +1333,18 @@
           "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-04-14 13:49:02"
+        },
+        {
+          "skuid": "S0B2DAF9429041007",
+          "barcode": "044000085964",
+          "name": "Chips Ahoy minis",
+          "price": 4.5,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17767056506495.png",
+          "stock": 0,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-04-20 16:25:42"
         },
         {
           "skuid": "S0B2D11DA769B1008",
@@ -1875,6 +1887,18 @@
           "stock_updated": "2026-04-19 19:23:10"
         },
         {
+          "skuid": "S0B2DAF8F87C31004",
+          "barcode": "850032072090",
+          "name": "St James Green Tea",
+          "price": 4.0,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177670534725577.png",
+          "stock": 0,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-04-20 16:25:42"
+        },
+        {
           "skuid": "S0B2BDAFAD0A2100A",
           "barcode": "12000813313",
           "name": "Starbucks Frappuccino Vanilla",
@@ -1999,7 +2023,7 @@
           "skuid": "S0B2DAF9429041007",
           "barcode": "044000085964",
           "name": "Chips Ahoy minis",
-          "price": 4.97,
+          "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17767056506495.png",
           "stock": 6,
           "capacity": 6,
@@ -2335,7 +2359,7 @@
           "skuid": "S0B2D918381EA1006",
           "barcode": "850004867198",
           "name": "Lion\u2019s Mane Mush powder",
-          "price": 15.99,
+          "price": 18.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177620124285542.png",
           "stock": 2,
           "capacity": 2,

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T23:37:48Z",
+  "updated": "2026-04-20T02:46:21Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 52,
-      "in_stock": 52,
-      "out_of_stock": 0,
+      "in_stock": 51,
+      "out_of_stock": 1,
       "low_stock": 0,
       "products": [
         {
@@ -138,11 +138,11 @@
           "name": "Cliff  Chocolate Chip Protein Bar",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17674936233687.png",
-          "stock": 1,
+          "stock": -2,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": -67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-17 19:26:32"
+          "stock_updated": "2026-04-19 20:17:49"
         },
         {
           "skuid": "S0B2D5CAD34F61005",
@@ -1258,8 +1258,8 @@
       "machine_name": "PhillyTrueCooler",
       "address": "4200 Ludlow St, Philadelphia PA, 10104",
       "total_skus": 54,
-      "in_stock": 50,
-      "out_of_stock": 4,
+      "in_stock": 42,
+      "out_of_stock": 12,
       "low_stock": 0,
       "products": [
         {
@@ -1388,11 +1388,11 @@
           "name": "Coca-Cola Original Taste",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/166197041201682.jpeg",
-          "stock": 2,
+          "stock": 0,
           "capacity": 6,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-17 22:29:29"
+          "stock_updated": "2026-04-19 19:21:17"
         },
         {
           "skuid": "S0B2BAC924065100B",
@@ -1412,11 +1412,11 @@
           "name": "Deer park water",
           "price": 1.87,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 8,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:49:02"
+          "stock_updated": "2026-04-19 21:28:00"
         },
         {
           "skuid": "S0B2D527638181007",
@@ -1424,11 +1424,11 @@
           "name": "Delight Cinnabon",
           "price": 3.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177514340736730.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-16 18:54:20"
+          "stock_updated": "2026-04-19 19:21:17"
         },
         {
           "skuid": "S0B2D527865D2100C",
@@ -1448,11 +1448,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 3,
+          "stock": 0,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-17 11:36:33"
+          "stock_updated": "2026-04-19 19:21:17"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1472,11 +1472,11 @@
           "name": "Fairlife Chocolate Protein 30g",
           "price": 4.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363365739242.png",
-          "stock": 3,
+          "stock": 0,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-16 09:56:43"
+          "stock_updated": "2026-04-19 19:21:17"
         },
         {
           "skuid": "S0B2D055ACE44100B",
@@ -1520,11 +1520,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 2.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:49:02"
+          "stock_updated": "2026-04-19 20:23:16"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -1616,11 +1616,11 @@
           "name": "M&M Peanut",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17266696341915.png",
-          "stock": 7,
+          "stock": 0,
           "capacity": 9,
-          "fill_pct": 78,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-15 05:28:26"
+          "stock_updated": "2026-04-19 19:23:10"
         },
         {
           "skuid": "S0B27699FEBD41002",
@@ -1772,11 +1772,11 @@
           "name": "Rice Krispies Treats Original",
           "price": 1.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177190083350690.png",
-          "stock": 7,
+          "stock": 0,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-19 02:20:00"
+          "stock_updated": "2026-04-19 19:23:10"
         },
         {
           "skuid": "S0B2D3E6DA5E01005",
@@ -1868,11 +1868,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 3,
+          "stock": 0,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-18 18:36:05"
+          "stock_updated": "2026-04-19 19:23:10"
         },
         {
           "skuid": "S0B2BDAFAD0A2100A",
@@ -1892,11 +1892,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 10,
-          "fill_pct": 10,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-17 21:03:27"
+          "stock_updated": "2026-04-19 19:23:10"
         },
         {
           "skuid": "S0B2D48452F7E1005",
@@ -1904,11 +1904,11 @@
           "name": "Vita coconut water",
           "price": 4.49,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176913044023980.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-15 21:32:49"
+          "stock_updated": "2026-04-19 21:16:17"
         }
       ]
     },

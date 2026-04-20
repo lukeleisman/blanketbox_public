@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T20:10:12Z",
+  "updated": "2026-04-20T21:11:19Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -883,11 +883,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 15:49:54"
+          "stock_updated": "2026-04-20 15:40:45"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2433,11 +2433,11 @@
           "name": "Pop Secret popcorn",
           "price": 1.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-20 12:35:50"
+          "stock_updated": "2026-04-20 15:33:58"
         },
         {
           "skuid": "S0B246944E34E1008",

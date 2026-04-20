@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T10:15:29Z",
+  "updated": "2026-04-20T11:51:49Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -727,11 +727,11 @@
           "name": "Chobani Protein",
           "price": 4.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174379267257617.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 15:49:54"
+          "stock_updated": "2026-04-20 05:32:00"
         },
         {
           "skuid": "S0B2D11E2F0FD1001",
@@ -1003,11 +1003,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 9,
-          "fill_pct": 67,
+          "fill_pct": 56,
           "stock_warning": 0,
-          "stock_updated": "2026-04-18 18:49:45"
+          "stock_updated": "2026-04-20 05:32:00"
         },
         {
           "skuid": "S0B2C377070EC1001",

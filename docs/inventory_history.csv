@@ -452,3 +452,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-20T10:15:29Z,16214,doylestown,333 North Broad Cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,5,4,-1
 2026-04-20T11:51:49Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,6,5,-1
 2026-04-20T11:51:49Z,16214,doylestown,333 North Broad Cooler,S0B2D11E4F77D1002,818290017734,Chobani Protein,4.57,6,5,-1
+2026-04-20T13:44:31Z,16214,doylestown,333 North Broad Cooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,5.27,7,6,-1
+2026-04-20T13:44:31Z,16214,doylestown,333 North Broad Cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,4,3,-1
+2026-04-20T13:44:31Z,16213,haven,TheHaven#2-cooler,S0B246944E4141002,052000328684,Gatorade Lemon Lime,3.0,8,6,-2

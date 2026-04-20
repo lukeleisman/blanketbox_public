@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T05:42:52Z",
+  "updated": "2026-04-20T08:09:20Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1919,8 +1919,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 57,
-      "in_stock": 53,
-      "out_of_stock": 4,
+      "in_stock": 52,
+      "out_of_stock": 5,
       "low_stock": 0,
       "products": [
         {
@@ -2253,11 +2253,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-16 16:14:52"
+          "stock_updated": "2026-04-20 01:14:13"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -2505,11 +2505,11 @@
           "name": "Sargento Cheese & Crackers",
           "price": 2.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172367251813627.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 19:48:57"
+          "stock_updated": "2026-04-20 01:14:13"
         },
         {
           "skuid": "S0B2D90DD9337100C",
@@ -2565,11 +2565,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 2,
+          "stock": 0,
           "capacity": 7,
-          "fill_pct": 29,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-19 10:24:57"
+          "stock_updated": "2026-04-20 01:14:13"
         },
         {
           "skuid": "S0B2D48452F7E1005",
@@ -2589,11 +2589,11 @@
           "name": "Waffle cones",
           "price": 4.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531046030934.png",
-          "stock": 0,
+          "stock": -1,
           "capacity": 2,
-          "fill_pct": 0,
+          "fill_pct": -50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-15 20:50:39"
+          "stock_updated": "2026-04-20 01:14:13"
         },
         {
           "skuid": "S0B2D527352ED100A",

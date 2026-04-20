@@ -444,3 +444,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-20T05:42:52Z,15521,philly,PhillyTrueCooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.07,1,0,-1
 2026-04-20T05:42:52Z,15521,philly,PhillyTrueCooler,S0B27699FEBD41002,04003100,M&M’s Milk Chocolate,2.57,1,0,-1
 2026-04-20T05:42:52Z,15521,philly,PhillyTrueCooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,1,0,-1
+2026-04-20T08:09:20Z,16213,haven,TheHaven#2-cooler,S0B2D5C6B3EBA1001,191414014117,Waffle cones,4.97,0,-1,-1
+2026-04-20T08:09:20Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,2,0,-2
+2026-04-20T08:09:20Z,16213,haven,TheHaven#2-cooler,S0B2D4831AA261009,0046100353530,Sargento Cheese & Crackers,2.27,5,4,-1
+2026-04-20T08:09:20Z,16213,haven,TheHaven#2-cooler,S0B2BDAE8D5FB1006,520010247,Gatorade Glacier Cherry,3.0,3,2,-1

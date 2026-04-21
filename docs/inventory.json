@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T06:02:58Z",
+  "updated": "2026-04-21T08:16:47Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -354,11 +354,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 16:28:55"
+          "stock_updated": "2026-04-21 01:41:07"
         },
         {
           "skuid": "S0B2D5CAB0B6E1005",
@@ -366,11 +366,11 @@
           "name": "Mini Chips Ahoy",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177198316396981.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-04-19 23:55:53"
+          "stock_updated": "2026-04-21 01:41:07"
         },
         {
           "skuid": "S0B27933ECA6F1006",
@@ -1676,11 +1676,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-19 02:20:00"
+          "stock_updated": "2026-04-21 01:05:58"
         },
         {
           "skuid": "S0B2C377094211003",
@@ -1712,11 +1712,11 @@
           "name": "Naked Strawberry Banana 15.2oz",
           "price": 4.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176054114397470.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-04-19 22:30:25"
+          "stock_updated": "2026-04-21 01:05:58"
         },
         {
           "skuid": "S0B2D113959A71003",

@@ -468,3 +468,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-20T22:08:36Z,16214,doylestown,333 North Broad Cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,18,17,-1
 2026-04-21T03:51:27Z,16214,doylestown,333 North Broad Cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,17,16,-1
 2026-04-21T03:51:27Z,16213,haven,TheHaven#2-cooler,S0B2BDAE8D5FB1006,520010247,Gatorade Glacier Cherry,3.0,2,1,-1
+2026-04-21T06:02:58Z,15521,philly,PhillyTrueCooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.07,5,4,-1

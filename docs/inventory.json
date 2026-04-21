@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T00:05:58Z",
+  "updated": "2026-04-21T03:51:27Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1195,11 +1195,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 17,
+          "stock": 16,
           "capacity": 21,
-          "fill_pct": 81,
+          "fill_pct": 76,
           "stock_warning": 0,
-          "stock_updated": "2026-04-20 16:52:34"
+          "stock_updated": "2026-04-20 22:18:33"
         },
         {
           "skuid": "S0B2D5DE0BABD100A",
@@ -2277,11 +2277,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 4,
-          "fill_pct": 50,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-04-20 12:35:50"
+          "stock_updated": "2026-04-20 19:41:52"
         },
         {
           "skuid": "S0B246944E4141002",

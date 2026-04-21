@@ -476,3 +476,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-21T14:47:14Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,5,4,-1
 2026-04-21T14:47:14Z,15521,philly,PhillyTrueCooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.07,4,3,-1
 2026-04-21T14:47:14Z,16213,haven,TheHaven#2-cooler,S0B261B990D101007,8939200031,Celsius Sparkling Orange,3.57,6,5,-1
+2026-04-21T19:13:52Z,16214,doylestown,333 North Broad Cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,16,15,-1
+2026-04-21T19:13:52Z,16213,haven,TheHaven#2-cooler,S0B2DAF9429041007,044000085964,Chips Ahoy minis,4.5,6,5,-1
+2026-04-21T19:13:52Z,16213,haven,TheHaven#2-cooler,S0B246944E6801005,040000422082,3 Musketeers,2.57,6,5,-1

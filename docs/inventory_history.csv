@@ -473,3 +473,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-21T08:16:47Z,15519,doylestown,333 North Broad Ambient,S0B2D5CAB0B6E1005,044000020071,Mini Chips Ahoy,2.07,6,5,-1
 2026-04-21T08:16:47Z,15521,philly,PhillyTrueCooler,S0B2C377070EC1001,082592194152,Naked Strawberry Banana 15.2oz,4.99,6,5,-1
 2026-04-21T08:16:47Z,15521,philly,PhillyTrueCooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,7,6,-1
+2026-04-21T14:47:14Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,5,4,-1
+2026-04-21T14:47:14Z,15521,philly,PhillyTrueCooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.07,4,3,-1
+2026-04-21T14:47:14Z,16213,haven,TheHaven#2-cooler,S0B261B990D101007,8939200031,Celsius Sparkling Orange,3.57,6,5,-1

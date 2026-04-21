@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T16:10:41Z",
+  "updated": "2026-04-21T17:34:04Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -3346,10 +3346,10 @@
       "freezer_id": "15520",
       "location_id": "mckinley",
       "location_name": "McKinley Park",
-      "machine_name": "ChicagoDryCab1",
-      "address": "McKinley Park Fieldhouse",
-      "total_skus": 52,
-      "in_stock": 42,
+      "machine_name": "mHUBPrototypingShop",
+      "address": "1623 W Fulton St",
+      "total_skus": 53,
+      "in_stock": 43,
       "out_of_stock": 10,
       "low_stock": 0,
       "products": [
@@ -3916,6 +3916,18 @@
           "fill_pct": null,
           "stock_warning": 0,
           "stock_updated": "2025-11-05 11:35:26"
+        },
+        {
+          "skuid": "S0B2DB49723CA1009",
+          "barcode": "037083014143",
+          "name": "Titebond III Ultimate Wood Glue 16oz",
+          "price": 6.0,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177678973206211.png",
+          "stock": 1,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-04-21 12:12:01"
         },
         {
           "skuid": "S0B246944E8251002",

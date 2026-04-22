@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T12:13:10Z",
+  "updated": "2026-04-22T14:15:56Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -645,8 +645,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 50,
-      "in_stock": 46,
-      "out_of_stock": 4,
+      "in_stock": 45,
+      "out_of_stock": 5,
       "low_stock": 0,
       "products": [
         {
@@ -991,11 +991,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-18 09:13:48"
+          "stock_updated": "2026-04-22 08:51:18"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -1257,9 +1257,9 @@
       "location_name": "Philadelphia",
       "machine_name": "PhillyTrueCooler",
       "address": "4200 Ludlow St, Philadelphia PA, 10104",
-      "total_skus": 56,
+      "total_skus": 50,
       "in_stock": 38,
-      "out_of_stock": 18,
+      "out_of_stock": 12,
       "low_stock": 0,
       "products": [
         {
@@ -1479,18 +1479,6 @@
           "stock_updated": "2026-04-18 09:54:32"
         },
         {
-          "skuid": "S0B25FC55972D1006",
-          "barcode": "1162002211",
-          "name": "Fairlife Chocolate Protein 30g",
-          "price": 4.57,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363365739242.png",
-          "stock": 0,
-          "capacity": 4,
-          "fill_pct": 0,
-          "stock_warning": 0,
-          "stock_updated": "2026-04-19 19:21:17"
-        },
-        {
           "skuid": "S0B2D055ACE44100B",
           "barcode": "1162002198",
           "name": "Fairlife Core Power - Strawberry (26g Complete Protein)",
@@ -1563,18 +1551,6 @@
           "stock_updated": "2026-04-20 00:21:37"
         },
         {
-          "skuid": "S0B2D11356C5A1005",
-          "barcode": "851861006119",
-          "name": "Health -Ade",
-          "price": 5.97,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177404864183160.png",
-          "stock": 0,
-          "capacity": 2,
-          "fill_pct": 0,
-          "stock_warning": 0,
-          "stock_updated": "2026-04-22 01:00:19"
-        },
-        {
           "skuid": "S0B2D90DF10651003",
           "barcode": "071879700049",
           "name": "Jennie\u2019s Coconut bites",
@@ -1621,18 +1597,6 @@
           "fill_pct": null,
           "stock_warning": 0,
           "stock_updated": "2026-04-14 13:49:02"
-        },
-        {
-          "skuid": "S0B27699FEBDB1004",
-          "barcode": "04003207",
-          "name": "M&M Peanut",
-          "price": 2.57,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17266696341915.png",
-          "stock": 0,
-          "capacity": 9,
-          "fill_pct": 0,
-          "stock_warning": 0,
-          "stock_updated": "2026-04-19 19:23:10"
         },
         {
           "skuid": "S0B27699FEBD41002",
@@ -1731,16 +1695,16 @@
           "stock_updated": "2026-04-14 13:49:02"
         },
         {
-          "skuid": "S0B246944E3D51001",
-          "barcode": "044000047009",
-          "name": "Oreo Cookies-Sleeve Pack",
-          "price": 2.57,
-          "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
+          "skuid": "S0B2DAF9204FD1006",
+          "barcode": "854622006007",
+          "name": "Olina\u2019s Wafer Crackers",
+          "price": 3.0,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177670551037617.png",
           "stock": 0,
-          "capacity": 9,
-          "fill_pct": 0,
+          "capacity": 0,
+          "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-04-19 22:59:41"
+          "stock_updated": "2026-04-22 09:03:30"
         },
         {
           "skuid": "S0B2D90E22889100A",
@@ -1777,30 +1741,6 @@
           "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-04-14 13:49:02"
-        },
-        {
-          "skuid": "S0B27699FEBAC1004",
-          "barcode": "038000765414",
-          "name": "Rice Krispies Treats Original",
-          "price": 1.97,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177190083350690.png",
-          "stock": 0,
-          "capacity": 8,
-          "fill_pct": 0,
-          "stock_warning": 0,
-          "stock_updated": "2026-04-19 19:23:10"
-        },
-        {
-          "skuid": "S0B2D3E6DA5E01005",
-          "barcode": "041508235785",
-          "name": "San Pellegrino Aranciata",
-          "price": 3.77,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17145040865182.png",
-          "stock": 0,
-          "capacity": 1,
-          "fill_pct": 0,
-          "stock_warning": 0,
-          "stock_updated": "2026-04-18 20:17:17"
         },
         {
           "skuid": "S0B2D90DB76B5100C",
@@ -1875,18 +1815,6 @@
           "stock_updated": "2026-04-14 13:49:02"
         },
         {
-          "skuid": "S0B27699FEBCD1003",
-          "barcode": "040000424314",
-          "name": "Snickers Candy Bar",
-          "price": 2.57,
-          "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 0,
-          "capacity": 6,
-          "fill_pct": 0,
-          "stock_warning": 0,
-          "stock_updated": "2026-04-19 19:23:10"
-        },
-        {
           "skuid": "S0B2DAF8F87C31004",
           "barcode": "850032072090",
           "name": "St James Green Tea",
@@ -1911,16 +1839,16 @@
           "stock_updated": "2026-04-14 13:49:02"
         },
         {
-          "skuid": "S0B246944E3C71001",
-          "barcode": "04043506",
-          "name": "Twix Candy Bar",
-          "price": 2.57,
-          "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
+          "skuid": "S0B2DB92EA84A1003",
+          "barcode": "898999012247",
+          "name": "Vita Coconut Extra Coconut",
+          "price": 4.25,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176904241917369.png",
           "stock": 0,
-          "capacity": 10,
-          "fill_pct": 0,
+          "capacity": 0,
+          "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-04-19 19:23:10"
+          "stock_updated": "2026-04-22 09:06:24"
         },
         {
           "skuid": "S0B2D48452F7E1005",
@@ -2001,11 +1929,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-04-20 12:35:50"
+          "stock_updated": "2026-04-22 09:04:03"
         },
         {
           "skuid": "S0B261B990D101007",
@@ -2553,11 +2481,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 9,
-          "fill_pct": 67,
+          "fill_pct": 56,
           "stock_warning": 0,
-          "stock_updated": "2026-04-20 12:35:50"
+          "stock_updated": "2026-04-22 09:04:03"
         },
         {
           "skuid": "S0B2DAF8F87C31004",

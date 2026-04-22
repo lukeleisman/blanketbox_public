@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T23:07:38Z",
+  "updated": "2026-04-22T00:01:37Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -967,11 +967,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 13,
-          "fill_pct": 54,
+          "fill_pct": 46,
           "stock_warning": 0,
-          "stock_updated": "2026-04-19 02:07:47"
+          "stock_updated": "2026-04-21 18:34:59"
         },
         {
           "skuid": "S0B2BC10A038C1008",
@@ -1195,11 +1195,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 15,
+          "stock": 14,
           "capacity": 21,
-          "fill_pct": 71,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-21 13:18:02"
+          "stock_updated": "2026-04-21 18:34:59"
         },
         {
           "skuid": "S0B2D5DE0BABD100A",

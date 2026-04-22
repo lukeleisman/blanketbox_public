@@ -529,3 +529,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-22T15:54:28Z,16213,haven,TheHaven#2-cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,5,4,-1
 2026-04-22T17:02:32Z,16213,haven,TheHaven#2-cooler,S0B25FC55972D1006,1162002211,Fairlife Chocolate Protein 30g,4.97,7,6,-1
 2026-04-22T22:11:26Z,16214,doylestown,333 North Broad Cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,1,0,-1
+2026-04-22T23:25:45Z,16213,haven,TheHaven#2-cooler,S0B2DAF9429041007,044000085964,Chips Ahoy minis,4.5,5,4,-1
+2026-04-22T23:25:45Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,6,5,-1
+2026-04-22T23:25:45Z,16213,haven,TheHaven#2-cooler,S0B2D484E0EFD1001,014100043706,Milano,2.57,8,7,-1
+2026-04-22T23:25:45Z,16213,haven,TheHaven#2-cooler,S0B246944E6801005,040000422082,3 Musketeers,2.57,5,4,-1
+2026-04-22T23:25:45Z,16213,haven,TheHaven#2-cooler,S0B2BC10A038C1008,040000522065,Milky Way,2.57,8,6,-2

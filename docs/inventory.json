@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T03:47:19Z",
+  "updated": "2026-04-22T06:00:26Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -570,11 +570,11 @@
           "name": "Sour Patch Kids Soft & Chewy Candy",
           "price": 2.19,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964188034.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 16:28:55"
+          "stock_updated": "2026-04-22 00:15:49"
         },
         {
           "skuid": "S0B248CF277231002",
@@ -967,11 +967,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 6,
+          "stock": 4,
           "capacity": 13,
-          "fill_pct": 46,
+          "fill_pct": 31,
           "stock_warning": 0,
-          "stock_updated": "2026-04-21 18:34:59"
+          "stock_updated": "2026-04-21 22:51:10"
         },
         {
           "skuid": "S0B2BC10A038C1008",
@@ -1195,11 +1195,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 14,
+          "stock": 13,
           "capacity": 21,
-          "fill_pct": 67,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-04-21 18:34:59"
+          "stock_updated": "2026-04-22 00:11:30"
         },
         {
           "skuid": "S0B2D5DE0BABD100A",
@@ -1258,8 +1258,8 @@
       "machine_name": "PhillyTrueCooler",
       "address": "4200 Ludlow St, Philadelphia PA, 10104",
       "total_skus": 56,
-      "in_stock": 39,
-      "out_of_stock": 17,
+      "in_stock": 38,
+      "out_of_stock": 18,
       "low_stock": 0,
       "products": [
         {
@@ -1568,11 +1568,11 @@
           "name": "Health -Ade",
           "price": 5.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177404864183160.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-17 01:50:54"
+          "stock_updated": "2026-04-22 01:00:19"
         },
         {
           "skuid": "S0B2D90DF10651003",
@@ -1712,11 +1712,11 @@
           "name": "Naked Strawberry Banana 15.2oz",
           "price": 4.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176054114397470.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-21 01:05:58"
+          "stock_updated": "2026-04-21 22:55:10"
         },
         {
           "skuid": "S0B2D113959A71003",

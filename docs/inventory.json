@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T08:15:19Z",
+  "updated": "2026-04-22T10:00:05Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -150,11 +150,11 @@
           "name": "Cliff Mini",
           "price": 1.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531478317755.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-19 23:57:16"
+          "stock_updated": "2026-04-22 03:53:43"
         },
         {
           "skuid": "S0B248CF276F51003",
@@ -438,11 +438,11 @@
           "name": "Natures Bakery blueberry fig bat",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866563574429.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-16 10:18:40"
+          "stock_updated": "2026-04-22 03:53:43"
         },
         {
           "skuid": "S0B271C0F5611100C",

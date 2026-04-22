@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T00:01:37Z",
+  "updated": "2026-04-22T03:47:19Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -655,11 +655,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 7,
-          "fill_pct": 43,
+          "fill_pct": 29,
           "stock_warning": 0,
-          "stock_updated": "2026-04-20 08:32:10"
+          "stock_updated": "2026-04-21 20:24:01"
         },
         {
           "skuid": "S0B246944E4EB1007",
@@ -799,11 +799,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 14,
+          "stock": 12,
           "capacity": 17,
-          "fill_pct": 82,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-04-20 16:52:34"
+          "stock_updated": "2026-04-21 19:53:04"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1231,11 +1231,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 11,
-          "fill_pct": 73,
+          "fill_pct": 64,
           "stock_warning": 0,
-          "stock_updated": "2026-04-18 07:22:05"
+          "stock_updated": "2026-04-21 19:15:57"
         },
         {
           "skuid": "S0B2C6B2751C8100B",
@@ -1592,11 +1592,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 4.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 13:49:02"
+          "stock_updated": "2026-04-21 20:40:56"
         },
         {
           "skuid": "S0B25FC5C5C991003",

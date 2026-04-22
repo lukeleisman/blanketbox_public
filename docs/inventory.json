@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T15:54:28Z",
+  "updated": "2026-04-22T17:02:32Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2133,11 +2133,11 @@
           "name": "Fairlife Chocolate Protein 30g",
           "price": 4.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363365739242.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-04-20 12:35:50"
+          "stock_updated": "2026-04-22 11:21:49"
         },
         {
           "skuid": "S0B246944DFD21006",

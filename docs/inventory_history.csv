@@ -527,3 +527,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-22T15:54:28Z,15521,philly,PhillyTrueCooler,S0B2D90DD9337100C,016000215214,Simply Chex,5.0,5,4,-1
 2026-04-22T15:54:28Z,15521,philly,PhillyTrueCooler,S0B2D4851D7141003,195372325155,Just Ice Tea Peach Oolong 16oz,4.07,4,3,-1
 2026-04-22T15:54:28Z,16213,haven,TheHaven#2-cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,5,4,-1
+2026-04-22T17:02:32Z,16213,haven,TheHaven#2-cooler,S0B25FC55972D1006,1162002211,Fairlife Chocolate Protein 30g,4.97,7,6,-1

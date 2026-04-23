@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T10:05:37Z",
+  "updated": "2026-04-23T11:39:47Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1905,11 +1905,11 @@
           "name": "Apple Jacks Cereal",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177126364981765.png",
-          "stock": 3,
+          "stock": 1,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-04-20 12:35:50"
+          "stock_updated": "2026-04-23 06:36:58"
         },
         {
           "skuid": "S0B2740EB95E01006",
@@ -1953,11 +1953,11 @@
           "name": "Celsius Sparkling Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174415817238848.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-21 08:53:24"
+          "stock_updated": "2026-04-23 06:36:58"
         },
         {
           "skuid": "S0B2DAF9429041007",

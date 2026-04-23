@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T17:21:37Z",
+  "updated": "2026-04-23T18:41:44Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1015,11 +1015,11 @@
           "name": "Naked Strawberry Banana 15.2oz",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176054114397470.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 15:49:54"
+          "stock_updated": "2026-04-23 13:21:31"
         },
         {
           "skuid": "S0B27699FEC921007",
@@ -1231,11 +1231,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 11,
-          "fill_pct": 64,
+          "fill_pct": 55,
           "stock_warning": 0,
-          "stock_updated": "2026-04-21 19:15:57"
+          "stock_updated": "2026-04-23 13:21:31"
         },
         {
           "skuid": "S0B2C6B2751C8100B",

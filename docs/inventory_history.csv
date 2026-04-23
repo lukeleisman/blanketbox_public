@@ -550,3 +550,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-23T13:45:04Z,16213,haven,TheHaven#2-cooler,S0B2BDAE8D5FB1006,520010247,Gatorade Glacier Cherry,3.0,1,0,-1
 2026-04-23T18:41:44Z,16214,doylestown,333 North Broad Cooler,S0B2C377070EC1001,082592194152,Naked Strawberry Banana 15.2oz,5.0,9,8,-1
 2026-04-23T18:41:44Z,16214,doylestown,333 North Broad Cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,7,6,-1
+2026-04-23T20:06:20Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,4,3,-1
+2026-04-23T20:06:20Z,16214,doylestown,333 North Broad Cooler,S0B2668475B231007,8939200362,Celsius Watermelon,3.57,6,5,-1
+2026-04-23T20:06:20Z,16214,doylestown,333 North Broad Cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,6,5,-1

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T18:41:44Z",
+  "updated": "2026-04-23T20:06:20Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -691,11 +691,11 @@
           "name": "Celsius Watermelon",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173400663718739.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-04-18 09:15:46"
+          "stock_updated": "2026-04-23 13:53:20"
         },
         {
           "skuid": "S0B2D11DA769B1008",
@@ -1003,11 +1003,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 9,
-          "fill_pct": 44,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-04-21 08:37:10"
+          "stock_updated": "2026-04-23 13:53:20"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1231,11 +1231,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 11,
-          "fill_pct": 55,
+          "fill_pct": 45,
           "stock_warning": 0,
-          "stock_updated": "2026-04-23 13:21:31"
+          "stock_updated": "2026-04-23 13:53:20"
         },
         {
           "skuid": "S0B2C6B2751C8100B",

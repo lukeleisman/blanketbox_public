@@ -542,3 +542,9 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-23T08:19:34Z,15519,doylestown,333 North Broad Ambient,S0B27699FEBAC1004,038000765414,Rice Krispies Treats Original,1.97,5,3,-2
 2026-04-23T11:39:47Z,16213,haven,TheHaven#2-cooler,S0B261B990D101007,8939200031,Celsius Sparkling Orange,3.57,5,4,-1
 2026-04-23T11:39:47Z,16213,haven,TheHaven#2-cooler,S0B2C6B35D1081002,F0B2C6B35D1081000,Apple Jacks Cereal,1.99,3,1,-2
+2026-04-23T13:45:04Z,15519,doylestown,333 North Broad Ambient,S0B2D5C6DC51A1001,810125972157,Liquid IV StraWatermelon,2.07,11,10,-1
+2026-04-23T13:45:04Z,16213,haven,TheHaven#2-cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,4,3,-1
+2026-04-23T13:45:04Z,16213,haven,TheHaven#2-cooler,S0B261B990D101007,8939200031,Celsius Sparkling Orange,3.57,4,3,-1
+2026-04-23T13:45:04Z,16213,haven,TheHaven#2-cooler,S0B2D4851D7141003,195372325155,Just Ice Tea Peach Oolong 16oz,4.07,1,0,-1
+2026-04-23T13:45:04Z,16213,haven,TheHaven#2-cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,6,5,-1
+2026-04-23T13:45:04Z,16213,haven,TheHaven#2-cooler,S0B2BDAE8D5FB1006,520010247,Gatorade Glacier Cherry,3.0,1,0,-1

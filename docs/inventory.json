@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23T11:39:47Z",
+  "updated": "2026-04-23T13:45:04Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -306,11 +306,11 @@
           "name": "Liquid IV StraWatermelon",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531062586319.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 13,
-          "fill_pct": 85,
+          "fill_pct": 77,
           "stock_warning": 0,
-          "stock_updated": "2026-04-17 13:18:38"
+          "stock_updated": "2026-04-23 07:37:00"
         },
         {
           "skuid": "S0B2D5C726B89100A",
@@ -1883,8 +1883,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 57,
-      "in_stock": 55,
-      "out_of_stock": 2,
+      "in_stock": 53,
+      "out_of_stock": 4,
       "low_stock": 0,
       "products": [
         {
@@ -1941,11 +1941,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 10:42:04"
+          "stock_updated": "2026-04-23 07:43:20"
         },
         {
           "skuid": "S0B261B990D101007",
@@ -1953,11 +1953,11 @@
           "name": "Celsius Sparkling Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174415817238848.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-04-23 06:36:58"
+          "stock_updated": "2026-04-23 08:43:05"
         },
         {
           "skuid": "S0B2DAF9429041007",
@@ -2217,11 +2217,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 4,
-          "fill_pct": 25,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-20 19:41:52"
+          "stock_updated": "2026-04-23 07:12:41"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -2241,11 +2241,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063766829.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-04-20 12:35:50"
+          "stock_updated": "2026-04-23 07:12:41"
         },
         {
           "skuid": "S0B2D4851D7141003",
@@ -2253,11 +2253,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 4.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 5,
-          "fill_pct": 20,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-20 12:35:50"
+          "stock_updated": "2026-04-23 07:43:20"
         },
         {
           "skuid": "S0B2D11D53BB51008",

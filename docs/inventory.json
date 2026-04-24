@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T20:10:27Z",
+  "updated": "2026-04-24T21:24:16Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1883,8 +1883,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 57,
-      "in_stock": 52,
-      "out_of_stock": 5,
+      "in_stock": 51,
+      "out_of_stock": 6,
       "low_stock": 0,
       "products": [
         {
@@ -1893,11 +1893,11 @@
           "name": "3 Musketeers",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168901411356537.jpeg",
-          "stock": 2,
+          "stock": 0,
           "capacity": 9,
-          "fill_pct": 22,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-23 22:56:55"
+          "stock_updated": "2026-04-24 15:27:51"
         },
         {
           "skuid": "S0B2C6B35D1081002",
@@ -1965,11 +1965,11 @@
           "name": "Chips Ahoy minis",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17767056506495.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-04-24 02:39:16"
+          "stock_updated": "2026-04-24 15:27:51"
         },
         {
           "skuid": "S0B2D11E680501004",
@@ -2109,11 +2109,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 18:14:09"
+          "stock_updated": "2026-04-24 15:27:51"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2457,11 +2457,11 @@
           "name": "Sargento Balanced Breaks",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176917881680440.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-20 12:35:50"
+          "stock_updated": "2026-04-24 15:29:24"
         },
         {
           "skuid": "S0B2D4831AA261009",

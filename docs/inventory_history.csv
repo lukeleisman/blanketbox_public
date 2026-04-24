@@ -572,3 +572,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-24T03:57:44Z,16213,haven,TheHaven#2-cooler,S0B246944E6801005,040000422082,3 Musketeers,2.57,4,2,-2
 2026-04-24T03:57:44Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,2,1,-1
 2026-04-24T03:57:44Z,16213,haven,TheHaven#2-cooler,S0B2D11E583291001,818290015150,Chobani vanilla,2.27,6,5,-1
+2026-04-24T08:30:57Z,16213,haven,TheHaven#2-cooler,S0B2DAF9429041007,044000085964,Chips Ahoy minis,5.0,4,3,-1
+2026-04-24T08:30:57Z,16213,haven,TheHaven#2-cooler,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.57,5,4,-1
+2026-04-24T08:30:57Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,1,0,-1

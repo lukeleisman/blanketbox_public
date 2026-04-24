@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T06:16:39Z",
+  "updated": "2026-04-24T08:30:57Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1883,8 +1883,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 57,
-      "in_stock": 53,
-      "out_of_stock": 4,
+      "in_stock": 52,
+      "out_of_stock": 5,
       "low_stock": 0,
       "products": [
         {
@@ -1965,11 +1965,11 @@
           "name": "Chips Ahoy minis",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17767056506495.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 18:15:58"
+          "stock_updated": "2026-04-24 02:39:16"
         },
         {
           "skuid": "S0B2D11E680501004",
@@ -2037,11 +2037,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-20 12:35:50"
+          "stock_updated": "2026-04-24 02:39:16"
         },
         {
           "skuid": "S0B2C6BB0DE621006",
@@ -2541,11 +2541,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 7,
-          "fill_pct": 14,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-20 12:35:50"
+          "stock_updated": "2026-04-24 02:39:16"
         },
         {
           "skuid": "S0B2D48452F7E1005",

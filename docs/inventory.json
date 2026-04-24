@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T14:53:49Z",
+  "updated": "2026-04-24T16:05:11Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2349,11 +2349,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-04-20 12:35:50"
+          "stock_updated": "2026-04-24 10:32:42"
         },
         {
           "skuid": "S0B2DAF9204FD1006",
@@ -2493,11 +2493,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 5,
+          "stock": 3,
           "capacity": 9,
-          "fill_pct": 56,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 09:04:03"
+          "stock_updated": "2026-04-24 10:32:42"
         },
         {
           "skuid": "S0B2DAF8F87C31004",
@@ -2517,11 +2517,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063645024.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-20 12:35:50"
+          "stock_updated": "2026-04-24 10:33:19"
         },
         {
           "skuid": "S0B2D9240A38C1008",

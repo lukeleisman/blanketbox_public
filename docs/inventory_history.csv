@@ -576,3 +576,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-24T08:30:57Z,16213,haven,TheHaven#2-cooler,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.57,5,4,-1
 2026-04-24T08:30:57Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,1,0,-1
 2026-04-24T13:25:50Z,16213,haven,TheHaven#2-cooler,S0B2D4822727E1001,046100354032,Sargento Balanced Brakes – Ritz Crackers,2.0,4,3,-1
+2026-04-24T16:05:11Z,16213,haven,TheHaven#2-cooler,S0B246944E4B51008,012000813313,Starbucks_Frappuccino_Vanilla,4.27,3,2,-1
+2026-04-24T16:05:11Z,16213,haven,TheHaven#2-cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,7,6,-1
+2026-04-24T16:05:11Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,5,3,-2

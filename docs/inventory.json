@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T00:08:24Z",
+  "updated": "2026-04-24T03:57:44Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -306,11 +306,11 @@
           "name": "Liquid IV StraWatermelon",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531062586319.png",
-          "stock": 10,
+          "stock": 8,
           "capacity": 13,
-          "fill_pct": 77,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-04-23 07:37:00"
+          "stock_updated": "2026-04-23 22:03:36"
         },
         {
           "skuid": "S0B2D5C726B89100A",
@@ -426,11 +426,11 @@
           "name": "Natures Bakery - Double Chocolate Brownie",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368269911559.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-04-17 13:18:38"
+          "stock_updated": "2026-04-23 22:03:36"
         },
         {
           "skuid": "S0B2885215A1B1003",
@@ -486,11 +486,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 5,
+          "stock": 3,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 43,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 01:17:32"
+          "stock_updated": "2026-04-23 20:22:08"
         },
         {
           "skuid": "S0B2D5DDDD87E1009",
@@ -570,11 +570,11 @@
           "name": "Sour Patch Kids Soft & Chewy Candy",
           "price": 2.19,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964188034.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 00:15:49"
+          "stock_updated": "2026-04-23 20:22:08"
         },
         {
           "skuid": "S0B248CF277231002",
@@ -727,11 +727,11 @@
           "name": "Chobani Protein",
           "price": 4.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174379267257617.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 09:43:11"
+          "stock_updated": "2026-04-23 20:22:25"
         },
         {
           "skuid": "S0B2D11E2F0FD1001",
@@ -799,11 +799,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 17,
-          "fill_pct": 65,
+          "fill_pct": 59,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 21:24:44"
+          "stock_updated": "2026-04-23 19:11:08"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -859,11 +859,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 02:12:05"
+          "stock_updated": "2026-04-23 21:25:10"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -967,11 +967,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 13,
-          "fill_pct": 31,
+          "fill_pct": 23,
           "stock_warning": 0,
-          "stock_updated": "2026-04-21 22:51:10"
+          "stock_updated": "2026-04-23 22:50:39"
         },
         {
           "skuid": "S0B2BC10A038C1008",
@@ -1039,11 +1039,11 @@
           "name": "Oikos Peach Protein",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177404889920946.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 16,
-          "fill_pct": 75,
+          "fill_pct": 69,
           "stock_warning": 0,
-          "stock_updated": "2026-04-23 17:38:02"
+          "stock_updated": "2026-04-23 21:07:24"
         },
         {
           "skuid": "S0B2D113B5A891001",
@@ -1075,11 +1075,11 @@
           "name": "Recess strawberry rose",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177170485524851.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 15:49:54"
+          "stock_updated": "2026-04-23 21:25:10"
         },
         {
           "skuid": "S0B2CC2D2640F1005",
@@ -1123,11 +1123,11 @@
           "name": "San Pellegrino Essenza",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619022990038.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 12,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 15:49:54"
+          "stock_updated": "2026-04-23 21:25:10"
         },
         {
           "skuid": "S0B29D2F2643D100B",
@@ -1207,11 +1207,11 @@
           "name": "Trip Elderflower Mint",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177533493701966.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-17 23:28:38"
+          "stock_updated": "2026-04-23 21:25:10"
         },
         {
           "skuid": "S0B266D76782F1002",
@@ -1231,11 +1231,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 5,
+          "stock": 3,
           "capacity": 11,
-          "fill_pct": 45,
+          "fill_pct": 27,
           "stock_warning": 0,
-          "stock_updated": "2026-04-23 13:53:20"
+          "stock_updated": "2026-04-23 22:50:39"
         },
         {
           "skuid": "S0B2C6B2751C8100B",
@@ -1893,11 +1893,11 @@
           "name": "3 Musketeers",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168901411356537.jpeg",
-          "stock": 4,
+          "stock": 2,
           "capacity": 9,
-          "fill_pct": 44,
+          "fill_pct": 22,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 18:14:09"
+          "stock_updated": "2026-04-23 22:56:55"
         },
         {
           "skuid": "S0B2C6B35D1081002",
@@ -2025,11 +2025,11 @@
           "name": "Chobani vanilla",
           "price": 2.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177241491063878.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-04-20 12:35:50"
+          "stock_updated": "2026-04-23 20:16:15"
         },
         {
           "skuid": "S0B246944DEAE1000",
@@ -2373,11 +2373,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-04-20 12:35:50"
+          "stock_updated": "2026-04-23 22:56:55"
         },
         {
           "skuid": "S0B2D11EAC47A1006",
@@ -2529,11 +2529,11 @@
           "name": "Super Gut GLP-1 Booster",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177621363776221.png",
-          "stock": 15,
+          "stock": 13,
           "capacity": 15,
-          "fill_pct": 100,
+          "fill_pct": 87,
           "stock_warning": 0,
-          "stock_updated": "2026-04-20 12:35:50"
+          "stock_updated": "2026-04-23 20:16:15"
         },
         {
           "skuid": "S0B246944E3C71001",

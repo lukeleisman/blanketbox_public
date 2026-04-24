@@ -555,3 +555,20 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-23T20:06:20Z,16214,doylestown,333 North Broad Cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,6,5,-1
 2026-04-23T23:13:03Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,3,2,-1
 2026-04-23T23:13:03Z,16214,doylestown,333 North Broad Cooler,S0B2D113959A71003,8056042042852,Oikos Peach Protein,4.27,13,12,-1
+2026-04-24T03:57:44Z,15519,doylestown,333 North Broad Ambient,S0B27699FEC921007,047495400700,Natures Bakery - Double Chocolate Brownie,2.57,6,5,-1
+2026-04-24T03:57:44Z,15519,doylestown,333 North Broad Ambient,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,5,3,-2
+2026-04-24T03:57:44Z,15519,doylestown,333 North Broad Ambient,S0B246944E424100B,070462098501,Sour Patch Kids Soft & Chewy Candy,2.19,5,4,-1
+2026-04-24T03:57:44Z,15519,doylestown,333 North Broad Ambient,S0B2D5C6DC51A1001,810125972157,Liquid IV StraWatermelon,2.07,10,8,-2
+2026-04-24T03:57:44Z,16214,doylestown,333 North Broad Cooler,S0B2D90DB76B5100C,041508302074,San Pellegrino Essenza,3.77,12,11,-1
+2026-04-24T03:57:44Z,16214,doylestown,333 North Broad Cooler,S0B2D5DE0BABD100A,810119680266,Trip Elderflower Mint,5.27,3,2,-1
+2026-04-24T03:57:44Z,16214,doylestown,333 North Broad Cooler,S0B2C858213931004,F0B2C858213931002,Recess strawberry rose,4.27,4,3,-1
+2026-04-24T03:57:44Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,11,10,-1
+2026-04-24T03:57:44Z,16214,doylestown,333 North Broad Cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,5,4,-1
+2026-04-24T03:57:44Z,16214,doylestown,333 North Broad Cooler,S0B2D11E4F77D1002,818290017734,Chobani Protein,4.57,4,3,-1
+2026-04-24T03:57:44Z,16214,doylestown,333 North Broad Cooler,S0B2D113959A71003,8056042042852,Oikos Peach Protein,4.27,12,11,-1
+2026-04-24T03:57:44Z,16214,doylestown,333 North Broad Cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,5,3,-2
+2026-04-24T03:57:44Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,4,3,-1
+2026-04-24T03:57:44Z,16213,haven,TheHaven#2-cooler,S0B2D9240A38C1008,850014658274,Super Gut GLP-1 Booster,1.99,15,13,-2
+2026-04-24T03:57:44Z,16213,haven,TheHaven#2-cooler,S0B246944E6801005,040000422082,3 Musketeers,2.57,4,2,-2
+2026-04-24T03:57:44Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,2,1,-1
+2026-04-24T03:57:44Z,16213,haven,TheHaven#2-cooler,S0B2D11E583291001,818290015150,Chobani vanilla,2.27,6,5,-1

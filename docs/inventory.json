@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T13:06:20Z",
+  "updated": "2026-04-25T14:13:13Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1604,11 +1604,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 10:13:17"
+          "stock_updated": "2026-04-25 08:41:48"
         },
         {
           "skuid": "S0B2DB93670101002",
@@ -1724,11 +1724,11 @@
           "name": "Pepsi Diet 12oz Can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/169279987566712.jpeg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 10:13:17"
+          "stock_updated": "2026-04-25 08:41:48"
         },
         {
           "skuid": "S0B2DB92A82FD1009",
@@ -1856,11 +1856,11 @@
           "name": "Vita Coconut Extra Coconut",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176904241917369.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 10:13:17"
+          "stock_updated": "2026-04-25 08:41:48"
         },
         {
           "skuid": "S0B2D48452F7E1005",

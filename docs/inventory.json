@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T16:05:51Z",
+  "updated": "2026-04-25T17:09:35Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2337,11 +2337,11 @@
           "name": "Milky Way",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176366967811221.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-24 18:29:04"
+          "stock_updated": "2026-04-25 11:44:51"
         },
         {
           "skuid": "S0B246944DEFB1003",

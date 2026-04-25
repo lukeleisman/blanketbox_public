@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T17:09:35Z",
+  "updated": "2026-04-25T18:04:50Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1400,11 +1400,11 @@
           "name": "Coca-Cola Original Taste",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/166197041201682.jpeg",
-          "stock": 12,
+          "stock": 10,
           "capacity": 12,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 10:13:17"
+          "stock_updated": "2026-04-25 12:49:56"
         },
         {
           "skuid": "S0B2BAC924065100B",
@@ -1676,11 +1676,11 @@
           "name": "Olina\u2019s Wafer Crackers",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177670551037617.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 10:13:17"
+          "stock_updated": "2026-04-25 12:49:56"
         },
         {
           "skuid": "S0B2DB932853E100A",

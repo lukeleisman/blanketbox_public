@@ -584,3 +584,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-24T21:24:16Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,5,4,-1
 2026-04-24T21:24:16Z,16213,haven,TheHaven#2-cooler,S0B246944E6801005,040000422082,3 Musketeers,2.57,2,0,-2
 2026-04-24T21:24:16Z,16213,haven,TheHaven#2-cooler,S0B2D4835B16E100B,046100019054,Sargento Balanced Breaks,2.0,4,3,-1
+2026-04-25T00:05:06Z,16213,haven,TheHaven#2-cooler,S0B2DAF9429041007,044000085964,Chips Ahoy minis,5.0,2,1,-1
+2026-04-25T00:05:06Z,16213,haven,TheHaven#2-cooler,S0B2BC10A038C1008,040000522065,Milky Way,2.57,6,5,-1
+2026-04-25T00:05:06Z,16213,haven,TheHaven#2-cooler,S0B2BAC9D24491002,F0B2BAC9D24491000,Pop Secret popcorn,1.97,3,2,-1

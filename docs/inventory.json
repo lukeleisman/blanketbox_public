@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T05:48:25Z",
+  "updated": "2026-04-25T07:18:35Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1376,11 +1376,11 @@
           "name": "Chobani Protein",
           "price": 4.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174379267257617.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 10:13:17"
+          "stock_updated": "2026-04-25 01:09:42"
         },
         {
           "skuid": "S0B2D11E583291001",
@@ -1496,11 +1496,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.07,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 10:13:17"
+          "stock_updated": "2026-04-25 01:09:42"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",

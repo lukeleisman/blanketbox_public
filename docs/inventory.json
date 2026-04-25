@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T00:05:06Z",
+  "updated": "2026-04-25T03:39:43Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -138,11 +138,11 @@
           "name": "Cliff  Chocolate Chip Protein Bar",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17674936233687.png",
-          "stock": -2,
+          "stock": -3,
           "capacity": 3,
-          "fill_pct": -67,
+          "fill_pct": -100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-19 20:17:49"
+          "stock_updated": "2026-04-24 20:18:44"
         },
         {
           "skuid": "S0B2D5CAD34F61005",
@@ -150,11 +150,11 @@
           "name": "Cliff Mini",
           "price": 1.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531478317755.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 10,
-          "fill_pct": 70,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 21:36:01"
+          "stock_updated": "2026-04-24 20:18:44"
         },
         {
           "skuid": "S0B248CF276F51003",
@@ -645,8 +645,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 50,
-      "in_stock": 44,
-      "out_of_stock": 6,
+      "in_stock": 41,
+      "out_of_stock": 9,
       "low_stock": 0,
       "products": [
         {
@@ -727,11 +727,11 @@
           "name": "Chobani Protein",
           "price": 4.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174379267257617.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-04-23 20:22:25"
+          "stock_updated": "2026-04-24 19:50:28"
         },
         {
           "skuid": "S0B2D11E2F0FD1001",
@@ -1015,11 +1015,11 @@
           "name": "Naked Strawberry Banana 15.2oz",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176054114397470.png",
-          "stock": 8,
+          "stock": 6,
           "capacity": 9,
-          "fill_pct": 89,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-23 13:21:31"
+          "stock_updated": "2026-04-24 22:38:49"
         },
         {
           "skuid": "S0B27699FEC921007",
@@ -1111,11 +1111,11 @@
           "name": "San Pellegrino Aranciata",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17145040865182.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 15:49:54"
+          "stock_updated": "2026-04-24 22:38:49"
         },
         {
           "skuid": "S0B2D90DB76B5100C",
@@ -1135,11 +1135,11 @@
           "name": "San Pelligrino Pomegranate and Orange",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17601191596212.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 15:49:54"
+          "stock_updated": "2026-04-24 22:38:49"
         },
         {
           "skuid": "S0B2D4822727E1001",
@@ -1207,11 +1207,11 @@
           "name": "Trip Elderflower Mint",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177533493701966.png",
-          "stock": 2,
+          "stock": 0,
           "capacity": 4,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-23 21:25:10"
+          "stock_updated": "2026-04-24 20:27:41"
         },
         {
           "skuid": "S0B266D76782F1002",
@@ -1258,8 +1258,8 @@
       "machine_name": "PhillyTrueCooler",
       "address": "4200 Ludlow St, Philadelphia PA, 10104",
       "total_skus": 51,
-      "in_stock": 51,
-      "out_of_stock": 0,
+      "in_stock": 50,
+      "out_of_stock": 1,
       "low_stock": 0,
       "products": [
         {
@@ -1448,11 +1448,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 12,
+          "stock": 11,
           "capacity": 12,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 10:13:17"
+          "stock_updated": "2026-04-24 21:45:05"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1532,11 +1532,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173685359821166.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 10:13:17"
+          "stock_updated": "2026-04-24 22:06:34"
         },
         {
           "skuid": "S0B2D90DF10651003",
@@ -1616,11 +1616,11 @@
           "name": "Mott\u2019s berry snacks",
           "price": 4.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686728068670.png",
-          "stock": 13,
+          "stock": 12,
           "capacity": 13,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 10:13:17"
+          "stock_updated": "2026-04-24 22:06:34"
         },
         {
           "skuid": "S0B2C377094211003",
@@ -1748,11 +1748,11 @@
           "name": "Red Bull",
           "price": 3.37,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/611269991000.jpg",
-          "stock": 2,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 10:13:17"
+          "stock_updated": "2026-04-24 20:46:39"
         },
         {
           "skuid": "S0B2D90DB76B5100C",

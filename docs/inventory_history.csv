@@ -598,3 +598,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-25T03:39:43Z,15521,philly,PhillyTrueCooler,S0B246944DE9D1007,611269991000,Red Bull,3.37,2,0,-2
 2026-04-25T03:39:43Z,15521,philly,PhillyTrueCooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.07,6,5,-1
 2026-04-25T03:39:43Z,15521,philly,PhillyTrueCooler,S0B2DB93670101002,016000194069,Mott’s berry snacks,4.0,13,12,-1
+2026-04-25T05:48:25Z,15519,doylestown,333 North Broad Ambient,S0B2D5C6DC51A1001,810125972157,Liquid IV StraWatermelon,2.07,8,7,-1
+2026-04-25T05:48:25Z,16214,doylestown,333 North Broad Cooler,S0B2D113959A71003,8056042042852,Oikos Peach Protein,4.27,11,10,-1
+2026-04-25T05:48:25Z,16214,doylestown,333 North Broad Cooler,S0B27699FEC921007,047495400700,Natures Bakery - Double Chocolate Brownie,2.27,13,12,-1

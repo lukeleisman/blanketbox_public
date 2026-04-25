@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T03:39:43Z",
+  "updated": "2026-04-25T05:48:25Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -306,11 +306,11 @@
           "name": "Liquid IV StraWatermelon",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531062586319.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 13,
-          "fill_pct": 62,
+          "fill_pct": 54,
           "stock_warning": 0,
-          "stock_updated": "2026-04-23 22:03:36"
+          "stock_updated": "2026-04-24 22:51:48"
         },
         {
           "skuid": "S0B2D5C726B89100A",
@@ -1027,11 +1027,11 @@
           "name": "Natures Bakery - Double Chocolate Brownie",
           "price": 2.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368269911559.png",
-          "stock": 13,
+          "stock": 12,
           "capacity": 13,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 15:49:54"
+          "stock_updated": "2026-04-24 22:57:32"
         },
         {
           "skuid": "S0B2D113959A71003",
@@ -1039,11 +1039,11 @@
           "name": "Oikos Peach Protein",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177404889920946.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 16,
-          "fill_pct": 69,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-04-23 21:07:24"
+          "stock_updated": "2026-04-24 22:57:32"
         },
         {
           "skuid": "S0B2D113B5A891001",

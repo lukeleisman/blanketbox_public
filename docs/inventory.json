@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T23:05:29Z",
+  "updated": "2026-04-26T00:03:09Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1448,11 +1448,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 11,
+          "stock": 8,
           "capacity": 12,
-          "fill_pct": 92,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-24 21:45:05"
+          "stock_updated": "2026-04-25 18:49:39"
         },
         {
           "skuid": "S0B2C85783CD31007",

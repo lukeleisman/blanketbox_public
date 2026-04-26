@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T00:03:09Z",
+  "updated": "2026-04-26T04:02:08Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1448,11 +1448,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 12,
-          "fill_pct": 67,
+          "fill_pct": 58,
           "stock_warning": 0,
-          "stock_updated": "2026-04-25 18:49:39"
+          "stock_updated": "2026-04-25 21:36:02"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1736,11 +1736,11 @@
           "name": "Rangel mush pasta",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17768664990525.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 10:13:17"
+          "stock_updated": "2026-04-25 19:11:51"
         },
         {
           "skuid": "S0B246944DE9D1007",
@@ -1883,8 +1883,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 57,
-      "in_stock": 51,
-      "out_of_stock": 6,
+      "in_stock": 49,
+      "out_of_stock": 8,
       "low_stock": 0,
       "products": [
         {
@@ -1965,11 +1965,11 @@
           "name": "Chips Ahoy minis",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17767056506495.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 6,
-          "fill_pct": 17,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-24 18:29:04"
+          "stock_updated": "2026-04-25 22:19:17"
         },
         {
           "skuid": "S0B2D11E680501004",
@@ -2373,11 +2373,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-23 22:56:55"
+          "stock_updated": "2026-04-25 22:19:17"
         },
         {
           "skuid": "S0B2D11EAC47A1006",
@@ -2493,11 +2493,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 9,
-          "fill_pct": 33,
+          "fill_pct": 22,
           "stock_warning": 0,
-          "stock_updated": "2026-04-24 10:32:42"
+          "stock_updated": "2026-04-25 22:19:17"
         },
         {
           "skuid": "S0B2DAF8F87C31004",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T16:06:27Z",
+  "updated": "2026-04-26T17:09:41Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -847,11 +847,11 @@
           "name": "Ferrero Chocolate",
           "price": 7.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531031494529.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-17 18:18:36"
+          "stock_updated": "2026-04-26 11:42:42"
         },
         {
           "skuid": "S0B246944E40F1008",

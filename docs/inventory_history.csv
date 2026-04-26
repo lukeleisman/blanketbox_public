@@ -623,3 +623,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-26T08:01:51Z,15521,philly,PhillyTrueCooler,S0B246944E2701006,049000053418,Coca-Cola Original Taste,2.57,10,8,-2
 2026-04-26T08:01:51Z,15521,philly,PhillyTrueCooler,S0B2D4831AA261009,0046100353530,Sargento Cheese & Crackers,1.97,5,4,-1
 2026-04-26T08:01:51Z,15521,philly,PhillyTrueCooler,S0B2D90DF10651003,071879700049,Jennie’s Coconut bites,19.99,1,0,-1
+2026-04-26T10:45:50Z,15521,philly,PhillyTrueCooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.07,5,4,-1

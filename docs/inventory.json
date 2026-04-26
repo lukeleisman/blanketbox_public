@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T06:23:56Z",
+  "updated": "2026-04-26T08:01:51Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1258,8 +1258,8 @@
       "machine_name": "PhillyTrueCooler",
       "address": "4200 Ludlow St, Philadelphia PA, 10104",
       "total_skus": 51,
-      "in_stock": 50,
-      "out_of_stock": 1,
+      "in_stock": 49,
+      "out_of_stock": 2,
       "low_stock": 0,
       "products": [
         {
@@ -1400,11 +1400,11 @@
           "name": "Coca-Cola Original Taste",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/166197041201682.jpeg",
-          "stock": 10,
+          "stock": 8,
           "capacity": 12,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-25 12:49:56"
+          "stock_updated": "2026-04-26 01:49:28"
         },
         {
           "skuid": "S0B2BAC924065100B",
@@ -1544,11 +1544,11 @@
           "name": "Jennie\u2019s Coconut bites",
           "price": 19.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619046579382.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 10:13:17"
+          "stock_updated": "2026-04-26 02:00:45"
         },
         {
           "skuid": "S0B2D4851D7141003",
@@ -1688,11 +1688,11 @@
           "name": "Oreo Fresh stacks",
           "price": 4.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686702392867.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 11,
-          "fill_pct": 91,
+          "fill_pct": 82,
           "stock_warning": 0,
-          "stock_updated": "2026-04-25 23:26:26"
+          "stock_updated": "2026-04-26 01:49:28"
         },
         {
           "skuid": "S0B2D90E22889100A",
@@ -1808,11 +1808,11 @@
           "name": "Sargento Cheese & Crackers",
           "price": 1.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172367251813627.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 10:13:17"
+          "stock_updated": "2026-04-26 02:00:45"
         },
         {
           "skuid": "S0B2D90DD9337100C",

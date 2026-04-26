@@ -626,3 +626,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-26T10:45:50Z,15521,philly,PhillyTrueCooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.07,5,4,-1
 2026-04-26T13:08:41Z,15521,philly,PhillyTrueCooler,S0B2BDAE8D5FB1006,520010247,Gatorade Glacier Cherry,3.0,3,2,-1
 2026-04-26T14:13:01Z,15521,philly,PhillyTrueCooler,S0B246944E9A41003,082657500638,Deer park water,1.87,7,6,-1
+2026-04-26T16:06:27Z,15519,doylestown,333 North Broad Ambient,S0B248CF276F51003,F0B239C6DAB1D1003,Clorox Wipes Lemon Scent,7.17,3,2,-1
+2026-04-26T16:06:27Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,1,0,-1

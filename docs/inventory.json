@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T15:08:37Z",
+  "updated": "2026-04-26T16:06:27Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -162,11 +162,11 @@
           "name": "Clorox Wipes Lemon Scent",
           "price": 7.17,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173343468813932.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-14 16:28:55"
+          "stock_updated": "2026-04-26 10:21:06"
         },
         {
           "skuid": "S0B2D917CE7351001",
@@ -645,8 +645,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 50,
-      "in_stock": 41,
-      "out_of_stock": 9,
+      "in_stock": 40,
+      "out_of_stock": 10,
       "low_stock": 0,
       "products": [
         {
@@ -1003,11 +1003,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 9,
-          "fill_pct": 11,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-25 10:11:47"
+          "stock_updated": "2026-04-26 10:22:54"
         },
         {
           "skuid": "S0B2C377070EC1001",

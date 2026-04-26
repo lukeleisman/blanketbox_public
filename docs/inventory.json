@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T04:02:08Z",
+  "updated": "2026-04-26T06:23:56Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1688,11 +1688,11 @@
           "name": "Oreo Fresh stacks",
           "price": 4.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686702392867.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 10:13:17"
+          "stock_updated": "2026-04-25 23:26:26"
         },
         {
           "skuid": "S0B2D90E22889100A",

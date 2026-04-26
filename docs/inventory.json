@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T19:28:03Z",
+  "updated": "2026-04-26T20:03:58Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1496,11 +1496,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.07,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-04-25 01:09:42"
+          "stock_updated": "2026-04-26 14:48:18"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1688,11 +1688,11 @@
           "name": "Oreo Fresh stacks",
           "price": 4.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686702392867.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 11,
-          "fill_pct": 82,
+          "fill_pct": 73,
           "stock_warning": 0,
-          "stock_updated": "2026-04-26 01:49:28"
+          "stock_updated": "2026-04-26 14:48:18"
         },
         {
           "skuid": "S0B2D90E22889100A",

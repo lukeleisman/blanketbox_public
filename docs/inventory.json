@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T13:56:07Z",
+  "updated": "2026-04-27T15:50:38Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1883,8 +1883,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 57,
-      "in_stock": 48,
-      "out_of_stock": 9,
+      "in_stock": 47,
+      "out_of_stock": 10,
       "low_stock": 0,
       "products": [
         {
@@ -1905,11 +1905,11 @@
           "name": "Apple Jacks Cereal",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177126364981765.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 5,
-          "fill_pct": 20,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-23 06:36:58"
+          "stock_updated": "2026-04-27 10:17:29"
         },
         {
           "skuid": "S0B2740EB95E01006",
@@ -2109,11 +2109,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-04-24 15:27:51"
+          "stock_updated": "2026-04-27 10:11:42"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2193,11 +2193,11 @@
           "name": "Fruit Loops Cereal",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177127272492393.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-04-20 12:35:50"
+          "stock_updated": "2026-04-27 10:17:29"
         },
         {
           "skuid": "S0B246944E40F1008",

@@ -646,3 +646,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-27T11:44:12Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,8,7,-1
 2026-04-27T13:56:07Z,15521,philly,PhillyTrueCooler,S0B2D48452F7E1005,89899900002,Vita coconut water,4.5,2,1,-1
 2026-04-27T13:56:07Z,15521,philly,PhillyTrueCooler,S0B2D113959A71003,8056042042852,Oikos Peach Protein,4.57,8,7,-1
+2026-04-27T15:50:38Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,4,3,-1
+2026-04-27T15:50:38Z,16213,haven,TheHaven#2-cooler,S0B2C6B35D1081002,F0B2C6B35D1081000,Apple Jacks Cereal,1.99,1,0,-1
+2026-04-27T15:50:38Z,16213,haven,TheHaven#2-cooler,S0B2C6BC04A97100D,F0B2C6BC04A97100B,Fruit Loops Cereal,1.99,3,2,-1

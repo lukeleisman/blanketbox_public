@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T09:37:37Z",
+  "updated": "2026-04-27T11:44:12Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1883,8 +1883,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 57,
-      "in_stock": 49,
-      "out_of_stock": 8,
+      "in_stock": 48,
+      "out_of_stock": 9,
       "low_stock": 0,
       "products": [
         {
@@ -2205,11 +2205,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 11,
-          "fill_pct": 73,
+          "fill_pct": 64,
           "stock_warning": 0,
-          "stock_updated": "2026-04-25 16:08:44"
+          "stock_updated": "2026-04-27 06:18:12"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -2289,11 +2289,11 @@
           "name": "La Colombe Draft Latte Mocha",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363418524043.png",
-          "stock": 2,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-20 12:35:50"
+          "stock_updated": "2026-04-27 06:33:23"
         },
         {
           "skuid": "S0B2D918381EA1006",

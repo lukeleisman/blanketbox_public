@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T04:07:13Z",
+  "updated": "2026-04-27T07:14:32Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -306,11 +306,11 @@
           "name": "Liquid IV StraWatermelon",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531062586319.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 13,
-          "fill_pct": 54,
+          "fill_pct": 46,
           "stock_warning": 0,
-          "stock_updated": "2026-04-24 22:51:48"
+          "stock_updated": "2026-04-26 23:38:27"
         },
         {
           "skuid": "S0B2D5C726B89100A",
@@ -1195,11 +1195,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 13,
+          "stock": 12,
           "capacity": 21,
-          "fill_pct": 62,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 00:11:30"
+          "stock_updated": "2026-04-26 23:37:24"
         },
         {
           "skuid": "S0B2D5DE0BABD100A",
@@ -1258,8 +1258,8 @@
       "machine_name": "PhillyTrueCooler",
       "address": "4200 Ludlow St, Philadelphia PA, 10104",
       "total_skus": 51,
-      "in_stock": 49,
-      "out_of_stock": 2,
+      "in_stock": 48,
+      "out_of_stock": 3,
       "low_stock": 0,
       "products": [
         {
@@ -1280,11 +1280,11 @@
           "name": "Buldak Spicy Ramen",
           "price": 5.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363337064737.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 10:13:17"
+          "stock_updated": "2026-04-27 00:08:59"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -1580,11 +1580,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 20,
+          "stock": 18,
           "capacity": 20,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-04-22 10:13:17"
+          "stock_updated": "2026-04-26 23:31:26"
         },
         {
           "skuid": "S0B246944DEF51002",

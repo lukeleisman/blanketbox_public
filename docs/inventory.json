@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-27T00:04:49Z",
+  "updated": "2026-04-27T04:07:13Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1400,11 +1400,11 @@
           "name": "Coca-Cola Original Taste",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/166197041201682.jpeg",
-          "stock": 8,
+          "stock": 6,
           "capacity": 12,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-26 01:49:28"
+          "stock_updated": "2026-04-26 20:52:33"
         },
         {
           "skuid": "S0B2BAC924065100B",
@@ -1424,11 +1424,11 @@
           "name": "Deer park water",
           "price": 1.87,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 6,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-04-26 08:20:08"
+          "stock_updated": "2026-04-26 22:30:56"
         },
         {
           "skuid": "S0B2D527638181007",
@@ -1604,11 +1604,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 10,
+          "stock": 8,
           "capacity": 11,
-          "fill_pct": 91,
+          "fill_pct": 73,
           "stock_warning": 0,
-          "stock_updated": "2026-04-25 08:41:48"
+          "stock_updated": "2026-04-26 22:26:38"
         },
         {
           "skuid": "S0B2DB93670101002",
@@ -2277,11 +2277,11 @@
           "name": "La Colombe Draft Latte Caramel",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363410135042.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-04-20 12:35:50"
+          "stock_updated": "2026-04-26 19:30:58"
         },
         {
           "skuid": "S0B25FC5DA5DD1003",
@@ -2493,11 +2493,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 9,
-          "fill_pct": 22,
+          "fill_pct": 11,
           "stock_warning": 0,
-          "stock_updated": "2026-04-25 22:19:17"
+          "stock_updated": "2026-04-26 19:30:58"
         },
         {
           "skuid": "S0B2DAF8F87C31004",

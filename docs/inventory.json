@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T13:13:00Z",
+  "updated": "2026-04-28T15:44:33Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1234,8 +1234,8 @@
       "machine_name": "PhillyTrueCooler",
       "address": "4200 Ludlow St, Philadelphia PA, 10104",
       "total_skus": 55,
-      "in_stock": 53,
-      "out_of_stock": 2,
+      "in_stock": 51,
+      "out_of_stock": 4,
       "low_stock": 0,
       "products": [
         {
@@ -1304,11 +1304,11 @@
           "name": "Celsius Cherry Cola",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176202960060787.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 19:40:14"
+          "stock_updated": "2026-04-28 09:39:10"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -1472,11 +1472,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 4.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 19:40:14"
+          "stock_updated": "2026-04-28 09:39:10"
         },
         {
           "skuid": "S0B2D055ACE44100B",
@@ -1592,11 +1592,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 18,
+          "stock": 17,
           "capacity": 18,
-          "fill_pct": 100,
+          "fill_pct": 94,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 19:40:14"
+          "stock_updated": "2026-04-28 09:39:10"
         },
         {
           "skuid": "S0B246944DEF51002",

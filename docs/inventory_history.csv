@@ -737,3 +737,9 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-28T19:42:36Z,15521,philly,PhillyTrueCooler,S0B2DB932853E100A,044000082048,Oreo Fresh stacks,4.25,10,9,-1
 2026-04-28T19:42:36Z,15521,philly,PhillyTrueCooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,10,9,-1
 2026-04-28T19:42:36Z,16213,haven,TheHaven#2-cooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,5.17,6,5,-1
+2026-04-28T21:07:51Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,7,6,-1
+2026-04-28T21:07:51Z,16213,haven,TheHaven#2-cooler,S0B2D11E2F0FD1001,818290017710,Chobani Protein Strawberries & Cream,4.5,4,3,-1
+2026-04-28T21:07:51Z,16213,haven,TheHaven#2-cooler,S0B246944E6EA1003,04043108,Candy M&M Plain,2.57,9,7,-2
+2026-04-28T21:07:51Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,11,9,-2
+2026-04-28T21:07:51Z,16213,haven,TheHaven#2-cooler,S0B246944E34E1008,038000524042,Rice Krispies Treats Crispy-Original,2.07,2,1,-1
+2026-04-28T21:07:51Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,4,2,-2

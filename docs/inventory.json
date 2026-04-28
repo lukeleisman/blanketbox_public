@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T15:44:33Z",
+  "updated": "2026-04-28T17:47:07Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1771,7 +1771,7 @@
           "barcode": "611269991000",
           "name": "Red Bull",
           "price": 3.37,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/611269991000.jpg",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173685348425381.png",
           "stock": 0,
           "capacity": 0,
           "fill_pct": null,

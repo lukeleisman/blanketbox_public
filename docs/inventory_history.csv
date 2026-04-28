@@ -734,3 +734,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-28T15:44:33Z,15521,philly,PhillyTrueCooler,S0B2C85783CD31007,1162002196,Fair Life Core Power 26g Vanilla Protein Shake,4.97,1,0,-1
 2026-04-28T15:44:33Z,15521,philly,PhillyTrueCooler,S0B2A44D16D23100C,88939200170,Celsius Cherry Cola,3.57,1,0,-1
 2026-04-28T15:44:33Z,15521,philly,PhillyTrueCooler,S0B2D484E0EFD1001,014100043706,Milano,2.57,18,17,-1
+2026-04-28T19:42:36Z,15521,philly,PhillyTrueCooler,S0B2DB932853E100A,044000082048,Oreo Fresh stacks,4.25,10,9,-1
+2026-04-28T19:42:36Z,15521,philly,PhillyTrueCooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,10,9,-1
+2026-04-28T19:42:36Z,16213,haven,TheHaven#2-cooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,5.17,6,5,-1

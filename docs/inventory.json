@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T21:07:51Z",
+  "updated": "2026-04-28T22:31:15Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -570,11 +570,11 @@
           "name": "Sour Patch Kids Soft & Chewy Candy",
           "price": 2.19,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964188034.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 17:37:46"
+          "stock_updated": "2026-04-28 16:44:50"
         },
         {
           "skuid": "S0B248CF277231002",
@@ -1268,11 +1268,11 @@
           "name": "Buldak Habanero Lime",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177733607356442.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 21:35:00"
+          "stock_updated": "2026-04-28 16:14:50"
         },
         {
           "skuid": "S0B25FC5136E7100C",
@@ -1592,11 +1592,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 17,
+          "stock": 16,
           "capacity": 18,
-          "fill_pct": 94,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-04-28 09:39:10"
+          "stock_updated": "2026-04-28 16:14:50"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -2145,11 +2145,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-04-28 16:06:13"
+          "stock_updated": "2026-04-28 16:58:04"
         },
         {
           "skuid": "S0B2C85783CD31007",

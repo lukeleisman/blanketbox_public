@@ -743,3 +743,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-28T21:07:51Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,11,9,-2
 2026-04-28T21:07:51Z,16213,haven,TheHaven#2-cooler,S0B246944E34E1008,038000524042,Rice Krispies Treats Crispy-Original,2.07,2,1,-1
 2026-04-28T21:07:51Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,4,2,-2
+2026-04-28T22:31:15Z,15519,doylestown,333 North Broad Ambient,S0B246944E424100B,070462098501,Sour Patch Kids Soft & Chewy Candy,2.19,4,3,-1
+2026-04-28T22:31:15Z,15521,philly,PhillyTrueCooler,S0B2DD527A6531007,8801073215863,Buldak Habanero Lime,5.5,3,2,-1
+2026-04-28T22:31:15Z,15521,philly,PhillyTrueCooler,S0B2D484E0EFD1001,014100043706,Milano,2.57,17,16,-1
+2026-04-28T22:31:15Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,6,5,-1

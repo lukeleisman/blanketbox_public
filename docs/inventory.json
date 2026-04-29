@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-29T19:47:52Z",
+  "updated": "2026-04-29T21:06:29Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -667,11 +667,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 12,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 17:16:50"
+          "stock_updated": "2026-04-29 15:21:58"
         },
         {
           "skuid": "S0B246944E4EB1007",
@@ -2001,11 +2001,11 @@
           "name": "Chips Ahoy minis",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17767056506495.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 14:00:15"
+          "stock_updated": "2026-04-29 15:25:22"
         },
         {
           "skuid": "S0B2D11E680501004",
@@ -2397,11 +2397,11 @@
           "name": "Oreo Fresh stacks",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686702392867.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 14:00:15"
+          "stock_updated": "2026-04-29 15:31:22"
         },
         {
           "skuid": "S0B2BAC9D24491002",

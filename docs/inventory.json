@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T23:55:39Z",
+  "updated": "2026-04-29T03:24:29Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -510,11 +510,11 @@
           "name": "Pop Secret popcorn",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 17:37:46"
+          "stock_updated": "2026-04-28 20:48:05"
         },
         {
           "skuid": "S0B2D5E2BE692100C",

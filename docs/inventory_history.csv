@@ -758,3 +758,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-29T06:11:19Z,15521,philly,PhillyTrueCooler,S0B2D90DD9337100C,016000215214,Simply Chex,5.0,4,3,-1
 2026-04-29T06:11:19Z,16213,haven,TheHaven#2-cooler,S0B2D484E0EFD1001,014100043706,Milano,2.57,9,8,-1
 2026-04-29T10:56:53Z,15521,philly,PhillyTrueCooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,9,8,-1
+2026-04-29T12:19:35Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,10,9,-1

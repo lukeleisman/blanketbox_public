@@ -759,3 +759,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-29T06:11:19Z,16213,haven,TheHaven#2-cooler,S0B2D484E0EFD1001,014100043706,Milano,2.57,9,8,-1
 2026-04-29T10:56:53Z,15521,philly,PhillyTrueCooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,9,8,-1
 2026-04-29T12:19:35Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,10,9,-1
+2026-04-29T14:37:43Z,16213,haven,TheHaven#2-cooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,5.17,5,4,-1
+2026-04-29T14:37:43Z,16213,haven,TheHaven#2-cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,7,6,-1
+2026-04-29T14:37:43Z,16213,haven,TheHaven#2-cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,7,6,-1
+2026-04-29T14:37:43Z,16213,haven,TheHaven#2-cooler,S0B2C6BB0DE621006,F0B2C6BB0DE621004,Cocoa Krisp cereal,1.99,4,3,-1
+2026-04-29T14:37:43Z,16213,haven,TheHaven#2-cooler,S0B2BDAE8D5FB1006,520010247,Gatorade Glacier Cherry,3.0,3,2,-1

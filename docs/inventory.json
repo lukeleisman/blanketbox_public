@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-29T16:27:57Z",
+  "updated": "2026-04-29T17:59:08Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1147,11 +1147,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 17,
+          "stock": 16,
           "capacity": 18,
-          "fill_pct": 94,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 22:13:49"
+          "stock_updated": "2026-04-29 11:45:30"
         },
         {
           "skuid": "S0B2DD4AAFF451007",
@@ -1953,11 +1953,11 @@
           "name": "Candy M&M Plain",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 10,
-          "fill_pct": 70,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-04-28 16:00:09"
+          "stock_updated": "2026-04-29 11:57:11"
         },
         {
           "skuid": "S0B2D0552D8121008",

@@ -116,7 +116,7 @@ MESSAGE_URL  = "https://webapi-us.sandstar.com/message/findWebUserMessage"
 DOWNLOAD_URL = "https://webapi-us.sandstar.com/homePage/download"
 ORGAN_SN     = "000332"
 
-POLL_INTERVAL = 5
+POLL_INTERVAL = 3
 POLL_TIMEOUT  = 180
 
 
@@ -160,17 +160,21 @@ def fetch_order_data(token: str, days_back: int = 90) -> list[dict]:
             mr = requests.post(MESSAGE_URL, json=msg_payload,
                                headers=headers, timeout=10)
             mr.raise_for_status()
-            messages = (mr.json().get("data") or {}).get("resultList") or []
+            body = mr.json()
+            messages = (body.get("data") or {}).get("resultList") or []
+            print(f"  DEBUG: poll returned {len(messages)} message(s)", file=sys.stderr)
 
             for msg in messages:
                 subject = msg.get("subject", "")
                 content = msg.get("content", "")
                 send_time = msg.get("sendTime", "")
+                print(f"  DEBUG: msg subject={subject!r} sendTime={send_time!r} content={content[:80]!r}", file=sys.stderr)
                 try:
                     send_ts = datetime.strptime(send_time, "%Y-%m-%d %H:%M:%S").timestamp()
                 except ValueError:
                     send_ts = 0
                 if send_ts < t0:
+                    print(f"  DEBUG: skipping (too old: {send_ts:.0f} < {t0:.0f})", file=sys.stderr)
                     continue
                 if subject == "OrderDetailsReport":
                     m = re.search(r'fileName=([^\s"\'<>&]+\.xlsx)', content)
@@ -178,8 +182,10 @@ def fetch_order_data(token: str, days_back: int = 90) -> list[dict]:
                         filename = m.group(1)
                         print(f"  Export ready: {filename}")
                         break
+                    else:
+                        print(f"  DEBUG: subject matched but no fileName in content: {content!r}", file=sys.stderr)
         except Exception as e:
-            print(f"  Warning: message poll failed ({e})")
+            print(f"  Warning: message poll failed ({e})", file=sys.stderr)
 
         if filename:
             break

@@ -137,6 +137,19 @@ def fetch_order_data(token: str, days_back: int = 90) -> list[dict]:
     start_str = start.strftime("%Y-%m-%d 00:00:00")
     end_str = end.strftime("%Y-%m-%d 23:59:59")
 
+    # Snapshot existing message sendTimes before triggering so we can
+    # identify the new message without timezone-sensitive timestamp math.
+    pre_trigger_times = set()
+    try:
+        sr = requests.post(MESSAGE_URL, json={"page": 1, "pageSize": 50, "readState": 0},
+                           headers=headers, timeout=10)
+        sr.raise_for_status()
+        for msg in (sr.json().get("data") or {}).get("resultList") or []:
+            if msg.get("subject") == "OrderDetailsReport":
+                pre_trigger_times.add(msg.get("sendTime"))
+    except Exception as e:
+        print(f"  Warning: pre-trigger snapshot failed ({e})", file=sys.stderr)
+
     print(f"  Triggering order export ({start_str[:10]} to {end_str[:10]})...")
     payload = {
         "organSns": ORGAN_SN,
@@ -149,41 +162,27 @@ def fetch_order_data(token: str, days_back: int = 90) -> list[dict]:
                       headers=headers, timeout=30)
     r.raise_for_status()
 
-    # Poll for the download link
-    t0 = time.time()
-    deadline = t0 + POLL_TIMEOUT
+    # Poll for a new OrderDetailsReport message (not in pre-trigger snapshot)
+    deadline = time.time() + POLL_TIMEOUT
     filename = None
 
     while time.time() < deadline:
         try:
-            msg_payload = {"page": 1, "pageSize": 50, "readState": 0}
-            mr = requests.post(MESSAGE_URL, json=msg_payload,
+            mr = requests.post(MESSAGE_URL, json={"page": 1, "pageSize": 50, "readState": 0},
                                headers=headers, timeout=10)
             mr.raise_for_status()
-            body = mr.json()
-            messages = (body.get("data") or {}).get("resultList") or []
-            print(f"  DEBUG: poll returned {len(messages)} message(s)", file=sys.stderr)
+            messages = (mr.json().get("data") or {}).get("resultList") or []
 
             for msg in messages:
-                subject = msg.get("subject", "")
-                content = msg.get("content", "")
-                send_time = msg.get("sendTime", "")
-                print(f"  DEBUG: msg subject={subject!r} sendTime={send_time!r} content={content[:80]!r}", file=sys.stderr)
-                try:
-                    send_ts = datetime.strptime(send_time, "%Y-%m-%d %H:%M:%S").timestamp()
-                except ValueError:
-                    send_ts = 0
-                if send_ts < t0:
-                    print(f"  DEBUG: skipping (too old: {send_ts:.0f} < {t0:.0f})", file=sys.stderr)
+                if msg.get("subject") != "OrderDetailsReport":
                     continue
-                if subject == "OrderDetailsReport":
-                    m = re.search(r'fileName=([^\s"\'<>&]+\.xlsx)', content)
-                    if m:
-                        filename = m.group(1)
-                        print(f"  Export ready: {filename}")
-                        break
-                    else:
-                        print(f"  DEBUG: subject matched but no fileName in content: {content!r}", file=sys.stderr)
+                if msg.get("sendTime") in pre_trigger_times:
+                    continue
+                m = re.search(r'fileName=([^\s"\'<>&]+\.xlsx)', msg.get("content", ""))
+                if m:
+                    filename = m.group(1)
+                    print(f"  Export ready: {filename}")
+                    break
         except Exception as e:
             print(f"  Warning: message poll failed ({e})", file=sys.stderr)
 

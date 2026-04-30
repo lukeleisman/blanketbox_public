@@ -797,3 +797,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-30T08:38:55Z,15521,philly,PhillyTrueCooler,S0B2C3772FF3A1009,082592660152,Naked Juice Mighty Mango 15.2oz Bottle,4.57,2,1,-1
 2026-04-30T08:38:55Z,15521,philly,PhillyTrueCooler,S0B2C377070EC1001,082592194152,Naked Strawberry Banana 15.2oz,4.99,5,4,-1
 2026-04-30T08:38:55Z,15521,philly,PhillyTrueCooler,S0B2D484E0EFD1001,014100043706,Milano,2.57,16,15,-1
+2026-04-30T12:16:44Z,16213,haven,TheHaven#2-cooler,S0B2C85783CD31007,1162002196,Fair Life Core Power 26g Vanilla Protein Shake,5.17,4,3,-1
+2026-04-30T12:16:44Z,16213,haven,TheHaven#2-cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,5,4,-1
+2026-04-30T12:16:44Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,9,6,-3
+2026-04-30T12:16:44Z,16213,haven,TheHaven#2-cooler,S0B2C6BB0DE621006,F0B2C6BB0DE621004,Cocoa Krisp cereal,1.99,3,2,-1

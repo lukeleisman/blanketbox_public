@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T10:56:10Z",
+  "updated": "2026-04-30T12:16:44Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2085,11 +2085,11 @@
           "name": "Cocoa Krisp cereal",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177127171417287.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-29 08:42:38"
+          "stock_updated": "2026-04-30 06:58:04"
         },
         {
           "skuid": "S0B2C6B34663C1009",
@@ -2157,11 +2157,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 5.17,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 14:00:15"
+          "stock_updated": "2026-04-30 06:58:04"
         },
         {
           "skuid": "S0B25FC55972D1006",
@@ -2361,11 +2361,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-04-29 16:08:25"
+          "stock_updated": "2026-04-30 06:58:04"
         },
         {
           "skuid": "S0B2DAF9204FD1006",
@@ -2505,11 +2505,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 9,
+          "stock": 6,
           "capacity": 12,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-28 16:00:09"
+          "stock_updated": "2026-04-30 06:58:04"
         },
         {
           "skuid": "S0B2DAF8F87C31004",

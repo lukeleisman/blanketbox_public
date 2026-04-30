@@ -666,6 +666,15 @@ def main():
     print("Logging in to Sandstar OPS...")
     token = login()
 
+    # Fetch inventory first while the token is fresh (before the long order export poll)
+    print("Fetching inventory...")
+    inventory = fetch_live_inventory(token)
+    print(f"  {len(inventory['machines'])} machines")
+
+    # Re-login before the order export poll in case the token expires during the wait
+    print("Logging in to Sandstar OPS (order export)...")
+    token = login()
+
     # Try fetching live order data (last 90 days)
     print("Fetching order data...")
     orders = fetch_order_data(token, days_back=LONG_WINDOW_DAYS)
@@ -684,11 +693,6 @@ def main():
         else:
             print("  ERROR: No order data and no fallback sales_rates.json")
             sys.exit(1)
-
-    # Fetch live inventory (reuses the same token)
-    print("Fetching inventory...")
-    inventory = fetch_live_inventory(token)
-    print(f"  {len(inventory['machines'])} machines")
 
     # Build report
     machines = build_report_data(inventory, rate_lookup, global_rates)

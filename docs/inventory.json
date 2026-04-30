@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-29T23:55:20Z",
+  "updated": "2026-04-30T02:58:15Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -126,11 +126,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 9,
-          "fill_pct": 89,
+          "fill_pct": 78,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 21:00:48"
+          "stock_updated": "2026-04-29 21:08:50"
         },
         {
           "skuid": "S0B2BA2E2259B1009",
@@ -474,11 +474,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 21:00:48"
+          "stock_updated": "2026-04-29 21:08:50"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -967,11 +967,11 @@
           "name": "Maison Perrier Sparkling Water",
           "price": 2.87,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17773152898848.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 17:16:50"
+          "stock_updated": "2026-04-29 19:51:57"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -1207,11 +1207,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 12,
-          "fill_pct": 92,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-04-29 11:08:24"
+          "stock_updated": "2026-04-29 20:41:37"
         },
         {
           "skuid": "S0B2DB92EA84A1003",
@@ -1460,11 +1460,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 13,
-          "fill_pct": 85,
+          "fill_pct": 77,
           "stock_warning": 0,
-          "stock_updated": "2026-04-28 18:51:36"
+          "stock_updated": "2026-04-29 21:05:17"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2071,13 +2071,13 @@
           "skuid": "S0B246944DEAE1000",
           "barcode": "04963406",
           "name": "Coca-Cola 12oz can",
-          "price": 2.57,
+          "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 14:00:15"
+          "stock_updated": "2026-04-29 19:09:22"
         },
         {
           "skuid": "S0B2C6BB0DE621006",

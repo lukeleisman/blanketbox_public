@@ -50,7 +50,7 @@ MACHINE_DISPLAY_NAMES = {
     "PhillyTrueCooler":        "Philly True Cooler",
     "TheHaven#2-cooler":       "Haven Cooler",
     "ChicagoDryCab2-Warren":   "Warren Park",
-    "ChicagoDryCab1":          "McKinley Park",
+    "mHUBPrototypingShop":     "mHUB Prototyping Shop",
     "BorellisBox":             "Borelli's Box",
 }
 
@@ -60,7 +60,7 @@ MACHINE_TO_LOCATION = {
     "PhillyTrueCooler":        "philly",
     "TheHaven#2-cooler":       "haven",
     "ChicagoDryCab2-Warren":   "warren",
-    "ChicagoDryCab1":          "mckinley",
+    "mHUBPrototypingShop":     "mhub",
     "BorellisBox":             "borellis",
 }
 
@@ -78,7 +78,12 @@ STOCKING_ROUTES = {
     },
     "chicago": {
         "name": "Chicago",
-        "machines": ["ChicagoDryCab2-Warren", "ChicagoDryCab1", "BorellisBox"],
+        "machines": ["ChicagoDryCab2-Warren", "BorellisBox"],
+        "frequency_days": 14,
+    },
+    "chicago_mhub": {
+        "name": "Chicago - mHUB",
+        "machines": ["mHUBPrototypingShop"],
         "frequency_days": 14,
     },
 }
@@ -376,9 +381,21 @@ def load_sales_rates_json(path: str = "docs/sales_rates.json") -> tuple[dict, di
 # ============================================================
 
 def fetch_live_inventory(token: str) -> dict:
-    """Fetch current inventory from Sandstar API."""
+    """Fetch current inventory from Sandstar API, with fallback to inventory.json."""
     machines = scrape_all(token)
     updated = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+    total_products = sum(len(m["products"]) for m in machines)
+    if total_products == 0 and machines:
+        fallback = "docs/inventory.json"
+        if os.path.exists(fallback):
+            print(f"  WARNING: Live API returned 0 products across all machines — "
+                  f"falling back to {fallback}", file=sys.stderr)
+            with open(fallback) as f:
+                return json.load(f)
+        print("  ERROR: Live API returned 0 products and no fallback inventory.json found.",
+              file=sys.stderr)
+
     return build_inventory_json(machines, updated)
 
 
@@ -396,6 +413,9 @@ def build_report_data(inventory: dict, rate_lookup: dict, global_rates: dict) ->
 
     for m in inventory["machines"]:
         mname = m["machine_name"]
+        if mname not in MACHINE_DISPLAY_NAMES:
+            print(f"  WARNING: Unknown machine name '{mname}' (freezer {m.get('freezer_id', '?')}) — "
+                  f"not in MACHINE_DISPLAY_NAMES. Update the config maps.", file=sys.stderr)
         freq = machine_freq.get(mname, 7)
         route_id = machine_route.get(mname, "unassigned")
 

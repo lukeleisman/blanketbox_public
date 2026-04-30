@@ -105,18 +105,22 @@ def scrape_all(token: str) -> list:
             # Machine metadata
             try:
                 detail = fetch_freezer_detail(token, fid)
+                if not isinstance(detail, dict):
+                    raise RuntimeError(f"Unexpected detail response type: {type(detail).__name__} — {str(detail)[:200]}")
                 machine_name = detail.get("freezerName", fid)
                 address      = detail.get("address", "")
             except Exception as e:
-                print(f"    WARNING: detail fetch failed: {e}", file=sys.stderr)
+                print(f"    WARNING: detail fetch failed for {fid}: {e}", file=sys.stderr)
                 machine_name = fid
                 address      = ""
 
             # Products
             try:
                 items = fetch_machine_products(token, fid)
+                if not isinstance(items, list):
+                    raise RuntimeError(f"Unexpected products response type: {type(items).__name__} — {str(items)[:200]}")
             except Exception as e:
-                print(f"    WARNING: products fetch failed: {e}", file=sys.stderr)
+                print(f"    WARNING: products fetch failed for {fid}: {e}", file=sys.stderr)
                 items = []
 
             products = []

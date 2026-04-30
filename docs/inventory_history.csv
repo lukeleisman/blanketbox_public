@@ -803,3 +803,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-30T12:16:44Z,16213,haven,TheHaven#2-cooler,S0B2C6BB0DE621006,F0B2C6BB0DE621004,Cocoa Krisp cereal,1.99,3,2,-1
 2026-04-30T14:33:40Z,16213,haven,TheHaven#2-cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,6,5,-1
 2026-04-30T14:33:40Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,9,8,-1
+2026-04-30T16:19:38Z,15521,philly,PhillyTrueCooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,9,8,-1
+2026-04-30T16:19:38Z,15521,philly,PhillyTrueCooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,10,9,-1

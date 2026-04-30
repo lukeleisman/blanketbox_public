@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T20:38:57Z",
+  "updated": "2026-04-30T21:56:38Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -799,11 +799,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 17:16:50"
+          "stock_updated": "2026-04-30 15:58:46"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -979,11 +979,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 12,
+          "stock": 11,
           "capacity": 13,
-          "fill_pct": 92,
+          "fill_pct": 85,
           "stock_warning": 0,
-          "stock_updated": "2026-04-29 16:36:10"
+          "stock_updated": "2026-04-30 15:58:46"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1015,11 +1015,11 @@
           "name": "Recess ras-lime",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177385828906772.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 17:16:50"
+          "stock_updated": "2026-04-30 15:58:46"
         },
         {
           "skuid": "S0B2C858213931004",
@@ -1929,11 +1929,11 @@
           "name": "Beef Liver Dog Treats",
           "price": 20.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174907930543359.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 14:00:15"
+          "stock_updated": "2026-04-30 16:56:19"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -2241,11 +2241,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-29 06:36:47"
+          "stock_updated": "2026-04-30 16:56:19"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -2553,11 +2553,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 09:33:34"
+          "stock_updated": "2026-04-30 16:56:19"
         },
         {
           "skuid": "S0B2D48452F7E1005",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T06:09:51Z",
+  "updated": "2026-04-30T08:38:55Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -655,11 +655,11 @@
           "name": "Candy M&M Plain",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-04-28 22:24:58"
+          "stock_updated": "2026-04-30 01:12:09"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -919,11 +919,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 3.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 17:16:50"
+          "stock_updated": "2026-04-30 01:12:09"
         },
         {
           "skuid": "S0B2D11D53BB51008",
@@ -955,11 +955,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 12,
+          "stock": 11,
           "capacity": 13,
-          "fill_pct": 92,
+          "fill_pct": 85,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 21:00:20"
+          "stock_updated": "2026-04-30 03:31:54"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -991,11 +991,11 @@
           "name": "Naked Strawberry Banana 15.2oz",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176054114397470.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 00:41:43"
+          "stock_updated": "2026-04-30 03:31:54"
         },
         {
           "skuid": "S0B2D113959A71003",
@@ -1051,11 +1051,11 @@
           "name": "S. Pellegrino Lemonade 11.15oz",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177078645626497.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 17:16:50"
+          "stock_updated": "2026-04-30 03:31:54"
         },
         {
           "skuid": "S0B2D3E6DA5E01005",
@@ -1075,11 +1075,11 @@
           "name": "San Pellegrino Essenza",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619022990038.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 17:16:50"
+          "stock_updated": "2026-04-30 03:31:54"
         },
         {
           "skuid": "S0B29D2F2643D100B",
@@ -1592,11 +1592,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 16,
+          "stock": 15,
           "capacity": 18,
-          "fill_pct": 89,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-04-28 16:14:50"
+          "stock_updated": "2026-04-30 01:24:53"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1652,11 +1652,11 @@
           "name": "Naked Juice Mighty Mango 15.2oz Bottle",
           "price": 4.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/082592660152.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 22:25:39"
+          "stock_updated": "2026-04-30 01:24:53"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1664,11 +1664,11 @@
           "name": "Naked Strawberry Banana 15.2oz",
           "price": 4.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176054114397470.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 19:40:14"
+          "stock_updated": "2026-04-30 02:14:49"
         },
         {
           "skuid": "S0B2D113959A71003",

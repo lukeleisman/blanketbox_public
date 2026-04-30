@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T16:19:38Z",
+  "updated": "2026-04-30T17:50:40Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1147,11 +1147,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 16,
+          "stock": 15,
           "capacity": 18,
-          "fill_pct": 89,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-04-29 11:45:30"
+          "stock_updated": "2026-04-30 12:43:03"
         },
         {
           "skuid": "S0B2DD4AAFF451007",

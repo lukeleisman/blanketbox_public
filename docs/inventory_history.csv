@@ -780,3 +780,11 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-30T02:58:15Z,16214,doylestown,333 North Broad Cooler,S0B2D0516EFCB1008,007478051550,Maison Perrier Sparkling Water,2.87,6,5,-1
 2026-04-30T02:58:15Z,15521,philly,PhillyTrueCooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,11,10,-1
 2026-04-30T02:58:15Z,16213,haven,TheHaven#2-cooler,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.5,5,4,-1
+2026-04-30T06:09:51Z,15519,doylestown,333 North Broad Ambient,S0B2DB932853E100A,044000082048,Oreo Fresh stacks,5.0,2,1,-1
+2026-04-30T06:09:51Z,15519,doylestown,333 North Broad Ambient,S0B2BA2E2259B1009,643843713944,Cliff  Chocolate Chip Protein Bar,2.67,13,12,-1
+2026-04-30T06:09:51Z,15519,doylestown,333 North Broad Ambient,S0B2C6BE9F76D100A,2410012261,Cheez-It 1.5 oz,2.07,7,3,-4
+2026-04-30T06:09:51Z,16214,doylestown,333 North Broad Cooler,S0B2C377070EC1001,082592194152,Naked Strawberry Banana 15.2oz,5.0,6,5,-1
+2026-04-30T06:09:51Z,16214,doylestown,333 North Broad Cooler,S0B2D113959A71003,8056042042852,Oikos Peach Protein,4.27,9,8,-1
+2026-04-30T06:09:51Z,16214,doylestown,333 North Broad Cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.57,24,23,-1
+2026-04-30T06:09:51Z,15521,philly,PhillyTrueCooler,S0B2D48452F7E1005,89899900002,Vita coconut water,4.5,1,0,-1
+2026-04-30T06:09:51Z,15521,philly,PhillyTrueCooler,S0B2D113EDC9E1004,013971003413,Bare Coconut Chips,2.27,4,3,-1

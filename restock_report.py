@@ -788,35 +788,65 @@ def format_html_report(machines: list) -> str:
             low = [p for p in m["products"] if p["needs_restock"] and not p["is_oos"]]
             ok  = [p for p in m["products"] if not p["needs_restock"]]
 
+            nv = m.get("next_visit_date")
             if oos:
                 html.append(f'<div class="section-label oos">Out of Stock ({len(oos)})</div>')
-                html.append(_product_table(oos, oos_section=True))
+                html.append(_product_table(oos, oos_section=True, next_visit_date=nv))
             if low:
                 html.append(f'<div class="section-label low">Low Stock ({len(low)})</div>')
-                html.append(_product_table(low))
+                html.append(_product_table(low, next_visit_date=nv))
             if ok:
                 html.append(f'<div class="section-label ok">Stocked ({len(ok)})</div>')
-                html.append(_product_table(ok, row_class=""))
+                html.append(_product_table(ok, row_class="", next_visit_date=nv))
 
             html.append("</div>")
 
-    any_totals = False
+    # Build per-region totals and collect visit-date assumptions for the heading.
+    region_data = []
     for region_name, route_ids in REGION_ROUTES.items():
+        region_machines = [m for m in machines if m["route"] in route_ids]
         region_totals = {}
-        for m in machines:
-            if m["route"] in route_ids:
-                for p in m["products"]:
-                    if p["needs_restock"] and p["qty_to_fill"] > 0:
-                        region_totals[p["name"]] = region_totals.get(p["name"], 0) + p["qty_to_fill"]
-        if region_totals:
-            if not any_totals:
-                html.append('<h2 style="color:#1C3D5A; font-size:18px; margin-top:28px;">'
-                            'Restock Quantities</h2>')
-                any_totals = True
+        for m in region_machines:
+            for p in m["products"]:
+                if p["needs_restock"] and p["qty_to_fill"] > 0:
+                    region_totals[p["name"]] = region_totals.get(p["name"], 0) + p["qty_to_fill"]
+        if not region_totals:
+            continue
+        # Representative next-visit date for this region (first machine that has one)
+        visit_date = next((m["next_visit_date"] for m in region_machines
+                           if m.get("next_visit_date")), None)
+        display_names = [m["display_name"] for m in region_machines]
+        region_data.append({
+            "name": region_name,
+            "totals": region_totals,
+            "visit_date": visit_date,
+            "display_names": display_names,
+        })
+
+    if region_data:
+        # "assuming restock on 5/11 for A, B and on 5/25 for C, D"
+        clauses = []
+        for rd in region_data:
+            if rd["visit_date"]:
+                d = date.fromisoformat(rd["visit_date"])
+                date_fmt = f'{d.month}/{d.day}'
+                clauses.append(f'on {date_fmt} for {", ".join(rd["display_names"])}')
+        assuming = ("assuming restock " + " and ".join(clauses)) if clauses else ""
+        assuming_html = (f' <span style="font-weight:normal; font-size:13px; color:#666;">'
+                         f'({assuming})</span>') if assuming else ""
+        html.append(f'<h2 style="color:#1C3D5A; font-size:18px; margin-top:28px;">'
+                    f'Restock Quantities{assuming_html}</h2>')
+
+        for rd in region_data:
+            if rd["visit_date"]:
+                d = date.fromisoformat(rd["visit_date"])
+                sub = f'{rd["name"]} — {d.strftime("%b %-d")}'
+            else:
+                sub = rd["name"]
             html.append(f'<h3 style="color:#1C3D5A; font-size:15px; margin: 14px 0 4px 0;">'
-                        f'{region_name}</h3>')
+                        f'{sub}</h3>')
             html.append('<table class="summary-table"><tr><th>Product</th><th>Qty</th></tr>')
-            for name, qty in sorted(region_totals.items(), key=lambda x: -x[1]):
+            for name, qty in sorted(rd["totals"].items(), key=lambda x: -x[1]):
                 html.append(f"<tr><td>{name}</td><td>{qty}</td></tr>")
             html.append("</table>")
 
@@ -824,11 +854,17 @@ def format_html_report(machines: list) -> str:
     return "\n".join(html)
 
 
-def _product_table(products: list, row_class: str = None, oos_section: bool = False) -> str:
+def _product_table(products: list, row_class: str = None, oos_section: bool = False,
+                   next_visit_date: str = None) -> str:
     sellout_header = "Sellout Date" if oos_section else "Sellout Range"
+    if next_visit_date:
+        d = date.fromisoformat(next_visit_date)
+        fill_header = f"Fill on {d.month}/{d.day}"
+    else:
+        fill_header = "Fill"
     rows = ["<table>",
             f"<tr><th>Product</th><th>Stock</th><th>%</th><th>Rate</th>"
-            f"<th>Days Left</th><th>{sellout_header}</th><th>Fill</th><th></th></tr>"]
+            f"<th>Days Left</th><th>{sellout_header}</th><th>{fill_header}</th><th></th></tr>"]
     for p in products:
         if row_class is not None:
             cls = row_class

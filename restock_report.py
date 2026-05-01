@@ -122,6 +122,10 @@ LONG_WINDOW_DAYS = 90
 MIN_SALES_HIGH_CONFIDENCE = 10
 MIN_SALES_MEDIUM_CONFIDENCE = 5
 
+# Restock event detection thresholds (applied to inventory_history.csv)
+MIN_RESTOCK_PRODUCTS = 3   # min number of products with positive delta at a timestamp
+MIN_RESTOCK_UNITS    = 5   # min total units added across all products
+
 # Restocking totals groupings
 REGION_ROUTES = {
     "Philly": {"philly_west", "philly_suburbs"},
@@ -474,6 +478,66 @@ def load_sales_rates_json(path: str = "docs/sales_rates.json") -> tuple[dict, di
 
 
 # ============================================================
+# RESTOCK EVENT DETECTION
+# ============================================================
+
+def load_restock_events(
+    history_path: str = "docs/inventory_history.csv",
+) -> tuple[dict, dict]:
+    """
+    Parse inventory_history.csv to detect machine restock events and infer
+    per-product stock targets (the level we stocked to last time).
+
+    A restock event at a (timestamp, machine) requires:
+      - ≥ MIN_RESTOCK_PRODUCTS products with positive stock deltas
+      - ≥ MIN_RESTOCK_UNITS total units added
+    This filters out single-item corrections and API noise.
+
+    Returns:
+        last_restock_dates:    {machine_name: date of most recent detected restock}
+        restock_stock_targets: {(machine_name, product_name): new_stock at most recent restock}
+    """
+    if not os.path.exists(history_path):
+        return {}, {}
+
+    events = {}  # (ts_str, machine) → {products: {name: new_stock}, total_delta, n_products}
+
+    with open(history_path, newline="") as f:
+        for row in csv.DictReader(f):
+            delta = int(row["delta"])
+            if delta <= 0:
+                continue
+            key = (row["timestamp"], row["machine_name"])
+            if key not in events:
+                events[key] = {"products": {}, "total_delta": 0, "n_products": 0}
+            events[key]["products"][row["name"]] = int(row["new_stock"])
+            events[key]["total_delta"] += delta
+            events[key]["n_products"] += 1
+
+    last_restock_dates   = {}
+    restock_stock_targets = {}
+
+    # Process in timestamp order so later events overwrite earlier ones per machine/product
+    for (ts_str, machine), data in sorted(events.items(), key=lambda x: x[0][0]):
+        if (data["n_products"] < MIN_RESTOCK_PRODUCTS or
+                data["total_delta"] < MIN_RESTOCK_UNITS):
+            continue
+        ts_date = datetime.fromisoformat(ts_str.replace("Z", "+00:00")).date()
+        last_restock_dates[machine] = ts_date
+        for product, new_stock in data["products"].items():
+            restock_stock_targets[(machine, product)] = new_stock
+
+    if last_restock_dates:
+        for machine, d in sorted(last_restock_dates.items()):
+            n = sum(1 for (m, _) in restock_stock_targets if m == machine)
+            print(f"  Restock detected: {machine} — {d} ({n} products)", file=sys.stderr)
+    else:
+        print("  No restock events detected in history.", file=sys.stderr)
+
+    return last_restock_dates, restock_stock_targets
+
+
+# ============================================================
 # REPORT BUILDING
 # ============================================================
 
@@ -497,10 +561,16 @@ def fetch_live_inventory(token: str) -> dict:
 
 
 def build_report_data(inventory: dict, rate_lookup: dict, global_rates: dict,
-                      global_sigmas: dict = None) -> list:
+                      global_sigmas: dict = None,
+                      last_restock_dates: dict = None,
+                      restock_stock_targets: dict = None) -> list:
     """Combine inventory with sales rates into restock report data."""
     if global_sigmas is None:
         global_sigmas = {}
+    if last_restock_dates is None:
+        last_restock_dates = {}
+    if restock_stock_targets is None:
+        restock_stock_targets = {}
 
     machine_route = {}
     machine_freq = {}
@@ -520,8 +590,8 @@ def build_report_data(inventory: dict, rate_lookup: dict, global_rates: dict,
         freq = machine_freq.get(mname, 14)
         route_id = machine_route.get(mname, "unassigned")
 
-        # Project how much stock will remain when we arrive for the next restock visit.
-        last_restock = LAST_RESTOCK_DATES.get(mname)
+        # Last restock: prefer auto-detected from inventory history, fallback to hardcoded.
+        last_restock = last_restock_dates.get(mname) or LAST_RESTOCK_DATES.get(mname)
         if last_restock:
             next_visit = last_restock + timedelta(days=freq)
             days_until_visit = max(0, (next_visit - today).days)
@@ -595,14 +665,13 @@ def build_report_data(inventory: dict, rate_lookup: dict, global_rates: dict,
             is_oos = stock == 0
             needs_restock = is_oos or (est_days is not None and est_days < freq)
 
-            # Fill = how much to bring on the next visit, accounting for sales until then.
+            # Fill target: max stock recorded at last detected restock; fallback to API capacity.
+            fill_target = (restock_stock_targets.get((mname, pname))
+                           or capacity
+                           or (int(math.ceil(daily_rate * freq)) if daily_rate > 0 else 0))
+            # Project stock at the time of the next visit, then fill to target.
             stock_at_visit = max(0.0, stock - daily_rate * days_until_visit)
-            if capacity > 0:
-                qty_to_fill = max(0, int(math.ceil(capacity - stock_at_visit)))
-            elif daily_rate > 0:
-                qty_to_fill = max(0, int(math.ceil(daily_rate * freq - stock_at_visit)))
-            else:
-                qty_to_fill = 0
+            qty_to_fill = max(0, int(math.ceil(fill_target - stock_at_visit)))
 
             products_out.append({
                 "name": pname,
@@ -635,6 +704,7 @@ def build_report_data(inventory: dict, rate_lookup: dict, global_rates: dict,
             "location_id": MACHINE_TO_LOCATION.get(mname, "unknown"),
             "route": route_id,
             "frequency_days": freq,
+            "last_restock_date": last_restock.isoformat() if last_restock else None,
             "next_visit_date": next_visit.isoformat() if next_visit else None,
             "updated": inventory["updated"],
             "total_skus": len(products_out),
@@ -701,11 +771,13 @@ def format_html_report(machines: list) -> str:
         for m in route_machines:
             html.append('<div class="machine">')
             html.append(f'<div class="machine-name">{m["display_name"]}</div>')
-            next_visit = m.get("next_visit_date", "")
-            visit_str  = f' &middot; Next visit {next_visit}' if next_visit else ''
+            last_restock = m.get("last_restock_date", "")
+            next_visit   = m.get("next_visit_date", "")
+            restock_str  = f' &middot; Last restock {last_restock}' if last_restock else ''
+            visit_str    = f' &middot; Next visit {next_visit}' if next_visit else ''
             html.append(
                 f'<div class="machine-stats">'
-                f'Every {m["frequency_days"]}d{visit_str} &middot; '
+                f'Every {m["frequency_days"]}d{restock_str}{visit_str} &middot; '
                 f'{m["total_skus"]} items &middot; '
                 f'<span class="oos">{m["oos_count"]} OOS</span> &middot; '
                 f'<span class="low">{m["needs_restock_count"]} need restock</span>'
@@ -889,8 +961,15 @@ def main():
             print("  ERROR: No order data and no fallback sales_rates.json")
             sys.exit(1)
 
+    # Detect restock events from inventory history
+    print("Loading restock history...")
+    last_restock_dates, restock_stock_targets = load_restock_events()
+    print(f"  {len(last_restock_dates)} machines with detected restock events, "
+          f"{len(restock_stock_targets)} product targets")
+
     # Build report
-    machines = build_report_data(inventory, rate_lookup, global_rates, global_sigmas)
+    machines = build_report_data(inventory, rate_lookup, global_rates, global_sigmas,
+                                 last_restock_dates, restock_stock_targets)
 
     if "--email" in sys.argv:
         html = format_html_report(machines)

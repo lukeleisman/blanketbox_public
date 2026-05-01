@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30T23:55:34Z",
+  "updated": "2026-05-01T03:33:48Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -126,11 +126,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 3,
+          "stock": 1,
           "capacity": 9,
-          "fill_pct": 33,
+          "fill_pct": 11,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 00:50:43"
+          "stock_updated": "2026-04-30 21:28:02"
         },
         {
           "skuid": "S0B2BA2E2259B1009",
@@ -546,11 +546,11 @@
           "name": "Rice Krispies Treats Original",
           "price": 1.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254759829271.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 17:37:46"
+          "stock_updated": "2026-04-30 20:51:38"
         },
         {
           "skuid": "S0B246944E6CF1007",
@@ -1075,11 +1075,11 @@
           "name": "San Pellegrino Essenza",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619022990038.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 03:31:54"
+          "stock_updated": "2026-04-30 20:51:10"
         },
         {
           "skuid": "S0B29D2F2643D100B",
@@ -1234,8 +1234,8 @@
       "machine_name": "PhillyTrueCooler",
       "address": "4200 Ludlow St, Philadelphia PA, 10104",
       "total_skus": 55,
-      "in_stock": 50,
-      "out_of_stock": 5,
+      "in_stock": 49,
+      "out_of_stock": 6,
       "low_stock": 0,
       "products": [
         {
@@ -1400,11 +1400,11 @@
           "name": "Chobani vanilla",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177241491063878.png",
-          "stock": 2,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 19:40:14"
+          "stock_updated": "2026-04-30 19:59:57"
         },
         {
           "skuid": "S0B246944E2701006",
@@ -1808,11 +1808,11 @@
           "name": "Sargento Balanced Breaks",
           "price": 1.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177067823857843.png",
-          "stock": 6,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 19:40:14"
+          "stock_updated": "2026-04-30 19:59:57"
         },
         {
           "skuid": "S0B2D4835B16E100B",
@@ -2073,11 +2073,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 4,
+          "stock": 1,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-04-29 19:09:22"
+          "stock_updated": "2026-04-30 19:37:06"
         },
         {
           "skuid": "S0B2C6BB0DE621006",
@@ -2145,11 +2145,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-04-29 16:57:47"
+          "stock_updated": "2026-04-30 19:37:06"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2241,11 +2241,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 16:56:19"
+          "stock_updated": "2026-04-30 19:51:11"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -2553,11 +2553,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 10,
-          "fill_pct": 70,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 16:56:19"
+          "stock_updated": "2026-04-30 19:51:11"
         },
         {
           "skuid": "S0B2D48452F7E1005",

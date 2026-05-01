@@ -814,3 +814,12 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-04-30T21:56:38Z,16213,haven,TheHaven#2-cooler,S0B2740EB95E01006,850076106010,Beef Liver Dog Treats,20.07,2,1,-1
 2026-04-30T21:56:38Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,9,8,-1
 2026-04-30T23:55:34Z,16213,haven,TheHaven#2-cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,5,4,-1
+2026-05-01T03:33:48Z,15519,doylestown,333 North Broad Ambient,S0B27699FEBAC1004,038000765414,Rice Krispies Treats Original,1.97,3,2,-1
+2026-05-01T03:33:48Z,15519,doylestown,333 North Broad Ambient,S0B2C6BE9F76D100A,2410012261,Cheez-It 1.5 oz,2.07,3,1,-2
+2026-05-01T03:33:48Z,16214,doylestown,333 North Broad Cooler,S0B2D90DB76B5100C,041508302074,San Pellegrino Essenza,3.77,9,8,-1
+2026-05-01T03:33:48Z,15521,philly,PhillyTrueCooler,S0B2D11E583291001,818290015150,Chobani vanilla,2.0,2,0,-2
+2026-05-01T03:33:48Z,15521,philly,PhillyTrueCooler,S0B2D4832F5941002,046100203187,Sargento Balanced Breaks,1.97,6,4,-2
+2026-05-01T03:33:48Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,4,3,-1
+2026-05-01T03:33:48Z,16213,haven,TheHaven#2-cooler,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.5,4,1,-3
+2026-05-01T03:33:48Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,7,6,-1
+2026-05-01T03:33:48Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,8,7,-1

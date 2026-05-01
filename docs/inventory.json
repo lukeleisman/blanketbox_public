@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T14:56:06Z",
+  "updated": "2026-05-01T15:59:34Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -643,11 +643,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 23,
+          "stock": 22,
           "capacity": 24,
-          "fill_pct": 96,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 00:41:43"
+          "stock_updated": "2026-05-01 10:14:29"
         },
         {
           "skuid": "S0B246944E6EA1003",
@@ -1808,11 +1808,11 @@
           "name": "Sargento Balanced Breaks",
           "price": 1.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177067823857843.png",
-          "stock": 4,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 19:59:57"
+          "stock_updated": "2026-05-01 10:16:03"
         },
         {
           "skuid": "S0B2D4835B16E100B",
@@ -1965,11 +1965,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 09:33:34"
+          "stock_updated": "2026-05-01 10:28:00"
         },
         {
           "skuid": "S0B261B990D101007",

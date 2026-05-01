@@ -68,24 +68,36 @@ STOCKING_ROUTES = {
     "philly_west": {
         "name": "West Philly",
         "machines": ["PhillyTrueCooler"],
-        "frequency_days": 7,
+        "frequency_days": 14,
     },
     "philly_suburbs": {
         "name": "Philly Suburbs",
         "machines": ["333 North Broad Ambient", "333 North Broad Cooler",
                      "TheHaven#2-cooler"],
-        "frequency_days": 7,
+        "frequency_days": 14,
     },
     "chicago": {
         "name": "Chicago",
         "machines": ["ChicagoDryCab2-Warren", "BorellisBox"],
-        "frequency_days": 14,
+        "frequency_days": 28,
     },
     "chicago_mhub": {
         "name": "Chicago - mHUB",
         "machines": ["mHUBPrototypingShop"],
-        "frequency_days": 14,
+        "frequency_days": 28,
     },
+}
+
+# Last known restock date per machine — used to project next visit and fill quantities.
+# Update these after each restock run.
+LAST_RESTOCK_DATES = {
+    "PhillyTrueCooler":        date(2026, 4, 28),
+    "333 North Broad Ambient": date(2026, 4, 28),
+    "333 North Broad Cooler":  date(2026, 4, 28),
+    "TheHaven#2-cooler":       date(2026, 4, 28),
+    "ChicagoDryCab2-Warren":   date(2026, 4, 28),
+    "BorellisBox":             date(2026, 4, 28),
+    "mHUBPrototypingShop":     date(2026, 4, 28),
 }
 
 # Machine name normalization (order data → current inventory name)
@@ -505,8 +517,17 @@ def build_report_data(inventory: dict, rate_lookup: dict, global_rates: dict,
         if mname not in MACHINE_DISPLAY_NAMES:
             print(f"  WARNING: Unknown machine name '{mname}' (freezer {m.get('freezer_id', '?')}) — "
                   f"not in MACHINE_DISPLAY_NAMES. Update the config maps.", file=sys.stderr)
-        freq = machine_freq.get(mname, 7)
+        freq = machine_freq.get(mname, 14)
         route_id = machine_route.get(mname, "unassigned")
+
+        # Project how much stock will remain when we arrive for the next restock visit.
+        last_restock = LAST_RESTOCK_DATES.get(mname)
+        if last_restock:
+            next_visit = last_restock + timedelta(days=freq)
+            days_until_visit = max(0, (next_visit - today).days)
+        else:
+            next_visit = None
+            days_until_visit = 0
 
         products_out = []
         for p in m["products"]:
@@ -544,9 +565,10 @@ def build_report_data(inventory: dict, rate_lookup: dict, global_rates: dict,
                 rate_high = sig_high = rate_low = sig_low = 0
 
             if stock == 0:
-                est_days    = 0
-                last_dt     = rate_info.get("last_order_date") if rate_info else None
-                est_sellout = last_dt.date() if isinstance(last_dt, datetime) else last_dt
+                est_days      = 0
+                est_days_early = est_days_late = None
+                last_dt       = rate_info.get("last_order_date") if rate_info else None
+                est_sellout   = last_dt.date() if isinstance(last_dt, datetime) else last_dt
                 sellout_early = est_sellout
                 sellout_late  = est_sellout
             elif daily_rate > 0:
@@ -554,22 +576,31 @@ def build_report_data(inventory: dict, rate_lookup: dict, global_rates: dict,
                 est_sellout = today + timedelta(days=math.ceil(est_days))
                 # Pessimistic: highest plausible rate → earliest sellout
                 r_pess = rate_high + sig_high
-                sellout_early = today + timedelta(days=math.ceil(stock / r_pess))
+                days_pess = stock / r_pess
+                sellout_early = today + timedelta(days=math.ceil(days_pess))
+                est_days_early = round(days_pess, 1)
                 # Optimistic: lowest plausible rate → latest sellout (floor to avoid ÷0)
                 r_opt = max(rate_low - sig_low, 1e-9)
-                days_late = stock / r_opt
-                sellout_late = (today + timedelta(days=math.ceil(days_late))
-                                if days_late <= 365 else None)
+                days_opt = stock / r_opt
+                if days_opt <= 365:
+                    sellout_late = today + timedelta(days=math.ceil(days_opt))
+                    est_days_late = round(days_opt, 1)
+                else:
+                    sellout_late = None
+                    est_days_late = None
             else:
-                est_days = est_sellout = sellout_early = sellout_late = None
+                est_days = est_days_early = est_days_late = None
+                est_sellout = sellout_early = sellout_late = None
 
             is_oos = stock == 0
             needs_restock = is_oos or (est_days is not None and est_days < freq)
 
+            # Fill = how much to bring on the next visit, accounting for sales until then.
+            stock_at_visit = max(0.0, stock - daily_rate * days_until_visit)
             if capacity > 0:
-                qty_to_fill = max(0, capacity - stock)
+                qty_to_fill = max(0, int(math.ceil(capacity - stock_at_visit)))
             elif daily_rate > 0:
-                qty_to_fill = max(0, int(math.ceil(daily_rate * freq)) - stock)
+                qty_to_fill = max(0, int(math.ceil(daily_rate * freq - stock_at_visit)))
             else:
                 qty_to_fill = 0
 
@@ -583,6 +614,8 @@ def build_report_data(inventory: dict, rate_lookup: dict, global_rates: dict,
                 "rate_sigma": rate_sigma,
                 "confidence": confidence,
                 "est_days_remaining": round(est_days, 1) if est_days is not None else None,
+                "est_days_early": est_days_early,
+                "est_days_late": est_days_late,
                 "est_sellout_date": est_sellout.isoformat() if est_sellout else None,
                 "sellout_early": sellout_early.isoformat() if sellout_early else None,
                 "sellout_late": sellout_late.isoformat() if sellout_late else None,
@@ -602,6 +635,7 @@ def build_report_data(inventory: dict, rate_lookup: dict, global_rates: dict,
             "location_id": MACHINE_TO_LOCATION.get(mname, "unknown"),
             "route": route_id,
             "frequency_days": freq,
+            "next_visit_date": next_visit.isoformat() if next_visit else None,
             "updated": inventory["updated"],
             "total_skus": len(products_out),
             "oos_count": sum(1 for p in products_out if p["is_oos"]),
@@ -667,9 +701,11 @@ def format_html_report(machines: list) -> str:
         for m in route_machines:
             html.append('<div class="machine">')
             html.append(f'<div class="machine-name">{m["display_name"]}</div>')
+            next_visit = m.get("next_visit_date", "")
+            visit_str  = f' &middot; Next visit {next_visit}' if next_visit else ''
             html.append(
                 f'<div class="machine-stats">'
-                f'Every {m["frequency_days"]}d &middot; '
+                f'Every {m["frequency_days"]}d{visit_str} &middot; '
                 f'{m["total_skus"]} items &middot; '
                 f'<span class="oos">{m["oos_count"]} OOS</span> &middot; '
                 f'<span class="low">{m["needs_restock_count"]} need restock</span>'
@@ -682,7 +718,7 @@ def format_html_report(machines: list) -> str:
 
             if oos:
                 html.append(f'<div class="section-label oos">Out of Stock ({len(oos)})</div>')
-                html.append(_product_table(oos))
+                html.append(_product_table(oos, oos_section=True))
             if low:
                 html.append(f'<div class="section-label low">Low Stock ({len(low)})</div>')
                 html.append(_product_table(low))
@@ -716,26 +752,40 @@ def format_html_report(machines: list) -> str:
     return "\n".join(html)
 
 
-def _product_table(products: list, row_class: str = None) -> str:
+def _product_table(products: list, row_class: str = None, oos_section: bool = False) -> str:
+    sellout_header = "Sellout Date" if oos_section else "Sellout Range"
     rows = ["<table>",
-            "<tr><th>Product</th><th>Stock</th><th>%</th><th>Rate</th>"
-            "<th>Days Left</th><th>Sellout Range</th><th>Fill</th><th></th></tr>"]
+            f"<tr><th>Product</th><th>Stock</th><th>%</th><th>Rate</th>"
+            f"<th>Days Left</th><th>{sellout_header}</th><th>Fill</th><th></th></tr>"]
     for p in products:
         if row_class is not None:
             cls = row_class
         else:
             cls = "oos-row" if p["is_oos"] else "low-row"
-        pct  = f'{p["pct_remaining"]}%' if p["pct_remaining"] is not None else "&mdash;"
+        pct = f'{p["pct_remaining"]}%' if p["pct_remaining"] is not None else "&mdash;"
         if p["daily_rate"] > 0:
             sigma = p.get("rate_sigma", 0)
             rate = (f'{p["daily_rate"]:.2f}&plusmn;{sigma:.2f}/d' if sigma > 0
                     else f'{p["daily_rate"]:.2f}/d')
         else:
             rate = "&mdash;"
-        days = f'{p["est_days_remaining"]:.0f}d' if p["est_days_remaining"] is not None else "&mdash;"
+        # Days left — range for non-OOS items, blank for OOS
+        if p["is_oos"]:
+            days = "&mdash;"
+        elif p.get("est_days_early") is not None:
+            d_early = f'{p["est_days_early"]:.0f}'
+            d_late  = f'{p["est_days_late"]:.0f}' if p.get("est_days_late") is not None else "365+"
+            days = f'{d_early}&ndash;{d_late}d'
+        elif p["est_days_remaining"] is not None:
+            days = f'{p["est_days_remaining"]:.0f}d'
+        else:
+            days = "&mdash;"
+        # Sellout — single date for OOS, range for others
         early = p.get("sellout_early")
         late  = p.get("sellout_late")
-        if early and late and early != late:
+        if oos_section:
+            sellout = p.get("est_sellout_date") or "&mdash;"
+        elif early and late and early != late:
             sellout = f'{early} &ndash; {late}'
         elif early:
             sellout = early

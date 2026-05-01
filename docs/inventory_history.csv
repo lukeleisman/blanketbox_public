@@ -836,3 +836,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-01T15:59:34Z,16214,doylestown,333 North Broad Cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.57,23,22,-1
 2026-05-01T15:59:34Z,15521,philly,PhillyTrueCooler,S0B2D4832F5941002,046100203187,Sargento Balanced Breaks,1.97,4,2,-2
 2026-05-01T15:59:34Z,16213,haven,TheHaven#2-cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,5,4,-1
+2026-05-01T17:08:27Z,16213,haven,TheHaven#2-cooler,S0B25FC55972D1006,1162002211,Fairlife Chocolate Protein 30g,4.97,6,5,-1

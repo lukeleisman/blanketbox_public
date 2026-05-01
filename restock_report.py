@@ -117,7 +117,7 @@ DOWNLOAD_URL = "https://webapi-us.sandstar.com/homePage/download"
 ORGAN_SN     = "000332"
 
 POLL_INTERVAL = 3
-POLL_TIMEOUT  = 180
+POLL_TIMEOUT  = 90
 
 
 # ============================================================
@@ -137,11 +137,12 @@ def fetch_order_data(token: str, days_back: int = 90) -> list[dict]:
     start_str = start.strftime("%Y-%m-%d 00:00:00")
     end_str = end.strftime("%Y-%m-%d 23:59:59")
 
-    # Snapshot existing message sendTimes before triggering so we can
-    # identify the new message without timezone-sensitive timestamp math.
+    # Snapshot ALL existing OrderDetailsReport message sendTimes (read + unread)
+    # before triggering. Snapshotting only unread would miss previously-read exports
+    # (e.g. from monthly report runs) and falsely match them as "new" during polling.
     pre_trigger_times = set()
     try:
-        sr = requests.post(MESSAGE_URL, json={"page": 1, "pageSize": 50, "readState": 0},
+        sr = requests.post(MESSAGE_URL, json={"page": 1, "pageSize": 50},
                            headers=headers, timeout=10)
         sr.raise_for_status()
         for msg in (sr.json().get("data") or {}).get("resultList") or []:
@@ -161,30 +162,43 @@ def fetch_order_data(token: str, days_back: int = 90) -> list[dict]:
     r = requests.post(SALES_URL + "?exportType=3", json=payload,
                       headers=headers, timeout=30)
     r.raise_for_status()
+    trigger_body = r.json()
+    print(f"  Trigger response: status={trigger_body.get('status')}, "
+          f"message={trigger_body.get('message')}")
+    if trigger_body.get("data"):
+        print(f"  Trigger data: {trigger_body['data']}")
 
-    # Poll for a new OrderDetailsReport message (not in pre-trigger snapshot)
+    # Poll for a new OrderDetailsReport message (not in pre-trigger snapshot).
+    # Try unread messages first, then fall back to all messages (in case the
+    # notification was marked read by another session or the web portal).
     deadline = time.time() + POLL_TIMEOUT
     filename = None
 
     while time.time() < deadline:
-        try:
-            mr = requests.post(MESSAGE_URL, json={"page": 1, "pageSize": 50, "readState": 0},
-                               headers=headers, timeout=10)
-            mr.raise_for_status()
-            messages = (mr.json().get("data") or {}).get("resultList") or []
+        for read_state in (0, None):
+            if filename:
+                break
+            try:
+                poll_payload = {"page": 1, "pageSize": 50}
+                if read_state is not None:
+                    poll_payload["readState"] = read_state
+                mr = requests.post(MESSAGE_URL, json=poll_payload,
+                                   headers=headers, timeout=10)
+                mr.raise_for_status()
+                messages = (mr.json().get("data") or {}).get("resultList") or []
 
-            for msg in messages:
-                if msg.get("subject") != "OrderDetailsReport":
-                    continue
-                if msg.get("sendTime") in pre_trigger_times:
-                    continue
-                m = re.search(r'fileName=([^\s"\'<>&]+\.xlsx)', msg.get("content", ""))
-                if m:
-                    filename = m.group(1)
-                    print(f"  Export ready: {filename}")
-                    break
-        except Exception as e:
-            print(f"  Warning: message poll failed ({e})", file=sys.stderr)
+                for msg in messages:
+                    if msg.get("subject") != "OrderDetailsReport":
+                        continue
+                    if msg.get("sendTime") in pre_trigger_times:
+                        continue
+                    m = re.search(r'fileName=([^\s"\'<>&]+\.xlsx)', msg.get("content", ""))
+                    if m:
+                        filename = m.group(1)
+                        print(f"  Export ready: {filename} (read_state={read_state})")
+                        break
+            except Exception as e:
+                print(f"  Warning: message poll failed ({e})", file=sys.stderr)
 
         if filename:
             break
@@ -203,19 +217,30 @@ def fetch_order_data(token: str, days_back: int = 90) -> list[dict]:
     r.raise_for_status()
     xlsx_bytes = io.BytesIO(r.content)
 
-    # Parse the XLSX — it has a 2-row header
+    # Parse the XLSX — it has a 2-row header (rows 0–1 are title/subtitle, row 2 is columns).
+    # Use pandas when available: it handles sparse worksheet XML correctly.
+    # openpyxl read_only=True streaming mode can stop at the title row on some Sandstar exports.
     try:
-        import openpyxl
-    except ImportError:
-        # Fallback: try pandas
         import pandas as pd
-        df = pd.read_excel(xlsx_bytes, header=2)
+        df = pd.read_excel(xlsx_bytes, header=2, engine="openpyxl")
+        print(f"  XLSX rows (pandas): {len(df)}", file=sys.stderr)
+        if len(df) == 0:
+            return []
         return _dataframe_to_orders(df)
+    except ImportError:
+        pass
 
-    wb = openpyxl.load_workbook(xlsx_bytes, read_only=True, data_only=True)
+    import openpyxl
+    wb = openpyxl.load_workbook(xlsx_bytes, data_only=True)
     ws = wb.active
     rows = list(ws.iter_rows(values_only=True))
     wb.close()
+
+    print(f"  XLSX raw row count (openpyxl): {len(rows)}", file=sys.stderr)
+    if rows:
+        print(f"  XLSX row[0]: {rows[0]}", file=sys.stderr)
+    if len(rows) >= 3:
+        print(f"  XLSX row[2] (expected headers): {rows[2]}", file=sys.stderr)
 
     if len(rows) < 3:
         return []
@@ -315,7 +340,7 @@ def compute_sales_rates(orders: list[dict], as_of: date = None) -> tuple[dict, d
     for o in orders:
         key = (o["machine"], o["product_name"])
         if key not in agg:
-            agg[key] = {"short": 0, "long": 0, "barcode": o["barcode"]}
+            agg[key] = {"short": 0, "long": 0, "barcode": o["barcode"], "last_order_date": None}
 
         if o["order_date"] >= short_start:
             agg[key]["short"] += o["quantity"]
@@ -328,6 +353,8 @@ def compute_sales_rates(orders: list[dict], as_of: date = None) -> tuple[dict, d
             agg[key]["long"] += o["quantity"]
 
         agg[key]["barcode"] = o["barcode"]  # keep latest
+        if agg[key]["last_order_date"] is None or o["order_date"] > agg[key]["last_order_date"]:
+            agg[key]["last_order_date"] = o["order_date"]
 
     # Global rate = total across machines / days / num_machines
     global_rates = {}
@@ -361,6 +388,7 @@ def compute_sales_rates(orders: list[dict], as_of: date = None) -> tuple[dict, d
             "confidence": confidence,
             "total_sold_30d": data["short"],
             "total_sold_90d": data["long"],
+            "last_order_date": data.get("last_order_date"),
         }
 
     return rate_lookup, global_rates
@@ -443,10 +471,11 @@ def build_report_data(inventory: dict, rate_lookup: dict, global_rates: dict) ->
 
             if daily_rate > 0 and stock > 0:
                 est_days = stock / daily_rate
-                est_sellout = today + timedelta(days=int(est_days))
+                est_sellout = today + timedelta(days=math.ceil(est_days))
             elif stock == 0:
                 est_days = 0
-                est_sellout = today
+                last_dt = rate_info.get("last_order_date") if rate_info else None
+                est_sellout = last_dt.date() if isinstance(last_dt, datetime) else last_dt
             else:
                 est_days = None
                 est_sellout = None
@@ -466,6 +495,7 @@ def build_report_data(inventory: dict, rate_lookup: dict, global_rates: dict) ->
                 "barcode": p["barcode"],
                 "stock": stock,
                 "capacity": capacity,
+                "pct_remaining": round(stock / capacity * 100) if capacity > 0 else None,
                 "daily_rate": daily_rate,
                 "confidence": confidence,
                 "est_days_remaining": round(est_days, 1) if est_days is not None else None,
@@ -596,17 +626,18 @@ def format_html_report(machines: list) -> str:
 
 def _product_table(products: list) -> str:
     rows = ["<table>",
-            "<tr><th>Product</th><th>Stock</th><th>Rate</th>"
+            "<tr><th>Product</th><th>Stock</th><th>%</th><th>Rate</th>"
             "<th>Days Left</th><th>Sellout</th><th>Fill</th><th></th></tr>"]
     for p in products:
         cls = "oos-row" if p["is_oos"] else "low-row"
+        pct = f'{p["pct_remaining"]}%' if p["pct_remaining"] is not None else "&mdash;"
         rate = f'{p["daily_rate"]:.2f}/d' if p["daily_rate"] > 0 else "&mdash;"
         days = f'{p["est_days_remaining"]:.0f}d' if p["est_days_remaining"] is not None else "&mdash;"
         sellout = p["est_sellout_date"] or "&mdash;"
         conf = f'<span class="confidence">{p["confidence"]}</span>'
         rows.append(
             f'<tr class="{cls}"><td>{p["name"]}</td><td>{p["stock"]}</td>'
-            f'<td>{rate}</td><td>{days}</td><td>{sellout}</td>'
+            f'<td>{pct}</td><td>{rate}</td><td>{days}</td><td>{sellout}</td>'
             f'<td>{p["qty_to_fill"]}</td><td>{conf}</td></tr>'
         )
     rows.append("</table>")
@@ -684,7 +715,7 @@ def main():
     print("Fetching order data...")
     orders = fetch_order_data(token, days_back=LONG_WINDOW_DAYS)
 
-    if orders is not None:
+    if orders:
         print(f"Computing sales rates from {len(orders)} orders...")
         rate_lookup, global_rates = compute_sales_rates(orders)
         print(f"  {len(rate_lookup)} product×machine rates")

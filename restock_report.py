@@ -110,6 +110,12 @@ LONG_WINDOW_DAYS = 90
 MIN_SALES_HIGH_CONFIDENCE = 10
 MIN_SALES_MEDIUM_CONFIDENCE = 5
 
+# Restocking totals groupings
+REGION_ROUTES = {
+    "Philly": {"philly_west", "philly_suburbs"},
+    "Chicago": {"chicago", "chicago_mhub"},
+}
+
 # Sandstar order export API
 SALES_URL    = "https://webapi-us.sandstar.com/order/v2/findSaleInfo"
 MESSAGE_URL  = "https://webapi-us.sandstar.com/message/findWebUserMessage"
@@ -317,13 +323,24 @@ def _dataframe_to_orders(df) -> list[dict]:
 # SALES RATE COMPUTATION
 # ============================================================
 
-def compute_sales_rates(orders: list[dict], as_of: date = None) -> tuple[dict, dict]:
+def _poisson_sigma(count: int, window_days: int, n_machines: int = 1) -> float:
+    """Poisson counting uncertainty: σ_rate = √N / T / n_machines."""
+    return math.sqrt(max(count, 0)) / window_days / max(n_machines, 1)
+
+
+def _blend_sigma(weights: list[float], sigmas: list[float]) -> float:
+    """Error propagation for weighted sum: σ = √(Σ wi² σi²)."""
+    return math.sqrt(sum(w * w * s * s for w, s in zip(weights, sigmas)))
+
+
+def compute_sales_rates(orders: list[dict], as_of: date = None) -> tuple[dict, dict, dict]:
     """
     Compute sales rates from order data.
 
-    Returns (rate_lookup, global_rates):
-        rate_lookup: {(machine, product_name): {daily_rate, confidence, ...}}
-        global_rates: {product_name: avg_daily_rate_per_machine}
+    Returns (rate_lookup, global_rates_short, global_rates_long):
+        rate_lookup:        {(machine, product_name): {daily_rate, rate_sigma, confidence, ...}}
+        global_rates_short: {product_name: avg_daily_rate_per_machine over 30d}
+        global_rates_long:  {product_name: avg_daily_rate_per_machine over 90d}
     """
     if as_of is None:
         as_of = date.today()
@@ -333,9 +350,11 @@ def compute_sales_rates(orders: list[dict], as_of: date = None) -> tuple[dict, d
     long_start = as_of_dt - timedelta(days=LONG_WINDOW_DAYS)
 
     # Aggregate by (machine, product_name)
-    agg = {}  # (machine, product) → {short_qty, long_qty, barcodes}
-    global_short = {}  # product → total qty in short window
-    global_machines = {}  # product → set of machines
+    agg = {}  # (machine, product) → {short_qty, long_qty, barcode, last_order_date}
+    global_short_qty = {}   # product → total qty in 30d window across machines
+    global_short_mach = {}  # product → set of machines (30d)
+    global_long_qty = {}    # product → total qty in 90d window across machines
+    global_long_mach = {}   # product → set of machines (90d)
 
     for o in orders:
         key = (o["machine"], o["product_name"])
@@ -344,57 +363,90 @@ def compute_sales_rates(orders: list[dict], as_of: date = None) -> tuple[dict, d
 
         if o["order_date"] >= short_start:
             agg[key]["short"] += o["quantity"]
-            global_short.setdefault(o["product_name"], 0)
-            global_short[o["product_name"]] += o["quantity"]
-            global_machines.setdefault(o["product_name"], set())
-            global_machines[o["product_name"]].add(o["machine"])
+            global_short_qty.setdefault(o["product_name"], 0)
+            global_short_qty[o["product_name"]] += o["quantity"]
+            global_short_mach.setdefault(o["product_name"], set())
+            global_short_mach[o["product_name"]].add(o["machine"])
 
         if o["order_date"] >= long_start:
             agg[key]["long"] += o["quantity"]
+            global_long_qty.setdefault(o["product_name"], 0)
+            global_long_qty[o["product_name"]] += o["quantity"]
+            global_long_mach.setdefault(o["product_name"], set())
+            global_long_mach[o["product_name"]].add(o["machine"])
 
         agg[key]["barcode"] = o["barcode"]  # keep latest
         if agg[key]["last_order_date"] is None or o["order_date"] > agg[key]["last_order_date"]:
             agg[key]["last_order_date"] = o["order_date"]
 
-    # Global rate = total across machines / days / num_machines
-    global_rates = {}
-    for pname, qty in global_short.items():
-        n_machines = len(global_machines.get(pname, {1}))
-        global_rates[pname] = qty / SHORT_WINDOW_DAYS / max(n_machines, 1)
+    # Global rates (per-machine average) and their Poisson uncertainties
+    global_rates_short = {}
+    global_sigma_short = {}
+    for pname, qty in global_short_qty.items():
+        n = max(len(global_short_mach.get(pname, set())), 1)
+        global_rates_short[pname] = qty / SHORT_WINDOW_DAYS / n
+        global_sigma_short[pname] = _poisson_sigma(qty, SHORT_WINDOW_DAYS, n)
 
-    # Per-machine rates with confidence blending
+    global_rates_long = {}
+    global_sigma_long = {}
+    for pname, qty in global_long_qty.items():
+        n = max(len(global_long_mach.get(pname, set())), 1)
+        global_rates_long[pname] = qty / LONG_WINDOW_DAYS / n
+        global_sigma_long[pname] = _poisson_sigma(qty, LONG_WINDOW_DAYS, n)
+
+    # Per-machine rates with confidence blending, including both global windows.
+    # Recent global (30d) is weighted more heavily than long-term global (90d).
     rate_lookup = {}
     for (machine, product_name), data in agg.items():
         rate_short = data["short"] / SHORT_WINDOW_DAYS
         rate_long = data["long"] / LONG_WINDOW_DAYS
-        rate_global = global_rates.get(product_name, 0)
+        rgs = global_rates_short.get(product_name, 0)
+        rgl = global_rates_long.get(product_name, 0)
+
+        sig_short = _poisson_sigma(data["short"], SHORT_WINDOW_DAYS)
+        sig_long  = _poisson_sigma(data["long"], LONG_WINDOW_DAYS)
+        sig_gs    = global_sigma_short.get(product_name, 0)
+        sig_gl    = global_sigma_long.get(product_name, 0)
 
         if data["short"] >= MIN_SALES_HIGH_CONFIDENCE:
             confidence = "high"
-            rate_blended = 0.80 * rate_short + 0.20 * rate_long
+            w = [0.80, 0.20]
+            rate_blended = w[0] * rate_short + w[1] * rate_long
+            rate_sigma   = _blend_sigma(w, [sig_short, sig_long])
         elif data["short"] >= MIN_SALES_MEDIUM_CONFIDENCE:
             confidence = "medium"
-            rate_blended = 0.50 * rate_short + 0.30 * rate_long + 0.20 * rate_global
+            w = [0.50, 0.20, 0.20, 0.10]
+            rate_blended = w[0]*rate_short + w[1]*rate_long + w[2]*rgs + w[3]*rgl
+            rate_sigma   = _blend_sigma(w, [sig_short, sig_long, sig_gs, sig_gl])
         elif data["short"] > 0:
             confidence = "low"
-            rate_blended = 0.30 * rate_short + 0.30 * rate_long + 0.40 * rate_global
+            w = [0.25, 0.20, 0.35, 0.20]
+            rate_blended = w[0]*rate_short + w[1]*rate_long + w[2]*rgs + w[3]*rgl
+            rate_sigma   = _blend_sigma(w, [sig_short, sig_long, sig_gs, sig_gl])
         else:
             confidence = "no_recent"
-            rate_blended = (0.40 * rate_long + 0.60 * rate_global
-                            if data["long"] > 0 else rate_global)
+            if data["long"] > 0:
+                w = [0.25, 0.45, 0.30]
+                rate_blended = w[0]*rate_long + w[1]*rgs + w[2]*rgl
+                rate_sigma   = _blend_sigma(w, [sig_long, sig_gs, sig_gl])
+            else:
+                w = [0.60, 0.40]
+                rate_blended = w[0]*rgs + w[1]*rgl
+                rate_sigma   = _blend_sigma(w, [sig_gs, sig_gl])
 
         rate_lookup[(machine, product_name)] = {
             "daily_rate": round(rate_blended, 4),
+            "rate_sigma": round(rate_sigma, 4),
             "confidence": confidence,
             "total_sold_30d": data["short"],
             "total_sold_90d": data["long"],
             "last_order_date": data.get("last_order_date"),
         }
 
-    return rate_lookup, global_rates
+    return rate_lookup, global_rates_short, global_sigma_short
 
 
-def load_sales_rates_json(path: str = "docs/sales_rates.json") -> tuple[dict, dict]:
+def load_sales_rates_json(path: str = "docs/sales_rates.json") -> tuple[dict, dict, dict]:
     """Fallback: load precomputed sales rates from JSON."""
     with open(path) as f:
         data = json.load(f)
@@ -406,7 +458,7 @@ def load_sales_rates_json(path: str = "docs/sales_rates.json") -> tuple[dict, di
         global_rates_raw.setdefault(r["product_name"], []).append(r["daily_rate"])
 
     global_rates = {n: sum(v) / len(v) for n, v in global_rates_raw.items()}
-    return lookup, global_rates
+    return lookup, global_rates, {}
 
 
 # ============================================================
@@ -432,8 +484,12 @@ def fetch_live_inventory(token: str) -> dict:
     return build_inventory_json(machines, updated)
 
 
-def build_report_data(inventory: dict, rate_lookup: dict, global_rates: dict) -> list:
+def build_report_data(inventory: dict, rate_lookup: dict, global_rates: dict,
+                      global_sigmas: dict = None) -> list:
     """Combine inventory with sales rates into restock report data."""
+    if global_sigmas is None:
+        global_sigmas = {}
+
     machine_route = {}
     machine_freq = {}
     for route_id, route in STOCKING_ROUTES.items():
@@ -461,24 +517,51 @@ def build_report_data(inventory: dict, rate_lookup: dict, global_rates: dict) ->
             rate_info = rate_lookup.get((mname, pname))
             if rate_info:
                 daily_rate = rate_info["daily_rate"]
-                confidence = rate_info["confidence"]
+                rate_sigma  = rate_info.get("rate_sigma", 0)
+                confidence  = rate_info["confidence"]
+                # Range: compare blended rate vs. global rate (captures systematic bias)
+                global_r = global_rates.get(pname, 0)
+                global_s = global_sigmas.get(pname, 0)
+                if global_r > 0:
+                    if global_r >= daily_rate:
+                        rate_high, sig_high = global_r, global_s
+                        rate_low,  sig_low  = daily_rate, rate_sigma
+                    else:
+                        rate_high, sig_high = daily_rate, rate_sigma
+                        rate_low,  sig_low  = global_r, global_s
+                else:
+                    rate_high, sig_high = daily_rate, rate_sigma
+                    rate_low,  sig_low  = daily_rate, rate_sigma
             elif pname in global_rates:
-                daily_rate = global_rates[pname]
-                confidence = "global_only"
+                daily_rate  = global_rates[pname]
+                rate_sigma  = global_sigmas.get(pname, 0)
+                confidence  = "global_only"
+                rate_high, sig_high = daily_rate, rate_sigma
+                rate_low,  sig_low  = daily_rate, rate_sigma
             else:
-                daily_rate = 0
+                daily_rate = rate_sigma = 0
                 confidence = "no_data"
+                rate_high = sig_high = rate_low = sig_low = 0
 
-            if daily_rate > 0 and stock > 0:
-                est_days = stock / daily_rate
-                est_sellout = today + timedelta(days=math.ceil(est_days))
-            elif stock == 0:
-                est_days = 0
-                last_dt = rate_info.get("last_order_date") if rate_info else None
+            if stock == 0:
+                est_days    = 0
+                last_dt     = rate_info.get("last_order_date") if rate_info else None
                 est_sellout = last_dt.date() if isinstance(last_dt, datetime) else last_dt
+                sellout_early = est_sellout
+                sellout_late  = est_sellout
+            elif daily_rate > 0:
+                est_days    = stock / daily_rate
+                est_sellout = today + timedelta(days=math.ceil(est_days))
+                # Pessimistic: highest plausible rate → earliest sellout
+                r_pess = rate_high + sig_high
+                sellout_early = today + timedelta(days=math.ceil(stock / r_pess))
+                # Optimistic: lowest plausible rate → latest sellout (floor to avoid ÷0)
+                r_opt = max(rate_low - sig_low, 1e-9)
+                days_late = stock / r_opt
+                sellout_late = (today + timedelta(days=math.ceil(days_late))
+                                if days_late <= 365 else None)
             else:
-                est_days = None
-                est_sellout = None
+                est_days = est_sellout = sellout_early = sellout_late = None
 
             is_oos = stock == 0
             needs_restock = is_oos or (est_days is not None and est_days < freq)
@@ -497,9 +580,12 @@ def build_report_data(inventory: dict, rate_lookup: dict, global_rates: dict) ->
                 "capacity": capacity,
                 "pct_remaining": round(stock / capacity * 100) if capacity > 0 else None,
                 "daily_rate": daily_rate,
+                "rate_sigma": rate_sigma,
                 "confidence": confidence,
                 "est_days_remaining": round(est_days, 1) if est_days is not None else None,
                 "est_sellout_date": est_sellout.isoformat() if est_sellout else None,
+                "sellout_early": sellout_early.isoformat() if sellout_early else None,
+                "sellout_late": sellout_late.isoformat() if sellout_late else None,
                 "needs_restock": needs_restock,
                 "is_oos": is_oos,
                 "qty_to_fill": qty_to_fill,
@@ -507,7 +593,7 @@ def build_report_data(inventory: dict, rate_lookup: dict, global_rates: dict) ->
 
         products_out.sort(key=lambda p: (
             not p["is_oos"],
-            p["est_days_remaining"] if p["est_days_remaining"] is not None else 9999,
+            p["sellout_early"] or "9999-99-99",
         ))
 
         machines_out.append({
@@ -549,7 +635,7 @@ def format_html_report(machines: list) -> str:
       .section-label { font-weight: 600; font-size: 13px; margin: 10px 0 4px 0; }
       .oos { color: #c0392b; }
       .low { color: #d97706; }
-      .ok-summary { color: #1a7a4a; font-size: 13px; margin: 8px 0; }
+      .ok  { color: #1a7a4a; }
       table { border-collapse: collapse; width: 100%; font-size: 13px; margin-bottom: 10px; }
       th { text-align: left; padding: 4px 8px; border-bottom: 2px solid #ddd;
            font-size: 12px; color: #666; }
@@ -592,7 +678,7 @@ def format_html_report(machines: list) -> str:
 
             oos = [p for p in m["products"] if p["is_oos"]]
             low = [p for p in m["products"] if p["needs_restock"] and not p["is_oos"]]
-            ok = [p for p in m["products"] if not p["needs_restock"]]
+            ok  = [p for p in m["products"] if not p["needs_restock"]]
 
             if oos:
                 html.append(f'<div class="section-label oos">Out of Stock ({len(oos)})</div>')
@@ -601,39 +687,62 @@ def format_html_report(machines: list) -> str:
                 html.append(f'<div class="section-label low">Low Stock ({len(low)})</div>')
                 html.append(_product_table(low))
             if ok:
-                html.append(f'<div class="ok-summary">{len(ok)} items OK</div>')
+                html.append(f'<div class="section-label ok">Stocked ({len(ok)})</div>')
+                html.append(_product_table(ok, row_class=""))
 
             html.append("</div>")
 
-    totals = {}
-    for m in machines:
-        for p in m["products"]:
-            if p["needs_restock"] and p["qty_to_fill"] > 0:
-                totals.setdefault(p["name"], 0)
-                totals[p["name"]] += p["qty_to_fill"]
-
-    if totals:
-        html.append('<h2 style="color:#1C3D5A; font-size:18px; margin-top:28px;">'
-                    'Total Restock Quantities</h2>')
-        html.append('<table class="summary-table"><tr><th>Product</th><th>Qty</th></tr>')
-        for name, qty in sorted(totals.items(), key=lambda x: -x[1]):
-            html.append(f"<tr><td>{name}</td><td>{qty}</td></tr>")
-        html.append("</table>")
+    any_totals = False
+    for region_name, route_ids in REGION_ROUTES.items():
+        region_totals = {}
+        for m in machines:
+            if m["route"] in route_ids:
+                for p in m["products"]:
+                    if p["needs_restock"] and p["qty_to_fill"] > 0:
+                        region_totals[p["name"]] = region_totals.get(p["name"], 0) + p["qty_to_fill"]
+        if region_totals:
+            if not any_totals:
+                html.append('<h2 style="color:#1C3D5A; font-size:18px; margin-top:28px;">'
+                            'Restock Quantities</h2>')
+                any_totals = True
+            html.append(f'<h3 style="color:#1C3D5A; font-size:15px; margin: 14px 0 4px 0;">'
+                        f'{region_name}</h3>')
+            html.append('<table class="summary-table"><tr><th>Product</th><th>Qty</th></tr>')
+            for name, qty in sorted(region_totals.items(), key=lambda x: -x[1]):
+                html.append(f"<tr><td>{name}</td><td>{qty}</td></tr>")
+            html.append("</table>")
 
     html.append("</body></html>")
     return "\n".join(html)
 
 
-def _product_table(products: list) -> str:
+def _product_table(products: list, row_class: str = None) -> str:
     rows = ["<table>",
             "<tr><th>Product</th><th>Stock</th><th>%</th><th>Rate</th>"
-            "<th>Days Left</th><th>Sellout</th><th>Fill</th><th></th></tr>"]
+            "<th>Days Left</th><th>Sellout Range</th><th>Fill</th><th></th></tr>"]
     for p in products:
-        cls = "oos-row" if p["is_oos"] else "low-row"
-        pct = f'{p["pct_remaining"]}%' if p["pct_remaining"] is not None else "&mdash;"
-        rate = f'{p["daily_rate"]:.2f}/d' if p["daily_rate"] > 0 else "&mdash;"
+        if row_class is not None:
+            cls = row_class
+        else:
+            cls = "oos-row" if p["is_oos"] else "low-row"
+        pct  = f'{p["pct_remaining"]}%' if p["pct_remaining"] is not None else "&mdash;"
+        if p["daily_rate"] > 0:
+            sigma = p.get("rate_sigma", 0)
+            rate = (f'{p["daily_rate"]:.2f}&plusmn;{sigma:.2f}/d' if sigma > 0
+                    else f'{p["daily_rate"]:.2f}/d')
+        else:
+            rate = "&mdash;"
         days = f'{p["est_days_remaining"]:.0f}d' if p["est_days_remaining"] is not None else "&mdash;"
-        sellout = p["est_sellout_date"] or "&mdash;"
+        early = p.get("sellout_early")
+        late  = p.get("sellout_late")
+        if early and late and early != late:
+            sellout = f'{early} &ndash; {late}'
+        elif early:
+            sellout = early
+        elif p["est_sellout_date"]:
+            sellout = p["est_sellout_date"]
+        else:
+            sellout = "&mdash;"
         conf = f'<span class="confidence">{p["confidence"]}</span>'
         rows.append(
             f'<tr class="{cls}"><td>{p["name"]}</td><td>{p["stock"]}</td>'
@@ -717,21 +826,21 @@ def main():
 
     if orders:
         print(f"Computing sales rates from {len(orders)} orders...")
-        rate_lookup, global_rates = compute_sales_rates(orders)
+        rate_lookup, global_rates, global_sigmas = compute_sales_rates(orders)
         print(f"  {len(rate_lookup)} product×machine rates")
     else:
         # Fallback to precomputed rates
         rates_path = "docs/sales_rates.json"
         if os.path.exists(rates_path):
             print(f"  Order export timed out — falling back to {rates_path}")
-            rate_lookup, global_rates = load_sales_rates_json(rates_path)
+            rate_lookup, global_rates, global_sigmas = load_sales_rates_json(rates_path)
             print(f"  Loaded {len(rate_lookup)} rates from file")
         else:
             print("  ERROR: No order data and no fallback sales_rates.json")
             sys.exit(1)
 
     # Build report
-    machines = build_report_data(inventory, rate_lookup, global_rates)
+    machines = build_report_data(inventory, rate_lookup, global_rates, global_sigmas)
 
     if "--email" in sys.argv:
         html = format_html_report(machines)

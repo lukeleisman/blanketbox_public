@@ -830,3 +830,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-01T10:52:06Z,15519,doylestown,333 North Broad Ambient,S0B2D5C6DC51A1001,810125972157,Liquid IV StraWatermelon,2.07,6,5,-1
 2026-05-01T10:52:06Z,15519,doylestown,333 North Broad Ambient,S0B260510FB391004,860002564531,Betterway Toilet Paper Roll,3.57,9,8,-1
 2026-05-01T13:47:55Z,16213,haven,TheHaven#2-cooler,S0B2CC2D2640F1005,041508992688,S. Pellegrino Blood Orange 11.15oz,3.77,6,5,-1
+2026-05-01T14:56:06Z,15521,philly,PhillyTrueCooler,S0B2DB92EA84A1003,898999012247,Vita Coconut Extra Coconut,4.5,11,10,-1
+2026-05-01T14:56:06Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,8,7,-1
+2026-05-01T14:56:06Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,7,6,-1

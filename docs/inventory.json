@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T13:47:55Z",
+  "updated": "2026-05-01T14:56:06Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1880,11 +1880,11 @@
           "name": "Vita Coconut Extra Coconut",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176904241917369.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 19:40:14"
+          "stock_updated": "2026-05-01 09:31:27"
         },
         {
           "skuid": "S0B2D48452F7E1005",
@@ -2241,11 +2241,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 10,
-          "fill_pct": 70,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 19:51:11"
+          "stock_updated": "2026-05-01 09:13:54"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -2325,11 +2325,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 14:57:33"
+          "stock_updated": "2026-05-01 09:13:54"
         },
         {
           "skuid": "S0B2D0516EFCB1008",

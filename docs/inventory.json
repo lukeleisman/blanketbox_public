@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T22:12:19Z",
+  "updated": "2026-05-01T23:27:06Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1616,11 +1616,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 11,
-          "fill_pct": 73,
+          "fill_pct": 64,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 11:11:47"
+          "stock_updated": "2026-05-01 18:22:19"
         },
         {
           "skuid": "S0B2DB93670101002",
@@ -1724,11 +1724,11 @@
           "name": "Pepsi 12oz",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/169279986316211.jpeg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 19:40:14"
+          "stock_updated": "2026-05-01 18:22:19"
         },
         {
           "skuid": "S0B246944E58F1000",
@@ -1953,11 +1953,11 @@
           "name": "Candy M&M Plain",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 10,
-          "fill_pct": 60,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-29 11:57:11"
+          "stock_updated": "2026-05-01 18:07:44"
         },
         {
           "skuid": "S0B2D0552D8121008",

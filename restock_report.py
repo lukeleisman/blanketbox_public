@@ -126,6 +126,11 @@ MIN_SALES_MEDIUM_CONFIDENCE = 5
 MIN_RESTOCK_PRODUCTS = 3   # min number of products with positive delta at a timestamp
 MIN_RESTOCK_UNITS    = 5   # min total units added across all products
 
+# Fill quantity assumptions
+# Physical slot minimum: even if we only stocked 8 last time, slots can hold at least this
+# many (popular products can double up). Last-restock quantity is used when it's higher.
+MIN_SLOT_CAPACITY = 16
+
 # Restocking totals groupings
 REGION_ROUTES = {
     "Philly": {"philly_west", "philly_suburbs"},
@@ -665,13 +670,23 @@ def build_report_data(inventory: dict, rate_lookup: dict, global_rates: dict,
             is_oos = stock == 0
             needs_restock = is_oos or (est_days is not None and est_days < freq)
 
-            # Fill target: max stock recorded at last detected restock; fallback to API capacity.
-            fill_target = (restock_stock_targets.get((mname, pname))
-                           or capacity
-                           or (int(math.ceil(daily_rate * freq)) if daily_rate > 0 else 0))
-            # Project stock at the time of the next visit, then fill to target.
+            # Physical capacity: at least MIN_SLOT_CAPACITY, or more if we stocked more
+            # last time (doubled-up slots). API capacity used only as a further upper bound.
+            physical_capacity = max(
+                restock_stock_targets.get((mname, pname), 0),
+                MIN_SLOT_CAPACITY,
+            )
+            if capacity > 0:
+                physical_capacity = max(physical_capacity, capacity)
+
+            # Stock needed to last a full cycle, using pessimistic rate for conservative planning.
+            r_pess_fill = (rate_high + sig_high) if daily_rate > 0 else 0
+            stock_needed = r_pess_fill * freq
+
+            # Fill = rate-based need capped by what physically fits, minus what's left at visit.
             stock_at_visit = max(0.0, stock - daily_rate * days_until_visit)
-            qty_to_fill = max(0, int(math.ceil(fill_target - stock_at_visit)))
+            fill_to = min(math.ceil(stock_needed), physical_capacity)
+            qty_to_fill = max(0, int(math.ceil(fill_to - stock_at_visit)))
 
             products_out.append({
                 "name": pname,

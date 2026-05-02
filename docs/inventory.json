@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T21:41:25Z",
+  "updated": "2026-05-02T22:42:19Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1075,11 +1075,11 @@
           "name": "San Pellegrino Essenza",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619022990038.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 20:51:10"
+          "stock_updated": "2026-05-02 16:53:42"
         },
         {
           "skuid": "S0B29D2F2643D100B",

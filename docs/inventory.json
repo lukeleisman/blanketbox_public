@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T20:41:58Z",
+  "updated": "2026-05-02T21:41:25Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1508,11 +1508,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.07,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-05-02 09:52:24"
+          "stock_updated": "2026-05-02 16:32:28"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1592,11 +1592,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 15,
+          "stock": 14,
           "capacity": 18,
-          "fill_pct": 83,
+          "fill_pct": 78,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 01:24:53"
+          "stock_updated": "2026-05-02 16:32:28"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1700,11 +1700,11 @@
           "name": "Oreo Fresh stacks",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686702392867.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-04-29 00:37:50"
+          "stock_updated": "2026-05-02 16:32:28"
         },
         {
           "skuid": "S0B2D90E22889100A",
@@ -1784,11 +1784,11 @@
           "name": "San Pellegrino Essenza",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619022990038.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 19:40:14"
+          "stock_updated": "2026-05-02 16:33:49"
         },
         {
           "skuid": "S0B2D4822727E1001",

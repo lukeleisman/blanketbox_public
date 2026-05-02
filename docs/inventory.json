@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T13:13:45Z",
+  "updated": "2026-05-02T14:30:09Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -426,11 +426,11 @@
           "name": "Natures Bakery blueberry fig bat",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866563574429.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 17:37:46"
+          "stock_updated": "2026-05-02 08:53:55"
         },
         {
           "skuid": "S0B271C0F5611100C",
@@ -474,11 +474,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-04-29 21:08:50"
+          "stock_updated": "2026-05-02 08:53:55"
         },
         {
           "skuid": "S0B2DB932853E100A",

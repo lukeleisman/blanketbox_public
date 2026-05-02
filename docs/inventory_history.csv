@@ -869,3 +869,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-02T15:26:05Z,15521,philly,PhillyTrueCooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.07,3,2,-1
 2026-05-02T15:26:05Z,15521,philly,PhillyTrueCooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.07,7,6,-1
 2026-05-02T16:10:49Z,15518,warren,ChicagoDryCab2-Warren,S0B248CF276E11005,078300070320,Stay free Maxi Pads,4.4,1,0,-1
+2026-05-02T17:23:24Z,15519,doylestown,333 North Broad Ambient,S0B2D5C6DC51A1001,810125972157,Liquid IV StraWatermelon,2.07,5,4,-1
+2026-05-02T17:23:24Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,11,10,-1

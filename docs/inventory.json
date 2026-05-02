@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T16:10:49Z",
+  "updated": "2026-05-02T17:23:24Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -306,11 +306,11 @@
           "name": "Liquid IV StraWatermelon",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531062586319.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-01 05:42:10"
+          "stock_updated": "2026-05-02 11:25:55"
         },
         {
           "skuid": "S0B2D5C726B89100A",
@@ -979,11 +979,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 13,
-          "fill_pct": 85,
+          "fill_pct": 77,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 15:58:46"
+          "stock_updated": "2026-05-02 11:49:39"
         },
         {
           "skuid": "S0B2C377070EC1001",

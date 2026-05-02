@@ -857,3 +857,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-02T04:40:50Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,6,5,-1
 2026-05-02T04:40:50Z,16213,haven,TheHaven#2-cooler,S0B2DD3F2D92D100A,016000280427,Cheerios Treats,1.99,8,6,-2
 2026-05-02T04:40:50Z,16213,haven,TheHaven#2-cooler,S0B2C6BC04A97100D,F0B2C6BC04A97100B,Fruit Loops Cereal,1.99,3,2,-1
+2026-05-02T07:01:04Z,15521,philly,PhillyTrueCooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,9,8,-1
+2026-05-02T07:01:04Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,6,5,-1
+2026-05-02T07:01:04Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,5,4,-1
+2026-05-02T07:01:04Z,16213,haven,TheHaven#2-cooler,S0B2BDAE8D5FB1006,520010247,Gatorade Glacier Cherry,3.0,2,1,-1
+2026-05-02T07:01:04Z,16213,haven,TheHaven#2-cooler,S0B246944E4141002,052000328684,Gatorade Lemon Lime,3.0,8,7,-1

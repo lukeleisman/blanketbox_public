@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T15:26:05Z",
+  "updated": "2026-05-02T16:10:49Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2592,8 +2592,8 @@
       "machine_name": "ChicagoDryCab2-Warren",
       "address": "Warren Park Fieldhouse, 6601 N Western Ave, Chicago, IL 60645",
       "total_skus": 58,
-      "in_stock": 50,
-      "out_of_stock": 8,
+      "in_stock": 49,
+      "out_of_stock": 9,
       "low_stock": 0,
       "products": [
         {
@@ -3226,11 +3226,11 @@
           "name": "Stay free Maxi Pads",
           "price": 4.4,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173343422237937.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2025-12-05 16:41:56"
+          "stock_updated": "2026-05-02 10:35:56"
         },
         {
           "skuid": "S0B2716F0831E100C",

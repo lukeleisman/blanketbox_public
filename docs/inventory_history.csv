@@ -868,3 +868,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-02T14:30:09Z,15519,doylestown,333 North Broad Ambient,S0B2885215A1B1003,047495112900,Natures Bakery blueberry fig bat,2.57,9,8,-1
 2026-05-02T15:26:05Z,15521,philly,PhillyTrueCooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.07,3,2,-1
 2026-05-02T15:26:05Z,15521,philly,PhillyTrueCooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.07,7,6,-1
+2026-05-02T16:10:49Z,15518,warren,ChicagoDryCab2-Warren,S0B248CF276E11005,078300070320,Stay free Maxi Pads,4.4,1,0,-1

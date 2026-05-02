@@ -842,3 +842,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-01T23:27:06Z,15521,philly,PhillyTrueCooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,8,7,-1
 2026-05-01T23:27:06Z,15521,philly,PhillyTrueCooler,S0B246944E5891006,01201303,Pepsi 12oz,2.57,2,1,-1
 2026-05-01T23:27:06Z,16213,haven,TheHaven#2-cooler,S0B246944E6EA1003,04043108,Candy M&M Plain,2.57,6,5,-1
+2026-05-02T01:12:24Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,7,6,-1

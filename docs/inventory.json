@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T14:30:09Z",
+  "updated": "2026-05-02T15:26:05Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1508,11 +1508,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.07,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-28 23:54:47"
+          "stock_updated": "2026-05-02 09:52:24"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1544,11 +1544,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173685359821166.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-01 15:10:35"
+          "stock_updated": "2026-05-02 09:52:24"
         },
         {
           "skuid": "S0B2D90DF10651003",

@@ -866,3 +866,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-02T09:58:24Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,8,7,-1
 2026-05-02T14:30:09Z,15519,doylestown,333 North Broad Ambient,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,5,4,-1
 2026-05-02T14:30:09Z,15519,doylestown,333 North Broad Ambient,S0B2885215A1B1003,047495112900,Natures Bakery blueberry fig bat,2.57,9,8,-1
+2026-05-02T15:26:05Z,15521,philly,PhillyTrueCooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.07,3,2,-1
+2026-05-02T15:26:05Z,15521,philly,PhillyTrueCooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.07,7,6,-1

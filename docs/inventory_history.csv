@@ -900,3 +900,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-03T06:10:18Z,16214,doylestown,333 North Broad Cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.57,21,20,-1
 2026-05-03T06:10:18Z,16213,haven,TheHaven#2-cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,4,3,-1
 2026-05-03T06:10:18Z,16213,haven,TheHaven#2-cooler,S0B246944E4141002,052000328684,Gatorade Lemon Lime,3.0,7,6,-1
+2026-05-03T08:19:23Z,15521,philly,PhillyTrueCooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.07,2,1,-1

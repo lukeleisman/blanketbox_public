@@ -906,3 +906,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-03T11:42:51Z,15521,philly,PhillyTrueCooler,S0B2DB93670101002,016000194069,Mott’s berry snacks,4.0,12,11,-1
 2026-05-03T14:28:37Z,16213,haven,TheHaven#2-cooler,S0B246944E4B51008,012000813313,Starbucks_Frappuccino_Vanilla,4.27,2,1,-1
 2026-05-03T16:08:48Z,15521,philly,PhillyTrueCooler,S0B2DB92EA84A1003,898999012247,Vita Coconut Extra Coconut,4.5,10,9,-1
+2026-05-03T17:24:36Z,15519,doylestown,333 North Broad Ambient,S0B2D5C86DD211005,829515300579,Veggie Straws SS,3.97,8,7,-1
+2026-05-03T17:24:36Z,15519,doylestown,333 North Broad Ambient,S0B2D5C6DC51A1001,810125972157,Liquid IV StraWatermelon,2.07,4,2,-2
+2026-05-03T17:24:36Z,15519,doylestown,333 North Broad Ambient,S0B2BAC9D24491002,F0B2BAC9D24491000,Pop Secret popcorn,2.57,8,7,-1
+2026-05-03T17:24:36Z,16213,haven,TheHaven#2-cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,3,2,-1
+2026-05-03T17:24:36Z,16213,haven,TheHaven#2-cooler,S0B2DAF9429041007,044000085964,Chips Ahoy minis,5.0,4,3,-1

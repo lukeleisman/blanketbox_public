@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T16:08:48Z",
+  "updated": "2026-05-03T17:24:36Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -306,11 +306,11 @@
           "name": "Liquid IV StraWatermelon",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531062586319.png",
-          "stock": 4,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-05-02 11:25:55"
+          "stock_updated": "2026-05-03 11:31:45"
         },
         {
           "skuid": "S0B2D5C726B89100A",
@@ -510,11 +510,11 @@
           "name": "Pop Secret popcorn",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 9,
-          "fill_pct": 89,
+          "fill_pct": 78,
           "stock_warning": 0,
-          "stock_updated": "2026-04-28 20:48:05"
+          "stock_updated": "2026-05-03 11:31:45"
         },
         {
           "skuid": "S0B2D5E2BE692100C",
@@ -618,11 +618,11 @@
           "name": "Veggie Straws SS",
           "price": 3.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177186917532634.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 17:37:46"
+          "stock_updated": "2026-05-03 11:31:45"
         }
       ]
     },
@@ -1965,11 +1965,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-05-01 20:40:38"
+          "stock_updated": "2026-05-03 11:53:29"
         },
         {
           "skuid": "S0B261B990D101007",
@@ -2001,11 +2001,11 @@
           "name": "Chips Ahoy minis",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17767056506495.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-04-29 15:25:22"
+          "stock_updated": "2026-05-03 11:53:29"
         },
         {
           "skuid": "S0B2D11E680501004",

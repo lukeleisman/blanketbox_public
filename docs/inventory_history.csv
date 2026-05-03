@@ -914,3 +914,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-03T19:33:30Z,16214,doylestown,333 North Broad Cooler,S0B2DB92EA84A1003,898999012247,Vita Coconut Extra Coconut,4.25,6,5,-1
 2026-05-03T20:42:56Z,16214,doylestown,333 North Broad Cooler,S0B2D4851D7141003,195372325155,Just Ice Tea Peach Oolong 16oz,3.97,5,4,-1
 2026-05-03T20:42:56Z,16214,doylestown,333 North Broad Cooler,S0B2D5DE0BABD100A,810119680266,Trip Elderflower Mint,5.27,1,-1,-2
+2026-05-03T23:47:07Z,15521,philly,PhillyTrueCooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,6,5,-1
+2026-05-03T23:47:07Z,16213,haven,TheHaven#2-cooler,S0B246944DF011004,632565000012,Fiji 500ML,2.77,4,3,-1

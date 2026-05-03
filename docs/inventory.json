@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T22:42:32Z",
+  "updated": "2026-05-03T23:47:07Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1460,11 +1460,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 13,
-          "fill_pct": 46,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-05-02 20:00:36"
+          "stock_updated": "2026-05-03 17:48:26"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2205,11 +2205,11 @@
           "name": "Fiji 500ML",
           "price": 2.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597373118026.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 14:00:15"
+          "stock_updated": "2026-05-03 18:37:53"
         },
         {
           "skuid": "S0B2C6BBCDF7C1006",

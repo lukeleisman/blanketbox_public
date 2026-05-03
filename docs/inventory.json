@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T10:55:17Z",
+  "updated": "2026-05-03T11:42:51Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1234,8 +1234,8 @@
       "machine_name": "PhillyTrueCooler",
       "address": "4200 Ludlow St, Philadelphia PA, 10104",
       "total_skus": 55,
-      "in_stock": 48,
-      "out_of_stock": 7,
+      "in_stock": 47,
+      "out_of_stock": 8,
       "low_stock": 0,
       "products": [
         {
@@ -1316,11 +1316,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 9,
-          "fill_pct": 67,
+          "fill_pct": 56,
           "stock_warning": 0,
-          "stock_updated": "2026-05-02 19:30:17"
+          "stock_updated": "2026-05-03 06:40:17"
         },
         {
           "skuid": "S0B2668475B231007",
@@ -1628,11 +1628,11 @@
           "name": "Mott\u2019s berry snacks",
           "price": 4.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686728068670.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 12,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 19:40:14"
+          "stock_updated": "2026-05-03 06:40:17"
         },
         {
           "skuid": "S0B2C377094211003",
@@ -1724,11 +1724,11 @@
           "name": "Pepsi 12oz",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/169279986316211.jpeg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-01 18:22:19"
+          "stock_updated": "2026-05-03 06:40:17"
         },
         {
           "skuid": "S0B246944E58F1000",

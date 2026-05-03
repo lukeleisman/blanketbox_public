@@ -901,3 +901,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-03T06:10:18Z,16213,haven,TheHaven#2-cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,4,3,-1
 2026-05-03T06:10:18Z,16213,haven,TheHaven#2-cooler,S0B246944E4141002,052000328684,Gatorade Lemon Lime,3.0,7,6,-1
 2026-05-03T08:19:23Z,15521,philly,PhillyTrueCooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.07,2,1,-1
+2026-05-03T11:42:51Z,15521,philly,PhillyTrueCooler,S0B246944E5891006,01201303,Pepsi 12oz,2.57,1,0,-1
+2026-05-03T11:42:51Z,15521,philly,PhillyTrueCooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,6,5,-1
+2026-05-03T11:42:51Z,15521,philly,PhillyTrueCooler,S0B2DB93670101002,016000194069,Mott’s berry snacks,4.0,12,11,-1

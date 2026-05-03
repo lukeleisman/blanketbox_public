@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T23:44:16Z",
+  "updated": "2026-05-03T02:57:59Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -474,11 +474,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 7,
-          "fill_pct": 57,
+          "fill_pct": 43,
           "stock_warning": 0,
-          "stock_updated": "2026-05-02 08:53:55"
+          "stock_updated": "2026-05-02 21:09:11"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -835,11 +835,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 23:45:04"
+          "stock_updated": "2026-05-02 21:44:44"
         },
         {
           "skuid": "S0B2D5C69069E1009",
@@ -895,11 +895,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023828232980.png",
-          "stock": 8,
+          "stock": 6,
           "capacity": 9,
-          "fill_pct": 89,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 22:13:49"
+          "stock_updated": "2026-05-02 20:03:02"
         },
         {
           "skuid": "S0B2D11356C5A1005",
@@ -1003,11 +1003,11 @@
           "name": "Oikos Peach Protein",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177404889920946.png",
-          "stock": 8,
+          "stock": 6,
           "capacity": 9,
-          "fill_pct": 89,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 00:41:43"
+          "stock_updated": "2026-05-02 21:44:44"
         },
         {
           "skuid": "S0B2D05DCDEEB1007",
@@ -1147,11 +1147,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 15,
+          "stock": 14,
           "capacity": 18,
-          "fill_pct": 83,
+          "fill_pct": 78,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 12:43:03"
+          "stock_updated": "2026-05-02 20:03:02"
         },
         {
           "skuid": "S0B2DD4AAFF451007",
@@ -1207,11 +1207,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 12,
-          "fill_pct": 83,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-29 20:41:37"
+          "stock_updated": "2026-05-02 20:03:02"
         },
         {
           "skuid": "S0B2DB92EA84A1003",
@@ -1234,8 +1234,8 @@
       "machine_name": "PhillyTrueCooler",
       "address": "4200 Ludlow St, Philadelphia PA, 10104",
       "total_skus": 55,
-      "in_stock": 49,
-      "out_of_stock": 6,
+      "in_stock": 48,
+      "out_of_stock": 7,
       "low_stock": 0,
       "products": [
         {
@@ -1316,11 +1316,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 9,
-          "fill_pct": 78,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-02 17:52:19"
+          "stock_updated": "2026-05-02 19:30:17"
         },
         {
           "skuid": "S0B2668475B231007",
@@ -1436,11 +1436,11 @@
           "name": "Deer park water",
           "price": 1.87,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 5,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 22:58:29"
+          "stock_updated": "2026-05-02 20:15:29"
         },
         {
           "skuid": "S0B2D527638181007",
@@ -1460,11 +1460,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 8,
+          "stock": 6,
           "capacity": 13,
-          "fill_pct": 62,
+          "fill_pct": 46,
           "stock_warning": 0,
-          "stock_updated": "2026-05-01 23:42:57"
+          "stock_updated": "2026-05-02 20:00:36"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1592,11 +1592,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 14,
+          "stock": 13,
           "capacity": 18,
-          "fill_pct": 78,
+          "fill_pct": 72,
           "stock_warning": 0,
-          "stock_updated": "2026-05-02 16:32:28"
+          "stock_updated": "2026-05-02 21:03:24"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1808,11 +1808,11 @@
           "name": "Sargento Balanced Breaks",
           "price": 1.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177067823857843.png",
-          "stock": 2,
+          "stock": 0,
           "capacity": 6,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-01 10:16:03"
+          "stock_updated": "2026-05-02 21:03:24"
         },
         {
           "skuid": "S0B2D4835B16E100B",
@@ -2229,11 +2229,11 @@
           "name": "Fruit Loops Cereal",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177127272492393.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 4,
-          "fill_pct": 50,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-05-01 21:51:38"
+          "stock_updated": "2026-05-02 21:15:48"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -2553,11 +2553,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 10,
-          "fill_pct": 60,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 19:51:11"
+          "stock_updated": "2026-05-02 21:15:48"
         },
         {
           "skuid": "S0B2D48452F7E1005",
@@ -3374,8 +3374,8 @@
       "machine_name": "BorellisBox",
       "address": "2124 W. Lawrence Ave. Chicago, IL 60640",
       "total_skus": 58,
-      "in_stock": 47,
-      "out_of_stock": 11,
+      "in_stock": 45,
+      "out_of_stock": 13,
       "low_stock": 0,
       "products": [
         {
@@ -3780,11 +3780,11 @@
           "name": "Hohner Kazoo",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173437470607119.png",
-          "stock": -1,
+          "stock": -2,
           "capacity": 2,
-          "fill_pct": -50,
+          "fill_pct": -100,
           "stock_warning": 0,
-          "stock_updated": "2026-01-08 21:06:06"
+          "stock_updated": "2026-05-02 20:51:20"
         },
         {
           "skuid": "S0B24D6D673AD1002",
@@ -3792,11 +3792,11 @@
           "name": "Hohner Kazoo",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173870960093782.png",
-          "stock": -1,
+          "stock": -2,
           "capacity": 2,
-          "fill_pct": -50,
+          "fill_pct": -100,
           "stock_warning": 0,
-          "stock_updated": "2026-02-15 19:35:57"
+          "stock_updated": "2026-05-02 20:51:20"
         },
         {
           "skuid": "S0B25AF9E30E0100D",
@@ -3804,11 +3804,11 @@
           "name": "Hohner Kazoo Green",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174234656965142.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-03-07 01:26:38"
+          "stock_updated": "2026-05-02 21:09:30"
         },
         {
           "skuid": "S0B25AF9FD4791006",
@@ -3816,11 +3816,11 @@
           "name": "Hohner Kazoo purple",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174234667702192.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2025-09-11 19:50:05"
+          "stock_updated": "2026-05-02 21:09:30"
         },
         {
           "skuid": "S0B25AF9C75B91003",
@@ -3840,11 +3840,11 @@
           "name": "Jonas Friddle Hot Sauce",
           "price": 12.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174234380969689.png",
-          "stock": 4,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2025-11-08 21:29:37"
+          "stock_updated": "2026-05-02 20:51:13"
         },
         {
           "skuid": "S0B248CF276DC1004",
@@ -4032,11 +4032,11 @@
           "name": "Tater Tats Temporary Tattoos (8 pack)",
           "price": 10.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173870517664175.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2025-06-25 14:16:11"
+          "stock_updated": "2026-05-02 21:41:28"
         },
         {
           "skuid": "S0B246944E81B1008",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T19:33:30Z",
+  "updated": "2026-05-03T20:42:56Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -633,8 +633,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 49,
-      "in_stock": 49,
-      "out_of_stock": 0,
+      "in_stock": 48,
+      "out_of_stock": 1,
       "low_stock": 0,
       "products": [
         {
@@ -919,11 +919,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 3.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 01:12:09"
+          "stock_updated": "2026-05-03 14:45:19"
         },
         {
           "skuid": "S0B2D11D53BB51008",
@@ -1183,11 +1183,11 @@
           "name": "Trip Elderflower Mint",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177533493701966.png",
-          "stock": 1,
+          "stock": -1,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": -100,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 17:16:50"
+          "stock_updated": "2026-05-03 14:45:19"
         },
         {
           "skuid": "S0B266D76782F1002",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T02:57:59Z",
+  "updated": "2026-05-03T06:10:18Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -643,11 +643,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 21,
+          "stock": 20,
           "capacity": 24,
-          "fill_pct": 88,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-05-01 22:46:41"
+          "stock_updated": "2026-05-02 22:01:00"
         },
         {
           "skuid": "S0B246944E6EA1003",
@@ -955,11 +955,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 7,
+          "stock": 5,
           "capacity": 13,
-          "fill_pct": 54,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-05-02 04:51:52"
+          "stock_updated": "2026-05-02 22:02:30"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -2265,11 +2265,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-01 23:46:08"
+          "stock_updated": "2026-05-02 22:39:49"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2277,11 +2277,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063766829.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 17:58:12"
+          "stock_updated": "2026-05-02 22:39:49"
         },
         {
           "skuid": "S0B2D90DF10651003",

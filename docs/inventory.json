@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T02:55:33Z",
+  "updated": "2026-05-04T06:15:41Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1412,11 +1412,11 @@
           "name": "Coca-Cola Original Taste",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/166197041201682.jpeg",
-          "stock": 9,
+          "stock": 7,
           "capacity": 11,
-          "fill_pct": 82,
+          "fill_pct": 64,
           "stock_warning": 0,
-          "stock_updated": "2026-05-03 20:07:02"
+          "stock_updated": "2026-05-03 22:02:51"
         },
         {
           "skuid": "S0B2BAC924065100B",

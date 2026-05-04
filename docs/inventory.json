@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T19:04:33Z",
+  "updated": "2026-05-04T20:47:31Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -727,11 +727,11 @@
           "name": "Chobani Protein",
           "price": 4.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174379267257617.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-04-28 22:24:58"
+          "stock_updated": "2026-05-04 15:12:27"
         },
         {
           "skuid": "S0B2D11E2F0FD1001",
@@ -2421,11 +2421,11 @@
           "name": "S. Pellegrino Blood Orange 11.15oz",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177078619893420.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-04 07:39:19"
+          "stock_updated": "2026-05-04 14:11:41"
         },
         {
           "skuid": "S0B2D4822727E1001",

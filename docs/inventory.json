@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T23:47:07Z",
+  "updated": "2026-05-04T02:55:33Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -570,11 +570,11 @@
           "name": "Sour Patch Kids Soft & Chewy Candy",
           "price": 2.19,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964188034.jpg",
-          "stock": 3,
+          "stock": 1,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-04-28 16:44:50"
+          "stock_updated": "2026-05-03 20:18:56"
         },
         {
           "skuid": "S0B248CF277231002",
@@ -633,8 +633,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 49,
-      "in_stock": 48,
-      "out_of_stock": 1,
+      "in_stock": 47,
+      "out_of_stock": 2,
       "low_stock": 0,
       "products": [
         {
@@ -643,11 +643,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 20,
+          "stock": 19,
           "capacity": 24,
-          "fill_pct": 83,
+          "fill_pct": 79,
           "stock_warning": 0,
-          "stock_updated": "2026-05-02 22:01:00"
+          "stock_updated": "2026-05-03 21:01:58"
         },
         {
           "skuid": "S0B246944E6EA1003",
@@ -655,11 +655,11 @@
           "name": "Candy M&M Plain",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 10,
-          "fill_pct": 70,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 01:12:09"
+          "stock_updated": "2026-05-03 19:19:28"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -799,11 +799,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 9,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 15:58:46"
+          "stock_updated": "2026-05-03 19:02:36"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -835,11 +835,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-05-02 21:44:44"
+          "stock_updated": "2026-05-03 19:19:28"
         },
         {
           "skuid": "S0B2D5C69069E1009",
@@ -955,11 +955,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 5,
+          "stock": 3,
           "capacity": 13,
-          "fill_pct": 38,
+          "fill_pct": 23,
           "stock_warning": 0,
-          "stock_updated": "2026-05-02 22:02:30"
+          "stock_updated": "2026-05-03 21:01:58"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -1051,11 +1051,11 @@
           "name": "S. Pellegrino Lemonade 11.15oz",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177078645626497.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 03:31:54"
+          "stock_updated": "2026-05-03 20:54:55"
         },
         {
           "skuid": "S0B2D3E6DA5E01005",
@@ -1075,11 +1075,11 @@
           "name": "San Pellegrino Essenza",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619022990038.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 10,
-          "fill_pct": 70,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-05-02 16:53:42"
+          "stock_updated": "2026-05-03 19:26:03"
         },
         {
           "skuid": "S0B29D2F2643D100B",
@@ -1412,11 +1412,11 @@
           "name": "Coca-Cola Original Taste",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/166197041201682.jpeg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 11,
-          "fill_pct": 91,
+          "fill_pct": 82,
           "stock_warning": 0,
-          "stock_updated": "2026-04-29 01:00:08"
+          "stock_updated": "2026-05-03 20:07:02"
         },
         {
           "skuid": "S0B2BAC924065100B",
@@ -1592,11 +1592,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 13,
+          "stock": 12,
           "capacity": 18,
-          "fill_pct": 72,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-02 21:03:24"
+          "stock_updated": "2026-05-03 20:45:28"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1784,11 +1784,11 @@
           "name": "San Pellegrino Essenza",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619022990038.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-05-02 16:33:49"
+          "stock_updated": "2026-05-03 20:45:28"
         },
         {
           "skuid": "S0B2D4822727E1001",
@@ -1808,11 +1808,11 @@
           "name": "Sargento Balanced Breaks",
           "price": 1.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177067823857843.png",
-          "stock": 0,
+          "stock": -2,
           "capacity": 6,
-          "fill_pct": 0,
+          "fill_pct": -33,
           "stock_warning": 0,
-          "stock_updated": "2026-05-02 21:03:24"
+          "stock_updated": "2026-05-03 20:37:51"
         },
         {
           "skuid": "S0B2D4835B16E100B",
@@ -1907,8 +1907,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 56,
-      "in_stock": 56,
-      "out_of_stock": 0,
+      "in_stock": 55,
+      "out_of_stock": 1,
       "low_stock": 0,
       "products": [
         {
@@ -1929,11 +1929,11 @@
           "name": "Beef Liver Dog Treats",
           "price": 20.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174907930543359.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-04-30 16:56:19"
+          "stock_updated": "2026-05-03 20:52:20"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -2397,11 +2397,11 @@
           "name": "Oreo Fresh stacks",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686702392867.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-29 15:31:22"
+          "stock_updated": "2026-05-03 19:33:17"
         },
         {
           "skuid": "S0B2BAC9D24491002",
@@ -2505,11 +2505,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 4,
+          "stock": 1,
           "capacity": 12,
-          "fill_pct": 33,
+          "fill_pct": 8,
           "stock_warning": 0,
-          "stock_updated": "2026-05-01 23:46:08"
+          "stock_updated": "2026-05-03 20:52:20"
         },
         {
           "skuid": "S0B2DAF8F87C31004",
@@ -2553,11 +2553,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 5,
+          "stock": 3,
           "capacity": 10,
-          "fill_pct": 50,
+          "fill_pct": 30,
           "stock_warning": 0,
-          "stock_updated": "2026-05-02 21:15:48"
+          "stock_updated": "2026-05-03 19:33:17"
         },
         {
           "skuid": "S0B2D48452F7E1005",

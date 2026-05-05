@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05T11:03:28Z",
+  "updated": "2026-05-05T12:47:54Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1233,9 +1233,9 @@
       "location_name": "Philadelphia",
       "machine_name": "PhillyTrueCooler",
       "address": "4200 Ludlow St, Philadelphia PA, 10104",
-      "total_skus": 55,
+      "total_skus": 50,
       "in_stock": 46,
-      "out_of_stock": 9,
+      "out_of_stock": 4,
       "low_stock": 0,
       "products": [
         {
@@ -1273,18 +1273,6 @@
           "fill_pct": 50,
           "stock_warning": 0,
           "stock_updated": "2026-04-28 16:14:50"
-        },
-        {
-          "skuid": "S0B25FC5136E7100C",
-          "barcode": "8801073211506",
-          "name": "Buldak Spicy Ramen",
-          "price": 5.57,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363337064737.png",
-          "stock": 0,
-          "capacity": 0,
-          "fill_pct": null,
-          "stock_warning": 0,
-          "stock_updated": "2026-04-27 19:40:14"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -1393,18 +1381,6 @@
           "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-04-27 19:40:14"
-        },
-        {
-          "skuid": "S0B2D11E583291001",
-          "barcode": "818290015150",
-          "name": "Chobani vanilla",
-          "price": 2.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177241491063878.png",
-          "stock": 0,
-          "capacity": 2,
-          "fill_pct": 0,
-          "stock_warning": 0,
-          "stock_updated": "2026-04-30 19:59:57"
         },
         {
           "skuid": "S0B246944E2701006",
@@ -1719,18 +1695,6 @@
           "stock_updated": "2026-04-27 19:40:14"
         },
         {
-          "skuid": "S0B246944E5891006",
-          "barcode": "01201303",
-          "name": "Pepsi 12oz",
-          "price": 2.57,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/169279986316211.jpeg",
-          "stock": 0,
-          "capacity": 2,
-          "fill_pct": 0,
-          "stock_warning": 0,
-          "stock_updated": "2026-05-03 06:40:17"
-        },
-        {
           "skuid": "S0B246944E58F1000",
           "barcode": "01280504",
           "name": "Pepsi Diet 12oz Can",
@@ -1763,18 +1727,6 @@
           "stock": 3,
           "capacity": 3,
           "fill_pct": 100,
-          "stock_warning": 0,
-          "stock_updated": "2026-04-27 19:40:14"
-        },
-        {
-          "skuid": "S0B246944DE9D1007",
-          "barcode": "611269991000",
-          "name": "Red Bull",
-          "price": 3.37,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/611269991000.jpg",
-          "stock": 0,
-          "capacity": 0,
-          "fill_pct": null,
           "stock_warning": 0,
           "stock_updated": "2026-04-27 19:40:14"
         },
@@ -1885,18 +1837,6 @@
           "fill_pct": 82,
           "stock_warning": 0,
           "stock_updated": "2026-05-03 10:52:41"
-        },
-        {
-          "skuid": "S0B2D48452F7E1005",
-          "barcode": "89899900002",
-          "name": "Vita coconut water",
-          "price": 4.5,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176913044023980.png",
-          "stock": 0,
-          "capacity": 1,
-          "fill_pct": 0,
-          "stock_warning": 0,
-          "stock_updated": "2026-04-29 22:15:32"
         }
       ]
     },

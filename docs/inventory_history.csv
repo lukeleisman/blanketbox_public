@@ -958,3 +958,12 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-04T20:47:31Z,16213,haven,TheHaven#2-cooler,S0B2CC2D2640F1005,041508992688,S. Pellegrino Blood Orange 11.15oz,3.77,5,4,-1
 2026-05-05T01:11:57Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,12,10,-2
 2026-05-05T01:11:57Z,16213,haven,TheHaven#2-cooler,S0B2DB932853E100A,044000082048,Oreo Fresh stacks,5.0,2,1,-1
+2026-05-05T04:41:33Z,16214,doylestown,333 North Broad Cooler,S0B2D90DB76B5100C,041508302074,San Pellegrino Essenza,3.77,6,5,-1
+2026-05-05T04:41:33Z,16214,doylestown,333 North Broad Cooler,S0B2C377070EC1001,082592194152,Naked Strawberry Banana 15.2oz,5.0,1,0,-1
+2026-05-05T04:41:33Z,16214,doylestown,333 North Broad Cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,7,6,-1
+2026-05-05T04:41:33Z,16214,doylestown,333 North Broad Cooler,S0B2D5C66B220100B,009542454456,Lindor Truffles,7.0,3,2,-1
+2026-05-05T04:41:33Z,16214,doylestown,333 North Broad Cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,9,8,-1
+2026-05-05T04:41:33Z,16214,doylestown,333 North Broad Cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,14,13,-1
+2026-05-05T04:41:33Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,3,2,-1
+2026-05-05T04:41:33Z,15521,philly,PhillyTrueCooler,S0B2D4835B16E100B,046100019054,Sargento Balanced Breaks,1.97,5,3,-2
+2026-05-05T04:41:33Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,10,9,-1

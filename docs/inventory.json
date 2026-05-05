@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05T01:11:57Z",
+  "updated": "2026-05-05T04:41:33Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -633,8 +633,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 49,
-      "in_stock": 47,
-      "out_of_stock": 2,
+      "in_stock": 46,
+      "out_of_stock": 3,
       "low_stock": 0,
       "products": [
         {
@@ -859,11 +859,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 22:13:49"
+          "stock_updated": "2026-05-04 20:43:04"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -943,11 +943,11 @@
           "name": "Lindor Truffles",
           "price": 7.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531016219231.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 17:16:50"
+          "stock_updated": "2026-05-04 23:06:21"
         },
         {
           "skuid": "S0B246944E19E1000",
@@ -955,11 +955,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 13,
-          "fill_pct": 23,
+          "fill_pct": 15,
           "stock_warning": 0,
-          "stock_updated": "2026-05-03 21:01:58"
+          "stock_updated": "2026-05-04 20:28:08"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -991,11 +991,11 @@
           "name": "Naked Strawberry Banana 15.2oz",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176054114397470.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 6,
-          "fill_pct": 17,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-02 04:51:52"
+          "stock_updated": "2026-05-04 21:26:37"
         },
         {
           "skuid": "S0B2D113959A71003",
@@ -1075,11 +1075,11 @@
           "name": "San Pellegrino Essenza",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619022990038.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 10,
-          "fill_pct": 60,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-03 19:26:03"
+          "stock_updated": "2026-05-04 20:28:08"
         },
         {
           "skuid": "S0B29D2F2643D100B",
@@ -1147,11 +1147,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 14,
+          "stock": 13,
           "capacity": 18,
-          "fill_pct": 78,
+          "fill_pct": 72,
           "stock_warning": 0,
-          "stock_updated": "2026-05-02 20:03:02"
+          "stock_updated": "2026-05-04 23:06:21"
         },
         {
           "skuid": "S0B2DD4AAFF451007",
@@ -1207,11 +1207,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 12,
-          "fill_pct": 75,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-02 20:03:02"
+          "stock_updated": "2026-05-04 20:28:08"
         },
         {
           "skuid": "S0B2DB92EA84A1003",
@@ -1820,11 +1820,11 @@
           "name": "Sargento Balanced Breaks",
           "price": 1.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176917881680440.png",
-          "stock": 5,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 19:40:14"
+          "stock_updated": "2026-05-04 20:43:51"
         },
         {
           "skuid": "S0B2D4831AA261009",
@@ -2493,11 +2493,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 12,
-          "fill_pct": 83,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-04 18:40:49"
+          "stock_updated": "2026-05-04 20:42:00"
         },
         {
           "skuid": "S0B2DAF8F87C31004",

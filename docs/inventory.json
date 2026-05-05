@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05T20:08:04Z",
+  "updated": "2026-05-05T21:35:26Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1147,11 +1147,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 13,
+          "stock": 12,
           "capacity": 18,
-          "fill_pct": 72,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-04 23:06:21"
+          "stock_updated": "2026-05-05 15:57:27"
         },
         {
           "skuid": "S0B2DD4AAFF451007",
@@ -1929,11 +1929,11 @@
           "name": "Chips Ahoy minis",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17767056506495.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-05-04 07:39:19"
+          "stock_updated": "2026-05-05 16:05:18"
         },
         {
           "skuid": "S0B2D11E680501004",

@@ -967,3 +967,13 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-05T04:41:33Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,3,2,-1
 2026-05-05T04:41:33Z,15521,philly,PhillyTrueCooler,S0B2D4835B16E100B,046100019054,Sargento Balanced Breaks,1.97,5,3,-2
 2026-05-05T04:41:33Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,10,9,-1
+2026-05-05T07:18:09Z,16214,doylestown,333 North Broad Cooler,S0B2CC2D2640F1005,041508992688,S. Pellegrino Blood Orange 11.15oz,3.77,4,3,-1
+2026-05-05T07:18:09Z,16214,doylestown,333 North Broad Cooler,S0B29D2F2643D100B,0041508659376,San Pelligrino Pomegranate and Orange,3.77,6,5,-1
+2026-05-05T07:18:09Z,15521,philly,PhillyTrueCooler,S0B2BAC9D24491002,F0B2BAC9D24491000,Pop Secret popcorn,3.0,3,1,-2
+2026-05-05T07:18:09Z,15521,philly,PhillyTrueCooler,S0B246944E2701006,049000053418,Coca-Cola Original Taste,2.57,7,6,-1
+2026-05-05T07:18:09Z,15521,philly,PhillyTrueCooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.07,1,0,-1
+2026-05-05T07:18:09Z,15521,philly,PhillyTrueCooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.07,5,4,-1
+2026-05-05T07:18:09Z,16213,haven,TheHaven#2-cooler,S0B2D5C6B3EBA1001,191414014117,Waffle cones,4.97,2,1,-1
+2026-05-05T07:18:09Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,9,7,-2
+2026-05-05T07:18:09Z,16213,haven,TheHaven#2-cooler,S0B2D48427F221004,044000037444,Fig Newtowns,2.27,7,6,-1
+2026-05-05T07:18:09Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,10,9,-1

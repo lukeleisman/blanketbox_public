@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05T04:41:33Z",
+  "updated": "2026-05-05T07:18:09Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1039,11 +1039,11 @@
           "name": "S. Pellegrino Blood Orange 11.15oz",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177078619893420.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-01 22:46:41"
+          "stock_updated": "2026-05-05 00:07:58"
         },
         {
           "skuid": "S0B2D3E6D7FBD1003",
@@ -1087,11 +1087,11 @@
           "name": "San Pelligrino Pomegranate and Orange",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17601191596212.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 17:16:50"
+          "stock_updated": "2026-05-05 00:07:58"
         },
         {
           "skuid": "S0B2D4822727E1001",
@@ -1234,8 +1234,8 @@
       "machine_name": "PhillyTrueCooler",
       "address": "4200 Ludlow St, Philadelphia PA, 10104",
       "total_skus": 55,
-      "in_stock": 47,
-      "out_of_stock": 8,
+      "in_stock": 46,
+      "out_of_stock": 9,
       "low_stock": 0,
       "products": [
         {
@@ -1412,11 +1412,11 @@
           "name": "Coca-Cola Original Taste",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/166197041201682.jpeg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 11,
-          "fill_pct": 64,
+          "fill_pct": 55,
           "stock_warning": 0,
-          "stock_updated": "2026-05-03 22:02:51"
+          "stock_updated": "2026-05-05 00:41:01"
         },
         {
           "skuid": "S0B2BAC924065100B",
@@ -1508,11 +1508,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.07,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-02 16:32:28"
+          "stock_updated": "2026-05-05 00:23:39"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1544,11 +1544,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173685359821166.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 4,
-          "fill_pct": 25,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-03 02:29:29"
+          "stock_updated": "2026-05-05 00:41:01"
         },
         {
           "skuid": "S0B2D90DF10651003",
@@ -1748,11 +1748,11 @@
           "name": "Pop Secret popcorn",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 3,
+          "stock": 1,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 17,
           "stock_warning": 0,
-          "stock_updated": "2026-05-01 22:35:18"
+          "stock_updated": "2026-05-04 23:45:00"
         },
         {
           "skuid": "S0B2DB92A82FD1009",
@@ -2181,11 +2181,11 @@
           "name": "Fig Newtowns",
           "price": 2.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17749722455349.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-04 07:39:19"
+          "stock_updated": "2026-05-04 23:46:21"
         },
         {
           "skuid": "S0B246944DF011004",
@@ -2229,11 +2229,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-05-04 07:47:01"
+          "stock_updated": "2026-05-05 01:59:51"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -2493,11 +2493,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 9,
+          "stock": 7,
           "capacity": 12,
-          "fill_pct": 75,
+          "fill_pct": 58,
           "stock_warning": 0,
-          "stock_updated": "2026-05-04 20:42:00"
+          "stock_updated": "2026-05-05 01:59:51"
         },
         {
           "skuid": "S0B2DAF8F87C31004",
@@ -2565,11 +2565,11 @@
           "name": "Waffle cones",
           "price": 4.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531046030934.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-04 07:57:05"
+          "stock_updated": "2026-05-04 23:46:21"
         },
         {
           "skuid": "S0B2D527352ED100A",

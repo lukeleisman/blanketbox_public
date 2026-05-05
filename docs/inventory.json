@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T23:27:18Z",
+  "updated": "2026-05-05T01:11:57Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2385,11 +2385,11 @@
           "name": "Oreo Fresh stacks",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686702392867.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 4,
-          "fill_pct": 50,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-05-04 07:39:19"
+          "stock_updated": "2026-05-04 18:40:49"
         },
         {
           "skuid": "S0B2BAC9D24491002",
@@ -2493,11 +2493,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 12,
+          "stock": 10,
           "capacity": 12,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-05-04 07:47:01"
+          "stock_updated": "2026-05-04 18:40:49"
         },
         {
           "skuid": "S0B2DAF8F87C31004",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05T21:35:26Z",
+  "updated": "2026-05-05T22:56:14Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1847,8 +1847,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 56,
-      "in_stock": 56,
-      "out_of_stock": 0,
+      "in_stock": 55,
+      "out_of_stock": 1,
       "low_stock": 0,
       "products": [
         {
@@ -2169,11 +2169,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-05-05 01:59:51"
+          "stock_updated": "2026-05-05 17:54:16"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -2181,11 +2181,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-04 07:39:19"
+          "stock_updated": "2026-05-05 17:54:16"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -2433,11 +2433,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 12,
-          "fill_pct": 58,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-05 01:59:51"
+          "stock_updated": "2026-05-05 17:54:16"
         },
         {
           "skuid": "S0B2DAF8F87C31004",
@@ -2481,11 +2481,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-05-04 07:47:01"
+          "stock_updated": "2026-05-05 17:54:16"
         },
         {
           "skuid": "S0B2D48452F7E1005",

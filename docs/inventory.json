@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T02:53:56Z",
+  "updated": "2026-05-06T06:06:10Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -633,8 +633,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 49,
-      "in_stock": 46,
-      "out_of_stock": 3,
+      "in_stock": 45,
+      "out_of_stock": 4,
       "low_stock": 0,
       "products": [
         {
@@ -655,11 +655,11 @@
           "name": "Candy M&M Plain",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 6,
+          "stock": 4,
           "capacity": 10,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-05-03 19:19:28"
+          "stock_updated": "2026-05-05 23:52:53"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -739,11 +739,11 @@
           "name": "Chobani Protein Strawberries & Cream",
           "price": 4.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175485829801693.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-04-27 17:16:50"
+          "stock_updated": "2026-05-06 00:30:17"
         },
         {
           "skuid": "S0B2D11E583291001",
@@ -955,11 +955,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 2,
+          "stock": -1,
           "capacity": 13,
-          "fill_pct": 15,
+          "fill_pct": -8,
           "stock_warning": 0,
-          "stock_updated": "2026-05-04 20:28:08"
+          "stock_updated": "2026-05-06 00:30:17"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -1063,11 +1063,11 @@
           "name": "San Pellegrino Aranciata",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17145040865182.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-01 22:00:09"
+          "stock_updated": "2026-05-06 00:30:17"
         },
         {
           "skuid": "S0B2D90DB76B5100C",
@@ -1268,11 +1268,11 @@
           "name": "Buldak Habanero Lime",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177733607356442.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-05 11:37:44"
+          "stock_updated": "2026-05-06 00:41:38"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -1388,11 +1388,11 @@
           "name": "Coca-Cola Original Taste",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/166197041201682.jpeg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-05-05 11:37:44"
+          "stock_updated": "2026-05-05 22:23:50"
         },
         {
           "skuid": "S0B2DFCAA39F21000",
@@ -1592,11 +1592,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 14,
+          "stock": 12,
           "capacity": 14,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-05-05 11:37:44"
+          "stock_updated": "2026-05-06 00:41:38"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1616,11 +1616,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 11,
-          "fill_pct": 91,
+          "fill_pct": 82,
           "stock_warning": 0,
-          "stock_updated": "2026-05-05 18:19:27"
+          "stock_updated": "2026-05-05 22:10:47"
         },
         {
           "skuid": "S0B2DB93670101002",
@@ -1748,11 +1748,11 @@
           "name": "Rangel mush pasta",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17768664990525.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-05 11:37:44"
+          "stock_updated": "2026-05-06 00:41:38"
         },
         {
           "skuid": "S0B2D90DB76B5100C",

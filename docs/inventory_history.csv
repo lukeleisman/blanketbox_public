@@ -1005,3 +1005,10 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-05T22:56:14Z,16213,haven,TheHaven#2-cooler,S0B2BDAE8D5FB1006,520010247,Gatorade Glacier Cherry,3.0,1,0,-1
 2026-05-05T22:56:14Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,9,8,-1
 2026-05-05T23:51:12Z,15521,philly,PhillyTrueCooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,11,10,-1
+2026-05-06T02:53:56Z,16214,doylestown,333 North Broad Cooler,S0B2C858213931004,F0B2C858213931002,Recess strawberry rose,4.27,3,2,-1
+2026-05-06T02:53:56Z,16214,doylestown,333 North Broad Cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,12,11,-1
+2026-05-06T02:53:56Z,15521,philly,PhillyTrueCooler,S0B2BAC9D24491002,F0B2BAC9D24491000,Pop Secret popcorn,3.0,8,7,-1
+2026-05-06T02:53:56Z,15521,philly,PhillyTrueCooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,12,11,-1
+2026-05-06T02:53:56Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,8,6,-2
+2026-05-06T02:53:56Z,16213,haven,TheHaven#2-cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,5,4,-1
+2026-05-06T02:53:56Z,16213,haven,TheHaven#2-cooler,S0B246944E6EA1003,04043108,Candy M&M Plain,2.57,10,8,-2

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T09:12:07Z",
+  "updated": "2026-05-06T11:24:49Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -979,11 +979,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 8,
+          "stock": 6,
           "capacity": 13,
-          "fill_pct": 62,
+          "fill_pct": 46,
           "stock_warning": 0,
-          "stock_updated": "2026-05-05 05:52:10"
+          "stock_updated": "2026-05-06 06:03:14"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1304,11 +1304,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-05-05 11:37:44"
+          "stock_updated": "2026-05-06 05:28:39"
         },
         {
           "skuid": "S0B2668475B231007",
@@ -2097,11 +2097,11 @@
           "name": "Fairlife Chocolate Protein 30g",
           "price": 4.97,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363365739242.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-04 07:39:19"
+          "stock_updated": "2026-05-06 05:26:48"
         },
         {
           "skuid": "S0B246944DFD21006",

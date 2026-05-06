@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T22:13:29Z",
+  "updated": "2026-05-06T23:26:25Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1676,11 +1676,11 @@
           "name": "Pepsi Diet 12oz Can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174620586447847.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-05 11:37:44"
+          "stock_updated": "2026-05-06 17:59:49"
         },
         {
           "skuid": "S0B2BAC9D24491002",
@@ -1799,8 +1799,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 56,
-      "in_stock": 53,
-      "out_of_stock": 3,
+      "in_stock": 52,
+      "out_of_stock": 4,
       "low_stock": 0,
       "products": [
         {
@@ -1855,7 +1855,7 @@
           "skuid": "S0B2D0552D8121008",
           "barcode": "8939200091",
           "name": "Celsius Grape",
-          "price": 3.57,
+          "price": 3.54,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
           "stock": 8,
           "capacity": 8,
@@ -1903,7 +1903,7 @@
           "skuid": "S0B2D11E4F77D1002",
           "barcode": "818290017734",
           "name": "Chobani Protein",
-          "price": 4.57,
+          "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174379267257617.png",
           "stock": 4,
           "capacity": 5,
@@ -1927,7 +1927,7 @@
           "skuid": "S0B2D485C6BCC100B",
           "barcode": "818290015617",
           "name": "Chobani tropical punch",
-          "price": 3.99,
+          "price": 4.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177497394449815.png",
           "stock": 3,
           "capacity": 3,
@@ -2047,7 +2047,7 @@
           "skuid": "S0B25FC55972D1006",
           "barcode": "1162002211",
           "name": "Fairlife Chocolate Protein 30g",
-          "price": 4.97,
+          "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363365739242.png",
           "stock": 4,
           "capacity": 6,
@@ -2455,13 +2455,13 @@
           "skuid": "S0B2D5C6B3EBA1001",
           "barcode": "191414014117",
           "name": "Waffle cones",
-          "price": 4.97,
+          "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531046030934.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-04 23:46:21"
+          "stock_updated": "2026-05-06 17:53:27"
         },
         {
           "skuid": "S0B2D527352ED100A",

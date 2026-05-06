@@ -1064,3 +1064,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-06T22:13:29Z,16213,haven,TheHaven#2-cooler,S0B2D484E0EFD1001,014100043706,Milano,2.57,9,8,-1
 2026-05-06T22:13:29Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,8,7,-1
 2026-05-06T22:13:29Z,16213,haven,TheHaven#2-cooler,S0B2C6BC04A97100D,F0B2C6BC04A97100B,Fruit Loops Cereal,1.99,1,0,-1
+2026-05-06T23:26:25Z,15521,philly,PhillyTrueCooler,S0B246944E58F1000,01280504,Pepsi Diet 12oz Can,2.57,3,2,-1
+2026-05-06T23:26:25Z,16213,haven,TheHaven#2-cooler,S0B2D5C6B3EBA1001,191414014117,Waffle cones,5.0,1,0,-1

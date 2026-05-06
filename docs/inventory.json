@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T06:06:10Z",
+  "updated": "2026-05-06T09:12:07Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -29,7 +29,7 @@
           "barcode": "0013971004311",
           "name": "Bare Apple Chips",
           "price": 2.57,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176012221211862.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175962430824487.png",
           "stock": 5,
           "capacity": 5,
           "fill_pct": 100,
@@ -77,7 +77,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.57,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
           "stock": 8,
           "capacity": 9,
           "fill_pct": 89,
@@ -545,7 +545,7 @@
           "barcode": "038000765414",
           "name": "Rice Krispies Treats Original",
           "price": 1.97,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177190083350690.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254759829271.png",
           "stock": 2,
           "capacity": 3,
           "fill_pct": 67,
@@ -678,7 +678,7 @@
           "barcode": "889392010145",
           "name": "Celsius Kiwi Guava",
           "price": 3.57,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/171949904019511.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1633372949844.jpeg",
           "stock": 1,
           "capacity": 1,
           "fill_pct": 100,
@@ -1723,7 +1723,7 @@
           "barcode": "01280504",
           "name": "Pepsi Diet 12oz Can",
           "price": 2.57,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174620586447847.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/169279987566712.jpeg",
           "stock": 3,
           "capacity": 3,
           "fill_pct": 100,
@@ -2253,11 +2253,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 10,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-05-04 07:47:01"
+          "stock_updated": "2026-05-06 01:19:31"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -2433,11 +2433,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 6,
+          "stock": 4,
           "capacity": 12,
-          "fill_pct": 50,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-05-05 17:54:16"
+          "stock_updated": "2026-05-06 01:19:31"
         },
         {
           "skuid": "S0B2DAF8F87C31004",

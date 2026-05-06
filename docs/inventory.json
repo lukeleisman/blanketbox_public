@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06T13:13:14Z",
+  "updated": "2026-05-06T15:40:31Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -799,11 +799,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 7,
+          "stock": 5,
           "capacity": 10,
-          "fill_pct": 70,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-03 19:02:36"
+          "stock_updated": "2026-05-06 10:15:18"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -967,11 +967,11 @@
           "name": "Maison Perrier Sparkling Water",
           "price": 2.87,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17773152898848.png",
-          "stock": 5,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-04-29 19:51:57"
+          "stock_updated": "2026-05-06 09:34:26"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -1219,11 +1219,11 @@
           "name": "Vita Coconut Extra Coconut",
           "price": 4.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176904241917369.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-03 13:44:21"
+          "stock_updated": "2026-05-06 09:34:26"
         }
       ]
     },
@@ -1388,11 +1388,11 @@
           "name": "Coca-Cola Original Taste",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/166197041201682.jpeg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-05-05 22:23:50"
+          "stock_updated": "2026-05-06 10:11:42"
         },
         {
           "skuid": "S0B2DFCAA39F21000",

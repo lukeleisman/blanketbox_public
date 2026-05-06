@@ -1027,3 +1027,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-06T11:24:49Z,15521,philly,PhillyTrueCooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,7,6,-1
 2026-05-06T11:24:49Z,16213,haven,TheHaven#2-cooler,S0B25FC55972D1006,1162002211,Fairlife Chocolate Protein 30g,4.97,5,4,-1
 2026-05-06T13:13:14Z,16213,haven,TheHaven#2-cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,4,3,-1
+2026-05-06T15:40:31Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,7,5,-2
+2026-05-06T15:40:31Z,16214,doylestown,333 North Broad Cooler,S0B2DB92EA84A1003,898999012247,Vita Coconut Extra Coconut,4.25,5,4,-1
+2026-05-06T15:40:31Z,16214,doylestown,333 North Broad Cooler,S0B2D0516EFCB1008,007478051550,Maison Perrier Sparkling Water,2.87,5,3,-2
+2026-05-06T15:40:31Z,15521,philly,PhillyTrueCooler,S0B246944E2701006,049000053418,Coca-Cola Original Taste,2.57,9,8,-1

@@ -1084,3 +1084,16 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-07T01:16:00Z,16213,haven,TheHaven#2-cooler,S0B2BDAE8D5FB1006,520010247,Gatorade Glacier Cherry,3.0,0,8,8
 2026-05-07T01:16:00Z,16213,haven,TheHaven#2-cooler,S0B2D90DF10651003,071879700049,Jennie’s Coconut bites,17.0,2,3,1
 2026-05-07T01:16:00Z,15518,warren,ChicagoDryCab2-Warren,S0B27AC0E715C1003,052000010886,Propel Fitness Water Mix Packets - 10 pk- Kiwi Strawberry,6.49,2,1,-1
+2026-05-07T04:56:04Z,15519,doylestown,333 North Broad Ambient,S0B2D5C80C7741005,810113830742,Body Armor IV StrKiwi,1.75,15,14,-1
+2026-05-07T04:56:04Z,16214,doylestown,333 North Broad Cooler,S0B2D3E6D7FBD1003,041508265089,S. Pellegrino Lemonade 11.15oz,3.77,6,5,-1
+2026-05-07T04:56:04Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,10,9,-1
+2026-05-07T04:56:04Z,16214,doylestown,333 North Broad Cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.5,14,13,-1
+2026-05-07T04:56:04Z,16214,doylestown,333 North Broad Cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.5,9,8,-1
+2026-05-07T04:56:04Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,20,19,-1
+2026-05-07T04:56:04Z,15521,philly,PhillyTrueCooler,S0B2BAC9D24491002,F0B2BAC9D24491000,Pop Secret popcorn,3.0,7,6,-1
+2026-05-07T04:56:04Z,15521,philly,PhillyTrueCooler,S0B2C3772FF3A1009,082592660152,Naked Juice Mighty Mango 15.2oz Bottle,4.57,1,0,-1
+2026-05-07T04:56:04Z,15521,philly,PhillyTrueCooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,11,10,-1
+2026-05-07T04:56:04Z,15521,philly,PhillyTrueCooler,S0B2D484E0EFD1001,014100043706,Milano,2.57,12,10,-2
+2026-05-07T04:56:04Z,16213,haven,TheHaven#2-cooler,S0B2D527865D2100C,036632078186,Delight Mocha,3.0,6,5,-1
+2026-05-07T04:56:04Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,9,8,-1
+2026-05-07T04:56:04Z,16213,haven,TheHaven#2-cooler,S0B2D90DF10651003,071879700049,Jennie’s Coconut bites,17.0,3,2,-1

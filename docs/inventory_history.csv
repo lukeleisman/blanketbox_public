@@ -1106,3 +1106,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-07T20:47:22Z,16214,doylestown,333 North Broad Cooler,S0B2D3E6DA5E01005,041508235785,San Pellegrino Aranciata,3.77,8,7,-1
 2026-05-07T20:47:22Z,16214,doylestown,333 North Broad Cooler,S0B2C377070EC1001,082592194152,Naked Strawberry Banana 15.2oz,5.0,7,5,-2
 2026-05-07T20:47:22Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,8,7,-1
+2026-05-07T23:06:10Z,15521,philly,PhillyTrueCooler,S0B2DFCA586B81002,850008225505,Daily Crave Fries,2.0,5,4,-1

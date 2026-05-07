@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T19:14:15Z",
+  "updated": "2026-05-07T20:47:22Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -991,11 +991,11 @@
           "name": "Naked Strawberry Banana 15.2oz",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176054114397470.png",
-          "stock": 7,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 15:55:53"
+          "stock_updated": "2026-05-07 14:29:55"
         },
         {
           "skuid": "S0B2D113959A71003",
@@ -1063,11 +1063,11 @@
           "name": "San Pellegrino Aranciata",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17145040865182.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 15:55:53"
+          "stock_updated": "2026-05-07 14:29:55"
         },
         {
           "skuid": "S0B2D90DB76B5100C",
@@ -2037,11 +2037,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 18:57:05"
+          "stock_updated": "2026-05-07 15:35:20"
         },
         {
           "skuid": "S0B2C85783CD31007",

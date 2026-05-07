@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T04:56:04Z",
+  "updated": "2026-05-07T07:43:22Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1350,7 +1350,7 @@
           "skuid": "S0B2DFCAA39F21000",
           "barcode": "031146027569",
           "name": "Creamy Chicken Ramyum",
-          "price": 4.5,
+          "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175717767327490.png",
           "stock": 8,
           "capacity": 8,
@@ -1374,7 +1374,7 @@
           "skuid": "S0B2DFCA586B81002",
           "barcode": "850008225505",
           "name": "Daily Crave Fries",
-          "price": 2.5,
+          "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799863442415.png",
           "stock": 5,
           "capacity": 5,
@@ -1388,11 +1388,11 @@
           "name": "Deer park water",
           "price": 1.87,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-05-05 11:37:44"
+          "stock_updated": "2026-05-07 00:37:24"
         },
         {
           "skuid": "S0B2D527638181007",
@@ -1460,11 +1460,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.07,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-05-05 11:37:44"
+          "stock_updated": "2026-05-07 01:43:41"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1472,11 +1472,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-05 11:37:44"
+          "stock_updated": "2026-05-07 02:05:15"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -1614,7 +1614,7 @@
           "skuid": "S0B2C377070EC1001",
           "barcode": "082592194152",
           "name": "Naked Strawberry Banana 15.2oz",
-          "price": 4.99,
+          "price": 4.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176054114397470.png",
           "stock": 4,
           "capacity": 4,
@@ -1722,7 +1722,7 @@
           "skuid": "S0B2D90DD9337100C",
           "barcode": "016000215214",
           "name": "Simply Chex",
-          "price": 5.0,
+          "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17761903682628.png",
           "stock": 3,
           "capacity": 3,
@@ -1770,7 +1770,7 @@
           "skuid": "S0B2DFCA43905100C",
           "barcode": "840515100020",
           "name": "Thinsters Brownie Batter",
-          "price": 9.0,
+          "price": 8.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799854895927.png",
           "stock": 4,
           "capacity": 4,
@@ -1782,7 +1782,7 @@
           "skuid": "S0B2DB92EA84A1003",
           "barcode": "898999012247",
           "name": "Vita Coconut Extra Coconut",
-          "price": 4.5,
+          "price": 4.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176904241917369.png",
           "stock": 9,
           "capacity": 9,

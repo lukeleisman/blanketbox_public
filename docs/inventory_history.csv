@@ -1101,3 +1101,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-07T07:43:22Z,15521,philly,PhillyTrueCooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.07,7,6,-1
 2026-05-07T07:43:22Z,15521,philly,PhillyTrueCooler,S0B2BDAE8D5FB1006,520010247,Gatorade Glacier Cherry,3.0,2,1,-1
 2026-05-07T12:16:35Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,13,11,-2
+2026-05-07T15:12:25Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,11,10,-1

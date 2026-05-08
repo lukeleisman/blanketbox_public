@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T04:36:28Z",
+  "updated": "2026-05-08T06:52:09Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1280,11 +1280,11 @@
           "name": "Cheerios Treats",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177731583592140.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-05-05 11:37:44"
+          "stock_updated": "2026-05-08 01:30:37"
         },
         {
           "skuid": "S0B2DAF9429041007",
@@ -1532,11 +1532,11 @@
           "name": "La Colombe Draft Latte Caramel",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363410135042.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-05 11:37:44"
+          "stock_updated": "2026-05-07 23:51:12"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -1772,11 +1772,11 @@
           "name": "Thinsters Brownie Batter",
           "price": 8.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799854895927.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-05 11:50:02"
+          "stock_updated": "2026-05-07 23:51:12"
         },
         {
           "skuid": "S0B2DB92EA84A1003",

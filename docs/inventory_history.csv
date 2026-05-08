@@ -1121,3 +1121,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-08T06:52:09Z,15521,philly,PhillyTrueCooler,S0B2DFCA43905100C,840515100020,Thinsters Brownie Batter,8.5,4,3,-1
 2026-05-08T06:52:09Z,15521,philly,PhillyTrueCooler,S0B2DD3F2D92D100A,016000280427,Cheerios Treats,1.99,10,9,-1
 2026-05-08T06:52:09Z,15521,philly,PhillyTrueCooler,S0B25FC5C5C991003,0491300092,La Colombe Draft Latte Caramel,4.27,2,1,-1
+2026-05-08T08:21:11Z,16213,haven,TheHaven#2-cooler,S0B2DFCA43905100C,840515100020,Thinsters Brownie Batter,9.0,3,2,-1
+2026-05-08T08:21:11Z,16213,haven,TheHaven#2-cooler,S0B2DB932853E100A,044000082048,Oreo Fresh stacks,5.0,6,5,-1

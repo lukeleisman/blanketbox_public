@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T06:52:09Z",
+  "updated": "2026-05-08T08:21:11Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2277,11 +2277,11 @@
           "name": "Oreo Fresh stacks",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686702392867.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 18:57:05"
+          "stock_updated": "2026-05-08 02:16:47"
         },
         {
           "skuid": "S0B2BAC9D24491002",
@@ -2349,11 +2349,11 @@
           "name": "Thinsters Brownie Batter",
           "price": 9.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799854895927.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-07 18:26:43"
+          "stock_updated": "2026-05-08 02:16:47"
         },
         {
           "skuid": "S0B246944E3C71001",

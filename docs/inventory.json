@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T16:51:04Z",
+  "updated": "2026-05-08T18:10:58Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1496,11 +1496,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173685359821166.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-05 11:37:44"
+          "stock_updated": "2026-05-08 12:16:58"
         },
         {
           "skuid": "S0B2D90DF10651003",
@@ -2205,11 +2205,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 18:57:05"
+          "stock_updated": "2026-05-08 12:39:40"
         },
         {
           "skuid": "S0B2D0516EFCB1008",

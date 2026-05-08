@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07T23:06:10Z",
+  "updated": "2026-05-08T01:16:53Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -679,11 +679,11 @@
           "name": "Candy M&M Plain",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 14,
+          "stock": 13,
           "capacity": 14,
-          "fill_pct": 100,
+          "fill_pct": 93,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 15:55:53"
+          "stock_updated": "2026-05-07 18:37:03"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -955,11 +955,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 19,
+          "stock": 18,
           "capacity": 20,
-          "fill_pct": 95,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 22:28:32"
+          "stock_updated": "2026-05-07 18:37:03"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -2349,11 +2349,11 @@
           "name": "Thinsters Brownie Batter",
           "price": 9.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799854895927.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 18:57:05"
+          "stock_updated": "2026-05-07 18:26:43"
         },
         {
           "skuid": "S0B246944E3C71001",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T18:10:58Z",
+  "updated": "2026-05-08T19:54:25Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2181,11 +2181,11 @@
           "name": "Jennie\u2019s Coconut bites",
           "price": 17.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619046579382.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 21:49:59"
+          "stock_updated": "2026-05-08 13:24:46"
         },
         {
           "skuid": "S0B2D4851D7141003",

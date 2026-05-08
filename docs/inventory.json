@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T01:16:53Z",
+  "updated": "2026-05-08T04:36:28Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -414,11 +414,11 @@
           "name": "Natures Bakery blueberry fig bat",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866563574429.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 16:46:13"
+          "stock_updated": "2026-05-07 21:43:22"
         },
         {
           "skuid": "S0B271C0F5611100C",
@@ -1388,11 +1388,11 @@
           "name": "Deer park water",
           "price": 1.87,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-05-07 00:37:24"
+          "stock_updated": "2026-05-07 22:05:10"
         },
         {
           "skuid": "S0B2D527638181007",
@@ -1676,11 +1676,11 @@
           "name": "Pepsi Diet 12oz Can",
           "price": 1.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174620586447847.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 17:59:49"
+          "stock_updated": "2026-05-07 22:05:10"
         },
         {
           "skuid": "S0B2BAC9D24491002",
@@ -1799,8 +1799,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 50,
-      "in_stock": 49,
-      "out_of_stock": 1,
+      "in_stock": 48,
+      "out_of_stock": 2,
       "low_stock": 0,
       "products": [
         {
@@ -2133,11 +2133,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 18:57:05"
+          "stock_updated": "2026-05-07 20:32:18"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -2145,11 +2145,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 18:57:05"
+          "stock_updated": "2026-05-07 20:32:18"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -2325,11 +2325,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 9,
-          "fill_pct": 89,
+          "fill_pct": 78,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 21:49:59"
+          "stock_updated": "2026-05-07 20:32:18"
         },
         {
           "skuid": "S0B2DAF8F87C31004",
@@ -2361,11 +2361,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 18:57:05"
+          "stock_updated": "2026-05-07 20:32:18"
         },
         {
           "skuid": "S0B2D48452F7E1005",
@@ -2385,11 +2385,11 @@
           "name": "Waffle cones",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531046030934.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 18:57:05"
+          "stock_updated": "2026-05-07 22:03:58"
         },
         {
           "skuid": "S0B2D527352ED100A",

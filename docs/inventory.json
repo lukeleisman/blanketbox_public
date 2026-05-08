@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T10:02:56Z",
+  "updated": "2026-05-08T11:54:04Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -645,8 +645,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 44,
-      "in_stock": 43,
-      "out_of_stock": 1,
+      "in_stock": 42,
+      "out_of_stock": 2,
       "low_stock": 0,
       "products": [
         {
@@ -727,11 +727,11 @@
           "name": "Chobani Protein",
           "price": 4.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174379267257617.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 15:55:53"
+          "stock_updated": "2026-05-08 06:31:44"
         },
         {
           "skuid": "S0B2D11E2F0FD1001",
@@ -979,11 +979,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 10,
+          "stock": 8,
           "capacity": 13,
-          "fill_pct": 77,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-05-07 08:37:10"
+          "stock_updated": "2026-05-08 06:08:15"
         },
         {
           "skuid": "S0B2C377070EC1001",

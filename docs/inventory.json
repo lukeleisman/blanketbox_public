@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T15:53:31Z",
+  "updated": "2026-05-09T16:56:07Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -751,11 +751,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 3,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 15:55:53"
+          "stock_updated": "2026-05-09 11:53:05"
         },
         {
           "skuid": "S0B2D527638181007",
@@ -1845,11 +1845,11 @@
           "name": "Beef Liver Dog Treats",
           "price": 20.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174907930543359.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 18:57:05"
+          "stock_updated": "2026-05-09 11:15:05"
         },
         {
           "skuid": "S0B26D8C6EAF31008",

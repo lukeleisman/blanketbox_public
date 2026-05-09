@@ -1129,3 +1129,12 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-08T18:10:58Z,15521,philly,PhillyTrueCooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.07,8,7,-1
 2026-05-08T18:10:58Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,9,8,-1
 2026-05-08T19:54:25Z,16213,haven,TheHaven#2-cooler,S0B2D90DF10651003,071879700049,Jennie’s Coconut bites,17.0,2,1,-1
+2026-05-09T02:52:22Z,16214,doylestown,333 North Broad Cooler,S0B2D05DCDEEB1007,850019179743,Recess ras-lime,4.0,6,5,-1
+2026-05-09T02:52:22Z,16214,doylestown,333 North Broad Cooler,S0B2C377070EC1001,082592194152,Naked Strawberry Banana 15.2oz,5.0,5,4,-1
+2026-05-09T02:52:22Z,16214,doylestown,333 North Broad Cooler,S0B246944E4EB1007,889392010145,Celsius Kiwi Guava,3.57,1,0,-1
+2026-05-09T02:52:22Z,16214,doylestown,333 North Broad Cooler,S0B2668475B231007,8939200362,Celsius Watermelon,3.57,5,4,-1
+2026-05-09T02:52:22Z,16214,doylestown,333 North Broad Cooler,S0B2E02B5AA1F1005,07811801,Canada Dry Diet Ginger Ale Can,2.5,12,8,-4
+2026-05-09T02:52:22Z,15521,philly,PhillyTrueCooler,S0B2BAC9D24491002,F0B2BAC9D24491000,Pop Secret popcorn,2.5,6,5,-1
+2026-05-09T02:52:22Z,15521,philly,PhillyTrueCooler,S0B246944E2701006,049000053418,Coca-Cola Original Taste,2.57,8,7,-1
+2026-05-09T02:52:22Z,15521,philly,PhillyTrueCooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,10,8,-2
+2026-05-09T02:52:22Z,15521,philly,PhillyTrueCooler,S0B2D90DB76B5100C,041508302074,San Pellegrino Essenza,3.0,5,4,-1

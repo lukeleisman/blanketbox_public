@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T11:51:20Z",
+  "updated": "2026-05-09T13:19:13Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1784,11 +1784,11 @@
           "name": "Vita Coconut Extra Coconut",
           "price": 4.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176904241917369.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-05-05 11:37:44"
+          "stock_updated": "2026-05-09 07:40:40"
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T13:19:13Z",
+  "updated": "2026-05-09T14:34:10Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -979,11 +979,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 13,
-          "fill_pct": 54,
+          "fill_pct": 46,
           "stock_warning": 0,
-          "stock_updated": "2026-05-08 08:07:49"
+          "stock_updated": "2026-05-09 09:05:06"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1186,8 +1186,8 @@
       "machine_name": "PhillyTrueCooler",
       "address": "4200 Ludlow St, Philadelphia PA, 10104",
       "total_skus": 50,
-      "in_stock": 47,
-      "out_of_stock": 3,
+      "in_stock": 45,
+      "out_of_stock": 5,
       "low_stock": 0,
       "products": [
         {
@@ -1388,11 +1388,11 @@
           "name": "Deer park water",
           "price": 1.87,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 5,
-          "fill_pct": 20,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-09 02:21:36"
+          "stock_updated": "2026-05-09 09:15:12"
         },
         {
           "skuid": "S0B2D527638181007",
@@ -1532,11 +1532,11 @@
           "name": "La Colombe Draft Latte Caramel",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363410135042.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-07 23:51:12"
+          "stock_updated": "2026-05-09 09:25:21"
         },
         {
           "skuid": "S0B2D484E0EFD1001",

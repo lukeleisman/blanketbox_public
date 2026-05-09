@@ -1138,3 +1138,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-09T02:52:22Z,15521,philly,PhillyTrueCooler,S0B246944E2701006,049000053418,Coca-Cola Original Taste,2.57,8,7,-1
 2026-05-09T02:52:22Z,15521,philly,PhillyTrueCooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,10,8,-2
 2026-05-09T02:52:22Z,15521,philly,PhillyTrueCooler,S0B2D90DB76B5100C,041508302074,San Pellegrino Essenza,3.0,5,4,-1
+2026-05-09T05:49:32Z,15521,philly,PhillyTrueCooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.07,7,6,-1
+2026-05-09T05:49:32Z,16213,haven,TheHaven#2-cooler,S0B2DFCA43905100C,840515100020,Thinsters Brownie Batter,9.0,2,1,-1
+2026-05-09T05:49:32Z,16213,haven,TheHaven#2-cooler,S0B25FC55972D1006,1162002211,Fairlife Chocolate Protein 30g,5.0,4,3,-1

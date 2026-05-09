@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T22:07:10Z",
+  "updated": "2026-05-09T23:12:47Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -679,11 +679,11 @@
           "name": "Candy M&M Plain",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 13,
+          "stock": 12,
           "capacity": 14,
-          "fill_pct": 93,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-05-07 18:37:03"
+          "stock_updated": "2026-05-09 17:37:32"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -2061,11 +2061,11 @@
           "name": "Fairlife Chocolate Protein 30g",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363365739242.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-09 00:14:19"
+          "stock_updated": "2026-05-09 17:50:06"
         },
         {
           "skuid": "S0B246944DFD21006",

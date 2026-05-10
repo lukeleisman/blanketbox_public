@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T17:55:23Z",
+  "updated": "2026-05-10T19:06:40Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 52,
-      "in_stock": 50,
-      "out_of_stock": 2,
+      "in_stock": 51,
+      "out_of_stock": 1,
       "low_stock": 0,
       "products": [
         {
@@ -61,18 +61,6 @@
           "stock_updated": "2026-05-06 16:46:13"
         },
         {
-          "skuid": "S0B2740EB95E01006",
-          "barcode": "850076106010",
-          "name": "Beef Liver Dog Treats",
-          "price": 20.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174907930543359.png",
-          "stock": 2,
-          "capacity": 2,
-          "fill_pct": 100,
-          "stock_warning": 0,
-          "stock_updated": "2026-05-06 16:46:13"
-        },
-        {
           "skuid": "S0B260510FB391004",
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
@@ -91,8 +79,8 @@
           "price": 1.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531187161649.png",
           "stock": 14,
-          "capacity": 15,
-          "fill_pct": 93,
+          "capacity": 14,
+          "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-05-06 22:06:47"
         },
@@ -270,11 +258,11 @@
           "name": "Jennie\u2019s Coconut bites",
           "price": 20.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619046579382.png",
-          "stock": 0,
-          "capacity": 2,
-          "fill_pct": 0,
+          "stock": 9,
+          "capacity": 9,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 02:50:20"
+          "stock_updated": "2026-05-10 13:54:00"
         },
         {
           "skuid": "S0B26860EB3691005",
@@ -301,14 +289,26 @@
           "stock_updated": "2026-05-06 16:46:13"
         },
         {
+          "skuid": "S0B248CF276DC1004",
+          "barcode": "036000123234",
+          "name": "Kleenex Tissues on the Go",
+          "price": 1.07,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173343382443830.png",
+          "stock": 18,
+          "capacity": 18,
+          "fill_pct": 100,
+          "stock_warning": 0,
+          "stock_updated": "2026-05-10 13:59:58"
+        },
+        {
           "skuid": "S0B2D5C6DC51A1001",
           "barcode": "810125972157",
           "name": "Liquid IV StraWatermelon",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531062586319.png",
           "stock": 1,
-          "capacity": 2,
-          "fill_pct": 50,
+          "capacity": 1,
+          "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-05-09 01:00:46"
         },
@@ -319,22 +319,10 @@
           "price": 1.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531093062432.png",
           "stock": 12,
-          "capacity": 14,
-          "fill_pct": 86,
-          "stock_warning": 0,
-          "stock_updated": "2026-05-09 22:58:54"
-        },
-        {
-          "skuid": "S0B2D5C8AA5EE1004",
-          "barcode": "810127500938",
-          "name": "McLovin BeefSal",
-          "price": 13.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531251837444.png",
-          "stock": 4,
-          "capacity": 4,
+          "capacity": 12,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 16:46:13"
+          "stock_updated": "2026-05-09 22:58:54"
         },
         {
           "skuid": "S0B29439727A41005",
@@ -385,40 +373,16 @@
           "stock_updated": "2026-05-06 16:46:13"
         },
         {
-          "skuid": "S0B2D5E27CFA51006",
-          "barcode": "738537030121",
-          "name": "Muenster Beef & Sweet",
-          "price": 7.5,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177533959535162.png",
-          "stock": 1,
-          "capacity": 1,
-          "fill_pct": 100,
-          "stock_warning": 0,
-          "stock_updated": "2026-05-06 16:46:13"
-        },
-        {
-          "skuid": "S0B2D5E298FD31002",
-          "barcode": "738537030138",
-          "name": "Muenster Chicken & Sweet",
-          "price": 7.5,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177533971020348.png",
-          "stock": 2,
-          "capacity": 2,
-          "fill_pct": 100,
-          "stock_warning": 0,
-          "stock_updated": "2026-05-06 16:46:13"
-        },
-        {
           "skuid": "S0B2885215A1B1003",
           "barcode": "047495112900",
           "name": "Natures Bakery blueberry fig bat",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866563574429.png",
-          "stock": 7,
-          "capacity": 8,
-          "fill_pct": 88,
+          "stock": 11,
+          "capacity": 11,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-05-07 21:43:22"
+          "stock_updated": "2026-05-10 13:54:00"
         },
         {
           "skuid": "S0B271C0F5611100C",
@@ -463,8 +427,8 @@
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
           "stock": 6,
-          "capacity": 7,
-          "fill_pct": 86,
+          "capacity": 6,
+          "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-05-06 19:19:31"
         },
@@ -475,8 +439,8 @@
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686702392867.png",
           "stock": 4,
-          "capacity": 5,
-          "fill_pct": 80,
+          "capacity": 4,
+          "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-05-10 02:50:20"
         },
@@ -583,10 +547,22 @@
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964188034.jpg",
           "stock": 0,
-          "capacity": 1,
-          "fill_pct": 0,
+          "capacity": 0,
+          "fill_pct": null,
           "stock_warning": 0,
           "stock_updated": "2026-05-10 02:50:20"
+        },
+        {
+          "skuid": "S0B26EA206C77100D",
+          "barcode": "F0B26EA206C77100B",
+          "name": "Splash Balls (Set of 4)",
+          "price": 5.99,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174762315040674.png",
+          "stock": 2,
+          "capacity": 2,
+          "fill_pct": 100,
+          "stock_warning": 0,
+          "stock_updated": "2026-05-10 13:54:52"
         },
         {
           "skuid": "S0B2E02D258091004",
@@ -595,10 +571,34 @@
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177810223481850.png",
           "stock": 3,
-          "capacity": 5,
-          "fill_pct": 60,
+          "capacity": 3,
+          "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-05-09 22:58:54"
+        },
+        {
+          "skuid": "S0B2D9240A38C1008",
+          "barcode": "850014658274",
+          "name": "Super Gut GLP-1 Booster",
+          "price": 1.99,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177621363776221.png",
+          "stock": 15,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-05-10 14:01:19"
+        },
+        {
+          "skuid": "S0B248CF277191002",
+          "barcode": "073010214095",
+          "name": "Tampax Regular 10ct",
+          "price": 5.99,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/171416919623839.png",
+          "stock": 10,
+          "capacity": 10,
+          "fill_pct": 100,
+          "stock_warning": 0,
+          "stock_updated": "2026-05-10 13:59:58"
         },
         {
           "skuid": "S0B2DFCA43905100C",
@@ -607,8 +607,8 @@
           "price": 9.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799854895927.png",
           "stock": 3,
-          "capacity": 4,
-          "fill_pct": 75,
+          "capacity": 3,
+          "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-05-09 22:58:54"
         },

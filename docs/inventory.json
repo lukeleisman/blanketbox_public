@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T00:11:02Z",
+  "updated": "2026-05-10T04:31:09Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -318,11 +318,11 @@
           "name": "Liquid IV WhtPeach",
           "price": 1.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531093062432.png",
-          "stock": 14,
+          "stock": 12,
           "capacity": 14,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 16:46:13"
+          "stock_updated": "2026-05-09 22:58:54"
         },
         {
           "skuid": "S0B2D5C8AA5EE1004",
@@ -594,11 +594,11 @@
           "name": "Sprinkles red velvet cupcakes",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177810223481850.png",
-          "stock": 5,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 16:46:13"
+          "stock_updated": "2026-05-09 22:58:54"
         },
         {
           "skuid": "S0B2DFCA43905100C",
@@ -606,11 +606,11 @@
           "name": "Thinsters Brownie Batter",
           "price": 9.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799854895927.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 16:46:13"
+          "stock_updated": "2026-05-09 22:58:54"
         },
         {
           "skuid": "S0B248CF277231002",
@@ -787,11 +787,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-05-09 15:52:07"
+          "stock_updated": "2026-05-09 19:36:13"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1799,8 +1799,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 50,
-      "in_stock": 48,
-      "out_of_stock": 2,
+      "in_stock": 47,
+      "out_of_stock": 3,
       "low_stock": 0,
       "products": [
         {
@@ -2061,11 +2061,11 @@
           "name": "Fairlife Chocolate Protein 30g",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363365739242.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 4,
-          "fill_pct": 50,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-05-09 17:50:06"
+          "stock_updated": "2026-05-09 23:03:15"
         },
         {
           "skuid": "S0B246944DFD21006",
@@ -2181,11 +2181,11 @@
           "name": "Jennie\u2019s Coconut bites",
           "price": 18.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619046579382.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-08 13:24:46"
+          "stock_updated": "2026-05-09 21:54:47"
         },
         {
           "skuid": "S0B2D4851D7141003",

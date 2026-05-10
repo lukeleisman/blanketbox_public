@@ -1172,3 +1172,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-10T09:12:34Z,15519,doylestown,333 North Broad Ambient,S0B246944E424100B,070462098501,Sour Patch Kids Soft & Chewy Candy,2.0,1,0,-1
 2026-05-10T09:12:34Z,15519,doylestown,333 North Broad Ambient,S0B2D90DF10651003,071879700049,Jennie’s Coconut bites,18.99,1,0,-1
 2026-05-10T09:12:34Z,15521,philly,PhillyTrueCooler,S0B2C377070EC1001,082592194152,Naked Strawberry Banana 15.2oz,4.57,4,2,-2
+2026-05-10T15:55:13Z,16213,haven,TheHaven#2-cooler,S0B2D48452F7E1005,89899900002,Vita coconut water,4.49,5,3,-2

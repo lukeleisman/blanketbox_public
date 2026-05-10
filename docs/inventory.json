@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T14:35:44Z",
+  "updated": "2026-05-10T15:55:13Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -268,7 +268,7 @@
           "skuid": "S0B2D90DF10651003",
           "barcode": "071879700049",
           "name": "Jennie\u2019s Coconut bites",
-          "price": 18.99,
+          "price": 20.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619046579382.png",
           "stock": 0,
           "capacity": 2,
@@ -1798,9 +1798,9 @@
       "location_name": "The Haven",
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
-      "total_skus": 50,
+      "total_skus": 57,
       "in_stock": 47,
-      "out_of_stock": 3,
+      "out_of_stock": 10,
       "low_stock": 0,
       "products": [
         {
@@ -1996,6 +1996,18 @@
           "stock_updated": "2026-05-06 18:57:05"
         },
         {
+          "skuid": "S0B2BA2E24FD8100B",
+          "barcode": "2225210120",
+          "name": "Crunchy Peanut Butter Cliff Bar",
+          "price": 2.5,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175569542496463.png",
+          "stock": 0,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-05-10 10:32:39"
+        },
+        {
           "skuid": "S0B246944E9A41003",
           "barcode": "082657500638",
           "name": "Deer park water",
@@ -2176,10 +2188,22 @@
           "stock_updated": "2026-05-09 15:48:35"
         },
         {
+          "skuid": "S0B246944E7FE1008",
+          "barcode": "03484308",
+          "name": "Icebreakers Peppermint Sugar Free",
+          "price": 4.5,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/169895634768829.jpeg",
+          "stock": 0,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-05-10 10:24:09"
+        },
+        {
           "skuid": "S0B2D90DF10651003",
           "barcode": "071879700049",
           "name": "Jennie\u2019s Coconut bites",
-          "price": 18.0,
+          "price": 20.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619046579382.png",
           "stock": 0,
           "capacity": 3,
@@ -2236,6 +2260,18 @@
           "stock_updated": "2026-05-06 18:57:05"
         },
         {
+          "skuid": "S0B2BC10A038C1008",
+          "barcode": "040000522065",
+          "name": "Milky Way",
+          "price": 2.5,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176366967811221.png",
+          "stock": 0,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-05-10 10:33:11"
+        },
+        {
           "skuid": "S0B246944DEFB1003",
           "barcode": "070847012474",
           "name": "Monster Energy Zerosugar",
@@ -2246,6 +2282,18 @@
           "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-05-06 18:57:05"
+        },
+        {
+          "skuid": "S0B25F6365FD11002",
+          "barcode": "0980080005",
+          "name": "NutellaGo",
+          "price": 2.5,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
+          "stock": 0,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-05-10 10:34:06"
         },
         {
           "skuid": "S0B2DAF9204FD1006",
@@ -2320,6 +2368,18 @@
           "stock_updated": "2026-05-06 18:57:05"
         },
         {
+          "skuid": "S0B246944E3C2100B",
+          "barcode": "040000001607",
+          "name": "Skittles Original Candy",
+          "price": 2.0,
+          "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594963942772.jpg",
+          "stock": 0,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-05-10 10:31:44"
+        },
+        {
           "skuid": "S0B27699FEBCD1003",
           "barcode": "040000424314",
           "name": "Snickers Candy Bar",
@@ -2330,6 +2390,18 @@
           "fill_pct": 78,
           "stock_warning": 0,
           "stock_updated": "2026-05-07 20:32:18"
+        },
+        {
+          "skuid": "S0B2DD4AAFF451007",
+          "barcode": "850032072052",
+          "name": "St James Blood orange",
+          "price": 3.0,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177732790430139.png",
+          "stock": 0,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-05-10 10:25:28"
         },
         {
           "skuid": "S0B2DAF8F87C31004",
@@ -2368,16 +2440,28 @@
           "stock_updated": "2026-05-07 20:32:18"
         },
         {
+          "skuid": "S0B2BDAE95FD7100B",
+          "barcode": "0051000217691",
+          "name": "V8 Splash Mango Peach",
+          "price": 1.75,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17604079417352.png",
+          "stock": 0,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-05-10 10:27:11"
+        },
+        {
           "skuid": "S0B2D48452F7E1005",
           "barcode": "89899900002",
           "name": "Vita coconut water",
           "price": 4.49,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176913044023980.png",
-          "stock": 5,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 18:57:05"
+          "stock_updated": "2026-05-10 10:28:04"
         },
         {
           "skuid": "S0B2D5C6B3EBA1001",

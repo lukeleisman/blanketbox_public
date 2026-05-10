@@ -1168,3 +1168,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-10T04:31:09Z,16213,haven,TheHaven#2-cooler,S0B2D90DF10651003,071879700049,Jennie’s Coconut bites,18.0,1,0,-1
 2026-05-10T07:24:58Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,17,16,-1
 2026-05-10T07:24:58Z,16214,doylestown,333 North Broad Cooler,S0B2D5C69069E1009,009800120086,Ferrero Chocolate,4.75,3,2,-1
+2026-05-10T09:12:34Z,15519,doylestown,333 North Broad Ambient,S0B2DB932853E100A,044000082048,Oreo Fresh stacks,5.25,5,4,-1
+2026-05-10T09:12:34Z,15519,doylestown,333 North Broad Ambient,S0B246944E424100B,070462098501,Sour Patch Kids Soft & Chewy Candy,2.0,1,0,-1
+2026-05-10T09:12:34Z,15519,doylestown,333 North Broad Ambient,S0B2D90DF10651003,071879700049,Jennie’s Coconut bites,18.99,1,0,-1
+2026-05-10T09:12:34Z,15521,philly,PhillyTrueCooler,S0B2C377070EC1001,082592194152,Naked Strawberry Banana 15.2oz,4.57,4,2,-2

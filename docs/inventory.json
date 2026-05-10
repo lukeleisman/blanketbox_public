@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T07:24:58Z",
+  "updated": "2026-05-10T09:12:34Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 52,
-      "in_stock": 52,
-      "out_of_stock": 0,
+      "in_stock": 50,
+      "out_of_stock": 2,
       "low_stock": 0,
       "products": [
         {
@@ -270,11 +270,11 @@
           "name": "Jennie\u2019s Coconut bites",
           "price": 18.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619046579382.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-09 01:00:46"
+          "stock_updated": "2026-05-10 02:50:20"
         },
         {
           "skuid": "S0B26860EB3691005",
@@ -474,11 +474,11 @@
           "name": "Oreo Fresh stacks",
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686702392867.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 16:46:13"
+          "stock_updated": "2026-05-10 02:50:20"
         },
         {
           "skuid": "S0B2D5DDDD87E1009",
@@ -582,11 +582,11 @@
           "name": "Sour Patch Kids Soft & Chewy Candy",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964188034.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 16:46:13"
+          "stock_updated": "2026-05-10 02:50:20"
         },
         {
           "skuid": "S0B2E02D258091004",
@@ -1616,11 +1616,11 @@
           "name": "Naked Strawberry Banana 15.2oz",
           "price": 4.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176054114397470.png",
-          "stock": 4,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-05 11:37:44"
+          "stock_updated": "2026-05-10 02:42:49"
         },
         {
           "skuid": "S0B2D113959A71003",

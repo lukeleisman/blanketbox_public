@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T17:56:24Z",
+  "updated": "2026-05-11T19:52:19Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2061,11 +2061,11 @@
           "name": "Coke Zero Sugar Can 330mL",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/170835048793531.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 18:36:53"
+          "stock_updated": "2026-05-11 14:08:17"
         },
         {
           "skuid": "S0B2C6B34663C1009",

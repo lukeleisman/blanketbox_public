@@ -1224,3 +1224,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-11T05:32:51Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,9,8,-1
 2026-05-11T05:32:51Z,16213,haven,TheHaven#2-cooler,S0B2C6B35D1081002,F0B2C6B35D1081000,Apple Jacks Cereal,1.5,1,0,-1
 2026-05-11T05:32:51Z,16213,haven,TheHaven#2-cooler,S0B2C6B34663C1009,F0B2C6B34663C1007,Corn Pops Cereal,1.75,4,3,-1
+2026-05-11T09:40:40Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,8,7,-1

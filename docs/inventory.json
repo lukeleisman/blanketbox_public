@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T15:55:56Z",
+  "updated": "2026-05-11T17:56:24Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1977,11 +1977,11 @@
           "name": "Cheez It Original",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254819896872.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 18:36:53"
+          "stock_updated": "2026-05-11 11:03:01"
         },
         {
           "skuid": "S0B2DAF9429041007",
@@ -2133,11 +2133,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 8,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 18:36:53"
+          "stock_updated": "2026-05-11 11:03:01"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2373,11 +2373,11 @@
           "name": "Muddy Bites Cookies & Cream",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/850042343036.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 18:36:53"
+          "stock_updated": "2026-05-11 11:03:01"
         },
         {
           "skuid": "S0B25F6365FD11002",

@@ -1229,3 +1229,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-11T15:55:56Z,16214,doylestown,333 North Broad Cooler,S0B2D5C66B220100B,009542454456,Lindor Truffles,5.0,2,1,-1
 2026-05-11T15:55:56Z,16214,doylestown,333 North Broad Cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,21,19,-2
 2026-05-11T15:55:56Z,16214,doylestown,333 North Broad Cooler,S0B2D5C69069E1009,009800120086,Ferrero Chocolate,4.75,1,0,-1
+2026-05-11T17:56:24Z,16213,haven,TheHaven#2-cooler,S0B2E1667504E1008,850042343036,Muddy Bites Cookies & Cream,5.0,10,9,-1
+2026-05-11T17:56:24Z,16213,haven,TheHaven#2-cooler,S0B27699FEA161007,024100123223,Cheez It Original,2.07,7,6,-1
+2026-05-11T17:56:24Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,8,6,-2

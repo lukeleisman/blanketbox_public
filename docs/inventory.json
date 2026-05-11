@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T19:52:19Z",
+  "updated": "2026-05-11T21:17:54Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -592,7 +592,7 @@
           "skuid": "S0B2E02D258091004",
           "barcode": "850054874177",
           "name": "Sprinkles red velvet cupcakes",
-          "price": 5.0,
+          "price": 6.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177810223481850.png",
           "stock": 3,
           "capacity": 3,
@@ -1001,7 +1001,7 @@
           "skuid": "S0B2D5C66B220100B",
           "barcode": "009542454456",
           "name": "Lindor Truffles",
-          "price": 5.0,
+          "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531016219231.png",
           "stock": 1,
           "capacity": 2,
@@ -1422,7 +1422,7 @@
           "skuid": "S0B2DFCAA39F21000",
           "barcode": "031146027569",
           "name": "Creamy Chicken Ramyum",
-          "price": 4.75,
+          "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175717767327490.png",
           "stock": 8,
           "capacity": 8,
@@ -1806,7 +1806,7 @@
           "skuid": "S0B2DFCA832FF100C",
           "barcode": "850054874207",
           "name": "Sprinkles cupcakes",
-          "price": 4.99,
+          "price": 6.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799880951530.png",
           "stock": 5,
           "capacity": 5,
@@ -2037,11 +2037,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 18:36:53"
+          "stock_updated": "2026-05-11 15:56:02"
         },
         {
           "skuid": "S0B2C6BB0DE621006",
@@ -2469,11 +2469,11 @@
           "name": "Skittles Original Candy",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594963942772.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 18:36:53"
+          "stock_updated": "2026-05-11 15:56:02"
         },
         {
           "skuid": "S0B27699FEBCD1003",

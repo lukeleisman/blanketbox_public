@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T09:40:35Z",
+  "updated": "2026-05-12T11:57:13Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -65,7 +65,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
           "stock": 8,
           "capacity": 9,
           "fill_pct": 89,
@@ -738,7 +738,7 @@
           "barcode": "889392010145",
           "name": "Celsius Kiwi Guava",
           "price": 3.57,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1633372949844.jpeg",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/171949904019511.png",
           "stock": 0,
           "capacity": 0,
           "fill_pct": null,
@@ -1039,11 +1039,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 12,
+          "stock": 10,
           "capacity": 13,
-          "fill_pct": 92,
+          "fill_pct": 77,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 06:07:50"
+          "stock_updated": "2026-05-12 06:10:35"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1723,7 +1723,7 @@
           "barcode": "01280504",
           "name": "Pepsi Diet 12oz Can",
           "price": 2.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/169279987566712.jpeg",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174620586447847.png",
           "stock": 1,
           "capacity": 1,
           "fill_pct": 100,

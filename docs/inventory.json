@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T14:37:50Z",
+  "updated": "2026-05-12T17:11:32Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1472,11 +1472,11 @@
           "name": "Delight Cinnabon",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177514340736730.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 21:05:26"
+          "stock_updated": "2026-05-12 12:07:38"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -2517,11 +2517,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 9,
-          "fill_pct": 67,
+          "fill_pct": 56,
           "stock_warning": 0,
-          "stock_updated": "2026-05-12 01:33:34"
+          "stock_updated": "2026-05-12 11:41:24"
         },
         {
           "skuid": "S0B2BDAE95FD7100B",

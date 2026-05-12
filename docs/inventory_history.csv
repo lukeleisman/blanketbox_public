@@ -1262,3 +1262,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-12T19:17:28Z,16213,haven,TheHaven#2-cooler,S0B2E16325F1C100B,9300675090254,Coke Zero Sugar Can 330mL,2.5,6,5,-1
 2026-05-12T19:17:28Z,16213,haven,TheHaven#2-cooler,S0B2E1667504E1008,850042343036,Muddy Bites Cookies & Cream,5.0,9,8,-1
 2026-05-12T19:17:28Z,16213,haven,TheHaven#2-cooler,S0B2DB932853E100A,044000082048,Oreo Fresh stacks,5.07,6,5,-1
+2026-05-12T20:58:52Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,9,6,-3
+2026-05-12T20:58:52Z,16214,doylestown,333 North Broad Cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.5,8,7,-1
+2026-05-12T20:58:52Z,15521,philly,PhillyTrueCooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,8,7,-1
+2026-05-12T20:58:52Z,15521,philly,PhillyTrueCooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,8,7,-1

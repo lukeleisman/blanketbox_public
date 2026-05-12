@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T19:17:28Z",
+  "updated": "2026-05-12T20:58:52Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -727,11 +727,11 @@
           "name": "Celsius Grape",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 9,
-          "fill_pct": 89,
+          "fill_pct": 78,
           "stock_warning": 0,
-          "stock_updated": "2026-05-12 01:24:13"
+          "stock_updated": "2026-05-12 15:47:45"
         },
         {
           "skuid": "S0B246944E4EB1007",
@@ -847,11 +847,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 9,
+          "stock": 6,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 23:16:33"
+          "stock_updated": "2026-05-12 15:25:54"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1340,11 +1340,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 21:10:09"
+          "stock_updated": "2026-05-12 14:32:57"
         },
         {
           "skuid": "S0B2DD3F2D92D100A",
@@ -1484,11 +1484,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 21:05:26"
+          "stock_updated": "2026-05-12 15:13:55"
         },
         {
           "skuid": "S0B2C85783CD31007",

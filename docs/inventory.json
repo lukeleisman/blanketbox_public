@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T20:58:52Z",
+  "updated": "2026-05-12T22:19:09Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -931,11 +931,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 15:55:53"
+          "stock_updated": "2026-05-12 16:04:00"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -1051,11 +1051,11 @@
           "name": "Naked Strawberry Banana 15.2oz",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176054114397470.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-08 18:37:55"
+          "stock_updated": "2026-05-12 16:04:00"
         },
         {
           "skuid": "S0B2D113959A71003",
@@ -1616,11 +1616,11 @@
           "name": "Milano",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 21:05:26"
+          "stock_updated": "2026-05-12 17:09:07"
         },
         {
           "skuid": "S0B246944DEF51002",

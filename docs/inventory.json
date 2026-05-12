@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T17:11:32Z",
+  "updated": "2026-05-12T19:17:28Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2049,11 +2049,11 @@
           "name": "Coke Zero Sugar Can 330mL",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/170835048793531.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 14:08:17"
+          "stock_updated": "2026-05-12 13:21:53"
         },
         {
           "skuid": "S0B2C6B34663C1009",
@@ -2361,11 +2361,11 @@
           "name": "Muddy Bites Cookies & Cream",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/850042343036.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 11:03:01"
+          "stock_updated": "2026-05-12 12:15:54"
         },
         {
           "skuid": "S0B25F6365FD11002",
@@ -2409,11 +2409,11 @@
           "name": "Oreo Fresh stacks",
           "price": 5.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686702392867.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 18:36:53"
+          "stock_updated": "2026-05-12 13:57:22"
         },
         {
           "skuid": "S0B2BAC9D24491002",

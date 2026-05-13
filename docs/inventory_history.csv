@@ -1299,3 +1299,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-13T21:26:13Z,15521,philly,PhillyTrueCooler,S0B2D497020C51001,818290015600,Chobani Cherry Berry drink,4.0,5,2,-3
 2026-05-13T21:26:13Z,15521,philly,PhillyTrueCooler,S0B2D11E4F77D1002,818290017734,Chobani Protein,4.0,3,0,-3
 2026-05-13T21:26:13Z,15521,philly,PhillyTrueCooler,S0B2A44D16D23100C,88939200170,Celsius Cherry Cola,3.57,3,2,-1
+2026-05-13T22:45:55Z,16213,haven,TheHaven#2-cooler,S0B246944E3C2100B,040000001607,Skittles Original Candy,2.0,1,0,-1
+2026-05-13T22:45:55Z,16213,haven,TheHaven#2-cooler,S0B246944E6EA1003,04043108,Candy M&M Plain,2.57,9,7,-2
+2026-05-13T22:45:55Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,7,6,-1
+2026-05-13T22:45:55Z,16213,haven,TheHaven#2-cooler,S0B2DAF9429041007,044000085964,Chips Ahoy minis,5.07,5,4,-1
+2026-05-13T22:45:55Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,5,4,-1

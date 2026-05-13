@@ -1290,3 +1290,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-13T15:24:07Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,8,7,-1
 2026-05-13T15:24:07Z,16213,haven,TheHaven#2-cooler,S0B2DD3F2D92D100A,016000280427,Cheerios Treats,1.99,8,7,-1
 2026-05-13T15:24:07Z,16213,haven,TheHaven#2-cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,8,7,-1
+2026-05-13T17:34:49Z,15521,philly,PhillyTrueCooler,S0B246944E9A41003,082657500638,Deer park water,1.87,7,6,-1
+2026-05-13T17:34:49Z,15521,philly,PhillyTrueCooler,S0B246944E4141002,052000328684,Gatorade Lemon Lime,3.0,4,3,-1

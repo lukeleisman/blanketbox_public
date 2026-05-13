@@ -1285,3 +1285,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-13T09:45:12Z,16214,doylestown,333 North Broad Cooler,S0B2CC2D2640F1005,041508992688,S. Pellegrino Blood Orange 11.15oz,3.77,7,6,-1
 2026-05-13T09:45:12Z,16214,doylestown,333 North Broad Cooler,S0B2D3E6D7FBD1003,041508265089,S. Pellegrino Lemonade 11.15oz,3.77,7,6,-1
 2026-05-13T09:45:12Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,21,20,-1
+2026-05-13T12:05:02Z,16213,haven,TheHaven#2-cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.54,8,7,-1

@@ -1292,3 +1292,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-13T15:24:07Z,16213,haven,TheHaven#2-cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,8,7,-1
 2026-05-13T17:34:49Z,15521,philly,PhillyTrueCooler,S0B246944E9A41003,082657500638,Deer park water,1.87,7,6,-1
 2026-05-13T17:34:49Z,15521,philly,PhillyTrueCooler,S0B246944E4141002,052000328684,Gatorade Lemon Lime,3.0,4,3,-1
+2026-05-13T19:55:28Z,15521,philly,PhillyTrueCooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.57,6,5,-1
+2026-05-13T19:55:28Z,15521,philly,PhillyTrueCooler,S0B2C377070EC1001,082592194152,Naked Strawberry Banana 15.2oz,4.57,2,1,-1
+2026-05-13T19:55:28Z,15521,philly,PhillyTrueCooler,S0B2D527638181007,036632074782,Delight Cinnabon,3.0,6,5,-1
+2026-05-13T19:55:28Z,15521,philly,PhillyTrueCooler,S0B2D484E0EFD1001,014100043706,Milano,2.5,9,8,-1

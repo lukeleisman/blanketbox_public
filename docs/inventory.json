@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T17:34:49Z",
+  "updated": "2026-05-13T19:55:28Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1268,11 +1268,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 21:13:48"
+          "stock_updated": "2026-05-13 13:20:45"
         },
         {
           "skuid": "S0B2D113EDC9E1004",
@@ -1472,11 +1472,11 @@
           "name": "Delight Cinnabon",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177514340736730.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-05-12 12:07:38"
+          "stock_updated": "2026-05-13 13:20:45"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -1616,11 +1616,11 @@
           "name": "Milano",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-05-12 17:09:07"
+          "stock_updated": "2026-05-13 13:20:45"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1664,11 +1664,11 @@
           "name": "Naked Strawberry Banana 15.2oz",
           "price": 4.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176054114397470.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 21:05:26"
+          "stock_updated": "2026-05-13 13:20:45"
         },
         {
           "skuid": "S0B27699FEC921007",

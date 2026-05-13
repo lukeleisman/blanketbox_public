@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T06:48:15Z",
+  "updated": "2026-05-13T09:45:12Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1015,11 +1015,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 21,
+          "stock": 20,
           "capacity": 21,
-          "fill_pct": 100,
+          "fill_pct": 95,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 14:18:48"
+          "stock_updated": "2026-05-13 02:24:07"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -1111,11 +1111,11 @@
           "name": "S. Pellegrino Blood Orange 11.15oz",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177078619893420.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 15:55:53"
+          "stock_updated": "2026-05-13 02:24:07"
         },
         {
           "skuid": "S0B2D3E6D7FBD1003",
@@ -1123,11 +1123,11 @@
           "name": "S. Pellegrino Lemonade 11.15oz",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177078645626497.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 14:18:48"
+          "stock_updated": "2026-05-13 02:24:07"
         },
         {
           "skuid": "S0B2D3E6DA5E01005",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T23:35:45Z",
+  "updated": "2026-05-13T03:30:32Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -727,11 +727,11 @@
           "name": "Celsius Grape",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 7,
+          "stock": 5,
           "capacity": 9,
-          "fill_pct": 78,
+          "fill_pct": 56,
           "stock_warning": 0,
-          "stock_updated": "2026-05-12 15:47:45"
+          "stock_updated": "2026-05-12 21:21:35"
         },
         {
           "skuid": "S0B246944E4EB1007",
@@ -991,11 +991,11 @@
           "name": "La Colombe Draft Latte Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363400918041.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-09 02:52:21"
+          "stock_updated": "2026-05-12 19:08:45"
         },
         {
           "skuid": "S0B2D5C66B220100B",
@@ -1027,11 +1027,11 @@
           "name": "Maison Perrier Sparkling Water",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17773152898848.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 23:16:33"
+          "stock_updated": "2026-05-12 20:37:02"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -1448,11 +1448,11 @@
           "name": "Daily Crave Fries",
           "price": 2.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799863442415.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 21:05:26"
+          "stock_updated": "2026-05-12 21:06:53"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -2421,11 +2421,11 @@
           "name": "Pop Secret popcorn",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 18:36:53"
+          "stock_updated": "2026-05-12 22:22:51"
         },
         {
           "skuid": "S0B2CC2D2640F1005",
@@ -3828,11 +3828,11 @@
           "name": "Kleenex Tissues on the Go",
           "price": 1.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173343382443830.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 11,
-          "fill_pct": 45,
+          "fill_pct": 36,
           "stock_warning": 0,
-          "stock_updated": "2026-03-07 01:26:38"
+          "stock_updated": "2026-05-12 21:22:02"
         },
         {
           "skuid": "S0B25B432DDA71008",

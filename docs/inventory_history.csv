@@ -1269,3 +1269,9 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-12T22:19:09Z,16214,doylestown,333 North Broad Cooler,S0B2C377070EC1001,082592194152,Naked Strawberry Banana 15.2oz,5.0,4,3,-1
 2026-05-12T22:19:09Z,16214,doylestown,333 North Broad Cooler,S0B246944E4141002,052000328684,Gatorade Lemon Lime,3.0,6,5,-1
 2026-05-12T22:19:09Z,15521,philly,PhillyTrueCooler,S0B2D484E0EFD1001,014100043706,Milano,2.5,10,9,-1
+2026-05-13T03:30:32Z,16214,doylestown,333 North Broad Cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.5,7,5,-2
+2026-05-13T03:30:32Z,16214,doylestown,333 North Broad Cooler,S0B2D0516EFCB1008,007478051550,Maison Perrier Sparkling Water,2.75,5,4,-1
+2026-05-13T03:30:32Z,16214,doylestown,333 North Broad Cooler,S0B25FC5AF4F7100C,0491300019,La Colombe Draft Latte Vanilla,4.27,3,2,-1
+2026-05-13T03:30:32Z,15521,philly,PhillyTrueCooler,S0B2DFCA586B81002,850008225505,Daily Crave Fries,2.25,4,3,-1
+2026-05-13T03:30:32Z,16213,haven,TheHaven#2-cooler,S0B2BAC9D24491002,F0B2BAC9D24491000,Pop Secret popcorn,2.0,5,4,-1
+2026-05-13T03:30:32Z,15452,borellis,BorellisBox,S0B248CF276DC1004,036000123234,Kleenex Tissues on the Go,1.0,5,4,-1

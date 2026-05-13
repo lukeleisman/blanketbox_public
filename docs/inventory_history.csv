@@ -1296,3 +1296,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-13T19:55:28Z,15521,philly,PhillyTrueCooler,S0B2C377070EC1001,082592194152,Naked Strawberry Banana 15.2oz,4.57,2,1,-1
 2026-05-13T19:55:28Z,15521,philly,PhillyTrueCooler,S0B2D527638181007,036632074782,Delight Cinnabon,3.0,6,5,-1
 2026-05-13T19:55:28Z,15521,philly,PhillyTrueCooler,S0B2D484E0EFD1001,014100043706,Milano,2.5,9,8,-1
+2026-05-13T21:26:13Z,15521,philly,PhillyTrueCooler,S0B2D497020C51001,818290015600,Chobani Cherry Berry drink,4.0,5,2,-3
+2026-05-13T21:26:13Z,15521,philly,PhillyTrueCooler,S0B2D11E4F77D1002,818290017734,Chobani Protein,4.0,3,0,-3
+2026-05-13T21:26:13Z,15521,philly,PhillyTrueCooler,S0B2A44D16D23100C,88939200170,Celsius Cherry Cola,3.57,3,2,-1

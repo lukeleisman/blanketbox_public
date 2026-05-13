@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T19:55:28Z",
+  "updated": "2026-05-13T21:26:13Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1258,8 +1258,8 @@
       "machine_name": "PhillyTrueCooler",
       "address": "4200 Ludlow St, Philadelphia PA, 10104",
       "total_skus": 49,
-      "in_stock": 49,
-      "out_of_stock": 0,
+      "in_stock": 48,
+      "out_of_stock": 1,
       "low_stock": 0,
       "products": [
         {
@@ -1328,11 +1328,11 @@
           "name": "Celsius Cherry Cola",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176202960060787.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 21:18:57"
+          "stock_updated": "2026-05-13 16:00:04"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -1376,11 +1376,11 @@
           "name": "Chobani Cherry Berry drink",
           "price": 4.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177499201322740.png",
-          "stock": 5,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 21:05:26"
+          "stock_updated": "2026-05-13 16:00:04"
         },
         {
           "skuid": "S0B2D11E4F77D1002",
@@ -1388,11 +1388,11 @@
           "name": "Chobani Protein",
           "price": 4.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174379267257617.png",
-          "stock": 3,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 21:05:26"
+          "stock_updated": "2026-05-13 16:00:04"
         },
         {
           "skuid": "S0B246944E2701006",

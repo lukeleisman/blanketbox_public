@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T03:30:32Z",
+  "updated": "2026-05-13T06:48:15Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 54,
-      "in_stock": 53,
-      "out_of_stock": 1,
+      "in_stock": 52,
+      "out_of_stock": 2,
       "low_stock": 0,
       "products": [
         {
@@ -270,11 +270,11 @@
           "name": "Jennie\u2019s Coconut bites",
           "price": 20.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619046579382.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 13:54:00"
+          "stock_updated": "2026-05-13 00:30:42"
         },
         {
           "skuid": "S0B26860EB3691005",
@@ -402,11 +402,11 @@
           "name": "Natures Bakery blueberry fig bat",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866563574429.png",
-          "stock": 11,
+          "stock": 8,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 73,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 13:54:00"
+          "stock_updated": "2026-05-12 23:44:38"
         },
         {
           "skuid": "S0B271C0F5611100C",
@@ -450,11 +450,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 14:11:51"
+          "stock_updated": "2026-05-12 23:00:09"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -630,11 +630,11 @@
           "name": "Thinsters Brownie Batter",
           "price": 9.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799854895927.png",
-          "stock": 2,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 19:26:16"
+          "stock_updated": "2026-05-13 01:44:46"
         },
         {
           "skuid": "S0B248CF277231002",
@@ -1736,11 +1736,11 @@
           "name": "Pop Secret popcorn",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 21:18:57"
+          "stock_updated": "2026-05-13 01:29:55"
         },
         {
           "skuid": "S0B2DB92A82FD1009",
@@ -1977,11 +1977,11 @@
           "name": "Chips Ahoy minis",
           "price": 5.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17767056506495.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 18:36:53"
+          "stock_updated": "2026-05-13 01:12:58"
         },
         {
           "skuid": "S0B2D11E4F77D1002",
@@ -3828,11 +3828,11 @@
           "name": "Kleenex Tissues on the Go",
           "price": 1.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173343382443830.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 11,
-          "fill_pct": 36,
+          "fill_pct": 27,
           "stock_warning": 0,
-          "stock_updated": "2026-05-12 21:22:02"
+          "stock_updated": "2026-05-13 00:46:55"
         },
         {
           "skuid": "S0B25B432DDA71008",

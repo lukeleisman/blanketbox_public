@@ -1275,3 +1275,10 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-13T03:30:32Z,15521,philly,PhillyTrueCooler,S0B2DFCA586B81002,850008225505,Daily Crave Fries,2.25,4,3,-1
 2026-05-13T03:30:32Z,16213,haven,TheHaven#2-cooler,S0B2BAC9D24491002,F0B2BAC9D24491000,Pop Secret popcorn,2.0,5,4,-1
 2026-05-13T03:30:32Z,15452,borellis,BorellisBox,S0B248CF276DC1004,036000123234,Kleenex Tissues on the Go,1.0,5,4,-1
+2026-05-13T06:48:15Z,15519,doylestown,333 North Broad Ambient,S0B2DFCA43905100C,840515100020,Thinsters Brownie Batter,9.0,2,0,-2
+2026-05-13T06:48:15Z,15519,doylestown,333 North Broad Ambient,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.5,8,7,-1
+2026-05-13T06:48:15Z,15519,doylestown,333 North Broad Ambient,S0B2885215A1B1003,047495112900,Natures Bakery blueberry fig bat,1.99,11,8,-3
+2026-05-13T06:48:15Z,15519,doylestown,333 North Broad Ambient,S0B2D90DF10651003,071879700049,Jennie’s Coconut bites,20.0,9,8,-1
+2026-05-13T06:48:15Z,15521,philly,PhillyTrueCooler,S0B2BAC9D24491002,F0B2BAC9D24491000,Pop Secret popcorn,2.5,6,5,-1
+2026-05-13T06:48:15Z,16213,haven,TheHaven#2-cooler,S0B2DAF9429041007,044000085964,Chips Ahoy minis,5.07,6,5,-1
+2026-05-13T06:48:15Z,15452,borellis,BorellisBox,S0B248CF276DC1004,036000123234,Kleenex Tissues on the Go,1.0,4,3,-1

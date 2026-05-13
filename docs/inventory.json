@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T12:05:02Z",
+  "updated": "2026-05-13T15:24:07Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -811,11 +811,11 @@
           "name": "Coke Zero Sugar Can 330mL",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/170835048793531.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 14:13:42"
+          "stock_updated": "2026-05-13 10:06:50"
         },
         {
           "skuid": "S0B2D527638181007",
@@ -1953,11 +1953,11 @@
           "name": "Cheerios Treats",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177731583592140.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 18:36:53"
+          "stock_updated": "2026-05-13 09:35:10"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -2253,11 +2253,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063766829.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 18:36:53"
+          "stock_updated": "2026-05-13 09:35:10"
         },
         {
           "skuid": "S0B246944E7FE1008",
@@ -2469,11 +2469,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 9,
-          "fill_pct": 89,
+          "fill_pct": 78,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 21:25:32"
+          "stock_updated": "2026-05-13 09:35:10"
         },
         {
           "skuid": "S0B2DD4AAFF451007",

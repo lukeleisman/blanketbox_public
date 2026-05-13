@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T22:45:55Z",
+  "updated": "2026-05-13T23:59:42Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1015,11 +1015,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 20,
+          "stock": 19,
           "capacity": 21,
-          "fill_pct": 95,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-05-13 02:24:07"
+          "stock_updated": "2026-05-13 18:44:31"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -1087,11 +1087,11 @@
           "name": "Recess ras-lime",
           "price": 4.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177385828906772.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-05-08 21:14:12"
+          "stock_updated": "2026-05-13 18:44:31"
         },
         {
           "skuid": "S0B2C858213931004",
@@ -1171,11 +1171,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 16,
+          "stock": 15,
           "capacity": 21,
-          "fill_pct": 76,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-05-12 00:34:57"
+          "stock_updated": "2026-05-13 18:44:31"
         },
         {
           "skuid": "S0B2DD4AAFF451007",

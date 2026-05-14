@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T09:57:00Z",
+  "updated": "2026-05-14T11:56:25Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -65,7 +65,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
           "stock": 8,
           "capacity": 9,
           "fill_pct": 89,
@@ -738,7 +738,7 @@
           "barcode": "889392010145",
           "name": "Celsius Kiwi Guava",
           "price": 3.57,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1633372949844.jpeg",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/171949904019511.png",
           "stock": 0,
           "capacity": 0,
           "fill_pct": null,
@@ -967,11 +967,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 3.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-14 01:15:43"
+          "stock_updated": "2026-05-14 06:40:36"
         },
         {
           "skuid": "S0B2D11D53BB51008",
@@ -1723,7 +1723,7 @@
           "barcode": "01280504",
           "name": "Pepsi Diet 12oz Can",
           "price": 2.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/169279987566712.jpeg",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174620586447847.png",
           "stock": 1,
           "capacity": 1,
           "fill_pct": 100,

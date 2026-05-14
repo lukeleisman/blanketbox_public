@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T04:07:38Z",
+  "updated": "2026-05-14T07:28:15Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -256,7 +256,7 @@
           "skuid": "S0B2DFCAA016C1003",
           "barcode": "818562022596",
           "name": "Japanese Party Mix",
-          "price": 17.0,
+          "price": 18.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799892794318.png",
           "stock": 2,
           "capacity": 3,
@@ -679,11 +679,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 14,
-          "fill_pct": 64,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-05-13 22:44:24"
+          "stock_updated": "2026-05-14 01:15:43"
         },
         {
           "skuid": "S0B273E9F8FFE1006",
@@ -883,11 +883,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-13 21:09:52"
+          "stock_updated": "2026-05-14 01:15:43"
         },
         {
           "skuid": "S0B2D5C69069E1009",
@@ -967,11 +967,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 3.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 15:55:53"
+          "stock_updated": "2026-05-14 01:15:43"
         },
         {
           "skuid": "S0B2D11D53BB51008",
@@ -1051,11 +1051,11 @@
           "name": "Naked Strawberry Banana 15.2oz",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176054114397470.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-12 16:04:00"
+          "stock_updated": "2026-05-13 23:21:12"
         },
         {
           "skuid": "S0B2D113959A71003",
@@ -1123,11 +1123,11 @@
           "name": "S. Pellegrino Lemonade 11.15oz",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177078645626497.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-05-13 02:24:07"
+          "stock_updated": "2026-05-13 23:21:12"
         },
         {
           "skuid": "S0B2D3E6DA5E01005",

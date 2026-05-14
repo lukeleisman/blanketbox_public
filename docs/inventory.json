@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T23:59:42Z",
+  "updated": "2026-05-14T04:07:38Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 54,
-      "in_stock": 52,
-      "out_of_stock": 2,
+      "in_stock": 51,
+      "out_of_stock": 3,
       "low_stock": 0,
       "products": [
         {
@@ -65,7 +65,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
           "stock": 8,
           "capacity": 9,
           "fill_pct": 89,
@@ -258,11 +258,11 @@
           "name": "Japanese Party Mix",
           "price": 17.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799892794318.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 16:46:13"
+          "stock_updated": "2026-05-13 22:44:52"
         },
         {
           "skuid": "S0B2D90DF10651003",
@@ -294,11 +294,11 @@
           "name": "JNJ first aid",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176988487714383.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 16:46:13"
+          "stock_updated": "2026-05-13 20:26:12"
         },
         {
           "skuid": "S0B248CF276DC1004",
@@ -318,11 +318,11 @@
           "name": "Liquid IV StraWatermelon",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531062586319.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-09 01:00:46"
+          "stock_updated": "2026-05-13 21:12:08"
         },
         {
           "skuid": "S0B2D5C726B89100A",
@@ -669,8 +669,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 48,
-      "in_stock": 43,
-      "out_of_stock": 5,
+      "in_stock": 42,
+      "out_of_stock": 6,
       "low_stock": 0,
       "products": [
         {
@@ -679,11 +679,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 14,
-          "fill_pct": 71,
+          "fill_pct": 64,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 23:34:08"
+          "stock_updated": "2026-05-13 22:44:24"
         },
         {
           "skuid": "S0B273E9F8FFE1006",
@@ -691,11 +691,11 @@
           "name": "AMG Energy Bites Strawberry Vanilla",
           "price": 7.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174904076879412.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 14:23:57"
+          "stock_updated": "2026-05-13 22:44:24"
         },
         {
           "skuid": "S0B2E02B5AA1F1005",
@@ -738,7 +738,7 @@
           "barcode": "889392010145",
           "name": "Celsius Kiwi Guava",
           "price": 3.57,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/171949904019511.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1633372949844.jpeg",
           "stock": 0,
           "capacity": 0,
           "fill_pct": null,
@@ -883,11 +883,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 14:18:48"
+          "stock_updated": "2026-05-13 21:09:52"
         },
         {
           "skuid": "S0B2D5C69069E1009",
@@ -1027,11 +1027,11 @@
           "name": "Maison Perrier Sparkling Water",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17773152898848.png",
-          "stock": 4,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-05-12 20:37:02"
+          "stock_updated": "2026-05-13 20:25:04"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -1075,11 +1075,11 @@
           "name": "Pepsi Di\u00e8te 355ml Canette",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175698546258067.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 14:23:12"
+          "stock_updated": "2026-05-13 19:19:53"
         },
         {
           "skuid": "S0B2D05DCDEEB1007",
@@ -1111,11 +1111,11 @@
           "name": "S. Pellegrino Blood Orange 11.15oz",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177078619893420.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-05-13 02:24:07"
+          "stock_updated": "2026-05-13 22:44:24"
         },
         {
           "skuid": "S0B2D3E6D7FBD1003",
@@ -1219,11 +1219,11 @@
           "name": "Trip Peach Ginger",
           "price": 4.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174553163774680.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 15:55:53"
+          "stock_updated": "2026-05-13 19:19:53"
         },
         {
           "skuid": "S0B246944E3C71001",
@@ -1231,11 +1231,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 12,
+          "stock": 10,
           "capacity": 13,
-          "fill_pct": 92,
+          "fill_pct": 77,
           "stock_warning": 0,
-          "stock_updated": "2026-05-12 00:34:57"
+          "stock_updated": "2026-05-13 20:26:00"
         },
         {
           "skuid": "S0B2DB92EA84A1003",
@@ -1520,11 +1520,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 21:05:26"
+          "stock_updated": "2026-05-13 20:56:48"
         },
         {
           "skuid": "S0B2C6BBCDF7C1006",
@@ -1723,7 +1723,7 @@
           "barcode": "01280504",
           "name": "Pepsi Diet 12oz Can",
           "price": 2.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174620586447847.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/169279987566712.jpeg",
           "stock": 1,
           "capacity": 1,
           "fill_pct": 100,
@@ -1832,11 +1832,11 @@
           "name": "Thinsters Brownie Batter",
           "price": 8.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799854895927.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 21:05:26"
+          "stock_updated": "2026-05-13 20:56:48"
         },
         {
           "skuid": "S0B2DB92EA84A1003",

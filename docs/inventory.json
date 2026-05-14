@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T21:44:11Z",
+  "updated": "2026-05-14T22:56:57Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1652,11 +1652,11 @@
           "name": "Mott\u2019s berry snacks",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686728068670.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 12,
-          "fill_pct": 83,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 22:04:25"
+          "stock_updated": "2026-05-14 17:20:29"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -2085,11 +2085,11 @@
           "name": "Deer park water",
           "price": 1.87,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-14 14:06:14"
+          "stock_updated": "2026-05-14 16:45:48"
         },
         {
           "skuid": "S0B2D527638181007",

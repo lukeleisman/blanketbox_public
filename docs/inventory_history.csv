@@ -1343,3 +1343,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-14T21:44:11Z,16213,haven,TheHaven#2-cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,7,6,-1
 2026-05-14T22:56:57Z,15521,philly,PhillyTrueCooler,S0B2DB93670101002,016000194069,Mott’s berry snacks,2.5,10,9,-1
 2026-05-14T22:56:57Z,16213,haven,TheHaven#2-cooler,S0B246944E9A41003,082657500638,Deer park water,1.87,5,4,-1
+2026-05-15T00:00:51Z,15521,philly,PhillyTrueCooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,7,6,-1

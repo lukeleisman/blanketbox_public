@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T04:34:29Z",
+  "updated": "2026-05-15T07:51:44Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1460,11 +1460,11 @@
           "name": "Deer park water",
           "price": 1.87,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 6,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-05-13 11:58:58"
+          "stock_updated": "2026-05-15 02:06:32"
         },
         {
           "skuid": "S0B2D527638181007",
@@ -1712,11 +1712,11 @@
           "name": "Oreo Fresh stacks",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686702392867.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 21:05:26"
+          "stock_updated": "2026-05-15 00:39:51"
         },
         {
           "skuid": "S0B246944E58F1000",
@@ -2421,11 +2421,11 @@
           "name": "Pop Secret popcorn",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-05-12 22:22:51"
+          "stock_updated": "2026-05-14 23:52:48"
         },
         {
           "skuid": "S0B2CC2D2640F1005",

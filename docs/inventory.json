@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T10:24:22Z",
+  "updated": "2026-05-15T12:17:02Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1905,11 +1905,11 @@
           "name": "Beef Liver Dog Treats",
           "price": 20.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174907930543359.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 3,
-          "fill_pct": 233,
+          "fill_pct": 200,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 18:36:53"
+          "stock_updated": "2026-05-15 06:21:22"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -1941,11 +1941,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-14 14:06:14"
+          "stock_updated": "2026-05-15 06:53:27"
         },
         {
           "skuid": "S0B2DD3F2D92D100A",
@@ -2517,11 +2517,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 9,
-          "fill_pct": 44,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-05-14 11:40:35"
+          "stock_updated": "2026-05-15 06:53:27"
         },
         {
           "skuid": "S0B2BDAE95FD7100B",
@@ -2529,11 +2529,11 @@
           "name": "V8 Splash Mango Peach",
           "price": 1.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17604079417352.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 18:36:53"
+          "stock_updated": "2026-05-15 06:21:22"
         },
         {
           "skuid": "S0B2D48452F7E1005",

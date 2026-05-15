@@ -1366,3 +1366,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-15T16:57:46Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.5,8,7,-1
 2026-05-15T16:57:46Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,6,5,-1
 2026-05-15T20:00:54Z,15521,philly,PhillyTrueCooler,S0B2D055ACE44100B,1162002198,Fairlife Core Power - Strawberry (26g Complete Protein),5.0,5,4,-1
+2026-05-15T21:33:55Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,8,7,-1
+2026-05-15T21:33:55Z,16214,doylestown,333 North Broad Cooler,S0B2E02B5AA1F1005,07811801,Canada Dry Diet Ginger Ale Can,2.5,8,7,-1

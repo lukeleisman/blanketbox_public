@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T15:00:12Z",
+  "updated": "2026-05-15T16:57:46Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -955,11 +955,11 @@
           "name": "Health -Ade",
           "price": 4.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177404864183160.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 15:55:53"
+          "stock_updated": "2026-05-15 10:30:24"
         },
         {
           "skuid": "S0B2D4851D7141003",
@@ -1015,11 +1015,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 18,
+          "stock": 17,
           "capacity": 21,
-          "fill_pct": 86,
+          "fill_pct": 81,
           "stock_warning": 0,
-          "stock_updated": "2026-05-14 21:52:49"
+          "stock_updated": "2026-05-15 11:09:02"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -1039,11 +1039,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 13,
-          "fill_pct": 69,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-05-15 08:00:57"
+          "stock_updated": "2026-05-15 11:09:02"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1869,11 +1869,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 9,
-          "fill_pct": 89,
+          "fill_pct": 78,
           "stock_warning": 0,
-          "stock_updated": "2026-05-14 21:12:06"
+          "stock_updated": "2026-05-15 10:49:12"
         },
         {
           "skuid": "S0B2C6B35D1081002",
@@ -2121,11 +2121,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 11:03:01"
+          "stock_updated": "2026-05-15 10:49:12"
         },
         {
           "skuid": "S0B2C85783CD31007",

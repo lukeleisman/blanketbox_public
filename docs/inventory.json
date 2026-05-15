@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T18:25:35Z",
+  "updated": "2026-05-15T20:00:54Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1508,11 +1508,11 @@
           "name": "Fairlife Core Power - Strawberry (26g Complete Protein)",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175859439715951.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 21:05:26"
+          "stock_updated": "2026-05-15 14:26:13"
         },
         {
           "skuid": "S0B246944DFD21006",

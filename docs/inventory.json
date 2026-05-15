@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T00:00:51Z",
+  "updated": "2026-05-15T04:34:29Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -258,11 +258,11 @@
           "name": "Japanese Party Mix",
           "price": 18.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799892794318.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-05-13 22:44:52"
+          "stock_updated": "2026-05-14 22:49:02"
         },
         {
           "skuid": "S0B2D90DF10651003",
@@ -847,11 +847,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 10,
-          "fill_pct": 60,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-12 15:25:54"
+          "stock_updated": "2026-05-14 20:12:17"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1015,11 +1015,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 19,
+          "stock": 18,
           "capacity": 21,
-          "fill_pct": 90,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-05-13 18:44:31"
+          "stock_updated": "2026-05-14 21:52:49"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -1231,11 +1231,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 13,
-          "fill_pct": 77,
+          "fill_pct": 69,
           "stock_warning": 0,
-          "stock_updated": "2026-05-13 20:26:00"
+          "stock_updated": "2026-05-14 19:19:04"
         },
         {
           "skuid": "S0B2DB92EA84A1003",
@@ -1869,11 +1869,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 18:36:53"
+          "stock_updated": "2026-05-14 21:12:06"
         },
         {
           "skuid": "S0B2C6B35D1081002",
@@ -1953,11 +1953,11 @@
           "name": "Cheerios Treats",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177731583592140.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-13 09:35:10"
+          "stock_updated": "2026-05-14 21:12:06"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -1977,11 +1977,11 @@
           "name": "Chips Ahoy minis",
           "price": 5.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17767056506495.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-13 17:38:53"
+          "stock_updated": "2026-05-14 20:23:19"
         },
         {
           "skuid": "S0B2D11E4F77D1002",
@@ -2025,11 +2025,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 15:56:02"
+          "stock_updated": "2026-05-14 21:12:06"
         },
         {
           "skuid": "S0B2C6BB0DE621006",

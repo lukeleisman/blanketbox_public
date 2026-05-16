@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T15:34:09Z",
+  "updated": "2026-05-16T16:58:55Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -18,11 +18,11 @@
           "name": "Banana Boat Sport Ultra 30 SPF 1oz",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17437800146259.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 08:17:41"
+          "stock_updated": "2026-05-16 10:42:35"
         },
         {
           "skuid": "S0B2D3F1A0DAD1005",
@@ -246,11 +246,11 @@
           "name": "IQ Bar Chocolate Sea Salt",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176092402211332.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 16:46:13"
+          "stock_updated": "2026-05-16 11:09:00"
         },
         {
           "skuid": "S0B2DFCAA016C1003",
@@ -703,11 +703,11 @@
           "name": "Canada Dry Diet Ginger Ale Can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177810035529531.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-15 15:24:27"
+          "stock_updated": "2026-05-16 11:09:17"
         },
         {
           "skuid": "S0B246944E6EA1003",
@@ -727,11 +727,11 @@
           "name": "Celsius Grape",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 9,
-          "fill_pct": 33,
+          "fill_pct": 22,
           "stock_warning": 0,
-          "stock_updated": "2026-05-15 20:38:51"
+          "stock_updated": "2026-05-16 10:39:17"
         },
         {
           "skuid": "S0B246944E4EB1007",
@@ -847,11 +847,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 5,
+          "stock": 3,
           "capacity": 10,
-          "fill_pct": 50,
+          "fill_pct": 30,
           "stock_warning": 0,
-          "stock_updated": "2026-05-14 20:12:17"
+          "stock_updated": "2026-05-16 10:39:17"
         },
         {
           "skuid": "S0B2C85783CD31007",

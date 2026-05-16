@@ -1395,3 +1395,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-16T16:58:55Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,5,3,-2
 2026-05-16T16:58:55Z,16214,doylestown,333 North Broad Cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.5,3,2,-1
 2026-05-16T16:58:55Z,16214,doylestown,333 North Broad Cooler,S0B2E02B5AA1F1005,07811801,Canada Dry Diet Ginger Ale Can,2.5,7,6,-1
+2026-05-16T18:00:07Z,16214,doylestown,333 North Broad Cooler,S0B2E16325F1C100B,9300675090254,Coke Zero Sugar Can 330mL,2.5,1,0,-1
+2026-05-16T18:00:07Z,16214,doylestown,333 North Broad Cooler,S0B2D90DB76B5100C,041508302074,San Pellegrino Essenza,3.75,8,7,-1
+2026-05-16T18:00:07Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,6,5,-1
+2026-05-16T18:00:07Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,3,0,-3
+2026-05-16T18:00:07Z,16214,doylestown,333 North Broad Cooler,S0B246944E4141002,052000328684,Gatorade Lemon Lime,3.0,4,3,-1

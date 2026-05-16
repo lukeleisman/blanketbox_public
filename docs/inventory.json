@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T16:58:55Z",
+  "updated": "2026-05-16T18:00:07Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -668,8 +668,8 @@
       "location_name": "333 North Broad",
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
-      "total_skus": 48,
-      "in_stock": 41,
+      "total_skus": 46,
+      "in_stock": 39,
       "out_of_stock": 7,
       "low_stock": 0,
       "products": [
@@ -684,18 +684,6 @@
           "fill_pct": 57,
           "stock_warning": 0,
           "stock_updated": "2026-05-14 01:15:43"
-        },
-        {
-          "skuid": "S0B273E9F8FFE1006",
-          "barcode": "860001992922",
-          "name": "AMG Energy Bites Strawberry Vanilla",
-          "price": 7.57,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174904076879412.png",
-          "stock": 0,
-          "capacity": 1,
-          "fill_pct": 0,
-          "stock_warning": 0,
-          "stock_updated": "2026-05-13 22:44:24"
         },
         {
           "skuid": "S0B2E02B5AA1F1005",
@@ -811,11 +799,11 @@
           "name": "Coke Zero Sugar Can 330mL",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/170835048793531.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-13 10:06:50"
+          "stock_updated": "2026-05-16 12:47:52"
         },
         {
           "skuid": "S0B2D527638181007",
@@ -847,11 +835,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 3,
+          "stock": 0,
           "capacity": 10,
-          "fill_pct": 30,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 10:39:17"
+          "stock_updated": "2026-05-16 12:47:52"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -890,18 +878,6 @@
           "stock_updated": "2026-05-16 00:59:01"
         },
         {
-          "skuid": "S0B2D5C69069E1009",
-          "barcode": "009800120086",
-          "name": "Ferrero Chocolate",
-          "price": 4.75,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531031494529.png",
-          "stock": 0,
-          "capacity": 2,
-          "fill_pct": 0,
-          "stock_warning": 0,
-          "stock_updated": "2026-05-11 09:58:06"
-        },
-        {
           "skuid": "S0B246944E40F1008",
           "barcode": "052000328660",
           "name": "Gatorade Fruit Punch",
@@ -931,11 +907,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-14 13:47:45"
+          "stock_updated": "2026-05-16 12:47:52"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -1039,11 +1015,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 13,
-          "fill_pct": 46,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 08:15:37"
+          "stock_updated": "2026-05-16 12:53:15"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1147,11 +1123,11 @@
           "name": "San Pellegrino Essenza",
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619022990038.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 15:55:53"
+          "stock_updated": "2026-05-16 12:53:15"
         },
         {
           "skuid": "S0B29D2F2643D100B",

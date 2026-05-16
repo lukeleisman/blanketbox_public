@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T23:55:01Z",
+  "updated": "2026-05-16T02:56:52Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -66,11 +66,11 @@
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 9,
-          "fill_pct": 89,
+          "fill_pct": 78,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 21:11:28"
+          "stock_updated": "2026-05-15 20:38:28"
         },
         {
           "skuid": "S0B2D5C80C7741005",
@@ -126,11 +126,11 @@
           "name": "Cliff  Chocolate Chip Protein Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17674936233687.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 12,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 16:46:13"
+          "stock_updated": "2026-05-15 19:07:23"
         },
         {
           "skuid": "S0B2D5CAD34F61005",
@@ -268,7 +268,7 @@
           "skuid": "S0B2D90DF10651003",
           "barcode": "071879700049",
           "name": "Jennie\u2019s Coconut bites",
-          "price": 20.0,
+          "price": 18.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619046579382.png",
           "stock": 8,
           "capacity": 9,
@@ -402,11 +402,11 @@
           "name": "Natures Bakery blueberry fig bat",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866563574429.png",
-          "stock": 8,
+          "stock": 6,
           "capacity": 11,
-          "fill_pct": 73,
+          "fill_pct": 55,
           "stock_warning": 0,
-          "stock_updated": "2026-05-12 23:44:38"
+          "stock_updated": "2026-05-15 21:01:48"
         },
         {
           "skuid": "S0B271C0F5611100C",
@@ -462,11 +462,11 @@
           "name": "Oreo Fresh stacks",
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686702392867.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 02:50:20"
+          "stock_updated": "2026-05-15 19:42:44"
         },
         {
           "skuid": "S0B2D5DDDD87E1009",
@@ -669,8 +669,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 48,
-      "in_stock": 42,
-      "out_of_stock": 6,
+      "in_stock": 41,
+      "out_of_stock": 7,
       "low_stock": 0,
       "products": [
         {
@@ -715,11 +715,11 @@
           "name": "Candy M&M Plain",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 14,
+          "stock": 13,
           "capacity": 15,
-          "fill_pct": 93,
+          "fill_pct": 87,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 23:35:24"
+          "stock_updated": "2026-05-15 19:07:47"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -727,11 +727,11 @@
           "name": "Celsius Grape",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 9,
-          "fill_pct": 44,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-05-14 13:24:48"
+          "stock_updated": "2026-05-15 20:38:51"
         },
         {
           "skuid": "S0B246944E4EB1007",
@@ -1075,11 +1075,11 @@
           "name": "Pepsi Di\u00e8te 355ml Canette",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175698546258067.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-13 19:19:53"
+          "stock_updated": "2026-05-15 20:35:39"
         },
         {
           "skuid": "S0B2D05DCDEEB1007",
@@ -1087,11 +1087,11 @@
           "name": "Recess ras-lime",
           "price": 4.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177385828906772.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-05-13 18:44:31"
+          "stock_updated": "2026-05-15 20:08:04"
         },
         {
           "skuid": "S0B2C858213931004",
@@ -1231,11 +1231,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 13,
-          "fill_pct": 69,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-05-14 19:19:04"
+          "stock_updated": "2026-05-15 20:08:04"
         },
         {
           "skuid": "S0B2DB92EA84A1003",
@@ -1676,11 +1676,11 @@
           "name": "Natures Bakery - Double Chocolate Brownie",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368269911559.png",
-          "stock": 6,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 21:13:48"
+          "stock_updated": "2026-05-15 21:02:39"
         },
         {
           "skuid": "S0B2DAF9204FD1006",
@@ -1796,11 +1796,11 @@
           "name": "Sprinkles cupcakes",
           "price": 6.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799880951530.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 21:05:26"
+          "stock_updated": "2026-05-15 20:27:55"
         },
         {
           "skuid": "S0B2DAF8F87C31004",
@@ -1929,11 +1929,11 @@
           "name": "Candy M&M Plain",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 10,
-          "fill_pct": 70,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-05-13 16:35:12"
+          "stock_updated": "2026-05-15 19:31:18"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -2275,7 +2275,7 @@
           "skuid": "S0B2D90DF10651003",
           "barcode": "071879700049",
           "name": "Jennie\u2019s Coconut bites",
-          "price": 20.0,
+          "price": 18.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619046579382.png",
           "stock": 6,
           "capacity": 6,

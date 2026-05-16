@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T02:56:52Z",
+  "updated": "2026-05-16T05:57:15Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -114,11 +114,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 14,
+          "stock": 13,
           "capacity": 16,
-          "fill_pct": 88,
+          "fill_pct": 81,
           "stock_warning": 0,
-          "stock_updated": "2026-05-14 13:47:06"
+          "stock_updated": "2026-05-16 00:20:54"
         },
         {
           "skuid": "S0B2BA2E2259B1009",
@@ -138,11 +138,11 @@
           "name": "Cliff Mini",
           "price": 1.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531478317755.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 16:46:13"
+          "stock_updated": "2026-05-16 00:20:54"
         },
         {
           "skuid": "S0B248CF276F51003",
@@ -907,11 +907,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 15:55:53"
+          "stock_updated": "2026-05-16 00:18:42"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",

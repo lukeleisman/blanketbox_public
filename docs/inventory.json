@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T12:12:58Z",
+  "updated": "2026-05-16T14:05:15Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -16,13 +16,13 @@
           "skuid": "S0B26050ED251100C",
           "barcode": "079656045321",
           "name": "Banana Boat Sport Ultra 30 SPF 1oz",
-          "price": 2.0,
+          "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17437800146259.png",
-          "stock": 5,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-05-06 16:46:13"
+          "stock_updated": "2026-05-16 08:17:41"
         },
         {
           "skuid": "S0B2D3F1A0DAD1005",
@@ -582,11 +582,11 @@
           "name": "Splash Balls (Set of 4)",
           "price": 5.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174762315040674.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-10 13:54:52"
+          "stock_updated": "2026-05-16 08:17:41"
         },
         {
           "skuid": "S0B2E02D258091004",
@@ -1039,11 +1039,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 13,
-          "fill_pct": 54,
+          "fill_pct": 46,
           "stock_warning": 0,
-          "stock_updated": "2026-05-15 15:50:56"
+          "stock_updated": "2026-05-16 08:15:37"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1400,11 +1400,11 @@
           "name": "Coca-Cola Original Taste",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/166197041201682.jpeg",
-          "stock": 5,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 21:05:26"
+          "stock_updated": "2026-05-16 07:52:11"
         },
         {
           "skuid": "S0B2DFCAA39F21000",
@@ -1460,11 +1460,11 @@
           "name": "Deer park water",
           "price": 1.87,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 3,
+          "stock": 1,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-05-15 02:06:32"
+          "stock_updated": "2026-05-16 07:52:11"
         },
         {
           "skuid": "S0B2D527638181007",

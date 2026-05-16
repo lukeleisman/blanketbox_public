@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T18:00:07Z",
+  "updated": "2026-05-16T19:19:17Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 54,
-      "in_stock": 51,
-      "out_of_stock": 3,
+      "in_stock": 50,
+      "out_of_stock": 4,
       "low_stock": 0,
       "products": [
         {
@@ -294,11 +294,11 @@
           "name": "JNJ first aid",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176988487714383.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-13 20:26:12"
+          "stock_updated": "2026-05-16 13:10:59"
         },
         {
           "skuid": "S0B248CF276DC1004",
@@ -1234,8 +1234,8 @@
       "machine_name": "PhillyTrueCooler",
       "address": "4200 Ludlow St, Philadelphia PA, 10104",
       "total_skus": 49,
-      "in_stock": 48,
-      "out_of_stock": 1,
+      "in_stock": 47,
+      "out_of_stock": 2,
       "low_stock": 0,
       "products": [
         {
@@ -1316,11 +1316,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-05-14 18:03:43"
+          "stock_updated": "2026-05-16 13:55:30"
         },
         {
           "skuid": "S0B2DD3F2D92D100A",
@@ -1460,11 +1460,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-12 15:13:55"
+          "stock_updated": "2026-05-16 13:01:18"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1652,11 +1652,11 @@
           "name": "Natures Bakery - Double Chocolate Brownie",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368269911559.png",
-          "stock": 2,
+          "stock": 0,
           "capacity": 6,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-15 21:02:39"
+          "stock_updated": "2026-05-16 13:01:18"
         },
         {
           "skuid": "S0B2DAF9204FD1006",

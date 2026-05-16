@@ -1383,3 +1383,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-16T05:57:15Z,15519,doylestown,333 North Broad Ambient,S0B2D5CAD34F61005,722252128126,Cliff Mini,1.0,9,8,-1
 2026-05-16T05:57:15Z,15519,doylestown,333 North Broad Ambient,S0B2C6BE9F76D100A,2410012261,Cheez-It 1.5 oz,2.0,14,13,-1
 2026-05-16T05:57:15Z,16214,doylestown,333 North Broad Cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,8,7,-1
+2026-05-16T08:11:33Z,16214,doylestown,333 North Broad Cooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,5.27,6,5,-1

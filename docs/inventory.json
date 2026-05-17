@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T19:44:16Z",
+  "updated": "2026-05-17T20:53:03Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -76,7 +76,7 @@
           "skuid": "S0B2D5C80C7741005",
           "barcode": "810113830742",
           "name": "Body Armor IV StrKiwi",
-          "price": 1.75,
+          "price": 1.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531187161649.png",
           "stock": 14,
           "capacity": 14,
@@ -88,7 +88,7 @@
           "skuid": "S0B2D5C7E61611005",
           "barcode": "810113830728",
           "name": "Body Armor IV TrPnch",
-          "price": 1.75,
+          "price": 1.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531171446343.png",
           "stock": 15,
           "capacity": 15,
@@ -412,7 +412,7 @@
           "skuid": "S0B2D917EFADE1003",
           "barcode": "857245003927",
           "name": "Moringa Powder",
-          "price": 19.99,
+          "price": 15.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177620094612312.png",
           "stock": 3,
           "capacity": 3,
@@ -508,7 +508,7 @@
           "skuid": "S0B2D5DDDD87E1009",
           "barcode": "85005575622",
           "name": "Perfect Amino",
-          "price": 2.15,
+          "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177533474808739.png",
           "stock": 13,
           "capacity": 13,
@@ -522,11 +522,11 @@
           "name": "Pop Secret popcorn",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 14:45:19"
+          "stock_updated": "2026-05-17 14:57:35"
         },
         {
           "skuid": "S0B2E02DF96EA1007",
@@ -594,11 +594,11 @@
           "name": "Rice Krispies Treats Original",
           "price": 1.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254759829271.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 14:45:19"
+          "stock_updated": "2026-05-17 14:57:35"
         },
         {
           "skuid": "S0B26EA206C77100D",
@@ -676,7 +676,7 @@
           "skuid": "S0B246944E8251002",
           "barcode": "300450449153",
           "name": "Tylenol 10 Pack",
-          "price": 3.0,
+          "price": 4.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/169895824250838.jpeg",
           "stock": 4,
           "capacity": 4,
@@ -1400,11 +1400,11 @@
           "name": "Cheerios Treats",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177731583592140.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 21:05:26"
+          "stock_updated": "2026-05-17 14:47:26"
         },
         {
           "skuid": "S0B2DAF9429041007",
@@ -1532,11 +1532,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 4,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-05-17 13:39:18"
+          "stock_updated": "2026-05-17 14:47:26"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2085,11 +2085,11 @@
           "name": "Coke Zero Sugar Can 330mL",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/170835048793531.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 7,
-          "fill_pct": 43,
+          "fill_pct": 29,
           "stock_warning": 0,
-          "stock_updated": "2026-05-17 12:34:05"
+          "stock_updated": "2026-05-17 15:07:41"
         },
         {
           "skuid": "S0B2C6B34663C1009",

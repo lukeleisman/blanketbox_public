@@ -1484,3 +1484,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-17T19:44:16Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,10,8,-2
 2026-05-17T19:44:16Z,16213,haven,TheHaven#2-cooler,S0B2DB932853E100A,044000082048,Oreo Fresh stacks,5.07,5,4,-1
 2026-05-17T19:44:16Z,16213,haven,TheHaven#2-cooler,S0B2C6B34663C1009,F0B2C6B34663C1007,Corn Pops Cereal,1.75,4,3,-1
+2026-05-17T20:53:03Z,15519,doylestown,333 North Broad Ambient,S0B27699FEBAC1004,038000765414,Rice Krispies Treats Original,1.75,2,1,-1
+2026-05-17T20:53:03Z,15519,doylestown,333 North Broad Ambient,S0B2BAC9D24491002,F0B2BAC9D24491000,Pop Secret popcorn,2.0,9,8,-1
+2026-05-17T20:53:03Z,15521,philly,PhillyTrueCooler,S0B2DD3F2D92D100A,016000280427,Cheerios Treats,1.99,10,9,-1
+2026-05-17T20:53:03Z,15521,philly,PhillyTrueCooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,4,2,-2
+2026-05-17T20:53:03Z,16213,haven,TheHaven#2-cooler,S0B2E16325F1C100B,9300675090254,Coke Zero Sugar Can 330mL,2.5,3,2,-1

@@ -1470,3 +1470,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-17T05:10:16Z,16213,haven,TheHaven#2-cooler,S0B2D48452F7E1005,89899900002,Vita coconut water,4.49,2,1,-1
 2026-05-17T15:36:36Z,15521,philly,PhillyTrueCooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.07,5,4,-1
 2026-05-17T15:36:36Z,15521,philly,PhillyTrueCooler,S0B2D484E0EFD1001,014100043706,Milano,2.5,7,5,-2
+2026-05-17T18:01:50Z,15521,philly,PhillyTrueCooler,S0B2DB92EA84A1003,898999012247,Vita Coconut Extra Coconut,4.25,6,5,-1
+2026-05-17T18:01:50Z,15521,philly,PhillyTrueCooler,S0B246944E4141002,052000328684,Gatorade Lemon Lime,3.0,3,2,-1
+2026-05-17T18:01:50Z,16213,haven,TheHaven#2-cooler,S0B2E16325F1C100B,9300675090254,Coke Zero Sugar Can 330mL,2.5,4,3,-1
+2026-05-17T18:01:50Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.5,9,8,-1

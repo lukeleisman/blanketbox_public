@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T18:18:12Z",
+  "updated": "2026-05-18T20:12:50Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1917,11 +1917,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 8,
+          "stock": 6,
           "capacity": 9,
-          "fill_pct": 89,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-17 12:34:05"
+          "stock_updated": "2026-05-18 14:47:41"
         },
         {
           "skuid": "S0B2D4022EBB71006",
@@ -2025,11 +2025,11 @@
           "name": "Chobani Protein",
           "price": 4.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174379267257617.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 17:08:43"
+          "stock_updated": "2026-05-18 14:47:41"
         },
         {
           "skuid": "S0B2D11E2F0FD1001",
@@ -2037,11 +2037,11 @@
           "name": "Chobani Protein Strawberries & Cream",
           "price": 4.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175485829801693.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 17:08:43"
+          "stock_updated": "2026-05-18 14:47:41"
         },
         {
           "skuid": "S0B2D485C6BCC100B",
@@ -2085,11 +2085,11 @@
           "name": "Coke Zero Sugar Can 330mL",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/170835048793531.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 7,
-          "fill_pct": 29,
+          "fill_pct": 14,
           "stock_warning": 0,
-          "stock_updated": "2026-05-17 15:07:41"
+          "stock_updated": "2026-05-18 14:47:41"
         },
         {
           "skuid": "S0B2C6B34663C1009",
@@ -2241,11 +2241,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 17:08:43"
+          "stock_updated": "2026-05-18 14:47:41"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -2313,11 +2313,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 17:16:52"
+          "stock_updated": "2026-05-18 14:58:56"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -2541,11 +2541,11 @@
           "name": "V8 Splash Mango Peach",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17604079417352.png",
-          "stock": 4,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-05-18 07:39:30"
+          "stock_updated": "2026-05-18 14:47:41"
         },
         {
           "skuid": "S0B2D48452F7E1005",

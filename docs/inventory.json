@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T23:59:28Z",
+  "updated": "2026-05-18T04:24:40Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -42,11 +42,11 @@
           "name": "Bare Banana Chips",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173446313536967.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 14:45:19"
+          "stock_updated": "2026-05-17 21:23:27"
         },
         {
           "skuid": "S0B2C18F46F081002",
@@ -354,11 +354,11 @@
           "name": "Liquid IV WhtPeach",
           "price": 1.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531093062432.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 12,
-          "fill_pct": 92,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 22:58:32"
+          "stock_updated": "2026-05-17 21:23:27"
         },
         {
           "skuid": "S0B263F734F7E100C",
@@ -787,11 +787,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 15:08:01"
+          "stock_updated": "2026-05-17 20:51:27"
         },
         {
           "skuid": "S0B2668475B231007",
@@ -823,11 +823,11 @@
           "name": "Chobani Protein Strawberries & Cream",
           "price": 4.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175485829801693.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 15:08:01"
+          "stock_updated": "2026-05-17 21:41:21"
         },
         {
           "skuid": "S0B246944DEAE1000",
@@ -907,11 +907,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 22:52:25"
+          "stock_updated": "2026-05-17 20:51:27"
         },
         {
           "skuid": "S0B246944DF011004",
@@ -919,11 +919,11 @@
           "name": "Fiji 500ML",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597373118026.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 4,
-          "fill_pct": 50,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-05-17 13:10:04"
+          "stock_updated": "2026-05-17 21:41:21"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -1027,11 +1027,11 @@
           "name": "La Colombe Draft Latte Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363400918041.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 15:08:01"
+          "stock_updated": "2026-05-17 19:43:32"
         },
         {
           "skuid": "S0B2D5C66B220100B",
@@ -1051,11 +1051,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 19,
+          "stock": 18,
           "capacity": 21,
-          "fill_pct": 90,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-05-17 17:24:15"
+          "stock_updated": "2026-05-17 19:43:32"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -1291,11 +1291,11 @@
           "name": "Vita Coconut Extra Coconut",
           "price": 4.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176904241917369.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 15:08:01"
+          "stock_updated": "2026-05-17 21:41:21"
         }
       ]
     },
@@ -2121,11 +2121,11 @@
           "name": "Deer park water",
           "price": 1.87,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 17:16:52"
+          "stock_updated": "2026-05-17 19:31:08"
         },
         {
           "skuid": "S0B2D527638181007",

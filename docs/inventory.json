@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-19T01:29:02Z",
+  "updated": "2026-05-19T05:44:17Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 56,
-      "in_stock": 55,
-      "out_of_stock": 1,
+      "in_stock": 54,
+      "out_of_stock": 2,
       "low_stock": 0,
       "products": [
         {
@@ -306,11 +306,11 @@
           "name": "Jennie\u2019s Coconut bites",
           "price": 18.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619046579382.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 14:47:51"
+          "stock_updated": "2026-05-18 21:31:46"
         },
         {
           "skuid": "S0B26860EB3691005",
@@ -594,11 +594,11 @@
           "name": "Rice Krispies Treats Original",
           "price": 1.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254759829271.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-17 14:57:35"
+          "stock_updated": "2026-05-18 20:53:02"
         },
         {
           "skuid": "S0B26EA206C77100D",
@@ -693,8 +693,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 50,
-      "in_stock": 46,
-      "out_of_stock": 4,
+      "in_stock": 45,
+      "out_of_stock": 5,
       "low_stock": 0,
       "products": [
         {
@@ -703,11 +703,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 14,
+          "stock": 13,
           "capacity": 15,
-          "fill_pct": 93,
+          "fill_pct": 87,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 23:06:48"
+          "stock_updated": "2026-05-18 22:24:35"
         },
         {
           "skuid": "S0B273E9F8FFE1006",
@@ -751,11 +751,11 @@
           "name": "Candy M&M Plain",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 15,
+          "stock": 14,
           "capacity": 15,
-          "fill_pct": 100,
+          "fill_pct": 93,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 15:16:37"
+          "stock_updated": "2026-05-18 21:27:00"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -799,11 +799,11 @@
           "name": "Celsius Watermelon",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173400663718739.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 15:08:01"
+          "stock_updated": "2026-05-18 21:07:27"
         },
         {
           "skuid": "S0B2D11E4F77D1002",
@@ -1027,11 +1027,11 @@
           "name": "La Colombe Draft Latte Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363400918041.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-17 19:43:32"
+          "stock_updated": "2026-05-18 22:01:18"
         },
         {
           "skuid": "S0B2D5C66B220100B",
@@ -1243,11 +1243,11 @@
           "name": "Starburst Original",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174309139125249.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 15:24:33"
+          "stock_updated": "2026-05-18 22:01:18"
         },
         {
           "skuid": "S0B2D5DE0BABD100A",
@@ -1306,8 +1306,8 @@
       "machine_name": "PhillyTrueCooler",
       "address": "4200 Ludlow St, Philadelphia PA, 10104",
       "total_skus": 49,
-      "in_stock": 46,
-      "out_of_stock": 3,
+      "in_stock": 45,
+      "out_of_stock": 4,
       "low_stock": 0,
       "products": [
         {
@@ -1604,11 +1604,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 21:05:26"
+          "stock_updated": "2026-05-18 21:52:23"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -1907,8 +1907,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 55,
-      "in_stock": 54,
-      "out_of_stock": 1,
+      "in_stock": 52,
+      "out_of_stock": 3,
       "low_stock": 0,
       "products": [
         {
@@ -2061,11 +2061,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 5,
-          "fill_pct": 20,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 20:31:33"
+          "stock_updated": "2026-05-18 22:22:37"
         },
         {
           "skuid": "S0B2C6BB0DE621006",
@@ -2073,11 +2073,11 @@
           "name": "Cocoa Krisp cereal",
           "price": 1.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177127171417287.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 17:08:43"
+          "stock_updated": "2026-05-18 22:22:37"
         },
         {
           "skuid": "S0B2E16325F1C100B",
@@ -2085,11 +2085,11 @@
           "name": "Coke Zero Sugar Can 330mL",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/170835048793531.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 7,
-          "fill_pct": 14,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-18 14:47:41"
+          "stock_updated": "2026-05-18 22:22:37"
         },
         {
           "skuid": "S0B2C6B34663C1009",
@@ -2361,11 +2361,11 @@
           "name": "Muddy Bites Cookies & Cream",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/850042343036.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 17:08:43"
+          "stock_updated": "2026-05-18 22:22:37"
         },
         {
           "skuid": "S0B25F6365FD11002",
@@ -2469,11 +2469,11 @@
           "name": "Slim Jim",
           "price": 1.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176053793763544.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 17:16:52"
+          "stock_updated": "2026-05-18 22:22:37"
         },
         {
           "skuid": "S0B27699FEBCD1003",
@@ -2529,11 +2529,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 9,
-          "fill_pct": 44,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 17:08:43"
+          "stock_updated": "2026-05-18 22:22:37"
         },
         {
           "skuid": "S0B2BDAE95FD7100B",

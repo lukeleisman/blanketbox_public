@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-19T20:13:25Z",
+  "updated": "2026-05-19T21:53:56Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1544,11 +1544,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 21:05:26"
+          "stock_updated": "2026-05-19 16:06:45"
         },
         {
           "skuid": "S0B2D055ACE44100B",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-19T12:39:27Z",
+  "updated": "2026-05-19T16:20:38Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1977,11 +1977,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-18 07:39:30"
+          "stock_updated": "2026-05-19 11:05:50"
         },
         {
           "skuid": "S0B2DD3F2D92D100A",
@@ -2229,11 +2229,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 17:16:52"
+          "stock_updated": "2026-05-19 11:05:50"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",

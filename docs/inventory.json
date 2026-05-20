@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T01:30:35Z",
+  "updated": "2026-05-20T06:08:39Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -703,11 +703,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 13,
+          "stock": 12,
           "capacity": 15,
-          "fill_pct": 87,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-05-18 22:24:35"
+          "stock_updated": "2026-05-20 00:18:19"
         },
         {
           "skuid": "S0B273E9F8FFE1006",
@@ -1316,11 +1316,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-13 13:20:45"
+          "stock_updated": "2026-05-19 23:25:27"
         },
         {
           "skuid": "S0B2D113EDC9E1004",
@@ -1592,11 +1592,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.07,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-17 09:47:02"
+          "stock_updated": "2026-05-20 00:49:36"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1628,11 +1628,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173685359821166.png",
-          "stock": 7,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-05-11 21:10:09"
+          "stock_updated": "2026-05-20 00:49:36"
         },
         {
           "skuid": "S0B2D90DF10651003",
@@ -1664,11 +1664,11 @@
           "name": "Milano",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 10,
-          "fill_pct": 50,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-05-17 09:47:02"
+          "stock_updated": "2026-05-19 23:25:27"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1784,11 +1784,11 @@
           "name": "Pop Secret popcorn",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-13 01:29:55"
+          "stock_updated": "2026-05-19 23:25:27"
         },
         {
           "skuid": "S0B2DB92A82FD1009",
@@ -1917,11 +1917,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 9,
-          "fill_pct": 67,
+          "fill_pct": 56,
           "stock_warning": 0,
-          "stock_updated": "2026-05-18 14:47:41"
+          "stock_updated": "2026-05-19 21:27:48"
         },
         {
           "skuid": "S0B2D4022EBB71006",
@@ -1941,11 +1941,11 @@
           "name": "Beef Liver Dog Treats",
           "price": 20.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174907930543359.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 3,
-          "fill_pct": 200,
+          "fill_pct": 167,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 17:08:43"
+          "stock_updated": "2026-05-19 23:24:25"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -2241,11 +2241,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-05-18 14:47:41"
+          "stock_updated": "2026-05-19 23:24:25"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -2325,11 +2325,11 @@
           "name": "Maison Perrier Sparkling Water",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17773152898848.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 17:08:43"
+          "stock_updated": "2026-05-19 21:27:48"
         },
         {
           "skuid": "S0B2D484E0EFD1001",

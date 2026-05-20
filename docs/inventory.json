@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T16:29:33Z",
+  "updated": "2026-05-20T18:39:49Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1965,11 +1965,11 @@
           "name": "Candy M&M Plain",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 10,
-          "fill_pct": 30,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-05-17 13:59:13"
+          "stock_updated": "2026-05-20 12:49:05"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -2529,11 +2529,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 9,
-          "fill_pct": 33,
+          "fill_pct": 22,
           "stock_warning": 0,
-          "stock_updated": "2026-05-18 22:22:37"
+          "stock_updated": "2026-05-20 12:49:05"
         },
         {
           "skuid": "S0B2BDAE95FD7100B",

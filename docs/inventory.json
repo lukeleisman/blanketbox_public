@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T06:08:39Z",
+  "updated": "2026-05-20T09:59:39Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1907,8 +1907,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 55,
-      "in_stock": 52,
-      "out_of_stock": 3,
+      "in_stock": 51,
+      "out_of_stock": 4,
       "low_stock": 0,
       "products": [
         {
@@ -1917,11 +1917,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 9,
-          "fill_pct": 56,
+          "fill_pct": 44,
           "stock_warning": 0,
-          "stock_updated": "2026-05-19 21:27:48"
+          "stock_updated": "2026-05-20 01:23:49"
         },
         {
           "skuid": "S0B2D4022EBB71006",
@@ -2001,11 +2001,11 @@
           "name": "Cheez It Original",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254819896872.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 17:16:52"
+          "stock_updated": "2026-05-20 01:23:49"
         },
         {
           "skuid": "S0B2DAF9429041007",
@@ -2217,11 +2217,11 @@
           "name": "Frosted Flakes cereal",
           "price": 1.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177127250090090.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 17:08:43"
+          "stock_updated": "2026-05-20 01:23:49"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -2457,11 +2457,11 @@
           "name": "Skittles Original Candy",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594963942772.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-17 13:59:13"
+          "stock_updated": "2026-05-20 01:23:49"
         },
         {
           "skuid": "S0B2BDB1B79DB1001",

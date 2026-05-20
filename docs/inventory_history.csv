@@ -1545,3 +1545,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-20T09:59:39Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.5,5,4,-1
 2026-05-20T09:59:39Z,16213,haven,TheHaven#2-cooler,S0B27699FEA161007,024100123223,Cheez It Original,2.07,7,6,-1
 2026-05-20T09:59:39Z,16213,haven,TheHaven#2-cooler,S0B2C6BBCDF7C1006,F0B2C6BBCDF7C1004,Frosted Flakes cereal,1.75,4,3,-1
+2026-05-20T16:29:33Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,8,7,-1
+2026-05-20T16:29:33Z,16213,haven,TheHaven#2-cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,4,3,-1
+2026-05-20T16:29:33Z,16213,haven,TheHaven#2-cooler,S0B2D48427F221004,044000037444,Fig Newtowns,2.0,6,5,-1

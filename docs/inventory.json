@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T18:02:10Z",
+  "updated": "2026-05-21T20:19:01Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1207,11 +1207,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 17,
+          "stock": 16,
           "capacity": 20,
-          "fill_pct": 85,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-05-20 21:06:30"
+          "stock_updated": "2026-05-21 14:43:23"
         },
         {
           "skuid": "S0B2DD4AAFF451007",
@@ -1255,11 +1255,11 @@
           "name": "Trip Elderflower Mint",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177533493701966.png",
-          "stock": 0,
+          "stock": -1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 15:08:01"
+          "stock_updated": "2026-05-21 14:55:04"
         },
         {
           "skuid": "S0B266D76782F1002",
@@ -1977,11 +1977,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 3,
+          "stock": 1,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-05-20 08:14:01"
+          "stock_updated": "2026-05-21 14:28:17"
         },
         {
           "skuid": "S0B2DD3F2D92D100A",
@@ -1989,11 +1989,11 @@
           "name": "Cheerios Treats",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177731583592140.png",
-          "stock": 8,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 17:16:52"
+          "stock_updated": "2026-05-21 14:28:17"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -2349,11 +2349,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 17:16:52"
+          "stock_updated": "2026-05-21 14:28:17"
         },
         {
           "skuid": "S0B2E1667504E1008",
@@ -2469,11 +2469,11 @@
           "name": "Slim Jim",
           "price": 1.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176053793763544.png",
-          "stock": 9,
+          "stock": 7,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-05-18 22:22:37"
+          "stock_updated": "2026-05-21 14:28:17"
         },
         {
           "skuid": "S0B27699FEBCD1003",

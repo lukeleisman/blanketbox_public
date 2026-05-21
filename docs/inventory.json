@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T00:07:40Z",
+  "updated": "2026-05-21T04:52:29Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -498,11 +498,11 @@
           "name": "Oreo Fresh stacks",
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686702392867.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 14:45:19"
+          "stock_updated": "2026-05-20 21:45:54"
         },
         {
           "skuid": "S0B2D5DDDD87E1009",
@@ -522,11 +522,11 @@
           "name": "Pop Secret popcorn",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 9,
-          "fill_pct": 89,
+          "fill_pct": 78,
           "stock_warning": 0,
-          "stock_updated": "2026-05-17 14:57:35"
+          "stock_updated": "2026-05-20 21:45:54"
         },
         {
           "skuid": "S0B2E02DF96EA1007",
@@ -703,11 +703,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 15,
-          "fill_pct": 80,
+          "fill_pct": 73,
           "stock_warning": 0,
-          "stock_updated": "2026-05-20 00:18:19"
+          "stock_updated": "2026-05-20 21:05:59"
         },
         {
           "skuid": "S0B273E9F8FFE1006",
@@ -1207,11 +1207,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 19,
+          "stock": 17,
           "capacity": 20,
-          "fill_pct": 95,
+          "fill_pct": 85,
           "stock_warning": 0,
-          "stock_updated": "2026-05-19 18:02:18"
+          "stock_updated": "2026-05-20 21:06:30"
         },
         {
           "skuid": "S0B2DD4AAFF451007",

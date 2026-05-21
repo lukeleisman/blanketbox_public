@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T12:14:21Z",
+  "updated": "2026-05-21T15:55:55Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2157,11 +2157,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-20 10:42:31"
+          "stock_updated": "2026-05-21 09:02:56"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2289,11 +2289,11 @@
           "name": "Jennie\u2019s Coconut bites",
           "price": 18.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619046579382.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 17:08:43"
+          "stock_updated": "2026-05-21 09:11:14"
         },
         {
           "skuid": "S0B2D4851D7141003",
@@ -2481,11 +2481,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 9,
-          "fill_pct": 89,
+          "fill_pct": 78,
           "stock_warning": 0,
-          "stock_updated": "2026-05-17 13:59:13"
+          "stock_updated": "2026-05-21 09:02:56"
         },
         {
           "skuid": "S0B2DD4AAFF451007",

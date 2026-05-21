@@ -1557,3 +1557,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-21T04:52:29Z,15519,doylestown,333 North Broad Ambient,S0B2BAC9D24491002,F0B2BAC9D24491000,Pop Secret popcorn,2.0,8,7,-1
 2026-05-21T04:52:29Z,16214,doylestown,333 North Broad Cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.57,12,11,-1
 2026-05-21T04:52:29Z,16214,doylestown,333 North Broad Cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,19,17,-2
+2026-05-21T15:55:55Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,7,6,-1
+2026-05-21T15:55:55Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,8,7,-1
+2026-05-21T15:55:55Z,16213,haven,TheHaven#2-cooler,S0B2D90DF10651003,071879700049,Jennie’s Coconut bites,18.0,6,5,-1

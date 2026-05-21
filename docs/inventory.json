@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T20:19:01Z",
+  "updated": "2026-05-21T21:56:46Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1159,11 +1159,11 @@
           "name": "San Pellegrino Aranciata",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17145040865182.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 15:08:01"
+          "stock_updated": "2026-05-21 15:59:42"
         },
         {
           "skuid": "S0B2D90DB76B5100C",
@@ -1965,11 +1965,11 @@
           "name": "Candy M&M Plain",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 10,
-          "fill_pct": 20,
+          "fill_pct": 10,
           "stock_warning": 0,
-          "stock_updated": "2026-05-20 12:49:05"
+          "stock_updated": "2026-05-21 16:27:03"
         },
         {
           "skuid": "S0B2D0552D8121008",

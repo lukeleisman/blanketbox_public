@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T15:32:26Z",
+  "updated": "2026-05-22T17:51:56Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2181,11 +2181,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 17:08:43"
+          "stock_updated": "2026-05-22 11:39:52"
         },
         {
           "skuid": "S0B2D48427F221004",
@@ -2229,11 +2229,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-21 20:53:22"
+          "stock_updated": "2026-05-22 12:31:51"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -2265,11 +2265,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063766829.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 17:16:52"
+          "stock_updated": "2026-05-22 12:31:51"
         },
         {
           "skuid": "S0B246944E7FE1008",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T04:24:24Z",
+  "updated": "2026-05-23T07:15:33Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -751,11 +751,11 @@
           "name": "Candy M&M Plain",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 13,
+          "stock": 12,
           "capacity": 15,
-          "fill_pct": 87,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-05-20 18:31:44"
+          "stock_updated": "2026-05-22 23:48:31"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -1051,11 +1051,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 18,
+          "stock": 17,
           "capacity": 21,
-          "fill_pct": 86,
+          "fill_pct": 81,
           "stock_warning": 0,
-          "stock_updated": "2026-05-17 19:43:32"
+          "stock_updated": "2026-05-23 01:03:56"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -1907,8 +1907,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 55,
-      "in_stock": 50,
-      "out_of_stock": 5,
+      "in_stock": 49,
+      "out_of_stock": 6,
       "low_stock": 0,
       "products": [
         {
@@ -2529,11 +2529,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 9,
-          "fill_pct": 11,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-22 21:07:42"
+          "stock_updated": "2026-05-22 23:44:02"
         },
         {
           "skuid": "S0B2BDAE95FD7100B",

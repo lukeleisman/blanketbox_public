@@ -1621,3 +1621,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-24T20:05:21Z,16214,doylestown,333 North Broad Cooler,S0B2D0516EFCB1008,007478051550,Maison Perrier Sparkling Water,3.0,5,4,-1
 2026-05-24T20:05:21Z,16214,doylestown,333 North Broad Cooler,S0B2D11E2F0FD1001,818290017710,Chobani Protein Strawberries & Cream,4.0,2,1,-1
 2026-05-24T20:05:21Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,6,5,-1
+2026-05-24T21:28:32Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,4,3,-1

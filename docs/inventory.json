@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T11:17:33Z",
+  "updated": "2026-05-24T12:40:45Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2025,11 +2025,11 @@
           "name": "Chobani Protein",
           "price": 4.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174379267257617.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-18 14:47:41"
+          "stock_updated": "2026-05-24 07:00:43"
         },
         {
           "skuid": "S0B2D11E2F0FD1001",
@@ -2037,11 +2037,11 @@
           "name": "Chobani Protein Strawberries & Cream",
           "price": 4.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175485829801693.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-05-18 14:47:41"
+          "stock_updated": "2026-05-24 07:00:43"
         },
         {
           "skuid": "S0B2D485C6BCC100B",

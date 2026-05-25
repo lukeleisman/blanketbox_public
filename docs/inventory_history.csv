@@ -1629,3 +1629,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-25T04:45:20Z,16214,doylestown,333 North Broad Cooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,5.27,4,3,-1
 2026-05-25T04:45:20Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,16,15,-1
 2026-05-25T04:45:20Z,16213,haven,TheHaven#2-cooler,S0B2D484E0EFD1001,014100043706,Milano,2.57,7,5,-2
+2026-05-25T15:51:08Z,16214,doylestown,333 North Broad Cooler,S0B2D3E6DA5E01005,041508235785,San Pellegrino Aranciata,3.77,7,6,-1
+2026-05-25T15:51:08Z,16214,doylestown,333 North Broad Cooler,S0B246944E4141002,052000328684,Gatorade Lemon Lime,3.0,5,4,-1
+2026-05-25T15:51:08Z,16214,doylestown,333 North Broad Cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,7,6,-1
+2026-05-25T15:51:08Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,5,4,-1
+2026-05-25T15:51:08Z,16213,haven,TheHaven#2-cooler,S0B2C85783CD31007,1162002196,Fair Life Core Power 26g Vanilla Protein Shake,5.27,4,3,-1

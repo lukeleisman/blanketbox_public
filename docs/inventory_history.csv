@@ -1717,3 +1717,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-25T21:07:07Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,7,6,-1
 2026-05-25T21:07:07Z,16213,haven,TheHaven#2-cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,7,6,-1
 2026-05-25T21:07:07Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,10,9,-1
+2026-05-25T22:33:55Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.5,4,3,-1
+2026-05-25T22:33:55Z,16213,haven,TheHaven#2-cooler,S0B246944DF011004,632565000012,Fiji 500ML,2.77,3,2,-1

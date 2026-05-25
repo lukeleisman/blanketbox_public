@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T21:07:07Z",
+  "updated": "2026-05-25T22:33:55Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1965,11 +1965,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 9,
-          "fill_pct": 44,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 11:24:58"
+          "stock_updated": "2026-05-25 16:09:48"
         },
         {
           "skuid": "S0B2D4022EBB71006",
@@ -2229,11 +2229,11 @@
           "name": "Fiji 500ML",
           "price": 2.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597373118026.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 11:24:58"
+          "stock_updated": "2026-05-25 16:09:48"
         },
         {
           "skuid": "S0B2C6BBCDF7C1006",

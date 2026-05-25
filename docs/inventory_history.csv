@@ -1696,3 +1696,24 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-25T19:40:27Z,15521,philly,PhillyTrueCooler,S0B2D90DD9337100C,016000215214,Simply Chex,3.5,3,0,-3
 2026-05-25T19:40:27Z,15521,philly,PhillyTrueCooler,S0B2D4851D7141003,195372325155,Just Ice Tea Peach Oolong 16oz,4.0,3,0,-3
 2026-05-25T19:40:27Z,15521,philly,PhillyTrueCooler,S0B246944E4141002,052000328684,Gatorade Lemon Lime,3.0,2,0,-2
+2026-05-25T21:07:07Z,15519,doylestown,333 North Broad Ambient,S0B2C19076DF51005,F0B2C19076DF51003,JNJ first aid,3.0,1,2,1
+2026-05-25T21:07:07Z,16214,doylestown,333 North Broad Cooler,S0B2E63AC3F231007,682430010486,Voss Water,6.99,0,8,8
+2026-05-25T21:07:07Z,16214,doylestown,333 North Broad Cooler,S0B2D90DB76B5100C,041508302074,San Pellegrino Essenza,3.75,7,8,1
+2026-05-25T21:07:07Z,16214,doylestown,333 North Broad Cooler,S0B2D3E6DA5E01005,041508235785,San Pellegrino Aranciata,3.77,6,8,2
+2026-05-25T21:07:07Z,16214,doylestown,333 North Broad Cooler,S0B2D3E6D7FBD1003,041508265089,S. Pellegrino Lemonade 11.15oz,3.77,5,8,3
+2026-05-25T21:07:07Z,16214,doylestown,333 North Broad Cooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,5.27,3,4,1
+2026-05-25T21:07:07Z,16214,doylestown,333 North Broad Cooler,S0B2C85783CD31007,1162002196,Fair Life Core Power 26g Vanilla Protein Shake,5.27,3,6,3
+2026-05-25T21:07:07Z,16214,doylestown,333 North Broad Cooler,S0B2D055ACE44100B,1162002198,Fairlife Core Power - Strawberry (26g Complete Protein),5.27,3,5,2
+2026-05-25T21:07:07Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,7,10,3
+2026-05-25T21:07:07Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,3,12,9
+2026-05-25T21:07:07Z,16214,doylestown,333 North Broad Cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,6,8,2
+2026-05-25T21:07:07Z,16214,doylestown,333 North Broad Cooler,S0B246944E4141002,052000328684,Gatorade Lemon Lime,3.0,5,6,1
+2026-05-25T21:07:07Z,16214,doylestown,333 North Broad Cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,16,20,4
+2026-05-25T21:07:07Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,15,21,6
+2026-05-25T21:07:07Z,16214,doylestown,333 North Broad Cooler,S0B2D527638181007,036632074782,Delight Cinnabon,2.5,3,5,2
+2026-05-25T21:07:07Z,16214,doylestown,333 North Broad Cooler,S0B2DB92EA84A1003,898999012247,Vita Coconut Extra Coconut,4.25,5,6,1
+2026-05-25T21:07:07Z,16214,doylestown,333 North Broad Cooler,S0B2D5DE0BABD100A,810119680266,Trip Elderflower Mint,5.27,-1,12,13
+2026-05-25T21:07:07Z,16213,haven,TheHaven#2-cooler,S0B246944E3C2100B,040000001607,Skittles Original Candy,2.0,1,0,-1
+2026-05-25T21:07:07Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,7,6,-1
+2026-05-25T21:07:07Z,16213,haven,TheHaven#2-cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,7,6,-1
+2026-05-25T21:07:07Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,10,9,-1

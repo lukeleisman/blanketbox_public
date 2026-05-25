@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T23:59:47Z",
+  "updated": "2026-05-25T04:45:20Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -138,11 +138,11 @@
           "name": "Cliff  Chocolate Chip Protein Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17674936233687.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 12,
-          "fill_pct": 92,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 14:45:19"
+          "stock_updated": "2026-05-24 20:46:51"
         },
         {
           "skuid": "S0B2D5CAD34F61005",
@@ -787,11 +787,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-05-17 20:51:27"
+          "stock_updated": "2026-05-24 19:47:51"
         },
         {
           "skuid": "S0B2668475B231007",
@@ -907,11 +907,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-17 20:51:27"
+          "stock_updated": "2026-05-24 19:47:51"
         },
         {
           "skuid": "S0B246944DF011004",
@@ -1051,11 +1051,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 16,
+          "stock": 15,
           "capacity": 21,
-          "fill_pct": 76,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-05-23 14:43:06"
+          "stock_updated": "2026-05-24 19:47:51"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -2337,11 +2337,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 7,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-05-24 01:25:15"
+          "stock_updated": "2026-05-24 21:09:21"
         },
         {
           "skuid": "S0B246944DEFB1003",

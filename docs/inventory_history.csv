@@ -1743,3 +1743,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-26T22:19:45Z,15452,borellis,BorellisBox,S0B25AF9E30E0100D,F0B25AF9E30E0100B,Hohner Kazoo Green,3.0,0,-1,-1
 2026-05-26T22:19:45Z,15452,borellis,BorellisBox,S0B248CF277711000,F0B23D47534341008,Hohner Kazoo,3.0,-2,-3,-1
 2026-05-26T22:19:45Z,15452,borellis,BorellisBox,S0B24D695D36F1001,10137017772,Dunlop Maraca Shaker Egg,4.99,1,0,-1
+2026-05-26T23:39:25Z,16214,doylestown,333 North Broad Cooler,S0B2668475B231007,8939200362,Celsius Watermelon,3.57,2,1,-1
+2026-05-26T23:39:25Z,16213,haven,TheHaven#2-cooler,S0B246944E6E51005,016000264694,Nature Valley Granola Bar,2.5,5,4,-1
+2026-05-26T23:39:25Z,16213,haven,TheHaven#2-cooler,S0B2D4851D7141003,195372325155,Just Ice Tea Peach Oolong 16oz,4.07,6,5,-1
+2026-05-26T23:39:25Z,16213,haven,TheHaven#2-cooler,S0B2BDAE8D5FB1006,520010247,Gatorade Glacier Cherry,3.0,3,2,-1

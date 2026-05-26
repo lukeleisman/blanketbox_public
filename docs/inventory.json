@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T22:19:45Z",
+  "updated": "2026-05-26T23:39:25Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -799,11 +799,11 @@
           "name": "Celsius Watermelon",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173400663718739.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 18:23:07"
+          "stock_updated": "2026-05-26 17:39:12"
         },
         {
           "skuid": "S0B2D11E4F77D1002",
@@ -2265,11 +2265,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 7,
-          "fill_pct": 43,
+          "fill_pct": 29,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 21:10:08"
+          "stock_updated": "2026-05-26 17:39:28"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -2325,11 +2325,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 4.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 11:24:58"
+          "stock_updated": "2026-05-26 17:28:15"
         },
         {
           "skuid": "S0B25FC5DA5DD1003",
@@ -2409,11 +2409,11 @@
           "name": "Nature Valley Granola Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168901983780356.jpeg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 11:34:27"
+          "stock_updated": "2026-05-26 17:28:15"
         },
         {
           "skuid": "S0B2DAF9204FD1006",

@@ -1740,3 +1740,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-26T18:41:26Z,16213,haven,TheHaven#2-cooler,S0B2DD3F2D92D100A,016000280427,Cheerios Treats,1.99,8,6,-2
 2026-05-26T20:53:12Z,16213,haven,TheHaven#2-cooler,S0B2DAF9429041007,044000085964,Chips Ahoy minis,5.07,5,4,-1
 2026-05-26T20:53:12Z,16213,haven,TheHaven#2-cooler,S0B2DD3F2D92D100A,016000280427,Cheerios Treats,1.99,6,5,-1
+2026-05-26T22:19:45Z,15452,borellis,BorellisBox,S0B25AF9E30E0100D,F0B25AF9E30E0100B,Hohner Kazoo Green,3.0,0,-1,-1
+2026-05-26T22:19:45Z,15452,borellis,BorellisBox,S0B248CF277711000,F0B23D47534341008,Hohner Kazoo,3.0,-2,-3,-1
+2026-05-26T22:19:45Z,15452,borellis,BorellisBox,S0B24D695D36F1001,10137017772,Dunlop Maraca Shaker Egg,4.99,1,0,-1

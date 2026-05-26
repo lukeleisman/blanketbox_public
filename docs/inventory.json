@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T20:53:12Z",
+  "updated": "2026-05-26T22:19:45Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -3410,8 +3410,8 @@
       "machine_name": "BorellisBox",
       "address": "2124 W. Lawrence Ave. Chicago, IL 60640",
       "total_skus": 58,
-      "in_stock": 45,
-      "out_of_stock": 13,
+      "in_stock": 44,
+      "out_of_stock": 14,
       "low_stock": 0,
       "products": [
         {
@@ -3624,11 +3624,11 @@
           "name": "Dunlop Maraca Shaker Egg",
           "price": 4.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173870536582960.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-21 20:48:38"
+          "stock_updated": "2026-05-26 16:01:35"
         },
         {
           "skuid": "S0B248CF277321006",
@@ -3816,11 +3816,11 @@
           "name": "Hohner Kazoo",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173437470607119.png",
-          "stock": -2,
+          "stock": -3,
           "capacity": 2,
-          "fill_pct": -100,
+          "fill_pct": -150,
           "stock_warning": 0,
-          "stock_updated": "2026-05-02 20:51:20"
+          "stock_updated": "2026-05-26 16:01:35"
         },
         {
           "skuid": "S0B24D6D673AD1002",
@@ -3840,11 +3840,11 @@
           "name": "Hohner Kazoo Green",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174234656965142.png",
-          "stock": 0,
+          "stock": -1,
           "capacity": 3,
-          "fill_pct": 0,
+          "fill_pct": -33,
           "stock_warning": 0,
-          "stock_updated": "2026-05-02 21:09:30"
+          "stock_updated": "2026-05-26 16:01:35"
         },
         {
           "skuid": "S0B25AF9FD4791006",

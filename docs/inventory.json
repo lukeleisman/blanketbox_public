@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T00:05:56Z",
+  "updated": "2026-05-26T04:43:26Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -703,11 +703,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 14,
+          "stock": 13,
           "capacity": 14,
-          "fill_pct": 100,
+          "fill_pct": 93,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 14:33:47"
+          "stock_updated": "2026-05-25 20:49:26"
         },
         {
           "skuid": "S0B273E9F8FFE1006",
@@ -751,11 +751,11 @@
           "name": "Candy M&M Plain",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 12,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-05-22 23:48:31"
+          "stock_updated": "2026-05-25 22:41:05"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -931,11 +931,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 15:16:37"
+          "stock_updated": "2026-05-25 22:41:05"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1219,11 +1219,11 @@
           "name": "Slim Jim",
           "price": 1.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176053793763544.png",
-          "stock": 30,
+          "stock": 29,
           "capacity": 30,
-          "fill_pct": 100,
+          "fill_pct": 97,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 15:23:26"
+          "stock_updated": "2026-05-25 21:53:37"
         },
         {
           "skuid": "S0B27699FEBCD1003",
@@ -1339,11 +1339,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 14:41:25"
+          "stock_updated": "2026-05-25 20:49:26"
         }
       ]
     },
@@ -2265,11 +2265,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 7,
-          "fill_pct": 57,
+          "fill_pct": 43,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 11:24:58"
+          "stock_updated": "2026-05-25 21:10:08"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -2277,11 +2277,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 11:30:55"
+          "stock_updated": "2026-05-25 21:10:08"
         },
         {
           "skuid": "S0B246944E4051007",

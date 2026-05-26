@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T08:31:16Z",
+  "updated": "2026-05-26T16:24:28Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -763,11 +763,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 18:23:07"
+          "stock_updated": "2026-05-26 09:41:09"
         },
         {
           "skuid": "S0B246944E4EB1007",
@@ -2037,11 +2037,11 @@
           "name": "Cheez It Original",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254819896872.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 11:30:55"
+          "stock_updated": "2026-05-26 06:25:37"
         },
         {
           "skuid": "S0B2DAF9429041007",
@@ -2253,11 +2253,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 11:30:55"
+          "stock_updated": "2026-05-26 09:32:54"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -2337,11 +2337,11 @@
           "name": "La Colombe Draft Latte Mocha",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363418524043.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 11:32:20"
+          "stock_updated": "2026-05-26 06:25:37"
         },
         {
           "skuid": "S0B246944E19E1000",
@@ -2349,11 +2349,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 11:30:55"
+          "stock_updated": "2026-05-26 09:32:54"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -2517,11 +2517,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 15:17:19"
+          "stock_updated": "2026-05-26 09:32:54"
         },
         {
           "skuid": "S0B2DD4AAFF451007",

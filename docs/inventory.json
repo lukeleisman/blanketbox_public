@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T18:41:26Z",
+  "updated": "2026-05-26T20:53:12Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2025,11 +2025,11 @@
           "name": "Cheerios Treats",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177731583592140.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-05-26 12:32:58"
+          "stock_updated": "2026-05-26 14:09:41"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -2049,11 +2049,11 @@
           "name": "Chips Ahoy minis",
           "price": 5.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17767056506495.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 11:24:58"
+          "stock_updated": "2026-05-26 14:09:41"
         },
         {
           "skuid": "S0B2D11E4F77D1002",

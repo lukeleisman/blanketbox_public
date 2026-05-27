@@ -1759,3 +1759,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-27T15:42:51Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,7,6,-1
 2026-05-27T18:26:31Z,16214,doylestown,333 North Broad Cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,20,19,-1
 2026-05-27T20:33:26Z,16213,haven,TheHaven#2-cooler,S0B2E1667504E1008,850042343036,Muddy Bites Cookies & Cream,5.0,6,5,-1
+2026-05-27T22:41:08Z,16214,doylestown,333 North Broad Cooler,S0B2E63AC3F231007,682430010486,Voss Water,6.99,7,6,-1
+2026-05-27T22:41:08Z,16214,doylestown,333 North Broad Cooler,S0B273E9F8FFE1006,860001992922,AMG Energy Bites Strawberry Vanilla,5.0,1,0,-1
+2026-05-27T22:41:08Z,16214,doylestown,333 North Broad Cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,6,4,-2

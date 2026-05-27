@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T20:33:26Z",
+  "updated": "2026-05-27T22:41:08Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -693,8 +693,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 54,
-      "in_stock": 48,
-      "out_of_stock": 6,
+      "in_stock": 47,
+      "out_of_stock": 7,
       "low_stock": 0,
       "products": [
         {
@@ -715,11 +715,11 @@
           "name": "AMG Energy Bites Strawberry Vanilla",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174904076879412.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 15:22:31"
+          "stock_updated": "2026-05-27 16:29:39"
         },
         {
           "skuid": "S0B273EA68ED7100B",
@@ -763,11 +763,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 6,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-26 09:41:09"
+          "stock_updated": "2026-05-27 16:29:39"
         },
         {
           "skuid": "S0B246944E4EB1007",
@@ -1339,11 +1339,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 20:49:26"
+          "stock_updated": "2026-05-27 16:29:39"
         }
       ]
     },

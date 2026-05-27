@@ -1755,3 +1755,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-27T11:53:22Z,16213,haven,TheHaven#2-cooler,S0B2C85783CD31007,1162002196,Fair Life Core Power 26g Vanilla Protein Shake,5.27,3,2,-1
 2026-05-27T11:53:22Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,8,7,-1
 2026-05-27T11:53:22Z,16213,haven,TheHaven#2-cooler,S0B2C6B34663C1009,F0B2C6B34663C1007,Corn Pops Cereal,1.75,3,2,-1
+2026-05-27T15:42:51Z,16213,haven,TheHaven#2-cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,5,4,-1
+2026-05-27T15:42:51Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,7,6,-1

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T23:39:25Z",
+  "updated": "2026-05-27T03:54:07Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -907,11 +907,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 14:41:25"
+          "stock_updated": "2026-05-26 19:01:06"
         },
         {
           "skuid": "S0B246944DF011004",
@@ -1217,7 +1217,7 @@
           "skuid": "S0B2BDB1B79DB1001",
           "barcode": "2620000258",
           "name": "Slim Jim",
-          "price": 1.0,
+          "price": 1.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176053793763544.png",
           "stock": 29,
           "capacity": 30,
@@ -1904,11 +1904,11 @@
           "name": "St James Green Tea",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177670534725577.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 8,
-          "fill_pct": 112,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 12:44:12"
+          "stock_updated": "2026-05-26 21:42:14"
         },
         {
           "skuid": "S0B2BDAFAD0A2100A",
@@ -2349,11 +2349,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-05-26 09:32:54"
+          "stock_updated": "2026-05-26 20:08:39"
         },
         {
           "skuid": "S0B2D0516EFCB1008",

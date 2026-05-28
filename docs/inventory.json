@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T22:41:08Z",
+  "updated": "2026-05-28T00:00:14Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -967,11 +967,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023828232980.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 14:33:47"
+          "stock_updated": "2026-05-27 17:51:36"
         },
         {
           "skuid": "S0B2D11356C5A1005",
@@ -1231,11 +1231,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 19,
+          "stock": 18,
           "capacity": 20,
-          "fill_pct": 95,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-05-27 11:04:45"
+          "stock_updated": "2026-05-27 17:51:36"
         },
         {
           "skuid": "S0B2DD4AAFF451007",
@@ -1989,11 +1989,11 @@
           "name": "Beef Liver Dog Treats",
           "price": 20.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174907930543359.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 11:24:58"
+          "stock_updated": "2026-05-27 17:52:01"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -2253,11 +2253,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-26 09:32:54"
+          "stock_updated": "2026-05-27 17:52:01"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -2265,11 +2265,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 7,
-          "fill_pct": 29,
+          "fill_pct": 14,
           "stock_warning": 0,
-          "stock_updated": "2026-05-26 17:39:28"
+          "stock_updated": "2026-05-27 17:52:01"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -2517,11 +2517,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 9,
-          "fill_pct": 67,
+          "fill_pct": 56,
           "stock_warning": 0,
-          "stock_updated": "2026-05-27 07:10:16"
+          "stock_updated": "2026-05-27 17:52:01"
         },
         {
           "skuid": "S0B2DD4AAFF451007",

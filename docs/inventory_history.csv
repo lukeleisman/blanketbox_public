@@ -1773,3 +1773,12 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-28T04:23:33Z,16214,doylestown,333 North Broad Cooler,S0B2D11E2F0FD1001,818290017710,Chobani Protein Strawberries & Cream,4.0,1,0,-1
 2026-05-28T08:27:04Z,16214,doylestown,333 North Broad Cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.57,13,11,-2
 2026-05-28T11:58:50Z,16213,haven,TheHaven#2-cooler,S0B2C6B34663C1009,F0B2C6B34663C1007,Corn Pops Cereal,1.75,2,1,-1
+2026-05-28T16:20:07Z,16214,doylestown,333 North Broad Cooler,S0B246944DEF51002,070847811169,Monster Energy,4.27,6,5,-1
+2026-05-28T16:20:07Z,16214,doylestown,333 North Broad Cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,6,5,-1
+2026-05-28T16:20:07Z,16214,doylestown,333 North Broad Cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,18,16,-2
+2026-05-28T16:20:07Z,16214,doylestown,333 North Broad Cooler,S0B2D527865D2100C,036632078186,Delight Mocha,2.5,2,1,-1
+2026-05-28T16:20:07Z,16213,haven,TheHaven#2-cooler,S0B246944E6E51005,016000264694,Nature Valley Granola Bar,2.5,4,3,-1
+2026-05-28T16:20:07Z,16213,haven,TheHaven#2-cooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,5.27,6,5,-1
+2026-05-28T16:20:07Z,16213,haven,TheHaven#2-cooler,S0B2CC2D2640F1005,041508992688,S. Pellegrino Blood Orange 11.15oz,3.77,1,0,-1
+2026-05-28T16:20:07Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,5,3,-2
+2026-05-28T16:20:07Z,16213,haven,TheHaven#2-cooler,S0B2C6BB0DE621006,F0B2C6BB0DE621004,Cocoa Krisp cereal,1.75,2,1,-1

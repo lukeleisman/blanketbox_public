@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T01:31:30Z",
+  "updated": "2026-05-29T06:14:33Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -703,11 +703,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 14,
-          "fill_pct": 79,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-05-27 23:39:00"
+          "stock_updated": "2026-05-28 21:46:11"
         },
         {
           "skuid": "S0B273E9F8FFE1006",
@@ -1063,11 +1063,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 20,
+          "stock": 19,
           "capacity": 21,
-          "fill_pct": 95,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-05-27 06:44:33"
+          "stock_updated": "2026-05-28 22:52:57"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -1099,11 +1099,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 12,
-          "fill_pct": 83,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 15:50:10"
+          "stock_updated": "2026-05-28 22:52:57"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1171,11 +1171,11 @@
           "name": "S. Pellegrino Lemonade 11.15oz",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177078645626497.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 14:41:25"
+          "stock_updated": "2026-05-28 21:46:11"
         },
         {
           "skuid": "S0B2D3E6DA5E01005",
@@ -1207,11 +1207,11 @@
           "name": "San Pelligrino Pomegranate and Orange",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17601191596212.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 15:08:01"
+          "stock_updated": "2026-05-28 21:47:33"
         },
         {
           "skuid": "S0B2BDB1B79DB1001",
@@ -2253,11 +2253,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-05-27 17:52:01"
+          "stock_updated": "2026-05-28 20:59:03"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -2577,11 +2577,11 @@
           "name": "V8 Splash Mango Peach",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17604079417352.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 6,
-          "fill_pct": 33,
+          "fill_pct": 17,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 11:24:58"
+          "stock_updated": "2026-05-28 20:59:03"
         },
         {
           "skuid": "S0B2D48452F7E1005",

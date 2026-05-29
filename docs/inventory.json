@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T20:26:27Z",
+  "updated": "2026-05-29T22:12:45Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1955,8 +1955,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 55,
-      "in_stock": 51,
-      "out_of_stock": 4,
+      "in_stock": 50,
+      "out_of_stock": 5,
       "low_stock": 0,
       "products": [
         {
@@ -2313,11 +2313,11 @@
           "name": "Jennie\u2019s Coconut bites",
           "price": 18.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619046579382.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 11:24:58"
+          "stock_updated": "2026-05-29 15:46:06"
         },
         {
           "skuid": "S0B2D4851D7141003",
@@ -2553,11 +2553,11 @@
           "name": "Thinsters Brownie Batter",
           "price": 9.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799854895927.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 11:24:58"
+          "stock_updated": "2026-05-29 15:46:06"
         },
         {
           "skuid": "S0B2BDAEA21801002",

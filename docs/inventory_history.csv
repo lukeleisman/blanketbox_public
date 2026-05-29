@@ -1798,3 +1798,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-29T06:14:33Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,20,19,-1
 2026-05-29T06:14:33Z,16213,haven,TheHaven#2-cooler,S0B2BDAE95FD7100B,0051000217691,V8 Splash Mango Peach,2.0,2,1,-1
 2026-05-29T06:14:33Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,4,3,-1
+2026-05-29T10:29:28Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,3,2,-1
+2026-05-29T10:29:28Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,5,4,-1

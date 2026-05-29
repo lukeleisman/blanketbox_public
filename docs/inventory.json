@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T13:45:13Z",
+  "updated": "2026-05-29T17:33:28Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -955,11 +955,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 14:41:25"
+          "stock_updated": "2026-05-29 10:36:57"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -1075,11 +1075,11 @@
           "name": "Maison Perrier Sparkling Water",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17773152898848.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-24 13:43:52"
+          "stock_updated": "2026-05-29 11:52:49"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1231,11 +1231,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 15,
+          "stock": 14,
           "capacity": 20,
-          "fill_pct": 75,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-05-28 13:18:05"
+          "stock_updated": "2026-05-29 08:45:33"
         },
         {
           "skuid": "S0B2DD4AAFF451007",
@@ -2481,11 +2481,11 @@
           "name": "San Pelligrino Pomegranate and Orange",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17601191596212.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 9,
-          "fill_pct": 89,
+          "fill_pct": 78,
           "stock_warning": 0,
-          "stock_updated": "2026-05-28 14:40:43"
+          "stock_updated": "2026-05-29 12:30:10"
         },
         {
           "skuid": "S0B246944E3C2100B",

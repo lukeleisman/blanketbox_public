@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T15:46:09Z",
+  "updated": "2026-05-30T17:05:34Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1063,11 +1063,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 19,
+          "stock": 18,
           "capacity": 21,
-          "fill_pct": 90,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-05-28 22:52:57"
+          "stock_updated": "2026-05-30 12:02:19"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -1099,11 +1099,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 12,
-          "fill_pct": 67,
+          "fill_pct": 58,
           "stock_warning": 0,
-          "stock_updated": "2026-05-29 15:09:18"
+          "stock_updated": "2026-05-30 11:06:33"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1219,11 +1219,11 @@
           "name": "Slim Jim",
           "price": 1.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176053793763544.png",
-          "stock": 29,
+          "stock": 28,
           "capacity": 30,
-          "fill_pct": 97,
+          "fill_pct": 93,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 21:53:37"
+          "stock_updated": "2026-05-30 12:02:19"
         },
         {
           "skuid": "S0B27699FEBCD1003",
@@ -1315,11 +1315,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-29 22:01:04"
+          "stock_updated": "2026-05-30 12:02:19"
         },
         {
           "skuid": "S0B2DB92EA84A1003",

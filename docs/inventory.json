@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T14:13:06Z",
+  "updated": "2026-05-30T15:46:09Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2349,11 +2349,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-05-26 20:08:39"
+          "stock_updated": "2026-05-30 10:06:46"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -2385,11 +2385,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-05-27 07:10:16"
+          "stock_updated": "2026-05-30 10:06:46"
         },
         {
           "skuid": "S0B2E1667504E1008",

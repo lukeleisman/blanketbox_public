@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T03:29:03Z",
+  "updated": "2026-05-30T06:36:16Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -126,11 +126,11 @@
           "name": "Cliff  Chocolate Chip Protein Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17674936233687.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 12,
-          "fill_pct": 83,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-24 20:46:51"
+          "stock_updated": "2026-05-29 22:56:05"
         },
         {
           "skuid": "S0B2D5CAD34F61005",
@@ -895,11 +895,11 @@
           "name": "Fairlife Core Power - Strawberry (26g Complete Protein)",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175859439715951.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 14:41:25"
+          "stock_updated": "2026-05-29 22:52:36"
         },
         {
           "skuid": "S0B246944DFD21006",
@@ -1231,11 +1231,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 14,
+          "stock": 13,
           "capacity": 20,
-          "fill_pct": 70,
+          "fill_pct": 65,
           "stock_warning": 0,
-          "stock_updated": "2026-05-29 08:45:33"
+          "stock_updated": "2026-05-29 22:52:36"
         },
         {
           "skuid": "S0B2DD4AAFF451007",

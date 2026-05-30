@@ -1811,3 +1811,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-29T22:12:45Z,16213,haven,TheHaven#2-cooler,S0B2DFCA43905100C,840515100020,Thinsters Brownie Batter,9.0,1,0,-1
 2026-05-29T22:12:45Z,16213,haven,TheHaven#2-cooler,S0B2D90DF10651003,071879700049,Jennie’s Coconut bites,18.0,5,4,-1
 2026-05-30T03:29:03Z,16214,doylestown,333 North Broad Cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.6,5,4,-1
+2026-05-30T06:36:16Z,15519,doylestown,333 North Broad Ambient,S0B2BA2E2259B1009,643843713944,Cliff  Chocolate Chip Protein Bar,2.5,10,9,-1
+2026-05-30T06:36:16Z,16214,doylestown,333 North Broad Cooler,S0B2D055ACE44100B,1162002198,Fairlife Core Power - Strawberry (26g Complete Protein),5.27,5,4,-1
+2026-05-30T06:36:16Z,16214,doylestown,333 North Broad Cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,14,13,-1

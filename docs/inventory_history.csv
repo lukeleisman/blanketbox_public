@@ -1823,3 +1823,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-30T18:39:31Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,18,17,-1
 2026-05-30T21:33:23Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,6,5,-1
 2026-05-30T21:33:23Z,16213,haven,TheHaven#2-cooler,S0B2C6BB0DE621006,F0B2C6BB0DE621004,Cocoa Krisp cereal,1.75,1,0,-1
+2026-05-31T00:09:17Z,16213,haven,TheHaven#2-cooler,S0B2D0516EFCB1008,007478051550,Maison Perrier Sparkling Water,2.75,6,5,-1

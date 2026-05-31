@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T14:17:15Z",
+  "updated": "2026-05-31T15:48:36Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -654,11 +654,11 @@
           "name": "Tampax Regular 10ct",
           "price": 5.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/171416919623839.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 14:45:19"
+          "stock_updated": "2026-05-31 09:32:47"
         },
         {
           "skuid": "S0B248CF277231002",
@@ -703,11 +703,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 14,
-          "fill_pct": 71,
+          "fill_pct": 64,
           "stock_warning": 0,
-          "stock_updated": "2026-05-28 21:46:11"
+          "stock_updated": "2026-05-31 09:32:46"
         },
         {
           "skuid": "S0B273E9F8FFE1006",

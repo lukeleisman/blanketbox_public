@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T17:06:11Z",
+  "updated": "2026-05-31T18:43:56Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -907,11 +907,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-26 19:01:06"
+          "stock_updated": "2026-05-31 12:30:50"
         },
         {
           "skuid": "S0B246944DF011004",
@@ -1955,8 +1955,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 55,
-      "in_stock": 49,
-      "out_of_stock": 6,
+      "in_stock": 48,
+      "out_of_stock": 7,
       "low_stock": 0,
       "products": [
         {
@@ -2121,11 +2121,11 @@
           "name": "Corn Pops Cereal",
           "price": 1.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177126355692713.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 4,
-          "fill_pct": 25,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-28 06:37:10"
+          "stock_updated": "2026-05-31 13:33:50"
         },
         {
           "skuid": "S0B2BA2E24FD8100B",
@@ -2289,11 +2289,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063766829.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 17:58:33"
+          "stock_updated": "2026-05-31 13:38:41"
         },
         {
           "skuid": "S0B246944E7FE1008",
@@ -2349,11 +2349,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 10,
-          "fill_pct": 70,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-05-30 10:06:46"
+          "stock_updated": "2026-05-31 13:33:50"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -2541,11 +2541,11 @@
           "name": "St James Green Tea",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177670534725577.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 11:24:58"
+          "stock_updated": "2026-05-31 13:33:50"
         },
         {
           "skuid": "S0B2DFCA43905100C",

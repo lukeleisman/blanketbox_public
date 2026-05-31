@@ -1835,3 +1835,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-05-31T15:48:36Z,16214,doylestown,333 North Broad Cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.57,10,9,-1
 2026-05-31T17:06:11Z,16214,doylestown,333 North Broad Cooler,S0B27699FEF291000,4000000051,Starburst Original,2.0,6,5,-1
 2026-05-31T17:06:11Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,17,16,-1
+2026-05-31T18:43:56Z,16214,doylestown,333 North Broad Cooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,5.27,3,2,-1
+2026-05-31T18:43:56Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,7,6,-1
+2026-05-31T18:43:56Z,16213,haven,TheHaven#2-cooler,S0B2DAF8F87C31004,850032072090,St James Green Tea,3.0,6,5,-1
+2026-05-31T18:43:56Z,16213,haven,TheHaven#2-cooler,S0B2C6B34663C1009,F0B2C6B34663C1007,Corn Pops Cereal,1.75,1,0,-1
+2026-05-31T18:43:56Z,16213,haven,TheHaven#2-cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,5,4,-1

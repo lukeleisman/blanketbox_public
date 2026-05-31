@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T18:43:56Z",
+  "updated": "2026-05-31T20:08:52Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1087,11 +1087,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-28 08:31:47"
+          "stock_updated": "2026-05-31 14:55:08"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -1965,11 +1965,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 9,
-          "fill_pct": 33,
+          "fill_pct": 22,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 16:09:48"
+          "stock_updated": "2026-05-31 14:54:27"
         },
         {
           "skuid": "S0B2D4022EBB71006",
@@ -2181,11 +2181,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-30 15:40:52"
+          "stock_updated": "2026-05-31 14:54:27"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2217,11 +2217,11 @@
           "name": "Fig Newtowns",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17749722455349.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 11:24:58"
+          "stock_updated": "2026-05-31 14:54:27"
         },
         {
           "skuid": "S0B246944DF011004",
@@ -2361,11 +2361,11 @@
           "name": "Maison Perrier Sparkling Water",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17773152898848.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-30 18:50:34"
+          "stock_updated": "2026-05-31 14:54:27"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2373,11 +2373,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-28 19:20:19"
+          "stock_updated": "2026-05-31 14:54:27"
         },
         {
           "skuid": "S0B246944DEFB1003",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T16:38:17Z",
+  "updated": "2026-06-01T20:55:47Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -18,11 +18,11 @@
           "name": "Banana Boat Sport Ultra 30 SPF 1oz",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17437800146259.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 14:47:51"
+          "stock_updated": "2026-06-01 13:27:05"
         },
         {
           "skuid": "S0B2D3F1A0DAD1005",
@@ -462,11 +462,11 @@
           "name": "Neutrogena Beach Defense spf 50",
           "price": 9.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363387219540.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 14:45:19"
+          "stock_updated": "2026-06-01 13:27:05"
         },
         {
           "skuid": "S0B25FC53055E1009",
@@ -703,11 +703,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 14,
-          "fill_pct": 64,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-05-31 09:32:46"
+          "stock_updated": "2026-06-01 15:26:12"
         },
         {
           "skuid": "S0B273E9F8FFE1006",
@@ -871,11 +871,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 12,
+          "stock": 11,
           "capacity": 12,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 14:41:25"
+          "stock_updated": "2026-06-01 13:09:31"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -931,11 +931,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 9,
-          "fill_pct": 78,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-31 00:42:55"
+          "stock_updated": "2026-06-01 15:26:12"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -955,11 +955,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-29 10:36:57"
+          "stock_updated": "2026-06-01 15:26:12"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -967,11 +967,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023828232980.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-05-28 08:31:47"
+          "stock_updated": "2026-06-01 12:27:41"
         },
         {
           "skuid": "S0B2D11356C5A1005",
@@ -1231,11 +1231,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 12,
+          "stock": 9,
           "capacity": 20,
-          "fill_pct": 60,
+          "fill_pct": 45,
           "stock_warning": 0,
-          "stock_updated": "2026-05-31 00:42:55"
+          "stock_updated": "2026-06-01 15:26:12"
         },
         {
           "skuid": "S0B2DD4AAFF451007",
@@ -1339,11 +1339,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-05-28 15:58:29"
+          "stock_updated": "2026-06-01 12:27:41"
         }
       ]
     },
@@ -2037,11 +2037,11 @@
           "name": "Cheez It Original",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254819896872.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 7,
-          "fill_pct": 57,
+          "fill_pct": 43,
           "stock_warning": 0,
-          "stock_updated": "2026-05-26 06:25:37"
+          "stock_updated": "2026-06-01 11:50:06"
         },
         {
           "skuid": "S0B2DAF9429041007",

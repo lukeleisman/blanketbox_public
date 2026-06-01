@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T00:12:56Z",
+  "updated": "2026-06-01T05:25:12Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1063,11 +1063,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 16,
+          "stock": 15,
           "capacity": 21,
-          "fill_pct": 76,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-05-31 10:58:37"
+          "stock_updated": "2026-05-31 19:24:07"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -1315,11 +1315,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 3,
+          "stock": 1,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 17,
           "stock_warning": 0,
-          "stock_updated": "2026-05-30 12:02:19"
+          "stock_updated": "2026-05-31 21:22:01"
         },
         {
           "skuid": "S0B2DB92EA84A1003",
@@ -1955,8 +1955,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 55,
-      "in_stock": 48,
-      "out_of_stock": 7,
+      "in_stock": 47,
+      "out_of_stock": 8,
       "low_stock": 0,
       "products": [
         {
@@ -2325,11 +2325,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 4.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-26 17:28:15"
+          "stock_updated": "2026-05-31 23:02:07"
         },
         {
           "skuid": "S0B25FC5DA5DD1003",
@@ -2577,11 +2577,11 @@
           "name": "V8 Splash Mango Peach",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17604079417352.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 6,
-          "fill_pct": 17,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-28 20:59:03"
+          "stock_updated": "2026-05-31 23:02:07"
         },
         {
           "skuid": "S0B2D48452F7E1005",

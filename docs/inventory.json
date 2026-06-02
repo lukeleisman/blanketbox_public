@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T23:02:38Z",
+  "updated": "2026-06-02T01:58:13Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -693,8 +693,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 54,
-      "in_stock": 44,
-      "out_of_stock": 10,
+      "in_stock": 43,
+      "out_of_stock": 11,
       "low_stock": 0,
       "products": [
         {
@@ -1315,11 +1315,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 6,
-          "fill_pct": 17,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-31 21:22:01"
+          "stock_updated": "2026-06-01 20:21:59"
         },
         {
           "skuid": "S0B2DB92EA84A1003",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T19:41:27Z",
+  "updated": "2026-06-02T22:22:48Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -42,11 +42,11 @@
           "name": "Bare Banana Chips",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173446313536967.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-17 21:23:27"
+          "stock_updated": "2026-06-02 14:53:14"
         },
         {
           "skuid": "S0B260510FB391004",
@@ -426,11 +426,11 @@
           "name": "Natures Bakery - Double Chocolate Brownie",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368269911559.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 14:28:41"
+          "stock_updated": "2026-06-02 14:53:14"
         },
         {
           "skuid": "S0B2885215A1B1003",
@@ -763,11 +763,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-06-01 16:38:25"
+          "stock_updated": "2026-06-02 16:31:35"
         },
         {
           "skuid": "S0B246944E4EB1007",
@@ -871,11 +871,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 12,
-          "fill_pct": 92,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-06-01 13:09:31"
+          "stock_updated": "2026-06-02 16:41:01"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -907,11 +907,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 4,
-          "fill_pct": 50,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-05-31 12:30:50"
+          "stock_updated": "2026-06-02 14:48:28"
         },
         {
           "skuid": "S0B246944DF011004",
@@ -931,11 +931,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 9,
-          "fill_pct": 67,
+          "fill_pct": 56,
           "stock_warning": 0,
-          "stock_updated": "2026-06-01 15:26:12"
+          "stock_updated": "2026-06-02 16:24:02"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -967,11 +967,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023828232980.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 7,
-          "fill_pct": 43,
+          "fill_pct": 29,
           "stock_warning": 0,
-          "stock_updated": "2026-06-02 12:21:25"
+          "stock_updated": "2026-06-02 16:24:02"
         },
         {
           "skuid": "S0B2D11356C5A1005",
@@ -1159,11 +1159,11 @@
           "name": "S. Pellegrino Blood Orange 11.15oz",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177078619893420.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 15:16:37"
+          "stock_updated": "2026-06-02 16:24:02"
         },
         {
           "skuid": "S0B2D3E6D7FBD1003",
@@ -2037,11 +2037,11 @@
           "name": "Cheez It Original",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254819896872.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 7,
-          "fill_pct": 43,
+          "fill_pct": 29,
           "stock_warning": 0,
-          "stock_updated": "2026-06-01 11:50:06"
+          "stock_updated": "2026-06-02 15:49:01"
         },
         {
           "skuid": "S0B2DAF9429041007",
@@ -2325,11 +2325,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 4.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-31 23:02:07"
+          "stock_updated": "2026-06-02 15:49:01"
         },
         {
           "skuid": "S0B25FC5DA5DD1003",
@@ -2409,11 +2409,11 @@
           "name": "Nature Valley Granola Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168901983780356.jpeg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-05-28 08:12:59"
+          "stock_updated": "2026-06-02 15:49:01"
         },
         {
           "skuid": "S0B2DAF9204FD1006",

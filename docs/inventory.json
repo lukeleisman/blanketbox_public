@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T00:11:10Z",
+  "updated": "2026-06-03T05:26:19Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -703,11 +703,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 14,
-          "fill_pct": 57,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-01 15:26:12"
+          "stock_updated": "2026-06-02 22:02:29"
         },
         {
           "skuid": "S0B273E9F8FFE1006",
@@ -751,11 +751,11 @@
           "name": "Candy M&M Plain",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 11,
+          "stock": 9,
           "capacity": 12,
-          "fill_pct": 92,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 22:41:05"
+          "stock_updated": "2026-06-02 22:56:17"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -1039,11 +1039,11 @@
           "name": "La Colombe Draft Latte Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363400918041.png",
-          "stock": -1,
+          "stock": -2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-02 12:21:25"
+          "stock_updated": "2026-06-02 22:02:29"
         },
         {
           "skuid": "S0B2D5C66B220100B",
@@ -2313,11 +2313,11 @@
           "name": "Jennie\u2019s Coconut bites",
           "price": 18.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619046579382.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-05-30 21:23:07"
+          "stock_updated": "2026-06-02 22:15:47"
         },
         {
           "skuid": "S0B2D4851D7141003",
@@ -2373,11 +2373,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-05-31 14:54:27"
+          "stock_updated": "2026-06-02 22:14:48"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -2397,11 +2397,11 @@
           "name": "Muddy Bites Cookies & Cream",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/850042343036.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 10,
-          "fill_pct": 30,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-05-28 19:20:19"
+          "stock_updated": "2026-06-02 22:14:48"
         },
         {
           "skuid": "S0B246944E6E51005",

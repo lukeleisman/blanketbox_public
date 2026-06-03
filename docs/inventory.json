@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T05:26:19Z",
+  "updated": "2026-06-03T10:20:22Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1063,11 +1063,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 15,
+          "stock": 14,
           "capacity": 21,
-          "fill_pct": 71,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-31 19:24:07"
+          "stock_updated": "2026-06-03 00:32:51"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -1279,11 +1279,11 @@
           "name": "Starburst Original",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174309139125249.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-31 10:58:37"
+          "stock_updated": "2026-06-03 00:32:51"
         },
         {
           "skuid": "S0B2D5DE0BABD100A",

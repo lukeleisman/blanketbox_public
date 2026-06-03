@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T22:22:48Z",
+  "updated": "2026-06-03T00:11:10Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -522,11 +522,11 @@
           "name": "Pop Secret popcorn",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 9,
-          "fill_pct": 78,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-20 21:45:54"
+          "stock_updated": "2026-06-02 18:59:04"
         },
         {
           "skuid": "S0B2E02DF96EA1007",
@@ -2349,11 +2349,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 10,
-          "fill_pct": 50,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-06-02 09:23:43"
+          "stock_updated": "2026-06-02 17:24:32"
         },
         {
           "skuid": "S0B2D0516EFCB1008",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T20:56:40Z",
+  "updated": "2026-06-04T22:23:34Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -126,11 +126,11 @@
           "name": "Cliff  Chocolate Chip Protein Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17674936233687.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 12,
-          "fill_pct": 75,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-29 22:56:05"
+          "stock_updated": "2026-06-04 16:59:59"
         },
         {
           "skuid": "S0B2D5CAD34F61005",
@@ -2289,11 +2289,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 4.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:39:13"
+          "stock_updated": "2026-06-04 16:32:08"
         },
         {
           "skuid": "S0B25FC5DA5DD1003",
@@ -2529,11 +2529,11 @@
           "name": "St James Green Tea",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177670534725577.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-04 16:32:08"
         },
         {
           "skuid": "S0B2DFCA43905100C",
@@ -3491,11 +3491,11 @@
           "name": "locktite vynil fabric and plastic",
           "price": 9.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/144bc0cb-c8b5-43e2-a779-2ef44e4024ea.jpg",
-          "stock": 9999,
+          "stock": 9998,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 11:32:52"
+          "stock_updated": "2026-06-04 16:10:48"
         },
         {
           "skuid": "S0B2E92C61D541003",

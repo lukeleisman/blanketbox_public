@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T12:27:10Z",
+  "updated": "2026-06-04T16:00:19Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -3312,11 +3312,71 @@
       "location_name": "McKinley Park",
       "machine_name": "mHUBPrototypingShop",
       "address": "1623 W Fulton St",
-      "total_skus": 15,
-      "in_stock": 14,
+      "total_skus": 29,
+      "in_stock": 28,
       "out_of_stock": 1,
       "low_stock": 0,
       "products": [
+        {
+          "skuid": "S0B2E969DD74F1004",
+          "barcode": "075353035054",
+          "name": "2 in black duck tape",
+          "price": 5.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/cec4ea18-71ca-4a0a-a90a-dad9ca895601.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-04 10:07:31"
+        },
+        {
+          "skuid": "S0B2E969CF9C5100B",
+          "barcode": "075353050040",
+          "name": "2 in masking/painters tape",
+          "price": 8.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/81c13873-8804-4b4c-82fc-ddab973c333b.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-04 10:07:31"
+        },
+        {
+          "skuid": "S0B2E96B92726100C",
+          "barcode": "078435439481",
+          "name": "2in brush / 1in brush",
+          "price": 4.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/bba37197-5ca3-4ce9-9157-f69d3aa0f50c.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-04 10:07:31"
+        },
+        {
+          "skuid": "S0B2E96BB70CA100B",
+          "barcode": "076308872052",
+          "name": "3m finishing 4 pack gray",
+          "price": 8.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/14c74f90-f6d7-4ae9-a261-bb9672c9c867.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-04 10:07:31"
+        },
+        {
+          "skuid": "S0B2E96BC970C100C",
+          "barcode": "051141927664",
+          "name": "3M finishing green 2 pack",
+          "price": 6.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/68b1c283-6f45-449e-af88-9f408cbba7ab.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-04 10:07:31"
+        },
         {
           "skuid": "S0B2E92BC88C61003",
           "barcode": "068060503961",
@@ -3327,7 +3387,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 16:39:47"
+          "stock_updated": "2026-06-04 10:07:31"
         },
         {
           "skuid": "S0B2E924E17741004",
@@ -3339,19 +3399,19 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 16:39:47"
+          "stock_updated": "2026-06-04 10:07:31"
         },
         {
           "skuid": "S0B2DB5E27A0D1007",
           "barcode": "020066442347",
           "name": "Clear Satin",
-          "price": 0.01,
+          "price": 6.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177681144654836.png",
           "stock": 9999,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 16:39:47"
+          "stock_updated": "2026-06-04 10:07:31"
         },
         {
           "skuid": "S0B2E92C8030B1006",
@@ -3363,7 +3423,19 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 16:39:47"
+          "stock_updated": "2026-06-04 10:07:31"
+        },
+        {
+          "skuid": "S0B2E96BE1F4D100A",
+          "barcode": "052427780010",
+          "name": "gorilla super glue 2 tubes",
+          "price": 6.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/0e9d2273-9a63-4f97-9e56-105293676432.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-04 10:07:31"
         },
         {
           "skuid": "S0B2E92774C521003",
@@ -3375,7 +3447,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 16:39:47"
+          "stock_updated": "2026-06-04 10:07:31"
         },
         {
           "skuid": "S0B2E92C61D541003",
@@ -3387,7 +3459,19 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 16:39:47"
+          "stock_updated": "2026-06-04 10:07:31"
+        },
+        {
+          "skuid": "S0B2E969A0D87100C",
+          "barcode": "079340648302",
+          "name": "loctite epoxy clear",
+          "price": 7.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/0351c02b-74c4-4f48-aa19-b58ebd2350b7.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-04 10:07:31"
         },
         {
           "skuid": "S0B2E92BFB7E01007",
@@ -3399,19 +3483,31 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 16:39:47"
+          "stock_updated": "2026-06-04 10:07:31"
         },
         {
           "skuid": "S0B2DD932E3FB100D",
           "barcode": "F0B2DD932E3FB100B",
           "name": "mHUB tshirt",
-          "price": 0.01,
+          "price": 20.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177740391906655.png",
           "stock": 9999,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 16:39:47"
+          "stock_updated": "2026-06-04 10:07:31"
+        },
+        {
+          "skuid": "S0B2E96A069391004",
+          "barcode": "045242296804",
+          "name": "milwaukee 18mm boxcutter knife",
+          "price": 15.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/f3a07106-9f49-4d3c-88db-dc9b1ccc5764.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-04 10:07:31"
         },
         {
           "skuid": "S0B2E92CCA1881001",
@@ -3423,7 +3519,31 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 16:39:47"
+          "stock_updated": "2026-06-04 10:07:31"
+        },
+        {
+          "skuid": "S0B2E96A2567A100A",
+          "barcode": "091511600049",
+          "name": "OLFA heavy duty 18mm snap off knife boxcutter",
+          "price": 15.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/c74fe2d7-2672-4a41-a09b-16a60201b976.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-04 10:07:31"
+        },
+        {
+          "skuid": "S0B2E96C007F01002",
+          "barcode": "052427500021",
+          "name": "orignal gorilla glue 2fl",
+          "price": 11.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/da461886-a66f-4270-a21e-45146c8abf05.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-04 10:07:31"
         },
         {
           "skuid": "S0B2E92CBE7C81009",
@@ -3435,7 +3555,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 16:39:47"
+          "stock_updated": "2026-06-04 10:07:31"
         },
         {
           "skuid": "S0B2E926EE2121008",
@@ -3447,7 +3567,19 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 16:39:47"
+          "stock_updated": "2026-06-04 10:07:31"
+        },
+        {
+          "skuid": "S0B2E969B9C5A1003",
+          "barcode": "068060505682",
+          "name": "Scotch Blue Painters Tape",
+          "price": 5.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/959d1792-d3d7-43a7-83d8-d5921c732f8c.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-04 10:07:31"
         },
         {
           "skuid": "S0B2DD92CE10E1006",
@@ -3459,7 +3591,31 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 16:39:47"
+          "stock_updated": "2026-06-04 10:07:31"
+        },
+        {
+          "skuid": "S0B2E96B459A51002",
+          "barcode": "032886944567",
+          "name": "southwire 14 solid thin",
+          "price": 48.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/2048bc70-4c01-49eb-8d30-0d78bf2485f7.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-04 10:07:31"
+        },
+        {
+          "skuid": "S0B2E96B6592E100A",
+          "barcode": "12341234",
+          "name": "stainless steel wire brush wood handle",
+          "price": 3.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/a830d9c9-b990-4e62-bf6d-32e7efcd44c9.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-04 10:07:31"
         },
         {
           "skuid": "S0B2DB49723CA1009",
@@ -3471,31 +3627,43 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 16:39:47"
+          "stock_updated": "2026-06-04 10:07:31"
         },
         {
           "skuid": "S0B2DD9363C581002",
           "barcode": "F0B2DD9363C581000",
           "name": "Torx precision screwdriver set",
-          "price": 0.01,
+          "price": 40.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177740413825752.png",
           "stock": 9999,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 16:39:47"
+          "stock_updated": "2026-06-04 10:07:31"
+        },
+        {
+          "skuid": "S0B2E96B761A41003",
+          "barcode": "078435904064",
+          "name": "value painter brush 2/1",
+          "price": 4.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/ad3f8d2d-12e8-49fd-b332-c66a87e3e21a.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-04 10:07:31"
         },
         {
           "skuid": "S0B2DD93A4DA6100D",
           "barcode": "F0B2DD93A4DA6100B",
           "name": "Weld-on",
-          "price": 0.01,
+          "price": 12.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177740440491446.png",
           "stock": 9999,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 16:39:47"
+          "stock_updated": "2026-06-04 10:07:31"
         }
       ]
     },

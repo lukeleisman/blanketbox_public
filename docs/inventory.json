@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T15:16:01Z",
+  "updated": "2026-06-04T05:21:19Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -114,11 +114,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 14,
+          "stock": 11,
           "capacity": 16,
-          "fill_pct": 88,
+          "fill_pct": 69,
           "stock_warning": 0,
-          "stock_updated": "2026-06-02 14:36:21"
+          "stock_updated": "2026-06-03 14:40:28"
         },
         {
           "skuid": "S0B2BA2E2259B1009",
@@ -210,11 +210,11 @@
           "name": "Fig Newtowns",
           "price": 1.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177450068582980.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 14:45:19"
+          "stock_updated": "2026-06-03 11:13:48"
         },
         {
           "skuid": "S0B2E16F275BA1001",
@@ -693,8 +693,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 54,
-      "in_stock": 43,
-      "out_of_stock": 11,
+      "in_stock": 42,
+      "out_of_stock": 12,
       "low_stock": 0,
       "products": [
         {
@@ -751,11 +751,11 @@
           "name": "Candy M&M Plain",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 12,
-          "fill_pct": 75,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-06-02 22:56:17"
+          "stock_updated": "2026-06-03 12:46:26"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -871,11 +871,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 12,
-          "fill_pct": 83,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-02 16:41:01"
+          "stock_updated": "2026-06-03 17:58:13"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -943,11 +943,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 15:08:01"
+          "stock_updated": "2026-06-03 18:06:12"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -1039,11 +1039,11 @@
           "name": "La Colombe Draft Latte Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363400918041.png",
-          "stock": -2,
+          "stock": -3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-02 22:02:29"
+          "stock_updated": "2026-06-03 12:46:26"
         },
         {
           "skuid": "S0B2D5C66B220100B",
@@ -1111,11 +1111,11 @@
           "name": "Naked Strawberry Banana 15.2oz",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176054114397470.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-05-29 13:48:11"
+          "stock_updated": "2026-06-03 11:08:08"
         },
         {
           "skuid": "S0B246944E5891006",
@@ -1171,11 +1171,11 @@
           "name": "S. Pellegrino Lemonade 11.15oz",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177078645626497.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-28 21:46:11"
+          "stock_updated": "2026-06-03 18:06:12"
         },
         {
           "skuid": "S0B2D3E6DA5E01005",
@@ -1291,11 +1291,11 @@
           "name": "Trip Elderflower Mint",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177533493701966.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 12,
-          "fill_pct": 83,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-05-28 15:58:29"
+          "stock_updated": "2026-06-03 17:58:13"
         },
         {
           "skuid": "S0B266D76782F1002",
@@ -1339,11 +1339,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 3,
+          "stock": 1,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-06-01 12:27:41"
+          "stock_updated": "2026-06-03 12:46:26"
         }
       ]
     },
@@ -1955,8 +1955,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 53,
-      "in_stock": 46,
-      "out_of_stock": 7,
+      "in_stock": 44,
+      "out_of_stock": 9,
       "low_stock": 0,
       "products": [
         {
@@ -2109,11 +2109,11 @@
           "name": "Deer park water",
           "price": 1.87,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 2,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-03 18:09:20"
         },
         {
           "skuid": "S0B2D527638181007",
@@ -2145,11 +2145,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:39:13"
+          "stock_updated": "2026-06-03 17:49:00"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2193,11 +2193,11 @@
           "name": "Fiji 500ML",
           "price": 2.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597373118026.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-03 18:09:20"
         },
         {
           "skuid": "S0B2C6BBCDF7C1006",
@@ -2217,11 +2217,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:39:13"
+          "stock_updated": "2026-06-03 22:50:39"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -2337,11 +2337,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:39:13"
+          "stock_updated": "2026-06-03 16:42:14"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -2397,11 +2397,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 4,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-03 19:15:52"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -2493,11 +2493,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 7,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:39:13"
+          "stock_updated": "2026-06-03 22:50:39"
         },
         {
           "skuid": "S0B2DFCA832FF100C",
@@ -2577,11 +2577,11 @@
           "name": "Vita coconut water",
           "price": 4.49,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176913044023980.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-03 16:42:14"
         },
         {
           "skuid": "S0B2D527352ED100A",
@@ -3312,22 +3312,142 @@
       "location_name": "McKinley Park",
       "machine_name": "mHUBPrototypingShop",
       "address": "1623 W Fulton St",
-      "total_skus": 5,
-      "in_stock": 1,
-      "out_of_stock": 4,
+      "total_skus": 15,
+      "in_stock": 14,
+      "out_of_stock": 1,
       "low_stock": 0,
       "products": [
+        {
+          "skuid": "S0B2E92BC88C61003",
+          "barcode": "068060503961",
+          "name": "3M pro grade sandpaper",
+          "price": 12.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/844513f1-fb9f-482f-923c-c984b56034d0.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-03 16:39:47"
+        },
+        {
+          "skuid": "S0B2E924E17741004",
+          "barcode": "2006644236",
+          "name": "Blossom White Satin",
+          "price": 6.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/cb90e877-35fd-4a0c-9a9f-538186d04015.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-03 16:39:47"
+        },
+        {
+          "skuid": "S0B2DB5E27A0D1007",
+          "barcode": "020066442347",
+          "name": "Clear Satin",
+          "price": 0.01,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177681144654836.png",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-03 16:39:47"
+        },
+        {
+          "skuid": "S0B2E92C8030B1006",
+          "barcode": "080596052782",
+          "name": "Dremel Kit",
+          "price": 24.0,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178051747690427.png",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-03 16:39:47"
+        },
+        {
+          "skuid": "S0B2E92774C521003",
+          "barcode": "2006638718",
+          "name": "Granite/Stone gray paint+ primer",
+          "price": 6.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/deca90c4-deda-4f49-abe8-a4d1cf71b9e6.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-03 16:39:47"
+        },
+        {
+          "skuid": "S0B2E92C61D541003",
+          "barcode": "079340308084",
+          "name": "loctite clear silicone",
+          "price": 9.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/50a4914b-f09a-43e8-adca-84a95c653567.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-03 16:39:47"
+        },
+        {
+          "skuid": "S0B2E92BFB7E01007",
+          "barcode": "079340271005",
+          "name": "Loctite Threadlocker Red 271 0.2oz",
+          "price": 9.0,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178051693336624.png",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-03 16:39:47"
+        },
         {
           "skuid": "S0B2DD932E3FB100D",
           "barcode": "F0B2DD932E3FB100B",
           "name": "mHUB tshirt",
-          "price": 20.0,
+          "price": 0.01,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177740391906655.png",
-          "stock": 0,
+          "stock": 9999,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-04-28 15:20:10"
+          "stock_updated": "2026-06-03 16:39:47"
+        },
+        {
+          "skuid": "S0B2E92CCA1881001",
+          "barcode": "051207303432",
+          "name": "mix measure bucket",
+          "price": 1.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/3d42dfeb-710b-4e2a-9138-167669f2822a.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-03 16:39:47"
+        },
+        {
+          "skuid": "S0B2E92CBE7C81009",
+          "barcode": "F0B2E92CBE7C81007",
+          "name": "Robot Brown Bag",
+          "price": 25.0,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178051773202328.png",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-03 16:39:47"
+        },
+        {
+          "skuid": "S0B2E926EE2121008",
+          "barcode": "2006618879",
+          "name": "sandable primer",
+          "price": 6.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/35a76bba-10f3-4a0c-b584-15289c813cd8.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-03 16:39:47"
         },
         {
           "skuid": "S0B2DD92CE10E1006",
@@ -3339,7 +3459,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-04-28 15:20:10"
+          "stock_updated": "2026-06-03 16:39:47"
         },
         {
           "skuid": "S0B2DB49723CA1009",
@@ -3351,31 +3471,31 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-04-21 12:12:01"
+          "stock_updated": "2026-06-03 16:39:47"
         },
         {
           "skuid": "S0B2DD9363C581002",
           "barcode": "F0B2DD9363C581000",
           "name": "Torx precision screwdriver set",
-          "price": 50.0,
+          "price": 0.01,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177740413825752.png",
-          "stock": 0,
+          "stock": 9999,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-04-28 15:20:10"
+          "stock_updated": "2026-06-03 16:39:47"
         },
         {
           "skuid": "S0B2DD93A4DA6100D",
           "barcode": "F0B2DD93A4DA6100B",
           "name": "Weld-on",
-          "price": 20.0,
+          "price": 0.01,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177740440491446.png",
-          "stock": 0,
+          "stock": 9999,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-04-28 15:20:10"
+          "stock_updated": "2026-06-03 16:39:47"
         }
       ]
     },

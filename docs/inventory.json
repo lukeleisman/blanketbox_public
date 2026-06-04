@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T09:10:52Z",
+  "updated": "2026-06-04T12:27:10Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1087,11 +1087,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-31 14:55:08"
+          "stock_updated": "2026-06-04 06:03:09"
         },
         {
           "skuid": "S0B246944DEFB1003",

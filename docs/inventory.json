@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T16:00:19Z",
+  "updated": "2026-06-04T18:33:44Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1243,11 +1243,11 @@
           "name": "St James Blood orange",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177732790430139.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 15:08:01"
+          "stock_updated": "2026-06-04 12:54:50"
         },
         {
           "skuid": "S0B2DAF8F87C31004",
@@ -1955,8 +1955,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 53,
-      "in_stock": 44,
-      "out_of_stock": 9,
+      "in_stock": 43,
+      "out_of_stock": 10,
       "low_stock": 0,
       "products": [
         {
@@ -2313,11 +2313,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:39:13"
+          "stock_updated": "2026-06-04 11:07:20"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -2349,11 +2349,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:39:13"
+          "stock_updated": "2026-06-04 11:07:20"
         },
         {
           "skuid": "S0B2E1667504E1008",
@@ -3312,8 +3312,8 @@
       "location_name": "McKinley Park",
       "machine_name": "mHUBPrototypingShop",
       "address": "1623 W Fulton St",
-      "total_skus": 29,
-      "in_stock": 28,
+      "total_skus": 36,
+      "in_stock": 35,
       "out_of_stock": 1,
       "low_stock": 0,
       "products": [
@@ -3327,7 +3327,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2E969CF9C5100B",
@@ -3339,7 +3339,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2E96B92726100C",
@@ -3351,7 +3351,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2E96BB70CA100B",
@@ -3363,7 +3363,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2E96BC970C100C",
@@ -3375,7 +3375,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2E92BC88C61003",
@@ -3387,7 +3387,19 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
+        },
+        {
+          "skuid": "S0B2E96B27D89100B",
+          "barcode": "077089353006",
+          "name": "artist brushes kit",
+          "price": 11.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/f32508c4-d7ab-4091-aa0e-1dea993e7059.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2E924E17741004",
@@ -3399,7 +3411,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2DB5E27A0D1007",
@@ -3411,7 +3423,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2E92C8030B1006",
@@ -3423,7 +3435,31 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
+        },
+        {
+          "skuid": "S0B2E96FD98A4100C",
+          "barcode": "032076955113",
+          "name": "GB cable zip ties",
+          "price": 8.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/5c1e3cfc-0adc-4583-a2f4-60f6dc6a24de.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-04 11:32:52"
+        },
+        {
+          "skuid": "S0B2E970133261008",
+          "barcode": "032076056155",
+          "name": "GB electrical tape 5 pack",
+          "price": 6.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/e310c133-6053-41b8-a279-38ae7d46e3fd.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2E96BE1F4D100A",
@@ -3435,7 +3471,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2E92774C521003",
@@ -3447,7 +3483,19 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
+        },
+        {
+          "skuid": "S0B2E971452D11007",
+          "barcode": "079340685734",
+          "name": "locktite vynil fabric and plastic",
+          "price": 9.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/144bc0cb-c8b5-43e2-a779-2ef44e4024ea.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2E92C61D541003",
@@ -3459,7 +3507,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2E969A0D87100C",
@@ -3471,7 +3519,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2E92BFB7E01007",
@@ -3483,7 +3531,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2DD932E3FB100D",
@@ -3495,7 +3543,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2E96A069391004",
@@ -3507,7 +3555,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2E92CCA1881001",
@@ -3519,7 +3567,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2E96A2567A100A",
@@ -3531,7 +3579,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2E96C007F01002",
@@ -3543,7 +3591,19 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
+        },
+        {
+          "skuid": "S0B2E970C27C91001",
+          "barcode": "032076917814",
+          "name": "performax short cable zip tie",
+          "price": 8.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/5a49df08-bfa0-4393-a6e8-76bdca883c2b.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2E92CBE7C81009",
@@ -3555,7 +3615,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2E926EE2121008",
@@ -3567,7 +3627,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2E969B9C5A1003",
@@ -3579,7 +3639,19 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
+        },
+        {
+          "skuid": "S0B2E9716D5621005",
+          "barcode": "054007104551",
+          "name": "scotch electrical tape",
+          "price": 4.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/11a3f714-4d87-4eda-a444-f3623cd26d76.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2DD92CE10E1006",
@@ -3591,7 +3663,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2E96B459A51002",
@@ -3603,7 +3675,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2E96B6592E100A",
@@ -3615,7 +3687,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2DB49723CA1009",
@@ -3627,7 +3699,19 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
+        },
+        {
+          "skuid": "S0B2E96FFE2AF1004",
+          "barcode": "037083163308",
+          "name": "titebrush",
+          "price": 7.0,
+          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/d7e2ab3c-660e-4e9e-9bac-c8b80fe8e38d.jpg",
+          "stock": 9999,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2DD9363C581002",
@@ -3639,7 +3723,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2E96B761A41003",
@@ -3651,7 +3735,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
         },
         {
           "skuid": "S0B2DD93A4DA6100D",
@@ -3663,7 +3747,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 10:07:31"
+          "stock_updated": "2026-06-04 11:32:52"
         }
       ]
     },

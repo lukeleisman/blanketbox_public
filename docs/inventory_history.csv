@@ -1941,3 +1941,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-06-04T18:33:44Z,16214,doylestown,333 North Broad Cooler,S0B2DD4AAFF451007,850032072052,St James Blood orange,3.0,6,5,-1
 2026-06-04T18:33:44Z,16213,haven,TheHaven#2-cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,1,0,-1
 2026-06-04T18:33:44Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,5,4,-1
+2026-06-04T20:56:40Z,16214,doylestown,333 North Broad Cooler,S0B246944DEF51002,070847811169,Monster Energy,4.27,3,2,-1
+2026-06-04T20:56:40Z,16214,doylestown,333 North Broad Cooler,S0B2BDB1B79DB1001,2620000258,Slim Jim,1.07,28,27,-1
+2026-06-04T20:56:40Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,5,4,-1
+2026-06-04T20:56:40Z,16213,haven,TheHaven#2-cooler,S0B2D48427F221004,044000037444,Fig Newtowns,2.0,4,3,-1

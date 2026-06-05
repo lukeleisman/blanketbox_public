@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T11:41:53Z",
+  "updated": "2026-06-05T14:52:17Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -967,11 +967,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023828232980.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 7,
-          "fill_pct": 29,
+          "fill_pct": 14,
           "stock_warning": 0,
-          "stock_updated": "2026-06-02 16:24:02"
+          "stock_updated": "2026-06-05 08:54:24"
         },
         {
           "skuid": "S0B2D11356C5A1005",
@@ -3312,9 +3312,9 @@
       "location_name": "McKinley Park",
       "machine_name": "mHUBPrototypingShop",
       "address": "1623 W Fulton St",
-      "total_skus": 36,
-      "in_stock": 35,
-      "out_of_stock": 1,
+      "total_skus": 34,
+      "in_stock": 34,
+      "out_of_stock": 0,
       "low_stock": 0,
       "products": [
         {
@@ -3654,18 +3654,6 @@
           "stock_updated": "2026-06-04 11:32:52"
         },
         {
-          "skuid": "S0B2DD92CE10E1006",
-          "barcode": "F0B2DD92CE10E1004",
-          "name": "Serious Grit 5\u201d",
-          "price": 25.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177740352509749.png",
-          "stock": 0,
-          "capacity": 0,
-          "fill_pct": null,
-          "stock_warning": 0,
-          "stock_updated": "2026-06-04 11:32:52"
-        },
-        {
           "skuid": "S0B2E96B459A51002",
           "barcode": "032886944567",
           "name": "southwire 14 solid thin",
@@ -3684,18 +3672,6 @@
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/a830d9c9-b990-4e62-bf6d-32e7efcd44c9.jpg",
           "stock": 9999,
-          "capacity": 0,
-          "fill_pct": null,
-          "stock_warning": 0,
-          "stock_updated": "2026-06-04 11:32:52"
-        },
-        {
-          "skuid": "S0B2DB49723CA1009",
-          "barcode": "037083014143",
-          "name": "Titebond III Ultimate Wood Glue 16oz",
-          "price": 6.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177678973206211.png",
-          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,

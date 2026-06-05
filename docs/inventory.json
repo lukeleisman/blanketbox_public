@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T19:16:58Z",
+  "updated": "2026-06-05T21:07:49Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -53,7 +53,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
           "stock": 8,
           "capacity": 9,
           "fill_pct": 89,
@@ -342,11 +342,11 @@
           "name": "Liquid IV WhtPeach",
           "price": 1.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531093062432.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 12,
-          "fill_pct": 75,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-29 13:52:09"
+          "stock_updated": "2026-06-05 15:19:25"
         },
         {
           "skuid": "S0B29439727A41005",
@@ -774,7 +774,7 @@
           "barcode": "889392010145",
           "name": "Celsius Kiwi Guava",
           "price": 3.57,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/171949904019511.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1633372949844.jpeg",
           "stock": 0,
           "capacity": 0,
           "fill_pct": null,
@@ -871,11 +871,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 12,
-          "fill_pct": 67,
+          "fill_pct": 58,
           "stock_warning": 0,
-          "stock_updated": "2026-06-05 13:30:54"
+          "stock_updated": "2026-06-05 14:17:54"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1819,7 +1819,7 @@
           "barcode": "01280504",
           "name": "Pepsi Diet 12oz Can",
           "price": 2.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174620586447847.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/169279987566712.jpeg",
           "stock": 0,
           "capacity": 1,
           "fill_pct": 0,

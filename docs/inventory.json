@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T21:07:49Z",
+  "updated": "2026-06-05T22:42:11Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -53,7 +53,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
           "stock": 8,
           "capacity": 9,
           "fill_pct": 89,
@@ -703,11 +703,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 14,
-          "fill_pct": 50,
+          "fill_pct": 43,
           "stock_warning": 0,
-          "stock_updated": "2026-06-02 22:02:29"
+          "stock_updated": "2026-06-05 17:12:45"
         },
         {
           "skuid": "S0B273E9F8FFE1006",
@@ -774,7 +774,7 @@
           "barcode": "889392010145",
           "name": "Celsius Kiwi Guava",
           "price": 3.57,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1633372949844.jpeg",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/171949904019511.png",
           "stock": 0,
           "capacity": 0,
           "fill_pct": null,
@@ -1159,11 +1159,11 @@
           "name": "S. Pellegrino Blood Orange 11.15oz",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177078619893420.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-06-02 16:24:02"
+          "stock_updated": "2026-06-05 17:12:45"
         },
         {
           "skuid": "S0B2D3E6D7FBD1003",
@@ -1819,7 +1819,7 @@
           "barcode": "01280504",
           "name": "Pepsi Diet 12oz Can",
           "price": 2.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/169279987566712.jpeg",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174620586447847.png",
           "stock": 0,
           "capacity": 1,
           "fill_pct": 0,
@@ -2493,11 +2493,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 7,
-          "fill_pct": 29,
+          "fill_pct": 14,
           "stock_warning": 0,
-          "stock_updated": "2026-06-05 12:18:59"
+          "stock_updated": "2026-06-05 16:36:37"
         },
         {
           "skuid": "S0B2DFCA832FF100C",
@@ -2553,11 +2553,11 @@
           "name": "V8 Splash Berry BLEND",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176366404103911.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-05 16:36:37"
         },
         {
           "skuid": "S0B2BDAE95FD7100B",

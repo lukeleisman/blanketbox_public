@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T14:52:17Z",
+  "updated": "2026-06-05T17:19:25Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2313,11 +2313,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 11:07:20"
+          "stock_updated": "2026-06-05 12:18:59"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -2493,11 +2493,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 4,
+          "stock": 2,
           "capacity": 7,
-          "fill_pct": 57,
+          "fill_pct": 29,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 13:35:48"
+          "stock_updated": "2026-06-05 12:18:59"
         },
         {
           "skuid": "S0B2DFCA832FF100C",
@@ -3479,11 +3479,11 @@
           "name": "Granite/Stone gray paint+ primer",
           "price": 15.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/deca90c4-deda-4f49-abe8-a4d1cf71b9e6.jpg",
-          "stock": 9999,
+          "stock": 9998,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 11:32:52"
+          "stock_updated": "2026-06-05 10:58:27"
         },
         {
           "skuid": "S0B2E971452D11007",

@@ -1980,3 +1980,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-06-06T04:36:37Z,16213,haven,TheHaven#2-cooler,S0B27699FEA161007,024100123223,Cheez It Original,2.07,6,5,-1
 2026-06-06T04:36:37Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,7,6,-1
 2026-06-06T04:36:37Z,16213,haven,TheHaven#2-cooler,S0B2D484E0EFD1001,014100043706,Milano,2.57,5,4,-1
+2026-06-06T07:45:49Z,15519,doylestown,333 North Broad Ambient,S0B27699FEC921007,047495400700,Natures Bakery - Double Chocolate Brownie,2.57,1,0,-1
+2026-06-06T07:45:49Z,15519,doylestown,333 North Broad Ambient,S0B2D11ED32131009,013971003338,Bare Banana Chips,2.0,2,1,-1
+2026-06-06T07:45:49Z,15519,doylestown,333 North Broad Ambient,S0B2D5C726B89100A,850039286827,Liquid IV WhtPeach,1.75,8,5,-3
+2026-06-06T07:45:49Z,16214,doylestown,333 North Broad Cooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,5.27,1,0,-1

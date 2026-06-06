@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T16:38:46Z",
+  "updated": "2026-06-06T18:05:36Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1955,8 +1955,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 53,
-      "in_stock": 44,
-      "out_of_stock": 9,
+      "in_stock": 43,
+      "out_of_stock": 10,
       "low_stock": 0,
       "products": [
         {
@@ -2193,11 +2193,11 @@
           "name": "Fiji 500ML",
           "price": 2.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597373118026.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-06 06:53:48"
+          "stock_updated": "2026-06-06 11:43:14"
         },
         {
           "skuid": "S0B2C6BBCDF7C1006",
@@ -2217,11 +2217,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 4,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-06-06 06:53:48"
+          "stock_updated": "2026-06-06 11:43:14"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",

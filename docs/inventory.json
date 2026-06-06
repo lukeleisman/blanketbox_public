@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T22:42:11Z",
+  "updated": "2026-06-06T00:06:29Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -693,8 +693,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 54,
-      "in_stock": 42,
-      "out_of_stock": 12,
+      "in_stock": 41,
+      "out_of_stock": 13,
       "low_stock": 0,
       "products": [
         {
@@ -967,11 +967,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023828232980.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 7,
-          "fill_pct": 14,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-05 08:54:24"
+          "stock_updated": "2026-06-05 18:18:17"
         },
         {
           "skuid": "S0B2D11356C5A1005",
@@ -2217,11 +2217,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 22:50:39"
+          "stock_updated": "2026-06-05 18:16:25"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",

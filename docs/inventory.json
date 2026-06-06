@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T00:06:29Z",
+  "updated": "2026-06-06T04:36:37Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1063,11 +1063,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 12,
+          "stock": 11,
           "capacity": 21,
-          "fill_pct": 57,
+          "fill_pct": 52,
           "stock_warning": 0,
-          "stock_updated": "2026-06-05 05:28:42"
+          "stock_updated": "2026-06-05 23:23:06"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -1075,11 +1075,11 @@
           "name": "Maison Perrier Sparkling Water",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17773152898848.png",
-          "stock": 3,
+          "stock": 1,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-05-29 11:52:49"
+          "stock_updated": "2026-06-05 23:23:06"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1099,11 +1099,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 12,
-          "fill_pct": 42,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-06-02 09:10:44"
+          "stock_updated": "2026-06-05 19:34:00"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -2037,11 +2037,11 @@
           "name": "Cheez It Original",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254819896872.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:39:13"
+          "stock_updated": "2026-06-05 21:00:27"
         },
         {
           "skuid": "S0B2DAF9429041007",
@@ -2145,11 +2145,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 17:49:00"
+          "stock_updated": "2026-06-05 20:28:52"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2337,11 +2337,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 16:42:14"
+          "stock_updated": "2026-06-05 22:17:01"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -2361,11 +2361,11 @@
           "name": "Muddy Bites Cookies & Cream",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/850042343036.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-05 21:00:27"
         },
         {
           "skuid": "S0B246944E6E51005",
@@ -2481,11 +2481,11 @@
           "name": "Slim Jim",
           "price": 1.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176053793763544.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-05 21:00:27"
         },
         {
           "skuid": "S0B27699FEBCD1003",

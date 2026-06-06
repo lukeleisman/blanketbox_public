@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T18:05:36Z",
+  "updated": "2026-06-06T19:53:32Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2301,11 +2301,11 @@
           "name": "La Colombe Draft Latte Mocha",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363418524043.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-06 06:53:48"
+          "stock_updated": "2026-06-06 14:20:55"
         },
         {
           "skuid": "S0B246944E19E1000",
@@ -2325,11 +2325,11 @@
           "name": "Maison Perrier Sparkling Water",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17773152898848.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-06-06 06:53:48"
+          "stock_updated": "2026-06-06 14:34:49"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2517,11 +2517,11 @@
           "name": "St James Blood orange",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177732790430139.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-06-06 06:53:48"
+          "stock_updated": "2026-06-06 14:34:49"
         },
         {
           "skuid": "S0B2DAF8F87C31004",

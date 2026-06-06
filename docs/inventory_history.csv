@@ -1989,3 +1989,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-06-06T15:16:12Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,6,5,-1
 2026-06-06T18:05:36Z,16213,haven,TheHaven#2-cooler,S0B246944DF011004,632565000012,Fiji 500ML,2.77,1,0,-1
 2026-06-06T18:05:36Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,4,2,-2
+2026-06-06T19:53:32Z,16213,haven,TheHaven#2-cooler,S0B25FC5DA5DD1003,0491300013,La Colombe Draft Latte Mocha,4.27,2,1,-1
+2026-06-06T19:53:32Z,16213,haven,TheHaven#2-cooler,S0B2DD4AAFF451007,850032072052,St James Blood orange,3.0,3,2,-1
+2026-06-06T19:53:32Z,16213,haven,TheHaven#2-cooler,S0B2D0516EFCB1008,007478051550,Maison Perrier Sparkling Water,2.75,5,4,-1

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T11:53:23Z",
+  "updated": "2026-06-06T13:44:29Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -693,8 +693,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 54,
-      "in_stock": 40,
-      "out_of_stock": 14,
+      "in_stock": 39,
+      "out_of_stock": 15,
       "low_stock": 0,
       "products": [
         {
@@ -1087,11 +1087,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 6,
-          "fill_pct": 17,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-05 06:14:23"
+          "stock_updated": "2026-06-06 07:01:53"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -1955,8 +1955,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 53,
-      "in_stock": 43,
-      "out_of_stock": 10,
+      "in_stock": 44,
+      "out_of_stock": 9,
       "low_stock": 0,
       "products": [
         {
@@ -1969,7 +1969,7 @@
           "capacity": 2,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2D4022EBB71006",
@@ -1981,7 +1981,7 @@
           "capacity": 4,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2740EB95E01006",
@@ -1989,11 +1989,11 @@
           "name": "Beef Liver Dog Treats",
           "price": 20.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174907930543359.png",
-          "stock": 0,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -2005,7 +2005,7 @@
           "capacity": 2,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -2017,7 +2017,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2DD3F2D92D100A",
@@ -2029,7 +2029,7 @@
           "capacity": 10,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:39:13"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -2041,7 +2041,7 @@
           "capacity": 6,
           "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-06-05 21:00:27"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2DAF9429041007",
@@ -2053,7 +2053,7 @@
           "capacity": 4,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B246944DEAE1000",
@@ -2065,7 +2065,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2C6BB0DE621006",
@@ -2077,7 +2077,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2C6B34663C1009",
@@ -2089,7 +2089,7 @@
           "capacity": 3,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:39:13"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2BA2E24FD8100B",
@@ -2101,7 +2101,7 @@
           "capacity": 6,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -2113,7 +2113,7 @@
           "capacity": 2,
           "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 18:09:20"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2D527638181007",
@@ -2125,7 +2125,7 @@
           "capacity": 4,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2D527865D2100C",
@@ -2137,7 +2137,7 @@
           "capacity": 5,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -2149,7 +2149,7 @@
           "capacity": 8,
           "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-05 20:28:52"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2161,7 +2161,7 @@
           "capacity": 4,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:39:13"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B246944DFD21006",
@@ -2173,7 +2173,7 @@
           "capacity": 5,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2D48427F221004",
@@ -2185,7 +2185,7 @@
           "capacity": 4,
           "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 13:35:48"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B246944DF011004",
@@ -2197,7 +2197,7 @@
           "capacity": 2,
           "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 18:09:20"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2C6BBCDF7C1006",
@@ -2209,7 +2209,7 @@
           "capacity": 3,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -2221,7 +2221,7 @@
           "capacity": 6,
           "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-06-05 18:16:25"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -2233,7 +2233,7 @@
           "capacity": 1,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -2245,7 +2245,7 @@
           "capacity": 5,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:39:13"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2257,7 +2257,7 @@
           "capacity": 8,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:39:13"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B246944E7FE1008",
@@ -2269,7 +2269,7 @@
           "capacity": 2,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2D90DF10651003",
@@ -2281,7 +2281,7 @@
           "capacity": 6,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:39:13"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2D4851D7141003",
@@ -2293,7 +2293,7 @@
           "capacity": 4,
           "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 16:32:08"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B25FC5DA5DD1003",
@@ -2305,7 +2305,7 @@
           "capacity": 2,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B246944E19E1000",
@@ -2317,7 +2317,7 @@
           "capacity": 5,
           "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-06-05 12:18:59"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -2329,7 +2329,7 @@
           "capacity": 5,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:39:13"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2341,7 +2341,7 @@
           "capacity": 6,
           "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-06-05 22:17:01"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -2353,7 +2353,7 @@
           "capacity": 1,
           "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 11:07:20"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2E1667504E1008",
@@ -2365,7 +2365,7 @@
           "capacity": 2,
           "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-05 21:00:27"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B246944E6E51005",
@@ -2377,7 +2377,7 @@
           "capacity": 2,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2DAF9204FD1006",
@@ -2389,7 +2389,7 @@
           "capacity": 6,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B246944E3D51001",
@@ -2401,7 +2401,7 @@
           "capacity": 4,
           "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 19:15:52"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -2413,7 +2413,7 @@
           "capacity": 4,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2BAC9D24491002",
@@ -2425,7 +2425,7 @@
           "capacity": 4,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2CC2D2640F1005",
@@ -2437,7 +2437,7 @@
           "capacity": 4,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:39:13"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2D90DB76B5100C",
@@ -2449,7 +2449,7 @@
           "capacity": 4,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:40:52"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B29D2F2643D100B",
@@ -2461,7 +2461,7 @@
           "capacity": 7,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B246944E3C2100B",
@@ -2473,7 +2473,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2BDB1B79DB1001",
@@ -2485,7 +2485,7 @@
           "capacity": 7,
           "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-06-05 21:00:27"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B27699FEBCD1003",
@@ -2497,7 +2497,7 @@
           "capacity": 7,
           "fill_pct": 14,
           "stock_warning": 0,
-          "stock_updated": "2026-06-05 16:36:37"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2DFCA832FF100C",
@@ -2509,7 +2509,7 @@
           "capacity": 2,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:40:52"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2DD4AAFF451007",
@@ -2521,7 +2521,7 @@
           "capacity": 3,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2DAF8F87C31004",
@@ -2533,7 +2533,7 @@
           "capacity": 4,
           "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 16:32:08"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2DFCA43905100C",
@@ -2545,7 +2545,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2BDAEA21801002",
@@ -2557,7 +2557,7 @@
           "capacity": 2,
           "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-05 16:36:37"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2BDAE95FD7100B",
@@ -2569,7 +2569,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2D48452F7E1005",
@@ -2581,7 +2581,7 @@
           "capacity": 1,
           "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 16:42:14"
+          "stock_updated": "2026-06-06 06:53:48"
         },
         {
           "skuid": "S0B2D527352ED100A",
@@ -2593,7 +2593,7 @@
           "capacity": 6,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 09:32:18"
+          "stock_updated": "2026-06-06 06:53:48"
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T18:05:12Z",
+  "updated": "2026-06-07T19:54:25Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2025,11 +2025,11 @@
           "name": "Cheerios Treats",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177731583592140.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-06-06 06:53:48"
+          "stock_updated": "2026-06-07 13:45:37"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -2241,11 +2241,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-06-07 01:46:24"
+          "stock_updated": "2026-06-07 13:45:37"
         },
         {
           "skuid": "S0B246944E4051007",

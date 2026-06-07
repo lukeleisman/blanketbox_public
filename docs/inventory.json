@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T05:06:52Z",
+  "updated": "2026-06-07T08:34:47Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -30,11 +30,11 @@
           "name": "Bare Apple Chips",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176012221211862.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-06-06 21:34:17"
+          "stock_updated": "2026-06-07 00:50:31"
         },
         {
           "skuid": "S0B2D11ED32131009",
@@ -342,11 +342,11 @@
           "name": "Liquid IV WhtPeach",
           "price": 1.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531093062432.png",
-          "stock": 5,
+          "stock": 3,
           "capacity": 12,
-          "fill_pct": 42,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-06-06 00:05:00"
+          "stock_updated": "2026-06-07 00:50:31"
         },
         {
           "skuid": "S0B29439727A41005",
@@ -438,11 +438,11 @@
           "name": "Natures Bakery blueberry fig bat",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866563574429.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-06-06 21:34:17"
+          "stock_updated": "2026-06-07 00:50:31"
         },
         {
           "skuid": "S0B271C0F5611100C",
@@ -883,11 +883,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 20:57:52"
+          "stock_updated": "2026-06-07 00:49:23"
         },
         {
           "skuid": "S0B2D055ACE44100B",
@@ -2241,11 +2241,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-06-06 06:53:48"
+          "stock_updated": "2026-06-07 01:46:24"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2289,11 +2289,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 4.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-06 06:53:48"
+          "stock_updated": "2026-06-07 01:46:24"
         },
         {
           "skuid": "S0B25FC5DA5DD1003",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T21:13:05Z",
+  "updated": "2026-06-07T22:37:03Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1989,11 +1989,11 @@
           "name": "Beef Liver Dog Treats",
           "price": 20.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174907930543359.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-06 06:53:48"
+          "stock_updated": "2026-06-07 16:54:08"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -2337,11 +2337,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 6,
-          "fill_pct": 33,
+          "fill_pct": 17,
           "stock_warning": 0,
-          "stock_updated": "2026-06-06 20:13:44"
+          "stock_updated": "2026-06-07 16:54:08"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -2397,11 +2397,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 4,
-          "fill_pct": 50,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-06-06 06:53:48"
+          "stock_updated": "2026-06-07 16:54:08"
         },
         {
           "skuid": "S0B2DB932853E100A",

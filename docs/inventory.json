@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T00:04:23Z",
+  "updated": "2026-06-07T05:06:52Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -29,12 +29,12 @@
           "barcode": "0013971004311",
           "name": "Bare Apple Chips",
           "price": 2.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175962430824487.png",
-          "stock": 4,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176012221211862.png",
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-05-22 22:24:30"
+          "stock_updated": "2026-06-06 21:34:17"
         },
         {
           "skuid": "S0B2D11ED32131009",
@@ -438,11 +438,11 @@
           "name": "Natures Bakery blueberry fig bat",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866563574429.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 11,
-          "fill_pct": 109,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 14:57:29"
+          "stock_updated": "2026-06-06 21:34:17"
         },
         {
           "skuid": "S0B271C0F5611100C",
@@ -522,11 +522,11 @@
           "name": "Pop Secret popcorn",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 9,
-          "fill_pct": 67,
+          "fill_pct": 56,
           "stock_warning": 0,
-          "stock_updated": "2026-06-02 18:59:04"
+          "stock_updated": "2026-06-06 21:19:25"
         },
         {
           "skuid": "S0B2E02DF96EA1007",
@@ -1159,11 +1159,11 @@
           "name": "S. Pellegrino Blood Orange 11.15oz",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177078619893420.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-06-05 17:12:45"
+          "stock_updated": "2026-06-06 21:19:49"
         },
         {
           "skuid": "S0B2D3E6D7FBD1003",
@@ -1171,11 +1171,11 @@
           "name": "S. Pellegrino Lemonade 11.15oz",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177078645626497.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 18:06:12"
+          "stock_updated": "2026-06-06 21:19:49"
         },
         {
           "skuid": "S0B2D3E6DA5E01005",
@@ -1183,11 +1183,11 @@
           "name": "San Pellegrino Aranciata",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17145040865182.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 14:41:25"
+          "stock_updated": "2026-06-06 21:19:49"
         },
         {
           "skuid": "S0B2D90DB76B5100C",
@@ -2337,11 +2337,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 4,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-06-06 06:53:48"
+          "stock_updated": "2026-06-06 20:13:44"
         },
         {
           "skuid": "S0B246944DEFB1003",

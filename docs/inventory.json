@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T22:36:00Z",
+  "updated": "2026-06-07T00:04:23Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2313,11 +2313,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 3,
+          "stock": 1,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-06-06 06:53:48"
+          "stock_updated": "2026-06-06 19:03:41"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -2409,11 +2409,11 @@
           "name": "Oreo Fresh stacks",
           "price": 5.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686702392867.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-06 06:53:48"
+          "stock_updated": "2026-06-06 19:03:41"
         },
         {
           "skuid": "S0B2BAC9D24491002",

@@ -2027,3 +2027,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-06-08T17:53:53Z,16213,haven,TheHaven#2-cooler,S0B2D484E0EFD1001,014100043706,Milano,2.57,1,0,-1
 2026-06-08T20:18:17Z,16214,doylestown,333 North Broad Cooler,S0B2D05DCDEEB1007,850019179743,Recess ras-lime,4.0,1,0,-1
 2026-06-08T20:18:17Z,16214,doylestown,333 North Broad Cooler,S0B246944E4141002,052000328684,Gatorade Lemon Lime,3.0,3,2,-1
+2026-06-08T22:09:36Z,15519,doylestown,333 North Broad Ambient,S0B2BA2E2259B1009,643843713944,Cliff  Chocolate Chip Protein Bar,2.5,8,6,-2
+2026-06-08T22:09:36Z,16214,doylestown,333 North Broad Cooler,S0B2C85783CD31007,1162002196,Fair Life Core Power 26g Vanilla Protein Shake,5.27,3,2,-1
+2026-06-08T22:09:36Z,16214,doylestown,333 North Broad Cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.57,4,3,-1
+2026-06-08T22:09:36Z,16214,doylestown,333 North Broad Cooler,S0B246944E4141002,052000328684,Gatorade Lemon Lime,3.0,2,0,-2

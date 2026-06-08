@@ -2019,3 +2019,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-06-07T22:37:03Z,16213,haven,TheHaven#2-cooler,S0B2D484E0EFD1001,014100043706,Milano,2.57,2,1,-1
 2026-06-07T22:37:03Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,2,1,-1
 2026-06-07T22:37:03Z,16213,haven,TheHaven#2-cooler,S0B2740EB95E01006,850076106010,Beef Liver Dog Treats,20.07,5,4,-1
+2026-06-08T05:12:37Z,15519,doylestown,333 North Broad Ambient,S0B2D484E0EFD1001,014100043706,Milano,2.0,10,9,-1

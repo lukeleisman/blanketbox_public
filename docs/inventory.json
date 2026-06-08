@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T14:33:43Z",
+  "updated": "2026-06-08T17:53:53Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -979,11 +979,11 @@
           "name": "Health -Ade",
           "price": 4.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177404864183160.png",
-          "stock": 0,
+          "stock": -1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 10:57:33"
+          "stock_updated": "2026-06-08 11:29:29"
         },
         {
           "skuid": "S0B2605A328C81009",
@@ -1955,8 +1955,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 53,
-      "in_stock": 43,
-      "out_of_stock": 10,
+      "in_stock": 42,
+      "out_of_stock": 11,
       "low_stock": 0,
       "products": [
         {
@@ -2337,11 +2337,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 6,
-          "fill_pct": 17,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-07 16:54:08"
+          "stock_updated": "2026-06-08 12:05:51"
         },
         {
           "skuid": "S0B246944DEFB1003",

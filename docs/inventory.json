@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T10:03:35Z",
+  "updated": "2026-06-08T14:33:43Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -693,8 +693,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 54,
-      "in_stock": 38,
-      "out_of_stock": 16,
+      "in_stock": 37,
+      "out_of_stock": 17,
       "low_stock": 0,
       "products": [
         {
@@ -1099,11 +1099,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 12,
-          "fill_pct": 8,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-07 15:22:50"
+          "stock_updated": "2026-06-08 06:15:32"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1965,11 +1965,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-06 06:53:48"
+          "stock_updated": "2026-06-08 08:48:51"
         },
         {
           "skuid": "S0B2D4022EBB71006",
@@ -2241,11 +2241,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-06-07 13:45:37"
+          "stock_updated": "2026-06-08 08:48:51"
         },
         {
           "skuid": "S0B246944E4051007",

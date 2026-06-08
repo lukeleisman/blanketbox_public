@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T22:09:36Z",
+  "updated": "2026-06-08T23:46:39Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1039,11 +1039,11 @@
           "name": "La Colombe Draft Latte Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363400918041.png",
-          "stock": -3,
+          "stock": -4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-03 12:46:26"
+          "stock_updated": "2026-06-08 18:29:59"
         },
         {
           "skuid": "S0B2D5C66B220100B",
@@ -1955,8 +1955,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 53,
-      "in_stock": 42,
-      "out_of_stock": 11,
+      "in_stock": 41,
+      "out_of_stock": 12,
       "low_stock": 0,
       "products": [
         {
@@ -2217,11 +2217,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 6,
-          "fill_pct": 33,
+          "fill_pct": 17,
           "stock_warning": 0,
-          "stock_updated": "2026-06-06 11:43:14"
+          "stock_updated": "2026-06-08 18:10:50"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -2277,11 +2277,11 @@
           "name": "Jennie\u2019s Coconut bites",
           "price": 18.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619046579382.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-06-06 06:53:48"
+          "stock_updated": "2026-06-08 18:10:50"
         },
         {
           "skuid": "S0B2D4851D7141003",
@@ -2553,11 +2553,11 @@
           "name": "V8 Splash Berry BLEND",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176366404103911.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-06 06:53:48"
+          "stock_updated": "2026-06-08 18:10:50"
         },
         {
           "skuid": "S0B2BDAE95FD7100B",

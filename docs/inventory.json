@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T21:18:00Z",
+  "updated": "2026-06-09T22:58:11Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -29,7 +29,7 @@
           "barcode": "0013971004311",
           "name": "Bare Apple Chips",
           "price": 2.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176012221211862.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175962430824487.png",
           "stock": 2,
           "capacity": 5,
           "fill_pct": 40,
@@ -53,7 +53,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
           "stock": 8,
           "capacity": 9,
           "fill_pct": 89,
@@ -774,7 +774,7 @@
           "barcode": "889392010145",
           "name": "Celsius Kiwi Guava",
           "price": 3.57,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/171949904019511.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1633372949844.jpeg",
           "stock": 0,
           "capacity": 0,
           "fill_pct": null,
@@ -1819,7 +1819,7 @@
           "barcode": "01280504",
           "name": "Pepsi Diet 12oz Can",
           "price": 2.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174620586447847.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/169279987566712.jpeg",
           "stock": 0,
           "capacity": 1,
           "fill_pct": 0,

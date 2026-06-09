@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T23:46:39Z",
+  "updated": "2026-06-09T03:34:31Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -102,11 +102,11 @@
           "name": "Cheerios Treats",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177731583592140.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 14:45:19"
+          "stock_updated": "2026-06-08 22:10:12"
         },
         {
           "skuid": "S0B2C6BE9F76D100A",
@@ -114,11 +114,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 10,
+          "stock": 8,
           "capacity": 16,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 21:36:45"
+          "stock_updated": "2026-06-08 22:10:12"
         },
         {
           "skuid": "S0B2BA2E2259B1009",
@@ -258,11 +258,11 @@
           "name": "IQ Bar Chocolate Mint Chip",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17633311766684.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-02 14:23:56"
+          "stock_updated": "2026-06-08 22:10:12"
         },
         {
           "skuid": "S0B2D11E008E11008",
@@ -414,11 +414,11 @@
           "name": "Mrs. Thinsters Chocolate Chip Cookies",
           "price": 9.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1600334457598.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 14:53:52"
+          "stock_updated": "2026-06-08 22:10:12"
         },
         {
           "skuid": "S0B27699FEC921007",
@@ -871,11 +871,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 7,
+          "stock": 4,
           "capacity": 12,
-          "fill_pct": 58,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-06-05 14:17:54"
+          "stock_updated": "2026-06-08 22:12:24"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1063,11 +1063,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 21,
-          "fill_pct": 52,
+          "fill_pct": 48,
           "stock_warning": 0,
-          "stock_updated": "2026-06-05 23:23:06"
+          "stock_updated": "2026-06-08 20:06:04"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -1123,11 +1123,11 @@
           "name": "Pepsi 12oz",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/169279986316211.jpeg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-23 10:15:02"
+          "stock_updated": "2026-06-08 21:50:01"
         },
         {
           "skuid": "S0B2D05DCDEEB1007",
@@ -1279,11 +1279,11 @@
           "name": "Starburst Original",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174309139125249.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-06-05 05:28:42"
+          "stock_updated": "2026-06-08 21:50:01"
         },
         {
           "skuid": "S0B2D5DE0BABD100A",
@@ -1955,8 +1955,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 53,
-      "in_stock": 41,
-      "out_of_stock": 12,
+      "in_stock": 40,
+      "out_of_stock": 13,
       "low_stock": 0,
       "products": [
         {
@@ -2241,11 +2241,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 5,
-          "fill_pct": 40,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-06-08 08:48:51"
+          "stock_updated": "2026-06-08 19:22:42"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2361,11 +2361,11 @@
           "name": "Muddy Bites Cookies & Cream",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/850042343036.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-06 06:53:48"
+          "stock_updated": "2026-06-08 19:22:42"
         },
         {
           "skuid": "S0B246944E6E51005",

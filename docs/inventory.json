@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T08:54:35Z",
+  "updated": "2026-06-10T12:21:33Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1015,11 +1015,11 @@
           "name": "Kombucha",
           "price": 4.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176169975175786.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-05-16 15:08:01"
+          "stock_updated": "2026-06-10 06:25:22"
         },
         {
           "skuid": "S0B25FC5C5C991003",

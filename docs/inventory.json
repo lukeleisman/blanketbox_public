@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T12:21:33Z",
+  "updated": "2026-06-10T16:21:02Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -292,7 +292,7 @@
           "skuid": "S0B2D90DF10651003",
           "barcode": "071879700049",
           "name": "Jennie\u2019s Coconut bites",
-          "price": 18.99,
+          "price": 16.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619046579382.png",
           "stock": 8,
           "capacity": 9,
@@ -1267,11 +1267,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-05-25 14:45:44"
+          "stock_updated": "2026-06-10 10:59:54"
         },
         {
           "skuid": "S0B27699FEF291000",

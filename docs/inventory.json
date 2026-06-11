@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T16:02:38Z",
+  "updated": "2026-06-11T19:18:13Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1171,11 +1171,11 @@
           "name": "St James Blood orange",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177732790430139.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:35:06"
+          "stock_updated": "2026-06-11 14:09:20"
         },
         {
           "skuid": "S0B2DAF8F87C31004",
@@ -1267,11 +1267,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:35:06"
+          "stock_updated": "2026-06-11 14:09:20"
         }
       ]
     },
@@ -1989,11 +1989,11 @@
           "name": "Cheerios Treats",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177731583592140.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 23:45:09"
+          "stock_updated": "2026-06-11 13:45:04"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -2253,11 +2253,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 4.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 23:45:09"
+          "stock_updated": "2026-06-11 13:45:04"
         },
         {
           "skuid": "S0B25FC5DA5DD1003",
@@ -3575,11 +3575,11 @@
           "name": "sandable primer",
           "price": 15.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/35a76bba-10f3-4a0c-b584-15289c813cd8.jpg",
-          "stock": 9999,
+          "stock": 9998,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 11:32:52"
+          "stock_updated": "2026-06-11 11:39:42"
         },
         {
           "skuid": "S0B2E969B9C5A1003",

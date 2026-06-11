@@ -2127,3 +2127,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-06-11T21:34:28Z,16213,haven,TheHaven#2-cooler,S0B2CC2D2640F1005,041508992688,S. Pellegrino Blood Orange 11.15oz,3.77,4,3,-1
 2026-06-11T21:34:28Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,10,8,-2
 2026-06-11T21:34:28Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,10,8,-2
+2026-06-11T23:21:49Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,4,3,-1
+2026-06-11T23:21:49Z,16213,haven,TheHaven#2-cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,8,7,-1
+2026-06-11T23:21:49Z,15520,mckinley,mHUBPrototypingShop,S0B2E96A2567A100A,091511600049,OLFA heavy duty 18mm snap off knife boxcutter,15.0,9999,9998,-1

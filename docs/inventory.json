@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T21:34:28Z",
+  "updated": "2026-06-11T23:21:49Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2217,11 +2217,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063766829.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 23:45:09"
+          "stock_updated": "2026-06-11 17:17:50"
         },
         {
           "skuid": "S0B246944E7FE1008",
@@ -2397,11 +2397,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 23:45:09"
+          "stock_updated": "2026-06-11 17:52:35"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -3527,11 +3527,11 @@
           "name": "OLFA heavy duty 18mm snap off knife boxcutter",
           "price": 15.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/c74fe2d7-2672-4a41-a09b-16a60201b976.jpg",
-          "stock": 9999,
+          "stock": 9998,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-04 11:32:52"
+          "stock_updated": "2026-06-11 17:15:26"
         },
         {
           "skuid": "S0B2E96C007F01002",

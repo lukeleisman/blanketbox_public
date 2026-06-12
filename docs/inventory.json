@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T17:22:01Z",
+  "updated": "2026-06-12T19:29:29Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1147,11 +1147,11 @@
           "name": "Slim Jim",
           "price": 1.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176053793763544.png",
-          "stock": 27,
+          "stock": 26,
           "capacity": 27,
-          "fill_pct": 100,
+          "fill_pct": 96,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:35:06"
+          "stock_updated": "2026-06-12 14:21:25"
         },
         {
           "skuid": "S0B27699FEBCD1003",
@@ -1171,11 +1171,11 @@
           "name": "St James Blood orange",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177732790430139.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-06-11 14:09:20"
+          "stock_updated": "2026-06-12 14:21:25"
         },
         {
           "skuid": "S0B2DAF8F87C31004",
@@ -2025,11 +2025,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 23:45:09"
+          "stock_updated": "2026-06-12 13:05:33"
         },
         {
           "skuid": "S0B2C6BB0DE621006",

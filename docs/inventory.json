@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T11:01:27Z",
+  "updated": "2026-06-12T14:19:26Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -342,11 +342,11 @@
           "name": "Liquid IV WhtPeach",
           "price": 1.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531093062432.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:47:57"
+          "stock_updated": "2026-06-12 06:35:39"
         },
         {
           "skuid": "S0B29439727A41005",
@@ -522,11 +522,11 @@
           "name": "Perfect Amino",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177533474808739.png",
-          "stock": 13,
+          "stock": 12,
           "capacity": 13,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:47:57"
+          "stock_updated": "2026-06-12 06:35:39"
         },
         {
           "skuid": "S0B2BAC9D24491002",
@@ -1027,11 +1027,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 12,
-          "fill_pct": 83,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-11 06:06:06"
+          "stock_updated": "2026-06-12 07:13:21"
         },
         {
           "skuid": "S0B2C377070EC1001",

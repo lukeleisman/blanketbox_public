@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T00:22:32Z",
+  "updated": "2026-06-13T05:02:39Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -835,11 +835,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 13,
+          "stock": 11,
           "capacity": 16,
-          "fill_pct": 81,
+          "fill_pct": 69,
           "stock_warning": 0,
-          "stock_updated": "2026-06-12 18:55:44"
+          "stock_updated": "2026-06-12 19:57:15"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1159,11 +1159,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 13,
-          "fill_pct": 77,
+          "fill_pct": 69,
           "stock_warning": 0,
-          "stock_updated": "2026-06-12 19:10:23"
+          "stock_updated": "2026-06-12 19:57:15"
         },
         {
           "skuid": "S0B2DD4AAFF451007",
@@ -1267,11 +1267,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-11 14:09:20"
+          "stock_updated": "2026-06-12 21:47:14"
         }
       ]
     },
@@ -2181,11 +2181,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 9,
-          "fill_pct": 89,
+          "fill_pct": 78,
           "stock_warning": 0,
-          "stock_updated": "2026-06-12 00:47:52"
+          "stock_updated": "2026-06-12 20:59:37"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -2361,11 +2361,11 @@
           "name": "Natures Bakery - Double Chocolate Brownie",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368269911559.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 23:45:09"
+          "stock_updated": "2026-06-12 23:05:12"
         },
         {
           "skuid": "S0B25F6365FD11002",
@@ -2409,11 +2409,11 @@
           "name": "Oreo Fresh stacks",
           "price": 5.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686702392867.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 23:45:09"
+          "stock_updated": "2026-06-12 23:27:26"
         },
         {
           "skuid": "S0B2BAC9D24491002",

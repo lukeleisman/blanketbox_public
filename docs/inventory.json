@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T11:14:43Z",
+  "updated": "2026-06-13T13:05:11Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -693,8 +693,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 48,
-      "in_stock": 43,
-      "out_of_stock": 5,
+      "in_stock": 42,
+      "out_of_stock": 6,
       "low_stock": 0,
       "products": [
         {
@@ -955,11 +955,11 @@
           "name": "Kombucha",
           "price": 4.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176169975175786.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:35:06"
+          "stock_updated": "2026-06-13 07:59:38"
         },
         {
           "skuid": "S0B25FC5C5C991003",
@@ -2361,11 +2361,11 @@
           "name": "Natures Bakery - Double Chocolate Brownie",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368269911559.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-12 23:05:12"
+          "stock_updated": "2026-06-13 07:03:33"
         },
         {
           "skuid": "S0B25F6365FD11002",

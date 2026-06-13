@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T15:16:36Z",
+  "updated": "2026-06-13T16:55:31Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -991,11 +991,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 10,
+          "stock": 8,
           "capacity": 16,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-13 09:02:44"
+          "stock_updated": "2026-06-13 11:06:27"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -1027,11 +1027,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 9,
+          "stock": 7,
           "capacity": 12,
-          "fill_pct": 75,
+          "fill_pct": 58,
           "stock_warning": 0,
-          "stock_updated": "2026-06-12 07:13:21"
+          "stock_updated": "2026-06-13 11:06:27"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1243,11 +1243,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-06-12 12:11:04"
+          "stock_updated": "2026-06-13 11:13:42"
         },
         {
           "skuid": "S0B2DB92EA84A1003",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T12:22:49Z",
+  "updated": "2026-06-14T14:40:43Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -29,7 +29,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
           "stock": 6,
           "capacity": 8,
           "fill_pct": 75,
@@ -42,11 +42,11 @@
           "name": "Body Armor IV StrKiwi",
           "price": 1.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531187161649.png",
-          "stock": 14,
+          "stock": 13,
           "capacity": 14,
-          "fill_pct": 100,
+          "fill_pct": 93,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:47:57"
+          "stock_updated": "2026-06-14 07:41:17"
         },
         {
           "skuid": "S0B2D5C7E61611005",
@@ -1747,7 +1747,7 @@
           "barcode": "01280504",
           "name": "Pepsi Diet 12oz Can",
           "price": 2.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/169279987566712.jpeg",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174620586447847.png",
           "stock": 0,
           "capacity": 1,
           "fill_pct": 0,

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T17:56:55Z",
+  "updated": "2026-06-14T19:43:48Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2145,11 +2145,11 @@
           "name": "Fig Newtowns",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17749722455349.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 23:45:09"
+          "stock_updated": "2026-06-14 13:09:10"
         },
         {
           "skuid": "S0B2C6BBCDF7C1006",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T23:04:43Z",
+  "updated": "2026-06-14T01:43:46Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -30,11 +30,11 @@
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-12 01:12:24"
+          "stock_updated": "2026-06-13 20:21:59"
         },
         {
           "skuid": "S0B2D5C80C7741005",
@@ -835,11 +835,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 11,
+          "stock": 9,
           "capacity": 16,
-          "fill_pct": 69,
+          "fill_pct": 56,
           "stock_warning": 0,
-          "stock_updated": "2026-06-12 19:57:15"
+          "stock_updated": "2026-06-13 18:52:43"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2001,11 +2001,11 @@
           "name": "Cheez It Original",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254819896872.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-06-13 16:48:44"
+          "stock_updated": "2026-06-13 19:57:12"
         },
         {
           "skuid": "S0B2DAF9429041007",
@@ -2469,11 +2469,11 @@
           "name": "Slim Jim",
           "price": 1.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176053793763544.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 23:45:09"
+          "stock_updated": "2026-06-13 19:57:12"
         },
         {
           "skuid": "S0B27699FEBCD1003",
@@ -2529,11 +2529,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 8,
+          "stock": 6,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-06-12 17:09:46"
+          "stock_updated": "2026-06-13 19:57:12"
         },
         {
           "skuid": "S0B2D48452F7E1005",

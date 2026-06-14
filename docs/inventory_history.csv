@@ -2183,3 +2183,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-06-13T23:04:43Z,16213,haven,TheHaven#2-cooler,S0B2C6BC04A97100D,F0B2C6BC04A97100B,Fruit Loops Cereal,1.99,5,4,-1
 2026-06-13T23:04:43Z,16213,haven,TheHaven#2-cooler,S0B27699FEA161007,024100123223,Cheez It Original,2.07,6,5,-1
 2026-06-13T23:04:43Z,16213,haven,TheHaven#2-cooler,S0B2BAC9D24491002,F0B2BAC9D24491000,Pop Secret popcorn,2.0,4,3,-1
+2026-06-14T01:43:46Z,15519,doylestown,333 North Broad Ambient,S0B260510FB391004,860002564531,Betterway Toilet Paper Roll,3.25,7,6,-1
+2026-06-14T01:43:46Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,11,9,-2
+2026-06-14T01:43:46Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.6,8,6,-2
+2026-06-14T01:43:46Z,16213,haven,TheHaven#2-cooler,S0B2BDB1B79DB1001,2620000258,Slim Jim,1.0,6,5,-1
+2026-06-14T01:43:46Z,16213,haven,TheHaven#2-cooler,S0B27699FEA161007,024100123223,Cheez It Original,2.07,5,4,-1

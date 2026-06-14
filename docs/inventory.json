@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T01:43:46Z",
+  "updated": "2026-06-14T06:41:27Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 56,
-      "in_stock": 56,
-      "out_of_stock": 0,
+      "in_stock": 55,
+      "out_of_stock": 1,
       "low_stock": 0,
       "products": [
         {
@@ -342,11 +342,11 @@
           "name": "Liquid IV WhtPeach",
           "price": 1.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531093062432.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-12 06:35:39"
+          "stock_updated": "2026-06-13 23:16:56"
         },
         {
           "skuid": "S0B29439727A41005",
@@ -426,11 +426,11 @@
           "name": "Natures Bakery - Double Chocolate Brownie",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368269911559.png",
-          "stock": 16,
+          "stock": 15,
           "capacity": 16,
-          "fill_pct": 100,
+          "fill_pct": 94,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:47:57"
+          "stock_updated": "2026-06-13 23:16:56"
         },
         {
           "skuid": "S0B2885215A1B1003",
@@ -438,11 +438,11 @@
           "name": "Natures Bakery blueberry fig bat",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866563574429.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-06-13 09:46:07"
+          "stock_updated": "2026-06-13 23:16:56"
         },
         {
           "skuid": "S0B271C0F5611100C",
@@ -693,8 +693,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 48,
-      "in_stock": 42,
-      "out_of_stock": 6,
+      "in_stock": 41,
+      "out_of_stock": 7,
       "low_stock": 0,
       "products": [
         {
@@ -763,11 +763,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:35:06"
+          "stock_updated": "2026-06-13 22:06:24"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -871,11 +871,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 5,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 22:14:49"
+          "stock_updated": "2026-06-13 22:55:28"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -2001,11 +2001,11 @@
           "name": "Cheez It Original",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254819896872.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-13 19:57:12"
+          "stock_updated": "2026-06-13 22:29:12"
         },
         {
           "skuid": "S0B2DAF9429041007",
@@ -2181,11 +2181,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 9,
-          "fill_pct": 78,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-06-12 20:59:37"
+          "stock_updated": "2026-06-13 22:29:12"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -2397,11 +2397,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-11 17:52:35"
+          "stock_updated": "2026-06-13 22:29:12"
         },
         {
           "skuid": "S0B2DB932853E100A",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T10:24:43Z",
+  "updated": "2026-06-14T12:22:49Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -29,7 +29,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
           "stock": 6,
           "capacity": 8,
           "fill_pct": 75,
@@ -1747,7 +1747,7 @@
           "barcode": "01280504",
           "name": "Pepsi Diet 12oz Can",
           "price": 2.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174620586447847.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/169279987566712.jpeg",
           "stock": 0,
           "capacity": 1,
           "fill_pct": 0,

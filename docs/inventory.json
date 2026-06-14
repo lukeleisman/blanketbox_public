@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T16:22:03Z",
+  "updated": "2026-06-14T17:56:55Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2457,11 +2457,11 @@
           "name": "San Pelligrino Pomegranate and Orange",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17601191596212.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-06-14 10:58:42"
+          "stock_updated": "2026-06-14 12:07:32"
         },
         {
           "skuid": "S0B2BDB1B79DB1001",
@@ -2505,11 +2505,11 @@
           "name": "St James Blood orange",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177732790430139.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 23:45:09"
+          "stock_updated": "2026-06-14 12:07:32"
         },
         {
           "skuid": "S0B2DAF8F87C31004",

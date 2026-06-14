@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T19:43:48Z",
+  "updated": "2026-06-14T21:13:00Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -42,11 +42,11 @@
           "name": "Body Armor IV StrKiwi",
           "price": 1.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531187161649.png",
-          "stock": 13,
+          "stock": 12,
           "capacity": 14,
-          "fill_pct": 93,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-06-14 07:41:17"
+          "stock_updated": "2026-06-14 15:11:05"
         },
         {
           "skuid": "S0B2D5C7E61611005",
@@ -835,11 +835,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 16,
-          "fill_pct": 56,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-13 18:52:43"
+          "stock_updated": "2026-06-14 15:08:45"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1267,11 +1267,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-06-12 21:47:14"
+          "stock_updated": "2026-06-14 15:08:08"
         }
       ]
     },

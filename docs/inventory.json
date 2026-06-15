@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T22:40:44Z",
+  "updated": "2026-06-15T00:10:07Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -102,11 +102,11 @@
           "name": "Cliff  Chocolate Chip Protein Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17674936233687.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:47:57"
+          "stock_updated": "2026-06-14 17:50:02"
         },
         {
           "skuid": "S0B2D5CAD34F61005",
@@ -703,11 +703,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 15,
+          "stock": 13,
           "capacity": 15,
-          "fill_pct": 100,
+          "fill_pct": 87,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:39:40"
+          "stock_updated": "2026-06-14 18:47:36"
         },
         {
           "skuid": "S0B2EB7FF1C0F1007",
@@ -883,11 +883,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:35:06"
+          "stock_updated": "2026-06-14 17:49:49"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",

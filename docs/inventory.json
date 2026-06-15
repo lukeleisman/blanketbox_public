@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T00:10:07Z",
+  "updated": "2026-06-15T05:36:19Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -29,7 +29,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
           "stock": 6,
           "capacity": 8,
           "fill_pct": 75,
@@ -90,11 +90,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-06-12 00:44:02"
+          "stock_updated": "2026-06-14 22:20:29"
         },
         {
           "skuid": "S0B2BA2E2259B1009",
@@ -498,11 +498,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 8,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:47:57"
+          "stock_updated": "2026-06-14 22:54:51"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -751,11 +751,11 @@
           "name": "Celsius Galaxy Vibe",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368496288665.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:38:36"
+          "stock_updated": "2026-06-14 19:30:58"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -847,11 +847,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-06-11 16:28:17"
+          "stock_updated": "2026-06-14 21:43:04"
         },
         {
           "skuid": "S0B2D055ACE44100B",
@@ -991,11 +991,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 16,
-          "fill_pct": 50,
+          "fill_pct": 44,
           "stock_warning": 0,
-          "stock_updated": "2026-06-13 11:06:27"
+          "stock_updated": "2026-06-14 21:53:58"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -1015,11 +1015,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-06-11 22:44:43"
+          "stock_updated": "2026-06-14 21:53:58"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -1243,11 +1243,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-06-13 11:13:42"
+          "stock_updated": "2026-06-14 22:55:25"
         },
         {
           "skuid": "S0B2DB92EA84A1003",
@@ -1255,11 +1255,11 @@
           "name": "Vita Coconut Extra Coconut",
           "price": 4.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176904241917369.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-06-11 10:12:37"
+          "stock_updated": "2026-06-14 21:43:04"
         },
         {
           "skuid": "S0B2E63AC3F231007",
@@ -1747,7 +1747,7 @@
           "barcode": "01280504",
           "name": "Pepsi Diet 12oz Can",
           "price": 2.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174620586447847.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/169279987566712.jpeg",
           "stock": 0,
           "capacity": 1,
           "fill_pct": 0,
@@ -1917,11 +1917,11 @@
           "name": "Beef Liver Dog Treats",
           "price": 20.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174907930543359.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 23:45:09"
+          "stock_updated": "2026-06-14 21:11:58"
         },
         {
           "skuid": "S0B2EB7FF1C0F1007",
@@ -2181,11 +2181,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 9,
-          "fill_pct": 67,
+          "fill_pct": 56,
           "stock_warning": 0,
-          "stock_updated": "2026-06-13 22:29:12"
+          "stock_updated": "2026-06-14 21:56:54"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -2529,11 +2529,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 10,
-          "fill_pct": 60,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-13 19:57:12"
+          "stock_updated": "2026-06-14 21:11:58"
         },
         {
           "skuid": "S0B2D48452F7E1005",

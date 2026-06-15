@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T12:15:01Z",
+  "updated": "2026-06-15T17:30:31Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -474,11 +474,11 @@
           "name": "Neutrogena Ultra Sheer Body Mist Sunscreen",
           "price": 9.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363348881538.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:47:57"
+          "stock_updated": "2026-06-15 11:04:04"
         },
         {
           "skuid": "S0B2DAF9204FD1006",
@@ -787,11 +787,11 @@
           "name": "Celsius Watermelon",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173400663718739.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:35:06"
+          "stock_updated": "2026-06-15 11:43:49"
         },
         {
           "skuid": "S0B246944DEAE1000",
@@ -847,11 +847,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-06-14 21:43:04"
+          "stock_updated": "2026-06-15 11:08:44"
         },
         {
           "skuid": "S0B2D055ACE44100B",
@@ -871,11 +871,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-06-13 22:55:28"
+          "stock_updated": "2026-06-15 11:43:49"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -1015,11 +1015,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-14 21:53:58"
+          "stock_updated": "2026-06-15 08:26:19"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -1027,11 +1027,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 12,
-          "fill_pct": 58,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-13 11:06:27"
+          "stock_updated": "2026-06-15 10:22:41"
         },
         {
           "skuid": "S0B2C377070EC1001",

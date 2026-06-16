@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T21:25:26Z",
+  "updated": "2026-06-16T23:04:30Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -426,11 +426,11 @@
           "name": "Natures Bakery - Double Chocolate Brownie",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368269911559.png",
-          "stock": 15,
+          "stock": 14,
           "capacity": 16,
-          "fill_pct": 94,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-06-13 23:16:56"
+          "stock_updated": "2026-06-16 16:34:24"
         },
         {
           "skuid": "S0B2885215A1B1003",

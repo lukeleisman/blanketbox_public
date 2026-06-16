@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T08:26:23Z",
+  "updated": "2026-06-16T13:12:38Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1027,11 +1027,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 4,
+          "stock": 1,
           "capacity": 12,
-          "fill_pct": 33,
+          "fill_pct": 8,
           "stock_warning": 0,
-          "stock_updated": "2026-06-15 19:34:58"
+          "stock_updated": "2026-06-16 06:05:25"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1917,11 +1917,11 @@
           "name": "Beef Liver Dog Treats",
           "price": 20.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174907930543359.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-06-14 21:11:58"
+          "stock_updated": "2026-06-16 06:48:07"
         },
         {
           "skuid": "S0B2EB7FF1C0F1007",
@@ -1977,11 +1977,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": -1,
+          "stock": -2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-13 10:00:16"
+          "stock_updated": "2026-06-16 07:20:47"
         },
         {
           "skuid": "S0B2DD3F2D92D100A",
@@ -2169,11 +2169,11 @@
           "name": "Fruit Loops Cereal",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177127272492393.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-06-13 16:48:44"
+          "stock_updated": "2026-06-16 07:20:47"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -2181,11 +2181,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 9,
-          "fill_pct": 44,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-06-15 19:56:14"
+          "stock_updated": "2026-06-16 06:48:07"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -2277,11 +2277,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 10,
-          "fill_pct": 60,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-12 10:02:00"
+          "stock_updated": "2026-06-16 06:48:07"
         },
         {
           "skuid": "S0B27699FEBD41002",
@@ -2397,11 +2397,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 4,
-          "fill_pct": 50,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-06-13 22:29:12"
+          "stock_updated": "2026-06-16 06:48:07"
         },
         {
           "skuid": "S0B2DB932853E100A",

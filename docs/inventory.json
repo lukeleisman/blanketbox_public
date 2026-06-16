@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T23:02:51Z",
+  "updated": "2026-06-16T02:06:47Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -282,11 +282,11 @@
           "name": "Japanese Party Mix",
           "price": 18.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799892794318.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-12 01:12:24"
+          "stock_updated": "2026-06-15 19:41:08"
         },
         {
           "skuid": "S0B2D90DF10651003",
@@ -618,11 +618,11 @@
           "name": "Sprinkles red velvet cupcakes",
           "price": 6.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177810223481850.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:47:57"
+          "stock_updated": "2026-06-15 20:50:38"
         },
         {
           "skuid": "S0B2C23DBC5C81001",
@@ -991,11 +991,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 16,
-          "fill_pct": 44,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-06-14 21:53:58"
+          "stock_updated": "2026-06-15 18:41:32"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -1027,11 +1027,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 12,
-          "fill_pct": 42,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-06-15 14:50:24"
+          "stock_updated": "2026-06-15 19:34:58"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1087,11 +1087,11 @@
           "name": "S. Pellegrino Blood Orange 11.15oz",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177078619893420.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:35:06"
+          "stock_updated": "2026-06-15 18:41:32"
         },
         {
           "skuid": "S0B2D3E6D7FBD1003",
@@ -2181,11 +2181,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 9,
-          "fill_pct": 56,
+          "fill_pct": 44,
           "stock_warning": 0,
-          "stock_updated": "2026-06-14 21:56:54"
+          "stock_updated": "2026-06-15 19:56:14"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -2481,11 +2481,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 10,
-          "fill_pct": 60,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-14 10:58:42"
+          "stock_updated": "2026-06-15 19:56:14"
         },
         {
           "skuid": "S0B2DFCA832FF100C",

@@ -2256,3 +2256,14 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-06-17T07:33:11Z,16214,doylestown,333 North Broad Cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,8,7,-1
 2026-06-17T12:16:27Z,16214,doylestown,333 North Broad Cooler,S0B246944DEF51002,070847811169,Monster Energy,4.27,3,2,-1
 2026-06-17T16:11:26Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,2,1,-1
+2026-06-17T21:07:17Z,15519,doylestown,333 North Broad Ambient,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.5,5,4,-1
+2026-06-17T21:07:17Z,16214,doylestown,333 North Broad Cooler,S0B246944E5841006,889392000313,Celsius Orange,3.57,2,1,-1
+2026-06-17T21:07:17Z,16214,doylestown,333 North Broad Cooler,S0B2D055ACE44100B,1162002198,Fairlife Core Power - Strawberry (26g Complete Protein),5.27,4,3,-1
+2026-06-17T21:07:17Z,16214,doylestown,333 North Broad Cooler,S0B2D4851D7141003,195372325155,Just Ice Tea Peach Oolong 16oz,3.99,8,7,-1
+2026-06-17T21:07:17Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,6,5,-1
+2026-06-17T21:07:17Z,16213,haven,TheHaven#2-cooler,S0B27699FEBD41002,04003100,M&M’s Milk Chocolate,2.57,3,2,-1
+2026-06-17T21:07:17Z,16213,haven,TheHaven#2-cooler,S0B246944E7FE1008,03484308,Icebreakers Peppermint Sugar Free,4.5,2,1,-1
+2026-06-17T21:07:17Z,16213,haven,TheHaven#2-cooler,S0B2D4851D7141003,195372325155,Just Ice Tea Peach Oolong 16oz,4.07,1,0,-1
+2026-06-17T21:07:17Z,16213,haven,TheHaven#2-cooler,S0B2D484E0EFD1001,014100043706,Milano,2.57,6,5,-1
+2026-06-17T21:07:17Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,5,4,-1
+2026-06-17T21:07:17Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,1,0,-1

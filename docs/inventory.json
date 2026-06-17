@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T18:41:13Z",
+  "updated": "2026-06-17T21:07:17Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -498,11 +498,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-16 23:35:30"
+          "stock_updated": "2026-06-17 14:51:22"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -775,11 +775,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 6,
-          "fill_pct": 33,
+          "fill_pct": 17,
           "stock_warning": 0,
-          "stock_updated": "2026-06-16 12:03:37"
+          "stock_updated": "2026-06-17 14:50:28"
         },
         {
           "skuid": "S0B2668475B231007",
@@ -859,11 +859,11 @@
           "name": "Fairlife Core Power - Strawberry (26g Complete Protein)",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175859439715951.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:35:06"
+          "stock_updated": "2026-06-17 15:27:14"
         },
         {
           "skuid": "S0B246944DFD21006",
@@ -943,11 +943,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 3.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:35:06"
+          "stock_updated": "2026-06-17 15:27:14"
         },
         {
           "skuid": "S0B2D11D53BB51008",
@@ -991,11 +991,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 16,
-          "fill_pct": 38,
+          "fill_pct": 31,
           "stock_warning": 0,
-          "stock_updated": "2026-06-15 18:41:32"
+          "stock_updated": "2026-06-17 14:48:25"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -1883,8 +1883,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 55,
-      "in_stock": 53,
-      "out_of_stock": 2,
+      "in_stock": 51,
+      "out_of_stock": 4,
       "low_stock": 0,
       "products": [
         {
@@ -2229,11 +2229,11 @@
           "name": "Icebreakers Peppermint Sugar Free",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/169895634768829.jpeg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 23:45:09"
+          "stock_updated": "2026-06-17 15:16:23"
         },
         {
           "skuid": "S0B2D90DF10651003",
@@ -2253,11 +2253,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 4.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-11 13:45:04"
+          "stock_updated": "2026-06-17 15:51:33"
         },
         {
           "skuid": "S0B25FC5DA5DD1003",
@@ -2277,11 +2277,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 10,
-          "fill_pct": 50,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-06-16 06:48:07"
+          "stock_updated": "2026-06-17 15:16:23"
         },
         {
           "skuid": "S0B27699FEBD41002",
@@ -2289,11 +2289,11 @@
           "name": "M&M\u2019s Milk Chocolate",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254811305183.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-06-11 15:06:11"
+          "stock_updated": "2026-06-17 14:57:01"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -2313,11 +2313,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 23:45:09"
+          "stock_updated": "2026-06-17 14:57:01"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -2397,11 +2397,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 4,
-          "fill_pct": 25,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-16 06:48:07"
+          "stock_updated": "2026-06-17 15:16:23"
         },
         {
           "skuid": "S0B2DB932853E100A",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T21:07:17Z",
+  "updated": "2026-06-17T22:57:36Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1893,11 +1893,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 23:45:09"
+          "stock_updated": "2026-06-17 17:00:48"
         },
         {
           "skuid": "S0B2D4022EBB71006",
@@ -1977,11 +1977,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": -2,
+          "stock": -3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-16 07:20:47"
+          "stock_updated": "2026-06-17 16:30:14"
         },
         {
           "skuid": "S0B2DD3F2D92D100A",

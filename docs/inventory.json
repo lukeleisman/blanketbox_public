@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T19:28:49Z",
+  "updated": "2026-06-18T21:34:34Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -693,8 +693,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 48,
-      "in_stock": 39,
-      "out_of_stock": 9,
+      "in_stock": 38,
+      "out_of_stock": 10,
       "low_stock": 0,
       "products": [
         {
@@ -703,11 +703,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 15,
-          "fill_pct": 80,
+          "fill_pct": 73,
           "stock_warning": 0,
-          "stock_updated": "2026-06-17 19:31:41"
+          "stock_updated": "2026-06-18 15:02:43"
         },
         {
           "skuid": "S0B2EB7FF1C0F1007",
@@ -871,11 +871,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 6,
-          "fill_pct": 17,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-16 12:03:37"
+          "stock_updated": "2026-06-18 16:19:37"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -883,11 +883,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 4,
-          "fill_pct": 50,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-06-17 17:58:55"
+          "stock_updated": "2026-06-18 15:57:14"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1267,11 +1267,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-14 15:08:08"
+          "stock_updated": "2026-06-18 15:52:21"
         }
       ]
     },

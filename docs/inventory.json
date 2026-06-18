@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T16:33:01Z",
+  "updated": "2026-06-18T19:28:49Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1015,11 +1015,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 8,
-          "fill_pct": 25,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-06-17 05:50:08"
+          "stock_updated": "2026-06-18 13:12:28"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -1883,8 +1883,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 55,
-      "in_stock": 50,
-      "out_of_stock": 5,
+      "in_stock": 49,
+      "out_of_stock": 6,
       "low_stock": 0,
       "products": [
         {
@@ -2181,11 +2181,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 9,
-          "fill_pct": 11,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-17 07:32:30"
+          "stock_updated": "2026-06-18 13:19:14"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",

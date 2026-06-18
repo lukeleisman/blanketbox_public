@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T09:53:49Z",
+  "updated": "2026-06-18T12:53:00Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -787,11 +787,11 @@
           "name": "Celsius Watermelon",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173400663718739.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-06-15 11:43:49"
+          "stock_updated": "2026-06-18 06:18:13"
         },
         {
           "skuid": "S0B246944DEAE1000",

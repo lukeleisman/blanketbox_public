@@ -2270,3 +2270,13 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-06-17T22:57:36Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.5,4,3,-1
 2026-06-17T22:57:36Z,16213,haven,TheHaven#2-cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,-2,-3,-1
 2026-06-18T00:20:54Z,16214,doylestown,333 North Broad Cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,3,2,-1
+2026-06-18T05:17:07Z,15519,doylestown,333 North Broad Ambient,S0B2DB932853E100A,044000082048,Oreo Fresh stacks,5.25,7,6,-1
+2026-06-18T05:17:07Z,16214,doylestown,333 North Broad Cooler,S0B246944E5841006,889392000313,Celsius Orange,3.57,1,0,-1
+2026-06-18T05:17:07Z,16214,doylestown,333 North Broad Cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.57,13,12,-1
+2026-06-18T05:17:07Z,16214,doylestown,333 North Broad Cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,7,6,-1
+2026-06-18T05:17:07Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,5,4,-1
+2026-06-18T05:17:07Z,16214,doylestown,333 North Broad Cooler,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.5,5,4,-1
+2026-06-18T05:17:07Z,16213,haven,TheHaven#2-cooler,S0B27699FEC921007,047495400700,Natures Bakery - Double Chocolate Brownie,2.57,6,5,-1
+2026-06-18T05:17:07Z,16213,haven,TheHaven#2-cooler,S0B2DFCA832FF100C,850054874207,Sprinkles cupcakes,5.0,2,1,-1
+2026-06-18T05:17:07Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.5,3,0,-3
+2026-06-18T05:17:07Z,16213,haven,TheHaven#2-cooler,S0B2DAF8F87C31004,850032072090,St James Green Tea,3.0,3,2,-1

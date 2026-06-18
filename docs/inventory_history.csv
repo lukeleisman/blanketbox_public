@@ -2281,3 +2281,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-06-18T05:17:07Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.5,3,0,-3
 2026-06-18T05:17:07Z,16213,haven,TheHaven#2-cooler,S0B2DAF8F87C31004,850032072090,St James Green Tea,3.0,3,2,-1
 2026-06-18T12:53:00Z,16214,doylestown,333 North Broad Cooler,S0B2668475B231007,8939200362,Celsius Watermelon,3.57,5,4,-1
+2026-06-18T16:33:01Z,16214,doylestown,333 North Broad Cooler,S0B2668475B231007,8939200362,Celsius Watermelon,3.57,4,3,-1
+2026-06-18T16:33:01Z,16213,haven,TheHaven#2-cooler,S0B25F6365FD11002,0980080005,NutellaGo,2.5,8,7,-1
+2026-06-18T16:33:01Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,8,7,-1
+2026-06-18T16:33:01Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,5,4,-1

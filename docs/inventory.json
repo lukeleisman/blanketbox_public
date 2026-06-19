@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T18:15:40Z",
+  "updated": "2026-06-19T20:14:37Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -90,11 +90,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-06-14 22:20:29"
+          "stock_updated": "2026-06-19 13:33:52"
         },
         {
           "skuid": "S0B2BA2E2259B1009",
@@ -498,11 +498,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-06-17 14:51:22"
+          "stock_updated": "2026-06-19 13:33:52"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -2529,11 +2529,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 10,
-          "fill_pct": 20,
+          "fill_pct": 10,
           "stock_warning": 0,
-          "stock_updated": "2026-06-19 12:18:02"
+          "stock_updated": "2026-06-19 14:49:20"
         },
         {
           "skuid": "S0B2D48452F7E1005",
@@ -3264,8 +3264,8 @@
       "location_name": "McKinley Park",
       "machine_name": "mHUBPrototypingShop",
       "address": "1623 W Fulton St",
-      "total_skus": 34,
-      "in_stock": 34,
+      "total_skus": 30,
+      "in_stock": 30,
       "out_of_stock": 0,
       "low_stock": 0,
       "products": [
@@ -3354,30 +3354,6 @@
           "stock_updated": "2026-06-04 11:32:52"
         },
         {
-          "skuid": "S0B2E924E17741004",
-          "barcode": "2006644236",
-          "name": "Blossom White Satin",
-          "price": 15.0,
-          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/cb90e877-35fd-4a0c-9a9f-538186d04015.jpg",
-          "stock": 9999,
-          "capacity": 0,
-          "fill_pct": null,
-          "stock_warning": 0,
-          "stock_updated": "2026-06-04 11:32:52"
-        },
-        {
-          "skuid": "S0B2DB5E27A0D1007",
-          "barcode": "020066442347",
-          "name": "Clear Satin",
-          "price": 15.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177681144654836.png",
-          "stock": 9999,
-          "capacity": 0,
-          "fill_pct": null,
-          "stock_warning": 0,
-          "stock_updated": "2026-06-04 11:32:52"
-        },
-        {
           "skuid": "S0B2E92C8030B1006",
           "barcode": "080596052782",
           "name": "Dremel Kit",
@@ -3424,18 +3400,6 @@
           "fill_pct": null,
           "stock_warning": 0,
           "stock_updated": "2026-06-04 11:32:52"
-        },
-        {
-          "skuid": "S0B2E92774C521003",
-          "barcode": "2006638718",
-          "name": "Granite/Stone gray paint+ primer",
-          "price": 15.0,
-          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/deca90c4-deda-4f49-abe8-a4d1cf71b9e6.jpg",
-          "stock": 9998,
-          "capacity": 0,
-          "fill_pct": null,
-          "stock_warning": 0,
-          "stock_updated": "2026-06-05 10:58:27"
         },
         {
           "skuid": "S0B2E971452D11007",
@@ -3561,25 +3525,13 @@
           "skuid": "S0B2E92CBE7C81009",
           "barcode": "F0B2E92CBE7C81007",
           "name": "Robot Brown Bag",
-          "price": 25.0,
+          "price": 12.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178051773202328.png",
           "stock": 9999,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
           "stock_updated": "2026-06-04 11:32:52"
-        },
-        {
-          "skuid": "S0B2E926EE2121008",
-          "barcode": "2006618879",
-          "name": "sandable primer",
-          "price": 15.0,
-          "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/35a76bba-10f3-4a0c-b584-15289c813cd8.jpg",
-          "stock": 9998,
-          "capacity": 0,
-          "fill_pct": null,
-          "stock_warning": 0,
-          "stock_updated": "2026-06-11 11:39:42"
         },
         {
           "skuid": "S0B2E969B9C5A1003",

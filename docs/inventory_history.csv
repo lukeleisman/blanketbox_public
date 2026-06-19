@@ -2310,3 +2310,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-06-19T20:14:37Z,15519,doylestown,333 North Broad Ambient,S0B2C6BE9F76D100A,2410012261,Cheez-It 1.5 oz,2.0,5,4,-1
 2026-06-19T20:14:37Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.6,2,1,-1
 2026-06-19T21:43:59Z,16213,haven,TheHaven#2-cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,-4,-5,-1
+2026-06-19T22:58:19Z,16213,haven,TheHaven#2-cooler,S0B27699FEA161007,024100123223,Cheez It Original,2.07,1,0,-1
+2026-06-19T22:58:19Z,16213,haven,TheHaven#2-cooler,S0B246944E9A41003,082657500638,Deer park water,1.87,6,5,-1

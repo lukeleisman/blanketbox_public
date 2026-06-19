@@ -2299,3 +2299,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-06-19T12:58:41Z,16214,doylestown,333 North Broad Cooler,S0B2D4851D7141003,195372325155,Just Ice Tea Peach Oolong 16oz,3.99,7,6,-1
 2026-06-19T12:58:41Z,16214,doylestown,333 North Broad Cooler,S0B2668475B231007,8939200362,Celsius Watermelon,3.57,3,2,-1
 2026-06-19T12:58:41Z,16213,haven,TheHaven#2-cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,-3,-4,-1
+2026-06-19T16:11:02Z,16214,doylestown,333 North Broad Cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,1,0,-1
+2026-06-19T16:11:02Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.6,4,3,-1
+2026-06-19T16:11:02Z,16213,haven,TheHaven#2-cooler,S0B25FC5DA5DD1003,0491300013,La Colombe Draft Latte Mocha,4.27,1,0,-1
+2026-06-19T16:11:02Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,4,3,-1
+2026-06-19T16:11:02Z,16213,haven,TheHaven#2-cooler,S0B2BDAE8D5FB1006,520010247,Gatorade Glacier Cherry,3.0,1,0,-1

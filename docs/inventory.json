@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T23:45:42Z",
+  "updated": "2026-06-19T04:21:20Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -30,11 +30,11 @@
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-06-13 20:21:59"
+          "stock_updated": "2026-06-18 22:01:09"
         },
         {
           "skuid": "S0B2D5C80C7741005",
@@ -1135,11 +1135,11 @@
           "name": "San Pelligrino Pomegranate and Orange",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17601191596212.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:35:06"
+          "stock_updated": "2026-06-18 20:25:48"
         },
         {
           "skuid": "S0B2BDB1B79DB1001",
@@ -1159,11 +1159,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 13,
-          "fill_pct": 46,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-06-17 22:29:11"
+          "stock_updated": "2026-06-18 22:45:51"
         },
         {
           "skuid": "S0B2DD4AAFF451007",
@@ -3732,11 +3732,11 @@
           "name": "Blistex Lip Balm",
           "price": 2.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173436954430177.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 4,
-          "fill_pct": 50,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-03-07 01:26:38"
+          "stock_updated": "2026-06-18 21:04:48"
         },
         {
           "skuid": "S0B246944E7EE1002",

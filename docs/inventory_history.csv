@@ -2333,3 +2333,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-06-20T18:54:10Z,16213,haven,TheHaven#2-cooler,S0B2D90DF10651003,071879700049,Jennie’s Coconut bites,18.0,5,4,-1
 2026-06-20T18:54:10Z,15520,mckinley,mHUBPrototypingShop,S0B2EE523C358100C,5895,robot remote kit,12.0,9999,9973,-26
 2026-06-20T18:54:10Z,15520,mckinley,mHUBPrototypingShop,S0B2E96BE1F4D100A,052427780010,gorilla super glue 2 tubes,6.0,9999,9996,-3
+2026-06-20T20:14:59Z,15519,doylestown,333 North Broad Ambient,S0B25FC58DD6C1004,8680011254,Neutrogena Beach Defense spf 50,9.99,7,6,-1
+2026-06-20T20:14:59Z,15520,mckinley,mHUBPrototypingShop,S0B2EE523C358100C,5895,robot remote kit,12.0,9973,9929,-44
+2026-06-20T20:14:59Z,15520,mckinley,mHUBPrototypingShop,S0B2E970133261008,032076056155,GB electrical tape 5 pack,6.0,9999,9998,-1
+2026-06-20T20:14:59Z,15520,mckinley,mHUBPrototypingShop,S0B2E96BE1F4D100A,052427780010,gorilla super glue 2 tubes,6.0,9996,9995,-1
+2026-06-20T20:14:59Z,15520,mckinley,mHUBPrototypingShop,S0B2E92CBE7C81009,F0B2E92CBE7C81007,Robot Brown Bag,12.0,9999,9997,-2

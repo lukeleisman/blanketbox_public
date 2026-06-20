@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T18:54:10Z",
+  "updated": "2026-06-20T20:14:59Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -462,11 +462,11 @@
           "name": "Neutrogena Beach Defense spf 50",
           "price": 9.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363387219540.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:47:57"
+          "stock_updated": "2026-06-20 14:47:50"
         },
         {
           "skuid": "S0B25FC53055E1009",
@@ -3383,11 +3383,11 @@
           "name": "GB electrical tape 5 pack",
           "price": 6.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/e310c133-6053-41b8-a279-38ae7d46e3fd.jpg",
-          "stock": 9999,
+          "stock": 9998,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-19 17:33:23"
+          "stock_updated": "2026-06-20 14:07:34"
         },
         {
           "skuid": "S0B2E96BE1F4D100A",
@@ -3395,11 +3395,11 @@
           "name": "gorilla super glue 2 tubes",
           "price": 6.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/0e9d2273-9a63-4f97-9e56-105293676432.jpg",
-          "stock": 9996,
+          "stock": 9995,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-20 13:52:11"
+          "stock_updated": "2026-06-20 14:15:55"
         },
         {
           "skuid": "S0B2E971452D11007",
@@ -3527,11 +3527,11 @@
           "name": "Robot Brown Bag",
           "price": 12.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178051773202328.png",
-          "stock": 9999,
+          "stock": 9997,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-19 17:33:23"
+          "stock_updated": "2026-06-20 14:11:15"
         },
         {
           "skuid": "S0B2EE523C358100C",
@@ -3539,11 +3539,11 @@
           "name": "robot remote kit",
           "price": 12.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/fba0ba89-eb15-4790-bb0d-f62d6052332a.jpg",
-          "stock": 9973,
+          "stock": 9929,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-20 13:52:34"
+          "stock_updated": "2026-06-20 15:12:10"
         },
         {
           "skuid": "S0B2E969B9C5A1003",

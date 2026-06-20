@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T20:14:59Z",
+  "updated": "2026-06-20T21:47:07Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2373,11 +2373,11 @@
           "name": "NutellaGo",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-18 09:22:25"
+          "stock_updated": "2026-06-20 15:52:28"
         },
         {
           "skuid": "S0B2DAF9204FD1006",
@@ -3539,11 +3539,11 @@
           "name": "robot remote kit",
           "price": 12.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/fba0ba89-eb15-4790-bb0d-f62d6052332a.jpg",
-          "stock": 9929,
+          "stock": 9928,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-20 15:12:10"
+          "stock_updated": "2026-06-20 15:43:56"
         },
         {
           "skuid": "S0B2E969B9C5A1003",

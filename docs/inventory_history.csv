@@ -2338,3 +2338,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-06-20T20:14:59Z,15520,mckinley,mHUBPrototypingShop,S0B2E970133261008,032076056155,GB electrical tape 5 pack,6.0,9999,9998,-1
 2026-06-20T20:14:59Z,15520,mckinley,mHUBPrototypingShop,S0B2E96BE1F4D100A,052427780010,gorilla super glue 2 tubes,6.0,9996,9995,-1
 2026-06-20T20:14:59Z,15520,mckinley,mHUBPrototypingShop,S0B2E92CBE7C81009,F0B2E92CBE7C81007,Robot Brown Bag,12.0,9999,9997,-2
+2026-06-20T21:47:07Z,16213,haven,TheHaven#2-cooler,S0B25F6365FD11002,0980080005,NutellaGo,2.5,7,6,-1
+2026-06-20T21:47:07Z,15520,mckinley,mHUBPrototypingShop,S0B2EE523C358100C,5895,robot remote kit,12.0,9929,9928,-1

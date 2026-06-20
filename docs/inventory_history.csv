@@ -2327,3 +2327,9 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-06-20T17:00:59Z,16214,doylestown,333 North Broad Cooler,S0B25FC5AF4F7100C,0491300019,La Colombe Draft Latte Vanilla,4.27,0,-1,-1
 2026-06-20T17:00:59Z,16214,doylestown,333 North Broad Cooler,S0B2668475B231007,8939200362,Celsius Watermelon,3.57,2,0,-2
 2026-06-20T17:00:59Z,16213,haven,TheHaven#2-cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,-5,-6,-1
+2026-06-20T18:54:10Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.6,1,0,-1
+2026-06-20T18:54:10Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,4,3,-1
+2026-06-20T18:54:10Z,16213,haven,TheHaven#2-cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,5,4,-1
+2026-06-20T18:54:10Z,16213,haven,TheHaven#2-cooler,S0B2D90DF10651003,071879700049,Jennie’s Coconut bites,18.0,5,4,-1
+2026-06-20T18:54:10Z,15520,mckinley,mHUBPrototypingShop,S0B2EE523C358100C,5895,robot remote kit,12.0,9999,9973,-26
+2026-06-20T18:54:10Z,15520,mckinley,mHUBPrototypingShop,S0B2E96BE1F4D100A,052427780010,gorilla super glue 2 tubes,6.0,9999,9996,-3

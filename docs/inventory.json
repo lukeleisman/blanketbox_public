@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T04:51:29Z",
+  "updated": "2026-06-20T08:21:33Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -30,11 +30,11 @@
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-18 22:01:09"
+          "stock_updated": "2026-06-20 01:20:41"
         },
         {
           "skuid": "S0B2D5C80C7741005",
@@ -42,11 +42,11 @@
           "name": "Body Armor IV StrKiwi",
           "price": 1.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531187161649.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 14,
-          "fill_pct": 86,
+          "fill_pct": 79,
           "stock_warning": 0,
-          "stock_updated": "2026-06-14 15:11:05"
+          "stock_updated": "2026-06-20 01:20:41"
         },
         {
           "skuid": "S0B2D5C7E61611005",
@@ -54,11 +54,11 @@
           "name": "Body Armor IV TrPnch",
           "price": 1.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531171446343.png",
-          "stock": 14,
+          "stock": 13,
           "capacity": 15,
-          "fill_pct": 93,
+          "fill_pct": 87,
           "stock_warning": 0,
-          "stock_updated": "2026-06-19 05:44:45"
+          "stock_updated": "2026-06-20 01:20:41"
         },
         {
           "skuid": "S0B248CF276EB1000",
@@ -426,11 +426,11 @@
           "name": "Natures Bakery - Double Chocolate Brownie",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368269911559.png",
-          "stock": 14,
+          "stock": 13,
           "capacity": 16,
-          "fill_pct": 88,
+          "fill_pct": 81,
           "stock_warning": 0,
-          "stock_updated": "2026-06-16 16:34:24"
+          "stock_updated": "2026-06-20 01:20:41"
         },
         {
           "skuid": "S0B2885215A1B1003",
@@ -847,11 +847,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 7,
-          "fill_pct": 57,
+          "fill_pct": 43,
           "stock_warning": 0,
-          "stock_updated": "2026-06-15 11:08:44"
+          "stock_updated": "2026-06-20 00:04:46"
         },
         {
           "skuid": "S0B2D055ACE44100B",
@@ -919,11 +919,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023828232980.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-12 00:45:11"
+          "stock_updated": "2026-06-19 23:53:08"
         },
         {
           "skuid": "S0B2605A328C81009",
@@ -991,11 +991,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 16,
-          "fill_pct": 25,
+          "fill_pct": 19,
           "stock_warning": 0,
-          "stock_updated": "2026-06-17 21:46:49"
+          "stock_updated": "2026-06-19 23:53:08"
         },
         {
           "skuid": "S0B2D0516EFCB1008",

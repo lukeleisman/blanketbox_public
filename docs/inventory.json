@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T15:02:45Z",
+  "updated": "2026-06-20T17:00:59Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -693,8 +693,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 48,
-      "in_stock": 36,
-      "out_of_stock": 12,
+      "in_stock": 35,
+      "out_of_stock": 13,
       "low_stock": 0,
       "products": [
         {
@@ -787,11 +787,11 @@
           "name": "Celsius Watermelon",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173400663718739.png",
-          "stock": 2,
+          "stock": 0,
           "capacity": 6,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-19 07:53:54"
+          "stock_updated": "2026-06-20 10:07:17"
         },
         {
           "skuid": "S0B246944DEAE1000",
@@ -943,11 +943,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 3.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-06-19 07:53:54"
+          "stock_updated": "2026-06-20 10:48:32"
         },
         {
           "skuid": "S0B2D11D53BB51008",
@@ -979,11 +979,11 @@
           "name": "La Colombe Draft Latte Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363400918041.png",
-          "stock": 0,
+          "stock": -1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:35:06"
+          "stock_updated": "2026-06-20 11:31:02"
         },
         {
           "skuid": "S0B246944E19E1000",
@@ -1099,11 +1099,11 @@
           "name": "S. Pellegrino Lemonade 11.15oz",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177078645626497.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:35:06"
+          "stock_updated": "2026-06-20 10:07:17"
         },
         {
           "skuid": "S0B2D3E6DA5E01005",
@@ -1977,11 +1977,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": -5,
+          "stock": -6,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-19 16:31:43"
+          "stock_updated": "2026-06-20 10:55:29"
         },
         {
           "skuid": "S0B2DD3F2D92D100A",

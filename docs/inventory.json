@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T23:09:24Z",
+  "updated": "2026-06-21T01:58:17Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -715,11 +715,11 @@
           "name": "Brisk Iced Tea",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176736539400427.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-06-11 18:49:59"
+          "stock_updated": "2026-06-20 19:47:32"
         },
         {
           "skuid": "S0B2E02B5AA1F1005",
@@ -835,11 +835,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 16,
-          "fill_pct": 44,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-06-16 15:18:58"
+          "stock_updated": "2026-06-20 20:43:23"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1243,11 +1243,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 6,
+          "stock": 3,
           "capacity": 10,
-          "fill_pct": 60,
+          "fill_pct": 30,
           "stock_warning": 0,
-          "stock_updated": "2026-06-16 23:29:12"
+          "stock_updated": "2026-06-20 20:43:23"
         },
         {
           "skuid": "S0B2DB92EA84A1003",
@@ -2073,11 +2073,11 @@
           "name": "Deer park water",
           "price": 1.87,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-19 17:45:56"
+          "stock_updated": "2026-06-20 19:54:47"
         },
         {
           "skuid": "S0B2D527638181007",

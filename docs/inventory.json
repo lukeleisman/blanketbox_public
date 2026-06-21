@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T22:15:00Z",
+  "updated": "2026-06-21T23:51:02Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -835,11 +835,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 16,
-          "fill_pct": 25,
+          "fill_pct": 19,
           "stock_warning": 0,
-          "stock_updated": "2026-06-21 13:02:33"
+          "stock_updated": "2026-06-21 17:51:39"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1183,11 +1183,11 @@
           "name": "St James Green Tea",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177670534725577.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:35:06"
+          "stock_updated": "2026-06-21 17:51:39"
         },
         {
           "skuid": "S0B246944E4B51008",
@@ -1267,11 +1267,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-06-20 23:47:30"
+          "stock_updated": "2026-06-21 17:51:39"
         }
       ]
     },
@@ -3431,11 +3431,11 @@
           "name": "loctite epoxy clear",
           "price": 7.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/0351c02b-74c4-4f48-aa19-b58ebd2350b7.jpg",
-          "stock": 9999,
+          "stock": 9998,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-19 17:33:23"
+          "stock_updated": "2026-06-21 18:14:04"
         },
         {
           "skuid": "S0B2E92BFB7E01007",

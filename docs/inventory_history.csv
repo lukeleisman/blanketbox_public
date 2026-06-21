@@ -2362,3 +2362,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-06-21T19:00:41Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,7,5,-2
 2026-06-21T19:00:41Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,3,2,-1
 2026-06-21T19:00:41Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,3,2,-1
+2026-06-21T20:52:27Z,16213,haven,TheHaven#2-cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,-6,-7,-1
+2026-06-21T20:52:27Z,16213,haven,TheHaven#2-cooler,S0B2C6BB0DE621006,F0B2C6BB0DE621004,Cocoa Krisp cereal,1.75,4,3,-1

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T15:25:36Z",
+  "updated": "2026-06-21T17:05:03Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1123,11 +1123,11 @@
           "name": "San Pellegrino Essenza",
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619022990038.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:35:06"
+          "stock_updated": "2026-06-21 12:00:21"
         },
         {
           "skuid": "S0B29D2F2643D100B",
@@ -1243,11 +1243,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 10,
-          "fill_pct": 30,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-06-20 20:43:23"
+          "stock_updated": "2026-06-21 11:34:37"
         },
         {
           "skuid": "S0B2DB92EA84A1003",

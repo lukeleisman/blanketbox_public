@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T10:21:08Z",
+  "updated": "2026-06-22T15:35:01Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -751,11 +751,11 @@
           "name": "Celsius Galaxy Vibe",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368496288665.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-06-21 13:18:28"
+          "stock_updated": "2026-06-22 09:34:17"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -835,11 +835,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 16,
-          "fill_pct": 19,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-06-21 17:51:39"
+          "stock_updated": "2026-06-22 09:34:17"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2169,11 +2169,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-06-21 20:04:37"
+          "stock_updated": "2026-06-22 06:38:25"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2373,11 +2373,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-21 20:04:37"
+          "stock_updated": "2026-06-22 06:38:25"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -2517,11 +2517,11 @@
           "name": "Wavii",
           "price": 5.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178209048093040.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-21 20:23:13"
+          "stock_updated": "2026-06-22 07:43:43"
         }
       ]
     },

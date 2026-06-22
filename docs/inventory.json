@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T15:35:01Z",
+  "updated": "2026-06-22T19:28:23Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -693,8 +693,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 48,
-      "in_stock": 35,
-      "out_of_stock": 13,
+      "in_stock": 34,
+      "out_of_stock": 14,
       "low_stock": 0,
       "products": [
         {
@@ -1015,11 +1015,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 8,
-          "fill_pct": 12,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-18 13:12:28"
+          "stock_updated": "2026-06-22 13:09:15"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -2241,11 +2241,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 9,
+          "stock": 7,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 78,
           "stock_warning": 0,
-          "stock_updated": "2026-06-21 20:04:37"
+          "stock_updated": "2026-06-22 11:35:36"
         },
         {
           "skuid": "S0B27699FEBD41002",

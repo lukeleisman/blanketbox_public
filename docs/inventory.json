@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T20:32:24Z",
+  "updated": "2026-06-23T22:13:49Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -799,11 +799,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-06-22 15:57:25"
+          "stock_updated": "2026-06-23 16:09:28"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -3467,11 +3467,11 @@
           "name": "robot remote kit",
           "price": 20.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/fba0ba89-eb15-4790-bb0d-f62d6052332a.jpg",
-          "stock": 9928,
+          "stock": 9927,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-20 15:43:56"
+          "stock_updated": "2026-06-23 15:59:56"
         },
         {
           "skuid": "S0B2E969B9C5A1003",

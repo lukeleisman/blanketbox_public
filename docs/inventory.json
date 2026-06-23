@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T13:21:00Z",
+  "updated": "2026-06-23T16:09:04Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -763,11 +763,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 12,
+          "stock": 11,
           "capacity": 12,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-06-22 15:26:26"
+          "stock_updated": "2026-06-23 10:59:32"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2037,11 +2037,11 @@
           "name": "Delight Cinnabon",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177514340736730.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-21 19:56:27"
+          "stock_updated": "2026-06-23 10:11:41"
         },
         {
           "skuid": "S0B2D527865D2100C",

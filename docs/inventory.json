@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T01:30:18Z",
+  "updated": "2026-06-23T06:07:39Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -112,7 +112,7 @@
           "skuid": "S0B2BA2E2259B1009",
           "barcode": "643843713944",
           "name": "Cliff  Chocolate Chip Protein Bar",
-          "price": 2.5,
+          "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17674936233687.png",
           "stock": 5,
           "capacity": 5,
@@ -412,7 +412,7 @@
           "skuid": "S0B2885215A1B1003",
           "barcode": "047495112900",
           "name": "Natures Bakery blueberry fig bat",
-          "price": 1.99,
+          "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866563574429.png",
           "stock": 12,
           "capacity": 12,
@@ -629,7 +629,7 @@
           "skuid": "S0B27699FEE4D1004",
           "barcode": "078000001143",
           "name": "12oz Canada Dry ginger ale",
-          "price": 2.57,
+          "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
           "stock": 13,
           "capacity": 13,
@@ -797,7 +797,7 @@
           "skuid": "S0B246944DFD21006",
           "barcode": "811620022002",
           "name": "Fairlife Core Power Chocolate 26g",
-          "price": 5.27,
+          "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
           "stock": 11,
           "capacity": 11,
@@ -919,11 +919,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 16,
+          "stock": 15,
           "capacity": 16,
-          "fill_pct": 100,
+          "fill_pct": 94,
           "stock_warning": 0,
-          "stock_updated": "2026-06-22 15:28:13"
+          "stock_updated": "2026-06-22 21:57:55"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -953,7 +953,7 @@
           "skuid": "S0B246944DEFB1003",
           "barcode": "070847012474",
           "name": "Monster Energy Zerosugar",
-          "price": 4.27,
+          "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
           "stock": 10,
           "capacity": 10,
@@ -1099,11 +1099,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 13,
+          "stock": 11,
           "capacity": 13,
-          "fill_pct": 100,
+          "fill_pct": 85,
           "stock_warning": 0,
-          "stock_updated": "2026-06-22 15:28:13"
+          "stock_updated": "2026-06-22 20:47:44"
         },
         {
           "skuid": "S0B2DD4AAFF451007",
@@ -1159,11 +1159,11 @@
           "name": "Trip Elderflower Mint",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177533493701966.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-06-22 15:14:35"
+          "stock_updated": "2026-06-22 21:57:55"
         },
         {
           "skuid": "S0B266D76782F1002",

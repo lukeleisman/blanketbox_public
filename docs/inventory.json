@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T18:19:45Z",
+  "updated": "2026-06-23T20:32:24Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1845,11 +1845,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-21 20:04:37"
+          "stock_updated": "2026-06-23 13:53:39"
         },
         {
           "skuid": "S0B2D4022EBB71006",

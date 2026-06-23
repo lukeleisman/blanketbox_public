@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T23:19:50Z",
+  "updated": "2026-06-23T01:30:18Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -270,11 +270,11 @@
           "name": "IQ Bar Chocolate Sea Salt",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176092402211332.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:47:57"
+          "stock_updated": "2026-06-22 20:20:22"
         },
         {
           "skuid": "S0B2DFCAA016C1003",
@@ -775,11 +775,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-22 15:26:26"
+          "stock_updated": "2026-06-22 19:13:11"
         },
         {
           "skuid": "S0B2D055ACE44100B",

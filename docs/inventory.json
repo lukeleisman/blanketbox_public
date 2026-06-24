@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T23:34:43Z",
+  "updated": "2026-06-24T03:37:53Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -306,11 +306,11 @@
           "name": "JisuLife Portable Fan Pink",
           "price": 15.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174594426745587.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:47:57"
+          "stock_updated": "2026-06-23 21:44:23"
         },
         {
           "skuid": "S0B2C19076DF51005",
@@ -655,11 +655,11 @@
           "name": "Canada Dry Diet Ginger Ale Can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177810035529531.png",
-          "stock": 6,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-06-22 15:14:35"
+          "stock_updated": "2026-06-23 21:16:47"
         },
         {
           "skuid": "S0B246944E6EA1003",
@@ -919,11 +919,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 15,
+          "stock": 14,
           "capacity": 16,
-          "fill_pct": 94,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-06-22 21:57:55"
+          "stock_updated": "2026-06-23 21:16:47"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -2121,11 +2121,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 11,
-          "fill_pct": 91,
+          "fill_pct": 82,
           "stock_warning": 0,
-          "stock_updated": "2026-06-22 06:38:25"
+          "stock_updated": "2026-06-23 21:44:57"
         },
         {
           "skuid": "S0B246944E4051007",

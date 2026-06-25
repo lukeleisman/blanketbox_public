@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T16:24:32Z",
+  "updated": "2026-06-25T18:33:01Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -763,11 +763,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 12,
-          "fill_pct": 92,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-06-23 10:59:32"
+          "stock_updated": "2026-06-25 12:06:09"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -799,11 +799,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 11,
-          "fill_pct": 73,
+          "fill_pct": 64,
           "stock_warning": 0,
-          "stock_updated": "2026-06-24 18:04:09"
+          "stock_updated": "2026-06-25 12:31:33"
         },
         {
           "skuid": "S0B246944E40F1008",

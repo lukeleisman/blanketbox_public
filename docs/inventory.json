@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T13:36:07Z",
+  "updated": "2026-06-25T16:24:32Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -727,11 +727,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-22 15:14:35"
+          "stock_updated": "2026-06-25 08:58:57"
         },
         {
           "skuid": "S0B2D527638181007",
@@ -1183,11 +1183,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 14,
+          "stock": 13,
           "capacity": 14,
-          "fill_pct": 100,
+          "fill_pct": 93,
           "stock_warning": 0,
-          "stock_updated": "2026-06-22 15:29:27"
+          "stock_updated": "2026-06-25 08:58:57"
         },
         {
           "skuid": "S0B2DB92EA84A1003",
@@ -2073,11 +2073,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-21 19:56:27"
+          "stock_updated": "2026-06-25 09:49:31"
         },
         {
           "skuid": "S0B246944DFD21006",
@@ -3335,11 +3335,11 @@
           "name": "locktite vynil fabric and plastic",
           "price": 9.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/144bc0cb-c8b5-43e2-a779-2ef44e4024ea.jpg",
-          "stock": 9997,
+          "stock": 9996,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-25 08:23:31"
+          "stock_updated": "2026-06-25 08:45:35"
         },
         {
           "skuid": "S0B2E92C61D541003",
@@ -3431,11 +3431,11 @@
           "name": "orignal gorilla glue 2fl",
           "price": 11.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/da461886-a66f-4270-a21e-45146c8abf05.jpg",
-          "stock": 9999,
+          "stock": 9998,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-19 17:33:23"
+          "stock_updated": "2026-06-25 09:11:26"
         },
         {
           "skuid": "S0B2E970C27C91001",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T11:15:09Z",
+  "updated": "2026-06-25T13:36:07Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1207,11 +1207,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-23 17:47:13"
+          "stock_updated": "2026-06-25 06:42:17"
         },
         {
           "skuid": "S0B2EF08A265B1002",
@@ -3335,11 +3335,11 @@
           "name": "locktite vynil fabric and plastic",
           "price": 9.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/144bc0cb-c8b5-43e2-a779-2ef44e4024ea.jpg",
-          "stock": 9998,
+          "stock": 9997,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-19 17:33:23"
+          "stock_updated": "2026-06-25 08:23:31"
         },
         {
           "skuid": "S0B2E92C61D541003",

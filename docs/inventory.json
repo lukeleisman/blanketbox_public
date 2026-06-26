@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T10:51:45Z",
+  "updated": "2026-06-26T13:11:29Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -799,11 +799,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 11,
-          "fill_pct": 64,
+          "fill_pct": 55,
           "stock_warning": 0,
-          "stock_updated": "2026-06-25 12:31:33"
+          "stock_updated": "2026-06-26 05:58:01"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -955,11 +955,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 5,
+          "stock": 3,
           "capacity": 10,
-          "fill_pct": 50,
+          "fill_pct": 30,
           "stock_warning": 0,
-          "stock_updated": "2026-06-25 06:13:15"
+          "stock_updated": "2026-06-26 06:10:59"
         },
         {
           "skuid": "S0B2C377070EC1001",

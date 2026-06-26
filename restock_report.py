@@ -47,17 +47,21 @@ from ops_scraper import (
 MACHINE_DISPLAY_NAMES = {
     "333 North Broad Ambient": "333 North Broad (Ambient)",
     "333 North Broad Cooler":  "333 North Broad (Cooler)",
-    "PhillyTrueCooler":        "Philly True Cooler",
+    "Philly TrueCooler II":    "Philly True Cooler II",
     "TheHaven#2-cooler":       "Haven Cooler",
     "ChicagoDryCab2-Warren":   "Warren Park",
     "mHUBPrototypingShop":     "mHUB Prototyping Shop",
     "BorellisBox":             "Borelli's Box",
 }
 
+OFFLINE_MACHINES = {
+    "ChicagoDryCab2-Warren",  # offline as of 2026-06
+}
+
 MACHINE_TO_LOCATION = {
     "333 North Broad Ambient": "doylestown",
     "333 North Broad Cooler":  "doylestown",
-    "PhillyTrueCooler":        "philly",
+    "Philly TrueCooler II":    "philly",
     "TheHaven#2-cooler":       "haven",
     "ChicagoDryCab2-Warren":   "warren",
     "mHUBPrototypingShop":     "mhub",
@@ -67,7 +71,7 @@ MACHINE_TO_LOCATION = {
 STOCKING_ROUTES = {
     "philly_west": {
         "name": "West Philly",
-        "machines": ["PhillyTrueCooler"],
+        "machines": ["Philly TrueCooler II"],
         "frequency_days": 14,
     },
     "philly_suburbs": {
@@ -91,7 +95,7 @@ STOCKING_ROUTES = {
 # Last known restock date per machine — used to project next visit and fill quantities.
 # Update these after each restock run.
 LAST_RESTOCK_DATES = {
-    "PhillyTrueCooler":        date(2026, 4, 28),
+    "Philly TrueCooler II":    date(2026, 4, 28),
     "333 North Broad Ambient": date(2026, 4, 28),
     "333 North Broad Cooler":  date(2026, 4, 28),
     "TheHaven#2-cooler":       date(2026, 4, 28),
@@ -104,7 +108,8 @@ LAST_RESTOCK_DATES = {
 MACHINE_NAME_MAP = {
     "333 North Broad Ambient": "333 North Broad Ambient",
     "333 North Broad Cooler":  "333 North Broad Cooler",
-    "PhillyTrueCooler":        "PhillyTrueCooler",
+    "Philly TrueCooler II":    "Philly TrueCooler II",
+    "PhillyTrueCooler":        "Philly TrueCooler II",  # old computer → new canonical name
     "TheHaven#2-cooler":       "TheHaven#2-cooler",
     "ChicagoDryCab2-Warren":   "ChicagoDryCab2-Warren",
     "ChicagoDryCab1":          "ChicagoDryCab1",
@@ -512,7 +517,10 @@ def load_restock_events(
             delta = int(row["delta"])
             if delta <= 0:
                 continue
-            key = (row["timestamp"], row["machine_name"])
+            machine = MACHINE_NAME_MAP.get(row["machine_name"], row["machine_name"])
+            if machine is None:
+                continue
+            key = (row["timestamp"], machine)
             if key not in events:
                 events[key] = {"products": {}, "total_delta": 0, "n_products": 0}
             events[key]["products"][row["name"]] = int(row["new_stock"])
@@ -589,6 +597,8 @@ def build_report_data(inventory: dict, rate_lookup: dict, global_rates: dict,
 
     for m in inventory["machines"]:
         mname = m["machine_name"]
+        if mname in OFFLINE_MACHINES:
+            continue
         if mname not in MACHINE_DISPLAY_NAMES:
             print(f"  WARNING: Unknown machine name '{mname}' (freezer {m.get('freezer_id', '?')}) — "
                   f"not in MACHINE_DISPLAY_NAMES. Update the config maps.", file=sys.stderr)

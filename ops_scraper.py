@@ -36,7 +36,7 @@ BASE_HEADERS = {
 # value = list of freezer IDs at that location
 LOCATION_GROUPS = {
     "doylestown": ["15519", "16214"],   # 333 N Broad St, Doylestown PA
-    "philly":     ["15521"],            # 4200 Ludlow St, Philadelphia PA
+    "philly":     ["129111"],           # 4200 Ludlow St, Philadelphia PA
     "haven":      ["16213"],            # 1000 Terrain St, Malvern PA
     "warren":     ["15518"],            # Warren Park Fieldhouse, Chicago
     "mckinley":   ["15520"],            # McKinley Park Fieldhouse, Chicago

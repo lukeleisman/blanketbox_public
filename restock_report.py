@@ -20,6 +20,7 @@ Env vars:
 """
 
 import csv
+import glob
 import io
 import json
 import math
@@ -29,9 +30,11 @@ import smtplib
 import sys
 import time
 from calendar import monthrange
+from collections import Counter, defaultdict
 from datetime import date, datetime, timedelta, timezone
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+from pathlib import Path
 
 import requests
 
@@ -151,6 +154,10 @@ ORGAN_SN     = "000332"
 POLL_INTERVAL = 3
 POLL_TIMEOUT  = 90
 
+# Path to local OrderDetailsReport XLSX files (private blanketbox repo data).
+# Used as a fallback when the Sandstar API export times out.
+ORDER_DATA_XLSX_DIR = Path.home() / "Luke/business/ComfortVending/orderdata"
+
 
 # ============================================================
 # ORDER DATA FETCHING (from Sandstar API)
@@ -162,6 +169,8 @@ def fetch_order_data(token: str, days_back: int = 90) -> list[dict]:
 
     Returns a list of dicts with keys:
         machine, product_name, barcode, quantity, order_date
+    Returns None if the export times out (caller should use fallback).
+    Returns [] if the export succeeded but no valid orders were found.
     """
     headers = {**BASE_HEADERS, "x-token": token}
     end = datetime.now()
@@ -169,19 +178,12 @@ def fetch_order_data(token: str, days_back: int = 90) -> list[dict]:
     start_str = start.strftime("%Y-%m-%d 00:00:00")
     end_str = end.strftime("%Y-%m-%d 23:59:59")
 
-    # Snapshot ALL existing OrderDetailsReport message sendTimes (read + unread)
-    # before triggering. Snapshotting only unread would miss previously-read exports
-    # (e.g. from monthly report runs) and falsely match them as "new" during polling.
-    pre_trigger_times = set()
-    try:
-        sr = requests.post(MESSAGE_URL, json={"page": 1, "pageSize": 50},
-                           headers=headers, timeout=10)
-        sr.raise_for_status()
-        for msg in (sr.json().get("data") or {}).get("resultList") or []:
-            if msg.get("subject") == "OrderDetailsReport":
-                pre_trigger_times.add(msg.get("sendTime"))
-    except Exception as e:
-        print(f"  Warning: pre-trigger snapshot failed ({e})", file=sys.stderr)
+    # Record the time just before triggering. We only accept messages whose
+    # sendTime is >= this timestamp, so old cached exports are never mistaken
+    # for a freshly-generated one. (Matches the approach in fetch_monthly_data.py,
+    # which does not have this stale-export problem.)
+    # Allow 2 minutes of clock skew between local and server.
+    trigger_time = time.time()
 
     print(f"  Triggering order export ({start_str[:10]} to {end_str[:10]})...")
     payload = {
@@ -200,9 +202,9 @@ def fetch_order_data(token: str, days_back: int = 90) -> list[dict]:
     if trigger_body.get("data"):
         print(f"  Trigger data: {trigger_body['data']}")
 
-    # Poll for a new OrderDetailsReport message (not in pre-trigger snapshot).
-    # Try unread messages first, then fall back to all messages (in case the
-    # notification was marked read by another session or the web portal).
+    # Poll for a new OrderDetailsReport message sent AFTER trigger_time.
+    # Try unread messages first, then fall back to all messages in case the
+    # notification was marked read by another session or the web portal.
     deadline = time.time() + POLL_TIMEOUT
     filename = None
 
@@ -222,8 +224,18 @@ def fetch_order_data(token: str, days_back: int = 90) -> list[dict]:
                 for msg in messages:
                     if msg.get("subject") != "OrderDetailsReport":
                         continue
-                    if msg.get("sendTime") in pre_trigger_times:
+                    # Only consider messages created after we triggered the export.
+                    # The sendTime field is in the server's local timezone; we allow
+                    # 2 minutes of clock skew to avoid missing a just-generated report.
+                    send_time_str = msg.get("sendTime") or ""
+                    try:
+                        send_ts = datetime.strptime(
+                            send_time_str, "%Y-%m-%d %H:%M:%S"
+                        ).timestamp()
+                    except ValueError:
                         continue
+                    if send_ts < trigger_time - 120:
+                        continue  # this message predates our trigger
                     m = re.search(r'fileName=([^\s"\'<>&]+\.xlsx)', msg.get("content", ""))
                     if m:
                         filename = m.group(1)
@@ -240,6 +252,7 @@ def fetch_order_data(token: str, days_back: int = 90) -> list[dict]:
             time.sleep(POLL_INTERVAL)
 
     if not filename:
+        print("  No new export message found within timeout.", file=sys.stderr)
         return None  # Signal caller to use fallback
 
     # Download the XLSX
@@ -258,61 +271,72 @@ def fetch_order_data(token: str, days_back: int = 90) -> list[dict]:
         print(f"  XLSX rows (pandas): {len(df)}", file=sys.stderr)
         if len(df) == 0:
             return []
-        return _dataframe_to_orders(df)
+        orders = _dataframe_to_orders(df)
     except ImportError:
-        pass
+        import openpyxl
+        wb = openpyxl.load_workbook(xlsx_bytes, data_only=True)
+        ws = wb.active
+        rows = list(ws.iter_rows(values_only=True))
+        wb.close()
 
-    import openpyxl
-    wb = openpyxl.load_workbook(xlsx_bytes, data_only=True)
-    ws = wb.active
-    rows = list(ws.iter_rows(values_only=True))
-    wb.close()
+        print(f"  XLSX raw row count (openpyxl): {len(rows)}", file=sys.stderr)
+        if len(rows) < 3:
+            return []
 
-    print(f"  XLSX raw row count (openpyxl): {len(rows)}", file=sys.stderr)
-    if rows:
-        print(f"  XLSX row[0]: {rows[0]}", file=sys.stderr)
-    if len(rows) >= 3:
-        print(f"  XLSX row[2] (expected headers): {rows[2]}", file=sys.stderr)
+        col_headers = [str(c).strip() if c else "" for c in rows[2]]
+        col_map = {name: i for i, name in enumerate(col_headers)}
 
-    if len(rows) < 3:
-        return []
+        orders = []
+        for row in rows[3:]:
+            machine_raw = str(row[col_map.get("Machine", 3)] or "").strip()
+            payment_status = str(row[col_map.get("Payment status", 11)] or "").strip()
 
-    # Row 3 (index 2) has the actual column headers
-    col_headers = [str(c).strip() if c else "" for c in rows[2]]
-    col_map = {name: i for i, name in enumerate(col_headers)}
-
-    orders = []
-    for row in rows[3:]:
-        machine_raw = str(row[col_map.get("Machine", 3)] or "").strip()
-        payment_status = str(row[col_map.get("Payment status", 11)] or "").strip()
-
-        if payment_status != "Success":
-            continue
-        if machine_raw in TEST_MACHINE_SERIALS or re.match(r"^\d+$", machine_raw):
-            continue
-
-        machine = MACHINE_NAME_MAP.get(machine_raw)
-        if not machine:
-            continue
-
-        order_time_raw = row[col_map.get("Order time", 8)]
-        if isinstance(order_time_raw, datetime):
-            order_date = order_time_raw
-        else:
-            try:
-                order_date = datetime.strptime(str(order_time_raw), "%Y-%m-%d %H:%M:%S")
-            except (ValueError, TypeError):
+            if payment_status != "Success":
+                continue
+            if machine_raw in TEST_MACHINE_SERIALS or re.match(r"^\d+$", machine_raw):
                 continue
 
-        orders.append({
-            "machine": machine,
-            "product_name": str(row[col_map.get("Product name", 16)] or "").strip(),
-            "barcode": str(row[col_map.get("Product barcode", 15)] or "").strip(),
-            "quantity": int(row[col_map.get("Quantity", 17)] or 0),
-            "order_date": order_date,
-        })
+            machine = MACHINE_NAME_MAP.get(machine_raw)
+            if not machine:
+                continue
+
+            order_time_raw = row[col_map.get("Order time", 8)]
+            if isinstance(order_time_raw, datetime):
+                order_date = order_time_raw
+            else:
+                try:
+                    order_date = datetime.strptime(str(order_time_raw), "%Y-%m-%d %H:%M:%S")
+                except (ValueError, TypeError):
+                    continue
+
+            orders.append({
+                "machine": machine,
+                "product_name": str(row[col_map.get("Product name", 16)] or "").strip(),
+                "barcode": str(row[col_map.get("Product barcode", 15)] or "").strip(),
+                "quantity": int(row[col_map.get("Quantity", 17)] or 0),
+                "order_date": order_date,
+            })
 
     print(f"  Parsed {len(orders)} orders")
+
+    # Validate freshness: the export should contain data up to roughly today.
+    # If the most recent order is more than 14 days old, Sandstar served a stale
+    # cached export — treat it as a failure and let the caller use the fallback.
+    if orders:
+        max_order_date = max(
+            (o["order_date"].date() if hasattr(o["order_date"], "date")
+             else o["order_date"])
+            for o in orders
+        )
+        expected_start = date.today() - timedelta(days=14)
+        if max_order_date < expected_start:
+            print(
+                f"  WARNING: API export is stale — most recent order is {max_order_date} "
+                f"(expected data up to ~{date.today()}). Discarding and using fallback.",
+                file=sys.stderr,
+            )
+            return None
+
     return orders
 
 
@@ -484,14 +508,111 @@ def load_sales_rates_json(path: str = "docs/sales_rates.json") -> tuple[dict, di
     with open(path) as f:
         data = json.load(f)
 
+    computed = data.get("computed", "unknown")
+    print(f"  JSON computed: {computed}", file=sys.stderr)
+
     lookup = {}
     global_rates_raw = {}
     for r in data["rates"]:
-        lookup[(r["machine"], r["product_name"])] = r
-        global_rates_raw.setdefault(r["product_name"], []).append(r["daily_rate"])
+        # Normalize machine name through the same map used for live data
+        machine = MACHINE_NAME_MAP.get(r["machine"], r["machine"])
+        if machine is None:
+            continue
+        # Key by barcode (matching the live-data path which uses _rate_key).
+        # Also key by product_name for rows without a barcode.
+        rk = _rate_key(r.get("barcode", ""), r["product_name"])
+        lookup[(machine, rk)] = r
+        if rk != r["product_name"]:
+            lookup[(machine, r["product_name"])] = r  # backward compat
+        global_rates_raw.setdefault(rk, []).append(r["daily_rate"])
 
-    global_rates = {n: sum(v) / len(v) for n, v in global_rates_raw.items()}
+    global_rates = {rk: sum(v) / len(v) for rk, v in global_rates_raw.items()}
     return lookup, global_rates, {}
+
+
+def load_order_data_from_xlsx(order_dir: Path = None) -> list[dict] | None:
+    """
+    Load order data from local canonical XLSX files.
+
+    Used as a fallback when the Sandstar API export times out.
+    Returns a list of order dicts (same format as fetch_order_data) or None
+    if no files are found or pandas is unavailable.
+    """
+    if order_dir is None:
+        order_dir = ORDER_DATA_XLSX_DIR
+
+    if not order_dir.exists():
+        print(f"  XLSX dir not found: {order_dir}", file=sys.stderr)
+        return None
+
+    try:
+        import pandas as pd
+    except ImportError:
+        print("  pandas not available — cannot load XLSX fallback", file=sys.stderr)
+        return None
+
+    pattern = str(order_dir / "*_OrderDetailsReport.xlsx")
+    files = sorted(glob.glob(pattern))
+    canonical = [f for f in files
+                 if re.match(r"^\d{4}[A-Z][a-z]+_OrderDetailsReport\.xlsx$",
+                             os.path.basename(f))]
+    if not canonical:
+        print(f"  No canonical XLSX files found in {order_dir}", file=sys.stderr)
+        return None
+
+    print(f"  Loading {len(canonical)} XLSX files from {order_dir}...", file=sys.stderr)
+    frames = []
+    for f in canonical:
+        try:
+            df = pd.read_excel(f, header=2)
+            if "Machine" in df.columns:
+                frames.append(df)
+        except Exception as e:
+            print(f"  Warning: failed to read {os.path.basename(f)}: {e}", file=sys.stderr)
+
+    if not frames:
+        return None
+
+    import warnings
+    with warnings.catch_warnings():
+        warnings.simplefilter("ignore")
+        raw = pd.concat(frames, ignore_index=True)
+
+    print(f"  {len(raw)} raw rows across all files", file=sys.stderr)
+    orders = _dataframe_to_orders(raw)
+    return orders
+
+
+def _print_rate_diagnostics(rate_lookup: dict, orders: list[dict],
+                             source: str) -> None:
+    """Print a summary of rate quality to stderr for debugging."""
+    conf_counts = Counter(v["confidence"] for v in rate_lookup.values())
+
+    total = sum(conf_counts.values())
+    print(f"\n  Rate source: {source}", file=sys.stderr)
+    print(f"  Rates computed: {total}", file=sys.stderr)
+    for level in ("high", "medium", "low", "no_recent", "global_only", "no_data"):
+        n = conf_counts.get(level, 0)
+        if n:
+            print(f"    {level:12s}: {n:4d}  ({100*n//total}%)", file=sys.stderr)
+
+    if orders:
+        machine_dates = defaultdict(list)
+        for o in orders:
+            d = o["order_date"]
+            if hasattr(d, "date"):
+                d = d.date()
+            machine_dates[o["machine"]].append(d)
+        print(f"  Order data by machine:", file=sys.stderr)
+        for machine, dates in sorted(machine_dates.items()):
+            print(f"    {machine}: {len(dates)} orders  "
+                  f"{min(dates)} – {max(dates)}", file=sys.stderr)
+
+    no_info = conf_counts.get("no_recent", 0) + conf_counts.get("no_data", 0)
+    if total > 0 and no_info / total > 0.4:
+        print(f"\n  WARNING: {no_info}/{total} product-machine pairs have low-quality "
+              f"rates (no_recent or no_data). Consider updating docs/sales_rates.json "
+              f"or checking that order data covers the last 90 days.", file=sys.stderr)
 
 
 # ============================================================
@@ -753,7 +874,7 @@ def build_report_data(inventory: dict, rate_lookup: dict, global_rates: dict,
 # REPORT FORMATTING
 # ============================================================
 
-def format_html_report(machines: list) -> str:
+def format_html_report(machines: list, data_source: str = None) -> str:
     """Generate HTML email report."""
     today_str = date.today().strftime("%B %d, %Y")
     updated = machines[0]["updated"] if machines else "N/A"
@@ -786,6 +907,31 @@ def format_html_report(machines: list) -> str:
     html = [f"<html><head>{css}</head><body>"]
     html.append(f"<h1>Blanket Box Restock Report</h1>")
     html.append(f'<div class="meta">{today_str} &mdash; Inventory as of {updated}</div>')
+
+    # Data source / quality banner
+    if data_source:
+        is_fallback = "XLSX" in data_source or "JSON" in data_source
+        banner_color = "#d97706" if is_fallback else "#1a7a4a"
+        banner_label = "⚠ FALLBACK DATA" if is_fallback else "✓ Live data"
+        html.append(
+            f'<div style="font-size:12px; color:{banner_color}; margin-bottom:8px;">'
+            f'{banner_label}: {data_source}</div>'
+        )
+
+    # Confidence distribution across all products
+    conf_counts: Counter = Counter()
+    for m in machines:
+        for p in m["products"]:
+            conf_counts[p["confidence"]] += 1
+    total_products = sum(conf_counts.values())
+    low_conf = conf_counts.get("no_recent", 0) + conf_counts.get("no_data", 0)
+    if total_products > 0 and low_conf / total_products > 0.3:
+        pct = int(100 * low_conf / total_products)
+        html.append(
+            f'<div style="font-size:12px; color:#c0392b; margin-bottom:12px;">'
+            f'⚠ {low_conf}/{total_products} ({pct}%) products have low-confidence rates '
+            f'(no_recent or no_data) — sales data may be sparse or stale.</div>'
+        )
 
     total_oos = sum(m["oos_count"] for m in machines)
     total_restock = sum(m["needs_restock_count"] for m in machines)
@@ -944,11 +1090,14 @@ def _product_table(products: list, row_class: str = None, oos_section: bool = Fa
     return "\n".join(rows)
 
 
-def format_text_report(machines: list) -> str:
+def format_text_report(machines: list, data_source: str = None) -> str:
     """Simple text summary for stdout."""
     lines = [f"BLANKET BOX RESTOCK REPORT — {date.today().strftime('%B %d, %Y')}",
-             f"Inventory snapshot: {machines[0]['updated'] if machines else 'N/A'}",
-             "=" * 60]
+             f"Inventory snapshot: {machines[0]['updated'] if machines else 'N/A'}"]
+    if data_source:
+        prefix = "FALLBACK" if ("XLSX" in data_source or "JSON" in data_source) else "Data"
+        lines.append(f"{prefix}: {data_source}")
+    lines.append("=" * 60)
 
     routes = {}
     for m in machines:
@@ -1015,20 +1164,40 @@ def main():
     print("Fetching order data...")
     orders = fetch_order_data(token, days_back=LONG_WINDOW_DAYS)
 
-    if orders:
+    data_source = None
+
+    if orders is not None and len(orders) > 0:
+        data_source = "Sandstar API (live)"
+        print(f"  {len(orders)} orders from live API")
+    else:
+        # API timed out or returned stale data — try local XLSX files first
+        why = "timed out" if orders is None else "returned no orders"
+        print(f"  API export {why} — trying local XLSX fallback...")
+        orders = load_order_data_from_xlsx()
+        if orders is not None and len(orders) > 0:
+            data_source = f"local XLSX files ({ORDER_DATA_XLSX_DIR})"
+            print(f"  {len(orders)} orders from XLSX files")
+        else:
+            # Last resort: precomputed sales_rates.json
+            orders = None
+            rates_path = "docs/sales_rates.json"
+            if os.path.exists(rates_path):
+                print(f"  FALLBACK: using precomputed {rates_path} "
+                      f"(may be stale — regenerate with: cd blanketbox && python restock.py rates)")
+                rate_lookup, global_rates, global_sigmas = load_sales_rates_json(rates_path)
+                data_source = f"precomputed JSON ({rates_path})"
+                print(f"  Loaded {len(rate_lookup)} rates from JSON")
+            else:
+                print("  ERROR: No order data, no XLSX files, and no fallback sales_rates.json")
+                sys.exit(1)
+
+    if orders is not None:
         print(f"Computing sales rates from {len(orders)} orders...")
         rate_lookup, global_rates, global_sigmas = compute_sales_rates(orders)
         print(f"  {len(rate_lookup)} product×machine rates")
+        _print_rate_diagnostics(rate_lookup, orders, data_source)
     else:
-        # Fallback to precomputed rates
-        rates_path = "docs/sales_rates.json"
-        if os.path.exists(rates_path):
-            print(f"  Order export timed out — falling back to {rates_path}")
-            rate_lookup, global_rates, global_sigmas = load_sales_rates_json(rates_path)
-            print(f"  Loaded {len(rate_lookup)} rates from file")
-        else:
-            print("  ERROR: No order data and no fallback sales_rates.json")
-            sys.exit(1)
+        _print_rate_diagnostics(rate_lookup, [], data_source)
 
     # Detect restock events from inventory history
     print("Loading restock history...")
@@ -1041,11 +1210,11 @@ def main():
                                  last_restock_dates, restock_stock_targets)
 
     if "--email" in sys.argv:
-        html = format_html_report(machines)
+        html = format_html_report(machines, data_source=data_source)
         send_email(html)
     else:
         print()
-        print(format_text_report(machines))
+        print(format_text_report(machines, data_source=data_source))
 
 
 if __name__ == "__main__":

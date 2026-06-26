@@ -1131,8 +1131,8 @@ def format_text_report(machines: list, data_source: str = None) -> str:
 def send_email(html_body: str):
     sender = os.environ.get("GMAIL_ADDRESS", "luke.blanketboxvending@gmail.com")
     password = os.environ["GMAIL_APP_PASSWORD"]
-    primary = os.environ.get("RESTOCK_EMAIL_TO", sender)
-    recipients = [primary, "luke@blanketboxvending.com"]
+    to_env = os.environ.get("RESTOCK_EMAIL_TO", sender)
+    recipients = [e.strip() for e in to_env.split(",") if e.strip()]
 
     msg = MIMEMultipart("alternative")
     msg["Subject"] = f"Restock Report — {date.today().strftime('%b %d, %Y')}"

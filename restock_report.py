@@ -152,7 +152,7 @@ DOWNLOAD_URL = "https://webapi-us.sandstar.com/homePage/download"
 ORGAN_SN     = "000332"
 
 POLL_INTERVAL = 3
-POLL_TIMEOUT  = 90
+POLL_TIMEOUT  = 45
 
 # Path to local OrderDetailsReport XLSX files (private blanketbox repo data).
 # Used as a fallback when the Sandstar API export times out.
@@ -178,12 +178,21 @@ def fetch_order_data(token: str, days_back: int = 90) -> list[dict]:
     start_str = start.strftime("%Y-%m-%d 00:00:00")
     end_str = end.strftime("%Y-%m-%d 23:59:59")
 
-    # Record the time just before triggering. We only accept messages whose
-    # sendTime is >= this timestamp, so old cached exports are never mistaken
-    # for a freshly-generated one. (Matches the approach in fetch_monthly_data.py,
-    # which does not have this stale-export problem.)
-    # Allow 2 minutes of clock skew between local and server.
-    trigger_time = time.time()
+    # Snapshot the sendTime of the most recent existing message before triggering.
+    # We only accept messages with a strictly later sendTime, so old cached exports
+    # are never picked up as "fresh". All comparisons stay within Sandstar's own
+    # timezone (server-side strings) so there is no local-clock or DST dependency.
+    max_pre_time = ""
+    try:
+        sr = requests.post(MESSAGE_URL, json={"page": 1, "pageSize": 1},
+                           headers=headers, timeout=10)
+        sr.raise_for_status()
+        pre_msgs = (sr.json().get("data") or {}).get("resultList") or []
+        if pre_msgs:
+            max_pre_time = pre_msgs[0].get("sendTime", "")
+            print(f"  Most recent existing message: {max_pre_time}", file=sys.stderr)
+    except Exception as e:
+        print(f"  Warning: pre-trigger snapshot failed ({e})", file=sys.stderr)
 
     print(f"  Triggering order export ({start_str[:10]} to {end_str[:10]})...")
     payload = {
@@ -202,9 +211,9 @@ def fetch_order_data(token: str, days_back: int = 90) -> list[dict]:
     if trigger_body.get("data"):
         print(f"  Trigger data: {trigger_body['data']}")
 
-    # Poll for a new OrderDetailsReport message sent AFTER trigger_time.
-    # Try unread messages first, then fall back to all messages in case the
-    # notification was marked read by another session or the web portal.
+    # Poll for a new OrderDetailsReport message with sendTime strictly after
+    # max_pre_time. Try unread first, then all messages (in case the notification
+    # was marked read by another session).
     deadline = time.time() + POLL_TIMEOUT
     filename = None
 
@@ -224,22 +233,16 @@ def fetch_order_data(token: str, days_back: int = 90) -> list[dict]:
                 for msg in messages:
                     if msg.get("subject") != "OrderDetailsReport":
                         continue
-                    # Only consider messages created after we triggered the export.
-                    # The sendTime field is in the server's local timezone; we allow
-                    # 2 minutes of clock skew to avoid missing a just-generated report.
                     send_time_str = msg.get("sendTime") or ""
-                    try:
-                        send_ts = datetime.strptime(
-                            send_time_str, "%Y-%m-%d %H:%M:%S"
-                        ).timestamp()
-                    except ValueError:
+                    # Compare sendTime strings directly (ISO format, same server timezone).
+                    # Accept only messages newer than anything that existed before our trigger.
+                    if send_time_str <= max_pre_time:
                         continue
-                    if send_ts < trigger_time - 120:
-                        continue  # this message predates our trigger
                     m = re.search(r'fileName=([^\s"\'<>&]+\.xlsx)', msg.get("content", ""))
                     if m:
                         filename = m.group(1)
-                        print(f"  Export ready: {filename} (read_state={read_state})")
+                        print(f"  Export ready: {filename} "
+                              f"(sendTime={send_time_str}, read_state={read_state})")
                         break
             except Exception as e:
                 print(f"  Warning: message poll failed ({e})", file=sys.stderr)

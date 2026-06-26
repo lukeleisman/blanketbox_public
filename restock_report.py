@@ -359,6 +359,12 @@ def _blend_sigma(weights: list[float], sigmas: list[float]) -> float:
     return math.sqrt(sum(w * w * s * s for w, s in zip(weights, sigmas)))
 
 
+def _rate_key(barcode: str, product_name: str) -> str:
+    """Prefer barcode as rate key so renames don't lose history."""
+    b = (barcode or "").strip()
+    return b if b else product_name
+
+
 def compute_sales_rates(orders: list[dict], as_of: date = None) -> tuple[dict, dict, dict]:
     """
     Compute sales rates from order data.
@@ -375,64 +381,65 @@ def compute_sales_rates(orders: list[dict], as_of: date = None) -> tuple[dict, d
     short_start = as_of_dt - timedelta(days=SHORT_WINDOW_DAYS)
     long_start = as_of_dt - timedelta(days=LONG_WINDOW_DAYS)
 
-    # Aggregate by (machine, product_name)
-    agg = {}  # (machine, product) → {short_qty, long_qty, barcode, last_order_date}
-    global_short_qty = {}   # product → total qty in 30d window across machines
-    global_short_mach = {}  # product → set of machines (30d)
-    global_long_qty = {}    # product → total qty in 90d window across machines
-    global_long_mach = {}   # product → set of machines (90d)
+    # Aggregate by (machine, barcode-or-name). Using barcode as key makes rates
+    # immune to product name changes (e.g. when a machine computer is swapped and
+    # Sandstar re-registers products under new names).
+    agg = {}  # (machine, key) → {short_qty, long_qty, barcode, last_order_date}
+    global_short_qty = {}   # key → total qty in 30d window across machines
+    global_short_mach = {}  # key → set of machines (30d)
+    global_long_qty = {}    # key → total qty in 90d window across machines
+    global_long_mach = {}   # key → set of machines (90d)
 
     for o in orders:
-        key = (o["machine"], o["product_name"])
+        rk = _rate_key(o["barcode"], o["product_name"])
+        key = (o["machine"], rk)
         if key not in agg:
-            agg[key] = {"short": 0, "long": 0, "barcode": o["barcode"], "last_order_date": None}
+            agg[key] = {"short": 0, "long": 0, "barcode": o["barcode"],
+                        "product_name": o["product_name"], "last_order_date": None}
 
         if o["order_date"] >= short_start:
             agg[key]["short"] += o["quantity"]
-            global_short_qty.setdefault(o["product_name"], 0)
-            global_short_qty[o["product_name"]] += o["quantity"]
-            global_short_mach.setdefault(o["product_name"], set())
-            global_short_mach[o["product_name"]].add(o["machine"])
+            global_short_qty[rk] = global_short_qty.get(rk, 0) + o["quantity"]
+            global_short_mach.setdefault(rk, set()).add(o["machine"])
 
         if o["order_date"] >= long_start:
             agg[key]["long"] += o["quantity"]
-            global_long_qty.setdefault(o["product_name"], 0)
-            global_long_qty[o["product_name"]] += o["quantity"]
-            global_long_mach.setdefault(o["product_name"], set())
-            global_long_mach[o["product_name"]].add(o["machine"])
+            global_long_qty[rk] = global_long_qty.get(rk, 0) + o["quantity"]
+            global_long_mach.setdefault(rk, set()).add(o["machine"])
 
         agg[key]["barcode"] = o["barcode"]  # keep latest
+        agg[key]["product_name"] = o["product_name"]
         if agg[key]["last_order_date"] is None or o["order_date"] > agg[key]["last_order_date"]:
             agg[key]["last_order_date"] = o["order_date"]
 
     # Global rates (per-machine average) and their Poisson uncertainties
     global_rates_short = {}
     global_sigma_short = {}
-    for pname, qty in global_short_qty.items():
-        n = max(len(global_short_mach.get(pname, set())), 1)
-        global_rates_short[pname] = qty / SHORT_WINDOW_DAYS / n
-        global_sigma_short[pname] = _poisson_sigma(qty, SHORT_WINDOW_DAYS, n)
+    for rk, qty in global_short_qty.items():
+        n = max(len(global_short_mach.get(rk, set())), 1)
+        global_rates_short[rk] = qty / SHORT_WINDOW_DAYS / n
+        global_sigma_short[rk] = _poisson_sigma(qty, SHORT_WINDOW_DAYS, n)
 
     global_rates_long = {}
     global_sigma_long = {}
-    for pname, qty in global_long_qty.items():
-        n = max(len(global_long_mach.get(pname, set())), 1)
-        global_rates_long[pname] = qty / LONG_WINDOW_DAYS / n
-        global_sigma_long[pname] = _poisson_sigma(qty, LONG_WINDOW_DAYS, n)
+    for rk, qty in global_long_qty.items():
+        n = max(len(global_long_mach.get(rk, set())), 1)
+        global_rates_long[rk] = qty / LONG_WINDOW_DAYS / n
+        global_sigma_long[rk] = _poisson_sigma(qty, LONG_WINDOW_DAYS, n)
 
     # Per-machine rates with confidence blending, including both global windows.
     # Recent global (30d) is weighted more heavily than long-term global (90d).
     rate_lookup = {}
-    for (machine, product_name), data in agg.items():
+    for (machine, rk), data in agg.items():
         rate_short = data["short"] / SHORT_WINDOW_DAYS
         rate_long = data["long"] / LONG_WINDOW_DAYS
-        rgs = global_rates_short.get(product_name, 0)
-        rgl = global_rates_long.get(product_name, 0)
+        rgs = global_rates_short.get(rk, 0)
+        rgl = global_rates_long.get(rk, 0)
 
         sig_short = _poisson_sigma(data["short"], SHORT_WINDOW_DAYS)
         sig_long  = _poisson_sigma(data["long"], LONG_WINDOW_DAYS)
-        sig_gs    = global_sigma_short.get(product_name, 0)
-        sig_gl    = global_sigma_long.get(product_name, 0)
+        sig_gs    = global_sigma_short.get(rk, 0)
+        sig_gl    = global_sigma_long.get(rk, 0)
 
         if data["short"] >= MIN_SALES_HIGH_CONFIDENCE:
             confidence = "high"
@@ -460,7 +467,7 @@ def compute_sales_rates(orders: list[dict], as_of: date = None) -> tuple[dict, d
                 rate_blended = w[0]*rgs + w[1]*rgl
                 rate_sigma   = _blend_sigma(w, [sig_gs, sig_gl])
 
-        rate_lookup[(machine, product_name)] = {
+        rate_lookup[(machine, rk)] = {
             "daily_rate": round(rate_blended, 4),
             "rate_sigma": round(rate_sigma, 4),
             "confidence": confidence,
@@ -620,14 +627,15 @@ def build_report_data(inventory: dict, rate_lookup: dict, global_rates: dict,
             stock = p["stock"]
             capacity = p["capacity"] or 0
 
-            rate_info = rate_lookup.get((mname, pname))
+            rk = _rate_key(p["barcode"], pname)
+            rate_info = rate_lookup.get((mname, rk))
             if rate_info:
                 daily_rate = rate_info["daily_rate"]
                 rate_sigma  = rate_info.get("rate_sigma", 0)
                 confidence  = rate_info["confidence"]
                 # Range: compare blended rate vs. global rate (captures systematic bias)
-                global_r = global_rates.get(pname, 0)
-                global_s = global_sigmas.get(pname, 0)
+                global_r = global_rates.get(rk, 0)
+                global_s = global_sigmas.get(rk, 0)
                 if global_r > 0:
                     if global_r >= daily_rate:
                         rate_high, sig_high = global_r, global_s
@@ -638,9 +646,9 @@ def build_report_data(inventory: dict, rate_lookup: dict, global_rates: dict,
                 else:
                     rate_high, sig_high = daily_rate, rate_sigma
                     rate_low,  sig_low  = daily_rate, rate_sigma
-            elif pname in global_rates:
-                daily_rate  = global_rates[pname]
-                rate_sigma  = global_sigmas.get(pname, 0)
+            elif rk in global_rates:
+                daily_rate  = global_rates[rk]
+                rate_sigma  = global_sigmas.get(rk, 0)
                 confidence  = "global_only"
                 rate_high, sig_high = daily_rate, rate_sigma
                 rate_low,  sig_low  = daily_rate, rate_sigma

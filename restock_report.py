@@ -1131,19 +1131,20 @@ def format_text_report(machines: list, data_source: str = None) -> str:
 def send_email(html_body: str):
     sender = os.environ.get("GMAIL_ADDRESS", "luke.blanketboxvending@gmail.com")
     password = os.environ["GMAIL_APP_PASSWORD"]
-    recipient = os.environ.get("RESTOCK_EMAIL_TO", sender)
+    primary = os.environ.get("RESTOCK_EMAIL_TO", sender)
+    recipients = [primary, "luke@blanketboxvending.com"]
 
     msg = MIMEMultipart("alternative")
     msg["Subject"] = f"Restock Report — {date.today().strftime('%b %d, %Y')}"
     msg["From"] = sender
-    msg["To"] = recipient
+    msg["To"] = ", ".join(recipients)
     msg.attach(MIMEText(html_body, "html"))
 
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
         server.login(sender, password)
-        server.sendmail(sender, [recipient], msg.as_string())
+        server.sendmail(sender, recipients, msg.as_string())
 
-    print(f"Email sent to {recipient}")
+    print(f"Email sent to {', '.join(recipients)}")
 
 
 # ============================================================

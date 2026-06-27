@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T22:44:53Z",
+  "updated": "2026-06-27T00:07:58Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -679,11 +679,11 @@
           "name": "Celsius Galaxy Vibe",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368496288665.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-06-24 21:32:14"
+          "stock_updated": "2026-06-26 18:35:49"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -1905,11 +1905,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-06-25 21:55:44"
+          "stock_updated": "2026-06-26 18:01:19"
         },
         {
           "skuid": "S0B2C85783CD31007",

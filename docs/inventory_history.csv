@@ -2498,3 +2498,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-06-27T04:34:22Z,16213,haven,TheHaven#2-cooler,S0B2D0516EFCB1008,007478051550,Maison Perrier Sparkling Water,2.75,4,3,-1
 2026-06-27T04:34:22Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,7,6,-1
 2026-06-27T13:43:45Z,16213,haven,TheHaven#2-cooler,S0B2D527638181007,036632074782,Delight Cinnabon,3.0,3,2,-1
+2026-06-27T15:15:49Z,15519,doylestown,333 North Broad Ambient,S0B2D5CAD34F61005,722252128126,Cliff Mini,1.0,9,8,-1
+2026-06-27T15:15:49Z,15519,doylestown,333 North Broad Ambient,S0B2DD3F2D92D100A,016000280427,Cheerios Treats,1.99,7,6,-1
+2026-06-27T15:15:49Z,15519,doylestown,333 North Broad Ambient,S0B2C6BE9F76D100A,2410012261,Cheez-It 1.5 oz,2.0,3,2,-1

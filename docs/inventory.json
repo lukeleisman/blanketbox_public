@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T13:43:45Z",
+  "updated": "2026-06-27T15:15:49Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -90,11 +90,11 @@
           "name": "Cheerios Treats",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177731583592140.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:47:57"
+          "stock_updated": "2026-06-27 08:51:45"
         },
         {
           "skuid": "S0B2C6BE9F76D100A",
@@ -102,11 +102,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-24 22:53:07"
+          "stock_updated": "2026-06-27 08:51:45"
         },
         {
           "skuid": "S0B2BA2E2259B1009",
@@ -126,11 +126,11 @@
           "name": "Cliff Mini",
           "price": 1.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531478317755.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:47:57"
+          "stock_updated": "2026-06-27 08:51:45"
         },
         {
           "skuid": "S0B248CF276F51003",

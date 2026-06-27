@@ -2490,3 +2490,10 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-06-26T22:44:53Z,16214,doylestown,333 North Broad Cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,5,4,-1
 2026-06-27T00:07:58Z,16214,doylestown,333 North Broad Cooler,S0B27699FF0CC100A,889392001327,Celsius Galaxy Vibe,3.57,3,2,-1
 2026-06-27T00:07:58Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,6,5,-1
+2026-06-27T04:34:22Z,16214,doylestown,333 North Broad Cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.5,11,10,-1
+2026-06-27T04:34:22Z,16214,doylestown,333 North Broad Cooler,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.5,3,2,-1
+2026-06-27T04:34:22Z,129111,philly,Philly TrueCooler II,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,6,5,-1
+2026-06-27T04:34:22Z,129111,philly,Philly TrueCooler II,S0B27699FF0CC100A,889392001327,Celsius Galaxy Vibe,3.57,6,5,-1
+2026-06-27T04:34:22Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.5,2,1,-1
+2026-06-27T04:34:22Z,16213,haven,TheHaven#2-cooler,S0B2D0516EFCB1008,007478051550,Maison Perrier Sparkling Water,2.75,4,3,-1
+2026-06-27T04:34:22Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,7,6,-1

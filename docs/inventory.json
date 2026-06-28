@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T19:20:28Z",
+  "updated": "2026-06-28T20:41:24Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -41,7 +41,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
           "stock": 4,
           "capacity": 4,
           "fill_pct": 100,
@@ -631,11 +631,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 13,
-          "fill_pct": 77,
+          "fill_pct": 69,
           "stock_warning": 0,
-          "stock_updated": "2026-06-26 19:13:13"
+          "stock_updated": "2026-06-28 14:27:04"
         },
         {
           "skuid": "S0B2EB7FF1C0F1007",
@@ -763,11 +763,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 12,
-          "fill_pct": 50,
+          "fill_pct": 42,
           "stock_warning": 0,
-          "stock_updated": "2026-06-28 07:53:23"
+          "stock_updated": "2026-06-28 14:27:04"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -955,11 +955,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 10,
-          "fill_pct": 30,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-06-26 06:10:59"
+          "stock_updated": "2026-06-28 14:59:26"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1400,11 +1400,11 @@
           "name": "Deer park water",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 8,
-          "fill_pct": 25,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-06-28 00:27:09"
+          "stock_updated": "2026-06-28 15:11:09"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -1412,11 +1412,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 3,
+          "stock": 1,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-06-20 09:43:26"
+          "stock_updated": "2026-06-28 15:11:09"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1484,11 +1484,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173685359821166.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 13,
-          "fill_pct": 54,
+          "fill_pct": 46,
           "stock_warning": 0,
-          "stock_updated": "2026-06-28 00:07:28"
+          "stock_updated": "2026-06-28 15:11:09"
         },
         {
           "skuid": "S0B2D90DF10651003",
@@ -1965,11 +1965,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 11,
-          "fill_pct": 45,
+          "fill_pct": 36,
           "stock_warning": 0,
-          "stock_updated": "2026-06-28 12:04:31"
+          "stock_updated": "2026-06-28 14:22:24"
         },
         {
           "skuid": "S0B246944E4051007",

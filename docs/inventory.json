@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T05:01:49Z",
+  "updated": "2026-06-28T08:31:51Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1400,11 +1400,11 @@
           "name": "Deer park water",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-06-26 15:30:02"
+          "stock_updated": "2026-06-28 00:27:09"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -1484,11 +1484,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173685359821166.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 13,
-          "fill_pct": 62,
+          "fill_pct": 54,
           "stock_warning": 0,
-          "stock_updated": "2026-06-26 11:03:18"
+          "stock_updated": "2026-06-28 00:07:28"
         },
         {
           "skuid": "S0B2D90DF10651003",
@@ -1496,11 +1496,11 @@
           "name": "Jennie\u2019s Coconut bites",
           "price": 19.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619046579382.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-06-12 16:26:29"
+          "stock_updated": "2026-06-28 02:13:04"
         },
         {
           "skuid": "S0B2D4851D7141003",
@@ -1580,11 +1580,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 20,
+          "stock": 18,
           "capacity": 20,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-06-12 16:26:29"
+          "stock_updated": "2026-06-28 00:07:28"
         },
         {
           "skuid": "S0B2EC158AB36100A",
@@ -1628,11 +1628,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 12,
+          "stock": 9,
           "capacity": 18,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-24 22:49:16"
+          "stock_updated": "2026-06-28 00:27:09"
         },
         {
           "skuid": "S0B2DD4AAFF451007",
@@ -1664,11 +1664,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 13,
-          "fill_pct": 46,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-06-24 22:49:16"
+          "stock_updated": "2026-06-28 00:07:28"
         }
       ]
     },

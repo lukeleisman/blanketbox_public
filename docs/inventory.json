@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T11:07:18Z",
+  "updated": "2026-06-28T12:55:15Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -763,11 +763,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 8,
+          "stock": 6,
           "capacity": 12,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-28 04:53:04"
+          "stock_updated": "2026-06-28 07:53:23"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1292,11 +1292,11 @@
           "name": "Celsius Cherry Cola",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176202960060787.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-19 09:29:45"
+          "stock_updated": "2026-06-28 07:43:29"
         },
         {
           "skuid": "S0B27699FF0CC100A",

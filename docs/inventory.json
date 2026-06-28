@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T00:02:41Z",
+  "updated": "2026-06-28T05:01:49Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1099,11 +1099,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 13,
-          "fill_pct": 62,
+          "fill_pct": 54,
           "stock_warning": 0,
-          "stock_updated": "2026-06-27 17:00:51"
+          "stock_updated": "2026-06-27 21:47:42"
         },
         {
           "skuid": "S0B2DD4AAFF451007",
@@ -2073,11 +2073,11 @@
           "name": "Milano",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 5,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-25 21:55:44"
+          "stock_updated": "2026-06-27 19:10:12"
         },
         {
           "skuid": "S0B246944DEF51002",

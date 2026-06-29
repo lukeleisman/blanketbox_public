@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T21:07:59Z",
+  "updated": "2026-06-29T22:36:27Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -41,7 +41,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
           "stock": 4,
           "capacity": 4,
           "fill_pct": 100,
@@ -402,11 +402,11 @@
           "name": "Natures Bakery - Double Chocolate Brownie",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368269911559.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 13,
-          "fill_pct": 92,
+          "fill_pct": 85,
           "stock_warning": 0,
-          "stock_updated": "2026-06-25 20:33:51"
+          "stock_updated": "2026-06-29 17:14:41"
         },
         {
           "skuid": "S0B2885215A1B1003",
@@ -621,8 +621,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 50,
-      "in_stock": 38,
-      "out_of_stock": 12,
+      "in_stock": 37,
+      "out_of_stock": 13,
       "low_stock": 0,
       "products": [
         {
@@ -679,11 +679,11 @@
           "name": "Celsius Galaxy Vibe",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368496288665.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 5,
-          "fill_pct": 20,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-29 13:34:15"
+          "stock_updated": "2026-06-29 16:31:41"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -811,11 +811,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 11,
-          "fill_pct": 82,
+          "fill_pct": 73,
           "stock_warning": 0,
-          "stock_updated": "2026-06-27 10:33:39"
+          "stock_updated": "2026-06-29 16:29:07"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -823,11 +823,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-22 15:14:35"
+          "stock_updated": "2026-06-29 16:29:07"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -847,11 +847,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023828232980.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-06-26 11:39:47"
+          "stock_updated": "2026-06-29 16:29:07"
         },
         {
           "skuid": "S0B2605A328C81009",
@@ -871,11 +871,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 3.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-06-22 15:26:26"
+          "stock_updated": "2026-06-29 17:19:46"
         },
         {
           "skuid": "S0B2D11D53BB51008",
@@ -919,11 +919,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 13,
+          "stock": 12,
           "capacity": 16,
-          "fill_pct": 81,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-28 23:26:28"
+          "stock_updated": "2026-06-29 16:29:07"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -1219,11 +1219,11 @@
           "name": "Wavii",
           "price": 5.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178209048093040.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-06-25 20:33:26"
+          "stock_updated": "2026-06-29 16:21:48"
         }
       ]
     },
@@ -1797,11 +1797,11 @@
           "name": "Cheez It Original",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254819896872.png",
-          "stock": -1,
+          "stock": -3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-27 11:30:18"
+          "stock_updated": "2026-06-29 16:49:51"
         },
         {
           "skuid": "S0B2DAF9429041007",
@@ -1965,11 +1965,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 11,
-          "fill_pct": 18,
+          "fill_pct": 9,
           "stock_warning": 0,
-          "stock_updated": "2026-06-29 15:27:03"
+          "stock_updated": "2026-06-29 16:49:51"
         },
         {
           "skuid": "S0B246944E4051007",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T19:04:26Z",
+  "updated": "2026-06-29T21:07:59Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -41,7 +41,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
           "stock": 4,
           "capacity": 4,
           "fill_pct": 100,
@@ -378,11 +378,11 @@
           "name": "Mott\u2019s berry snacks",
           "price": 4.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686728068670.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:47:57"
+          "stock_updated": "2026-06-29 15:41:15"
         },
         {
           "skuid": "S0B246944E1A51002",
@@ -621,8 +621,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 50,
-      "in_stock": 39,
-      "out_of_stock": 11,
+      "in_stock": 38,
+      "out_of_stock": 12,
       "low_stock": 0,
       "products": [
         {
@@ -727,11 +727,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 4,
-          "fill_pct": 25,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-27 11:50:08"
+          "stock_updated": "2026-06-29 15:41:47"
         },
         {
           "skuid": "S0B2D527638181007",
@@ -1713,11 +1713,11 @@
           "name": "Beef Liver Dog Treats",
           "price": 20.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174907930543359.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-26 11:49:56"
+          "stock_updated": "2026-06-29 15:27:03"
         },
         {
           "skuid": "S0B2EB7FF1C0F1007",
@@ -1965,11 +1965,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 11,
-          "fill_pct": 27,
+          "fill_pct": 18,
           "stock_warning": 0,
-          "stock_updated": "2026-06-28 19:47:19"
+          "stock_updated": "2026-06-29 15:27:03"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2169,11 +2169,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-25 21:55:44"
+          "stock_updated": "2026-06-29 15:27:03"
         },
         {
           "skuid": "S0B2DB932853E100A",

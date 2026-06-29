@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T23:38:01Z",
+  "updated": "2026-06-29T03:58:42Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -390,11 +390,11 @@
           "name": "Mrs. Thinsters Chocolate Chip Cookies",
           "price": 9.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1600334457598.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:47:57"
+          "stock_updated": "2026-06-28 20:21:06"
         },
         {
           "skuid": "S0B27699FEC921007",
@@ -414,11 +414,11 @@
           "name": "Natures Bakery blueberry fig bat",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866563574429.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 12,
-          "fill_pct": 92,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-06-27 10:34:49"
+          "stock_updated": "2026-06-28 19:04:57"
         },
         {
           "skuid": "S0B271C0F5611100C",
@@ -655,11 +655,11 @@
           "name": "Canada Dry Diet Ginger Ale Can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177810035529531.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-23 21:16:47"
+          "stock_updated": "2026-06-28 20:36:25"
         },
         {
           "skuid": "S0B246944E6EA1003",
@@ -763,11 +763,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 12,
-          "fill_pct": 42,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-06-28 14:27:04"
+          "stock_updated": "2026-06-28 20:36:25"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -799,11 +799,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 11,
-          "fill_pct": 45,
+          "fill_pct": 36,
           "stock_warning": 0,
-          "stock_updated": "2026-06-27 17:00:51"
+          "stock_updated": "2026-06-28 20:05:16"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -1268,11 +1268,11 @@
           "name": "Brisk Iced Tea",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176736539400427.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-06-27 12:04:44"
+          "stock_updated": "2026-06-28 19:30:07"
         },
         {
           "skuid": "S0B246944E5611002",
@@ -1460,11 +1460,11 @@
           "name": "GATORADE 20OZ ORANGE",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063782730.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-12 16:26:29"
+          "stock_updated": "2026-06-28 19:02:42"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -1604,11 +1604,11 @@
           "name": "San Pellegrino Aranciata",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17145040865182.png",
-          "stock": 3,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-06-12 16:26:29"
+          "stock_updated": "2026-06-28 19:30:07"
         },
         {
           "skuid": "S0B2D90DB76B5100C",
@@ -1628,11 +1628,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 18,
-          "fill_pct": 50,
+          "fill_pct": 44,
           "stock_warning": 0,
-          "stock_updated": "2026-06-28 00:27:09"
+          "stock_updated": "2026-06-28 19:30:07"
         },
         {
           "skuid": "S0B2DD4AAFF451007",
@@ -1679,8 +1679,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 53,
-      "in_stock": 48,
-      "out_of_stock": 5,
+      "in_stock": 47,
+      "out_of_stock": 6,
       "low_stock": 0,
       "products": [
         {
@@ -1689,11 +1689,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 4,
-          "fill_pct": 25,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-26 21:50:43"
+          "stock_updated": "2026-06-28 19:22:06"
         },
         {
           "skuid": "S0B2D4022EBB71006",
@@ -1785,11 +1785,11 @@
           "name": "Cheerios Treats",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177731583592140.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-06-25 21:55:44"
+          "stock_updated": "2026-06-28 21:15:16"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -1869,11 +1869,11 @@
           "name": "Deer park water",
           "price": 1.87,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 8,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-25 21:55:44"
+          "stock_updated": "2026-06-28 21:15:16"
         },
         {
           "skuid": "S0B2D527638181007",
@@ -1905,11 +1905,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 4,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-06-27 13:53:42"
+          "stock_updated": "2026-06-28 22:27:04"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1965,11 +1965,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 11,
-          "fill_pct": 36,
+          "fill_pct": 27,
           "stock_warning": 0,
-          "stock_updated": "2026-06-28 14:22:24"
+          "stock_updated": "2026-06-28 19:47:19"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2049,11 +2049,11 @@
           "name": "M&M\u2019s Milk Chocolate",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254811305183.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-06-25 21:55:44"
+          "stock_updated": "2026-06-28 22:27:04"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -2313,11 +2313,11 @@
           "name": "Wavii",
           "price": 5.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178209048093040.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-25 21:55:44"
+          "stock_updated": "2026-06-28 19:22:06"
         }
       ]
     },

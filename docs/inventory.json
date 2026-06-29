@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T13:50:34Z",
+  "updated": "2026-06-29T16:52:42Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -763,11 +763,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 4,
+          "stock": 2,
           "capacity": 12,
-          "fill_pct": 33,
+          "fill_pct": 17,
           "stock_warning": 0,
-          "stock_updated": "2026-06-28 20:36:25"
+          "stock_updated": "2026-06-29 11:38:01"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1183,11 +1183,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 14,
-          "fill_pct": 79,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-06-28 04:53:04"
+          "stock_updated": "2026-06-29 11:38:01"
         },
         {
           "skuid": "S0B2DB92EA84A1003",
@@ -1821,11 +1821,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-06-25 21:55:44"
+          "stock_updated": "2026-06-29 10:17:11"
         },
         {
           "skuid": "S0B2C6BB0DE621006",
@@ -1869,11 +1869,11 @@
           "name": "Deer park water",
           "price": 1.87,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 6,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-28 21:15:16"
+          "stock_updated": "2026-06-29 10:25:41"
         },
         {
           "skuid": "S0B2D527638181007",
@@ -1977,11 +1977,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063766829.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-25 21:55:44"
+          "stock_updated": "2026-06-29 09:22:46"
         },
         {
           "skuid": "S0B246944E7FE1008",

@@ -2565,3 +2565,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-06-29T13:50:34Z,16214,doylestown,333 North Broad Cooler,S0B2C85783CD31007,1162002196,Fair Life Core Power 26g Vanilla Protein Shake,5.27,2,1,-1
 2026-06-29T13:50:34Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.5,2,0,-2
 2026-06-29T13:50:34Z,16214,doylestown,333 North Broad Cooler,S0B2D0516EFCB1008,007478051550,Maison Perrier Sparkling Water,3.0,6,5,-1
+2026-06-29T16:52:42Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,4,2,-2
+2026-06-29T16:52:42Z,16214,doylestown,333 North Broad Cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.6,11,10,-1
+2026-06-29T16:52:42Z,16213,haven,TheHaven#2-cooler,S0B246944E9A41003,082657500638,Deer park water,1.87,6,4,-2
+2026-06-29T16:52:42Z,16213,haven,TheHaven#2-cooler,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.5,6,5,-1
+2026-06-29T16:52:42Z,16213,haven,TheHaven#2-cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,2,1,-1

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T09:03:48Z",
+  "updated": "2026-06-29T13:50:34Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -621,8 +621,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 50,
-      "in_stock": 41,
-      "out_of_stock": 9,
+      "in_stock": 40,
+      "out_of_stock": 10,
       "low_stock": 0,
       "products": [
         {
@@ -775,11 +775,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 4,
-          "fill_pct": 50,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-06-26 11:07:10"
+          "stock_updated": "2026-06-29 06:34:37"
         },
         {
           "skuid": "S0B2D055ACE44100B",
@@ -931,11 +931,11 @@
           "name": "Maison Perrier Sparkling Water",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17773152898848.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-06-22 15:14:35"
+          "stock_updated": "2026-06-29 08:46:47"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -955,11 +955,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 2,
+          "stock": 0,
           "capacity": 10,
-          "fill_pct": 20,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-28 14:59:26"
+          "stock_updated": "2026-06-29 06:09:09"
         },
         {
           "skuid": "S0B2C377070EC1001",

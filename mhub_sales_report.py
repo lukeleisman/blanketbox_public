@@ -112,18 +112,33 @@ def generate_mock_data(start_date: date, end_date: date) -> tuple[list[dict], li
     """
     num_days = (end_date - start_date).days  # 0 for single day, 6 for 7-day window
 
+    IL_TAX_RATE = 0.0975  # IL 7.25% + Chicago 1.25% + Cook 1.25%
+
+    # First pass: build orders and compute per-order pre-tax totals
     orders = []
+    order_pretax: dict[str, float] = {}
     for day_off, hour, minute, suffix, name, qty, price in _MOCK_ORDERS_TEMPLATE:
-        actual_day = min(day_off, num_days)
-        order_dt   = datetime.combine(start_date + timedelta(days=actual_day),
-                                      datetime.min.time().replace(hour=hour, minute=minute))
+        actual_day   = min(day_off, num_days)
+        order_num    = f"MOCK-{suffix}"
+        line_pretax  = round(qty * price, 2)
+        order_pretax[order_num] = round(order_pretax.get(order_num, 0) + line_pretax, 2)
+        order_dt = datetime.combine(start_date + timedelta(days=actual_day),
+                                    datetime.min.time().replace(hour=hour, minute=minute))
         orders.append({
             "product_name": name,
-            "order_number": f"MOCK-{suffix}",
+            "order_number": order_num,
             "quantity":     qty,
-            "amount":       round(qty * price, 2),
+            "amount":       line_pretax,
             "order_date":   order_dt,
+            "_suffix":      suffix,  # temp; used below to fill order-level fields
         })
+
+    # Second pass: attach order-level pre-tax and payment totals (with tax)
+    for o in orders:
+        pretax = order_pretax[o["order_number"]]
+        o["order_amount"]   = pretax
+        o["payment_amount"] = round(pretax * (1 + IL_TAX_RATE), 2)
+        del o["_suffix"]
 
     return orders, list(_MOCK_INVENTORY)
 
@@ -287,11 +302,13 @@ def _parse_from_dataframe(df, start_date: date, end_date: date) -> list[dict]:
                 pass
 
         orders.append({
-            "product_name": str(row.get("Product name", "")).strip(),
-            "order_number": str(row.get("Order number", "")).strip(),
-            "quantity":     qty,
-            "amount":       amount,
-            "order_date":   order_time.to_pydatetime(),
+            "product_name":   str(row.get("Product name", "")).strip(),
+            "order_number":   str(row.get("Order number", "")).strip(),
+            "quantity":       qty,
+            "amount":         amount,   # Sales volume: pre-tax per product line
+            "order_amount":   float(row.get("Order amount") or 0),    # pre-tax per order
+            "payment_amount": float(row.get("Payment Amount") or 0),  # incl. tax per order
+            "order_date":     order_time.to_pydatetime(),
         })
 
     return orders
@@ -358,11 +375,13 @@ def _parse_from_rows(rows: list, start_date: date, end_date: date) -> list[dict]
                 pass
 
         orders.append({
-            "product_name": str(row[col_map.get("Product name", 16)] or "").strip(),
-            "order_number": str(row[order_num_idx] or "").strip(),
-            "quantity":     qty,
-            "amount":       amount,
-            "order_date":   order_dt,
+            "product_name":   str(row[col_map.get("Product name", 16)] or "").strip(),
+            "order_number":   str(row[order_num_idx] or "").strip(),
+            "quantity":       qty,
+            "amount":         amount,   # Sales volume: pre-tax per product line
+            "order_amount":   float(row[col_map.get("Order amount",   9)] or 0),
+            "payment_amount": float(row[col_map.get("Payment Amount", 10)] or 0),
+            "order_date":     order_dt,
         })
 
     return orders
@@ -405,6 +424,27 @@ def aggregate_sales(orders: list[dict]) -> list[dict]:
         [{"name": name, **vals} for name, vals in by_product.items()],
         key=lambda x: (-x["revenue"], -x["qty"]),
     )
+
+
+# ============================================================
+# TAX / ORDER TOTALS
+# ============================================================
+
+def compute_order_totals(orders: list[dict]) -> dict:
+    """
+    Deduplicate on order_number and sum order_amount / payment_amount.
+    Returns {pretax, tax, total}. Tax is 0 if payment_amount data is absent.
+    """
+    seen: set[str] = set()
+    pretax = 0.0
+    paid   = 0.0
+    for o in orders:
+        if o["order_number"] not in seen:
+            seen.add(o["order_number"])
+            pretax += o.get("order_amount", 0)
+            paid   += o.get("payment_amount", 0)
+    tax = round(paid - pretax, 2)
+    return {"pretax": round(pretax, 2), "tax": tax, "total": round(paid, 2)}
 
 
 # ============================================================
@@ -477,11 +517,11 @@ def format_html_email(
     """
 
     # ── Sales summary table ───────────────────────────────────
-    total_units   = sum(s["qty"] for s in sales)
-    total_revenue = sum(s["revenue"] for s in sales)
+    total_units = sum(s["qty"] for s in sales)
+    order_tots  = compute_order_totals(orders)
+    has_tax     = has_revenue and order_tots["tax"] > 0.005
 
-    rev_hdr   = '<th class="num">Revenue</th>' if has_revenue else ""
-    rev_total = f'<td class="num">${total_revenue:.2f}</td>' if has_revenue else ""
+    rev_hdr = '<th class="num">Pre-tax</th>' if has_revenue else ""
 
     sales_rows = []
     for s in sales:
@@ -492,15 +532,36 @@ def format_html_email(
             f'{rev_cell}</tr>'
         )
 
+    # Footer: pre-tax total, then tax row, then total-paid row (if tax data present)
+    if has_revenue:
+        footer_rows = (
+            f'<tr class="totals-row">'
+            f'<td>Total</td><td class="num">{total_units}</td>'
+            f'<td class="num">${order_tots["pretax"]:.2f}</td>'
+            f'</tr>'
+        )
+        if has_tax:
+            footer_rows += (
+                f'<tr><td colspan="2" style="text-align:right; color:#888; font-size:12px; '
+                f'padding:4px 10px;">Sales tax</td>'
+                f'<td class="num" style="color:#888; font-size:12px;">'
+                f'+ ${order_tots["tax"]:.2f}</td></tr>'
+                f'<tr><td colspan="2" style="text-align:right; font-weight:600; '
+                f'padding:6px 10px;">Total collected</td>'
+                f'<td class="num" style="font-weight:600;">${order_tots["total"]:.2f}</td></tr>'
+            )
+    else:
+        footer_rows = (
+            f'<tr class="totals-row">'
+            f'<td>Total</td><td class="num">{total_units}</td>'
+            f'</tr>'
+        )
+
     sales_table = f"""
     <table>
       <thead><tr><th>Product</th><th class="num">Units&nbsp;Sold</th>{rev_hdr}</tr></thead>
       <tbody>{"".join(sales_rows)}</tbody>
-      <tfoot>
-        <tr class="totals-row">
-          <td>Total</td><td class="num">{total_units}</td>{rev_total}
-        </tr>
-      </tfoot>
+      <tfoot>{footer_rows}</tfoot>
     </table>"""
 
     # ── Transaction list ──────────────────────────────────────
@@ -561,29 +622,68 @@ def format_html_email(
 
 
 def _format_transactions(orders: list[dict], has_revenue: bool, single_day: bool) -> str:
-    """Transaction list table sorted by time, rows shaded by order group."""
+    """
+    Transaction list sorted by time, shaded by order group.
+    When tax data is present, a compact subtotal row is appended after each order.
+    """
     sorted_orders = sorted(orders, key=lambda o: o["order_date"])
 
-    rev_hdr = '<th class="num">Revenue</th>' if has_revenue else ""
+    # Determine whether any order actually has tax (payment > order amount)
+    show_tax = has_revenue and any(
+        o.get("payment_amount", 0) > o.get("order_amount", 0) + 0.005
+        for o in sorted_orders
+    )
+
+    rev_hdr  = '<th class="num">Pre-tax</th>' if has_revenue else ""
     time_hdr = "Time" if single_day else "Date &amp; Time"
+    n_cols   = 3 + (1 if has_revenue else 0)  # time + product + qty [+ pre-tax]
 
     BG = ("#ffffff", "#f4f7fb")
     current_order = None
     shade_idx = 0
-    rows = []
+    # Accumulate lines per order so we can emit a subtotal after each group
+    pending_rows: list[str] = []
+    current_order_amount   = 0.0
+    current_payment_amount = 0.0
+    rows: list[str] = []
+
+    def _flush_order():
+        """Emit buffered product rows + subtotal for the completed order."""
+        rows.extend(pending_rows)
+        if show_tax and current_order is not None:
+            tax   = round(current_payment_amount - current_order_amount, 2)
+            total = current_payment_amount
+            subtotal_style = (
+                "font-size:11px; color:#666; padding:3px 10px; "
+                "border-bottom:2px solid #dde4ed;"
+            )
+            rows.append(
+                f'<tr>'
+                f'<td colspan="{n_cols - 1}" style="text-align:right; {subtotal_style}">'
+                f'Order subtotal: <strong>${current_order_amount:.2f}</strong> pre-tax'
+                f' + ${tax:.2f} tax</td>'
+                f'<td class="num" style="{subtotal_style}">'
+                f'<strong>${total:.2f}</strong></td>'
+                f'</tr>'
+            )
+        pending_rows.clear()
 
     for o in sorted_orders:
         if o["order_number"] != current_order:
-            current_order = o["order_number"]
+            if current_order is not None:
+                _flush_order()
+            current_order          = o["order_number"]
+            current_order_amount   = o.get("order_amount", 0)
+            current_payment_amount = o.get("payment_amount", 0)
             shade_idx = 1 - shade_idx
-        bg = BG[shade_idx]
 
+        bg = BG[shade_idx]
         dt = o["order_date"]
         time_part = dt.strftime("%I:%M %p").lstrip("0")
         ts = time_part if single_day else f"{dt:%a %b} {dt.day} &middot; {time_part}"
 
         rev_cell = f'<td class="num" style="background:{bg}">${o["amount"]:.2f}</td>' if has_revenue else ""
-        rows.append(
+        pending_rows.append(
             f'<tr style="background:{bg}">'
             f'<td class="ts" style="background:{bg}">{ts}</td>'
             f'<td style="background:{bg}">{_esc(o["product_name"])}</td>'
@@ -591,6 +691,8 @@ def _format_transactions(orders: list[dict], has_revenue: bool, single_day: bool
             f'{rev_cell}'
             f'</tr>'
         )
+
+    _flush_order()  # emit the last order
 
     return f"""
     <table>

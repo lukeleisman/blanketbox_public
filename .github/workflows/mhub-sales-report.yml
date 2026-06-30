@@ -1,0 +1,56 @@
+name: mHUB Sales Report
+
+on:
+  schedule:
+    # Daily at 8:00 AM Central — 13:00 UTC (CDT) / 14:00 UTC (CST)
+    # On Mondays this sends the weekly summary; other days it sends an alert only
+    # if yesterday exceeded the daily sales threshold (currently 10 items).
+    - cron: '0 13 * * *'
+  workflow_dispatch:   # manual trigger from Actions tab
+    inputs:
+      mode:
+        description: 'Mode: auto | weekly | daily'
+        required: false
+        default: 'auto'
+      days:
+        description: 'Look back N days and always send (leave empty for normal auto mode)'
+        required: false
+        default: ''
+      mock:
+        description: 'Use fake data to preview email without hitting the API (true/false)'
+        required: false
+        default: 'false'
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - run: pip install requests openpyxl pandas
+
+      - name: Generate and email mHUB sales report
+        timeout-minutes: 10
+        env:
+          SANDSTAR_USERNAME: ${{ secrets.SANDSTAR_USERNAME }}
+          SANDSTAR_PASSWORD_HASH: ${{ secrets.SANDSTAR_PASSWORD_HASH }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          MHUB_REPORT_EMAIL_TO: ${{ secrets.MHUB_REPORT_EMAIL_TO }}
+        run: |
+          MOCK_FLAG=""
+          if [ "${{ github.event.inputs.mock }}" = "true" ]; then
+            MOCK_FLAG="--mock"
+          fi
+
+          if [ -n "${{ github.event.inputs.days }}" ]; then
+            python mhub_sales_report.py --email --days ${{ github.event.inputs.days }} $MOCK_FLAG
+          else
+            python mhub_sales_report.py --email --mode ${{ github.event.inputs.mode || 'auto' }} $MOCK_FLAG
+          fi

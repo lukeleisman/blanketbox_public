@@ -2642,3 +2642,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-06-30T22:18:04Z,16214,doylestown,333 North Broad Cooler,S0B2CC2D2640F1005,041508992688,S. Pellegrino Blood Orange 11.15oz,3.77,1,0,-1
 2026-06-30T22:18:04Z,16214,doylestown,333 North Broad Cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,7,6,-1
 2026-06-30T22:18:04Z,16213,haven,TheHaven#2-cooler,S0B2D484E0EFD1001,014100043706,Milano,2.5,3,1,-2
+2026-06-30T23:43:57Z,16214,doylestown,333 North Broad Cooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,5.5,3,2,-1
+2026-06-30T23:43:57Z,129111,philly,Philly TrueCooler II,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,7,5,-2
+2026-06-30T23:43:57Z,16213,haven,TheHaven#2-cooler,S0B25F6365FD11002,0980080005,NutellaGo,2.5,7,6,-1
+2026-06-30T23:43:57Z,16213,haven,TheHaven#2-cooler,S0B27699FEA161007,024100123223,Cheez It Original,2.07,7,6,-1
+2026-06-30T23:43:57Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,5,4,-1

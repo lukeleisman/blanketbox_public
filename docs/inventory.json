@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T18:55:53Z",
+  "updated": "2026-06-30T20:57:18Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -621,8 +621,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 50,
-      "in_stock": 35,
-      "out_of_stock": 15,
+      "in_stock": 34,
+      "out_of_stock": 16,
       "low_stock": 0,
       "products": [
         {
@@ -799,11 +799,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 11,
-          "fill_pct": 36,
+          "fill_pct": 27,
           "stock_warning": 0,
-          "stock_updated": "2026-06-28 20:05:16"
+          "stock_updated": "2026-06-30 15:40:16"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -919,11 +919,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 16,
-          "fill_pct": 62,
+          "fill_pct": 56,
           "stock_warning": 0,
-          "stock_updated": "2026-06-30 09:02:31"
+          "stock_updated": "2026-06-30 14:16:08"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -1207,11 +1207,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 8,
-          "fill_pct": 12,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-30 10:11:20"
+          "stock_updated": "2026-06-30 15:40:16"
         },
         {
           "skuid": "S0B2EF08A265B1002",
@@ -1436,11 +1436,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 4.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-29 12:16:41"
+          "stock_updated": "2026-06-30 14:26:04"
         },
         {
           "skuid": "S0B2EC1587FF01001",

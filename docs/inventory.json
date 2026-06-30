@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T08:29:53Z",
+  "updated": "2026-06-30T11:30:46Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1857,11 +1857,11 @@
           "name": "Crunchy Peanut Butter Cliff Bar",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175569542496463.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-06-25 21:55:44"
+          "stock_updated": "2026-06-30 04:49:15"
         },
         {
           "skuid": "S0B246944E9A41003",

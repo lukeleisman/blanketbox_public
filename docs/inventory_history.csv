@@ -2632,3 +2632,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-06-30T16:35:46Z,16214,doylestown,333 North Broad Cooler,S0B2BDAE8D5FB1006,520010247,Gatorade Glacier Cherry,3.0,1,0,-1
 2026-06-30T16:35:46Z,16213,haven,TheHaven#2-cooler,S0B2EF08BF2341003,847485,Namai,6.99,5,4,-1
 2026-06-30T16:35:46Z,16213,haven,TheHaven#2-cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,7,6,-1
+2026-06-30T18:55:53Z,15519,doylestown,333 North Broad Ambient,S0B27699FEC921007,047495400700,Natures Bakery - Double Chocolate Brownie,2.57,11,10,-1
+2026-06-30T18:55:53Z,16214,doylestown,333 North Broad Cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,4,3,-1
+2026-06-30T18:55:53Z,16214,doylestown,333 North Broad Cooler,S0B2E02B5AA1F1005,07811801,Canada Dry Diet Ginger Ale Can,2.57,3,2,-1

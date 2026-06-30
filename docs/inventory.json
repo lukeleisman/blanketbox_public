@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T16:35:46Z",
+  "updated": "2026-06-30T18:55:53Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -402,11 +402,11 @@
           "name": "Natures Bakery - Double Chocolate Brownie",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368269911559.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 13,
-          "fill_pct": 85,
+          "fill_pct": 77,
           "stock_warning": 0,
-          "stock_updated": "2026-06-29 17:14:41"
+          "stock_updated": "2026-06-30 13:38:17"
         },
         {
           "skuid": "S0B2885215A1B1003",
@@ -655,11 +655,11 @@
           "name": "Canada Dry Diet Ginger Ale Can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177810035529531.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-06-28 20:36:25"
+          "stock_updated": "2026-06-30 13:17:10"
         },
         {
           "skuid": "S0B246944E6EA1003",
@@ -691,11 +691,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-06-26 16:54:23"
+          "stock_updated": "2026-06-30 13:37:59"
         },
         {
           "skuid": "S0B246944E5841006",

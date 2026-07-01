@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T08:16:56Z",
+  "updated": "2026-07-01T11:37:49Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1340,11 +1340,11 @@
           "name": "Cheerios Treats",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177731583592140.png",
-          "stock": 6,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-06-18 22:05:24"
+          "stock_updated": "2026-07-01 04:03:36"
         },
         {
           "skuid": "S0B2C6BE9F76D100A",

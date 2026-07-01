@@ -52,8 +52,11 @@ POLL_TIMEOUT  = 60
 
 TEST_MACHINE_SERIALS = {"2405131108007687", "2405131108006876"}
 
-# Revenue column: "Sales volume" = per-product-line total (Quantity × unit price).
-# "Order amount" is the per-order deduplicated total — not usable at the product level.
+# Revenue column: "Sales volume" is the per-product-line total *including tax*
+# (confirmed against Unit price × Quantity, which is consistently lower by ~the
+# local sales tax rate). True pre-tax per-line revenue is computed separately as
+# Unit price × Quantity — see `unit_price` in the parsed order dicts.
+# "Order amount" is the per-order deduplicated pre-tax total — not usable at the product level.
 AMOUNT_COLUMN_CANDIDATES = ["Sales volume", "Total amount", "Actual payment", "Amount", "Subtotal"]
 
 # Daily alert fires when item count for the previous day exceeds this threshold.
@@ -121,6 +124,8 @@ def generate_mock_data(start_date: date, end_date: date) -> tuple[list[dict], li
         actual_day   = min(day_off, num_days)
         order_num    = f"MOCK-{suffix}"
         line_pretax  = round(qty * price, 2)
+        # "amount" mirrors Sandstar's "Sales volume" column, which is post-tax.
+        line_posttax = round(line_pretax * (1 + IL_TAX_RATE), 2)
         order_pretax[order_num] = round(order_pretax.get(order_num, 0) + line_pretax, 2)
         order_dt = datetime.combine(start_date + timedelta(days=actual_day),
                                     datetime.min.time().replace(hour=hour, minute=minute))
@@ -128,7 +133,8 @@ def generate_mock_data(start_date: date, end_date: date) -> tuple[list[dict], li
             "product_name": name,
             "order_number": order_num,
             "quantity":     qty,
-            "amount":       line_pretax,
+            "unit_price":   price,
+            "amount":       line_posttax,
             "order_date":   order_dt,
             "_suffix":      suffix,  # temp; used below to fill order-level fields
         })
@@ -301,11 +307,17 @@ def _parse_from_dataframe(df, start_date: date, end_date: date) -> list[dict]:
             except (TypeError, ValueError):
                 pass
 
+        try:
+            unit_price = float(row.get("Unit price") or 0)
+        except (TypeError, ValueError):
+            unit_price = 0.0
+
         orders.append({
             "product_name":   str(row.get("Product name", "")).strip(),
             "order_number":   str(row.get("Order number", "")).strip(),
             "quantity":       qty,
-            "amount":         amount,   # Sales volume: pre-tax per product line
+            "unit_price":     unit_price,
+            "amount":         amount,   # Sales volume: post-tax per product line
             "order_amount":   float(row.get("Order amount") or 0),    # pre-tax per order
             "payment_amount": float(row.get("Payment Amount") or 0),  # incl. tax per order
             "order_date":     order_time.to_pydatetime(),
@@ -374,11 +386,17 @@ def _parse_from_rows(rows: list, start_date: date, end_date: date) -> list[dict]
             except (TypeError, ValueError):
                 pass
 
+        try:
+            unit_price = float(row[col_map.get("Unit price", 18)] or 0)
+        except (TypeError, ValueError):
+            unit_price = 0.0
+
         orders.append({
             "product_name":   str(row[col_map.get("Product name", 16)] or "").strip(),
             "order_number":   str(row[order_num_idx] or "").strip(),
             "quantity":       qty,
-            "amount":         amount,   # Sales volume: pre-tax per product line
+            "unit_price":     unit_price,
+            "amount":         amount,   # Sales volume: post-tax per product line
             "order_amount":   float(row[col_map.get("Order amount",   9)] or 0),
             "payment_amount": float(row[col_map.get("Payment Amount", 10)] or 0),
             "order_date":     order_dt,
@@ -415,11 +433,11 @@ def fetch_mhub_inventory(token: str) -> list[dict]:
 # ============================================================
 
 def aggregate_sales(orders: list[dict]) -> list[dict]:
-    """Sum units and revenue per product, sorted by revenue descending."""
+    """Sum units and pre-tax revenue (unit price × qty) per product, sorted by revenue descending."""
     by_product: dict[str, dict] = defaultdict(lambda: {"qty": 0, "revenue": 0.0})
     for o in orders:
         by_product[o["product_name"]]["qty"]     += o["quantity"]
-        by_product[o["product_name"]]["revenue"] += o["amount"]
+        by_product[o["product_name"]]["revenue"] += round(o["quantity"] * o.get("unit_price", 0), 2)
     return sorted(
         [{"name": name, **vals} for name, vals in by_product.items()],
         key=lambda x: (-x["revenue"], -x["qty"]),
@@ -624,7 +642,14 @@ def format_html_email(
 def _format_transactions(orders: list[dict], has_revenue: bool, single_day: bool) -> str:
     """
     Transaction list sorted by time, shaded by order group.
-    When tax data is present, a compact subtotal row is appended after each order.
+
+    When revenue data is present, each line shows Price, Qty, Subtotal (Price × Qty,
+    true pre-tax), Tax (Total minus Subtotal), and Total (Sandstar's "Sales volume",
+    which is post-tax — kept alongside Subtotal as a visual check that the two
+    differ by ~the sales tax rate).
+
+    When tax data is present, an order-total row follows each group whose numbers
+    land under the Subtotal/Tax/Total columns rather than as free-floating text.
     """
     sorted_orders = sorted(orders, key=lambda o: o["order_date"])
 
@@ -634,36 +659,39 @@ def _format_transactions(orders: list[dict], has_revenue: bool, single_day: bool
         for o in sorted_orders
     )
 
-    rev_hdr  = '<th class="num">Pre-tax</th>' if has_revenue else ""
+    rev_hdr = (
+        '<th class="num">Price</th><th class="num">Qty</th>'
+        '<th class="num">Subtotal</th><th class="num">Tax</th><th class="num">Total</th>'
+        if has_revenue else '<th class="num">Qty</th>'
+    )
     time_hdr = "Time" if single_day else "Date &amp; Time"
-    n_cols   = 3 + (1 if has_revenue else 0)  # time + product + qty [+ pre-tax]
+    lead_cols = 2 + (2 if has_revenue else 0)  # time + product [+ price + qty], before Subtotal
 
     BG = ("#ffffff", "#f4f7fb")
     current_order = None
     shade_idx = 0
-    # Accumulate lines per order so we can emit a subtotal after each group
+    # Accumulate lines per order so we can emit an order-total row after each group
     pending_rows: list[str] = []
     current_order_amount   = 0.0
     current_payment_amount = 0.0
     rows: list[str] = []
 
     def _flush_order():
-        """Emit buffered product rows + subtotal for the completed order."""
+        """Emit buffered product rows + order-total row for the completed order."""
         rows.extend(pending_rows)
         if show_tax and current_order is not None:
             tax   = round(current_payment_amount - current_order_amount, 2)
             total = current_payment_amount
-            subtotal_style = (
+            style = (
                 "font-size:11px; color:#666; padding:3px 10px; "
                 "border-bottom:2px solid #dde4ed;"
             )
             rows.append(
                 f'<tr>'
-                f'<td colspan="{n_cols - 1}" style="text-align:right; {subtotal_style}">'
-                f'Order subtotal: <strong>${current_order_amount:.2f}</strong> pre-tax'
-                f' + ${tax:.2f} tax</td>'
-                f'<td class="num" style="{subtotal_style}">'
-                f'<strong>${total:.2f}</strong></td>'
+                f'<td colspan="{lead_cols}" style="text-align:right; {style}">Order total</td>'
+                f'<td class="num" style="{style}">${current_order_amount:.2f}</td>'
+                f'<td class="num" style="{style}">${tax:.2f}</td>'
+                f'<td class="num" style="{style} font-weight:600;">${total:.2f}</td>'
                 f'</tr>'
             )
         pending_rows.clear()
@@ -682,13 +710,25 @@ def _format_transactions(orders: list[dict], has_revenue: bool, single_day: bool
         time_part = dt.strftime("%I:%M %p").lstrip("0")
         ts = time_part if single_day else f"{dt:%a %b} {dt.day} &middot; {time_part}"
 
-        rev_cell = f'<td class="num" style="background:{bg}">${o["amount"]:.2f}</td>' if has_revenue else ""
+        if has_revenue:
+            unit_price = o.get("unit_price", 0)
+            subtotal   = round(o["quantity"] * unit_price, 2)
+            line_tax   = round(o["amount"] - subtotal, 2)
+            rev_cells = (
+                f'<td class="num" style="background:{bg}">${unit_price:.2f}</td>'
+                f'<td class="num" style="background:{bg}">{o["quantity"]}</td>'
+                f'<td class="num" style="background:{bg}">${subtotal:.2f}</td>'
+                f'<td class="num" style="background:{bg}">${line_tax:.2f}</td>'
+                f'<td class="num" style="background:{bg}">${o["amount"]:.2f}</td>'
+            )
+        else:
+            rev_cells = f'<td class="num" style="background:{bg}">{o["quantity"]}</td>'
+
         pending_rows.append(
             f'<tr style="background:{bg}">'
             f'<td class="ts" style="background:{bg}">{ts}</td>'
             f'<td style="background:{bg}">{_esc(o["product_name"])}</td>'
-            f'<td class="num" style="background:{bg}">{o["quantity"]}</td>'
-            f'{rev_cell}'
+            f'{rev_cells}'
             f'</tr>'
         )
 
@@ -696,8 +736,7 @@ def _format_transactions(orders: list[dict], has_revenue: bool, single_day: bool
 
     return f"""
     <table>
-      <thead><tr><th>{time_hdr}</th><th>Product</th>
-      <th class="num">Qty</th>{rev_hdr}</tr></thead>
+      <thead><tr><th>{time_hdr}</th><th>Product</th>{rev_hdr}</tr></thead>
       <tbody>{"".join(rows)}</tbody>
     </table>"""
 

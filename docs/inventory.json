@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T11:37:49Z",
+  "updated": "2026-07-01T14:36:25Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1436,11 +1436,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 4.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-06-30 14:26:04"
+          "stock_updated": "2026-07-01 09:26:39"
         },
         {
           "skuid": "S0B2EC1587FF01001",
@@ -1508,11 +1508,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-06-25 15:37:22"
+          "stock_updated": "2026-07-01 09:26:39"
         },
         {
           "skuid": "S0B246944E19E1000",
@@ -1773,11 +1773,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-06-30 10:16:11"
+          "stock_updated": "2026-07-01 08:20:33"
         },
         {
           "skuid": "S0B2DD3F2D92D100A",
@@ -1785,11 +1785,11 @@
           "name": "Cheerios Treats",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177731583592140.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-06-30 08:50:51"
+          "stock_updated": "2026-07-01 09:09:20"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -1977,11 +1977,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063766829.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-06-30 08:57:43"
+          "stock_updated": "2026-07-01 09:09:20"
         },
         {
           "skuid": "S0B246944E7FE1008",

@@ -2661,3 +2661,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-01T19:17:33Z,15519,doylestown,333 North Broad Ambient,S0B2DB932853E100A,044000082048,Oreo Fresh stacks,5.25,5,4,-1
 2026-07-01T19:17:33Z,16214,doylestown,333 North Broad Cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.5,8,7,-1
 2026-07-01T19:17:33Z,16214,doylestown,333 North Broad Cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.6,9,7,-2
+2026-07-01T21:06:09Z,15519,doylestown,333 North Broad Ambient,S0B246944E3C71001,04043506,Twix Candy Bar,2.67,10,9,-1
+2026-07-01T21:06:09Z,15519,doylestown,333 North Broad Ambient,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.5,3,2,-1
+2026-07-01T21:06:09Z,16213,haven,TheHaven#2-cooler,S0B27699FEBD41002,04003100,M&M’s Milk Chocolate,2.57,8,6,-2
+2026-07-01T21:06:09Z,16213,haven,TheHaven#2-cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,8,7,-1
+2026-07-01T21:06:09Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,6,4,-2

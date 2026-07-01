@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T21:06:09Z",
+  "updated": "2026-07-01T22:46:30Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -931,11 +931,11 @@
           "name": "Maison Perrier Sparkling Water",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17773152898848.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-29 21:34:30"
+          "stock_updated": "2026-07-01 16:58:27"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1532,11 +1532,11 @@
           "name": "M&M\u2019s Milk Chocolate",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254811305183.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-06-29 01:28:53"
+          "stock_updated": "2026-07-01 16:12:11"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -1628,11 +1628,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 5,
+          "stock": 3,
           "capacity": 18,
-          "fill_pct": 28,
+          "fill_pct": 17,
           "stock_warning": 0,
-          "stock_updated": "2026-06-30 17:53:58"
+          "stock_updated": "2026-07-01 16:39:11"
         },
         {
           "skuid": "S0B2DD4AAFF451007",
@@ -1905,11 +1905,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 7,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-06-30 08:57:43"
+          "stock_updated": "2026-07-01 17:11:49"
         },
         {
           "skuid": "S0B2C85783CD31007",

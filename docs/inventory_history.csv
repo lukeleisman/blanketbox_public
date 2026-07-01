@@ -2666,3 +2666,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-01T21:06:09Z,16213,haven,TheHaven#2-cooler,S0B27699FEBD41002,04003100,M&M’s Milk Chocolate,2.57,8,6,-2
 2026-07-01T21:06:09Z,16213,haven,TheHaven#2-cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,8,7,-1
 2026-07-01T21:06:09Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,6,4,-2
+2026-07-01T22:46:30Z,16214,doylestown,333 North Broad Cooler,S0B2D0516EFCB1008,007478051550,Maison Perrier Sparkling Water,3.0,4,3,-1
+2026-07-01T22:46:30Z,129111,philly,Philly TrueCooler II,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,5,3,-2
+2026-07-01T22:46:30Z,129111,philly,Philly TrueCooler II,S0B27699FEBD41002,04003100,M&M’s Milk Chocolate,2.57,5,4,-1
+2026-07-01T22:46:30Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,7,5,-2

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T23:43:57Z",
+  "updated": "2026-07-01T03:57:07Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -621,8 +621,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 50,
-      "in_stock": 33,
-      "out_of_stock": 17,
+      "in_stock": 32,
+      "out_of_stock": 18,
       "low_stock": 0,
       "products": [
         {
@@ -643,11 +643,11 @@
           "name": "Brisk Iced Tea",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176736539400427.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-06-22 15:26:26"
+          "stock_updated": "2026-06-30 20:58:16"
         },
         {
           "skuid": "S0B2E02B5AA1F1005",
@@ -655,11 +655,11 @@
           "name": "Canada Dry Diet Ginger Ale Can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177810035529531.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 6,
-          "fill_pct": 33,
+          "fill_pct": 17,
           "stock_warning": 0,
-          "stock_updated": "2026-06-30 13:17:10"
+          "stock_updated": "2026-06-30 20:58:29"
         },
         {
           "skuid": "S0B246944E6EA1003",
@@ -691,11 +691,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-06-30 13:37:59"
+          "stock_updated": "2026-06-30 21:23:43"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -1039,11 +1039,11 @@
           "name": "S. Pellegrino Lemonade 11.15oz",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177078645626497.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-22 15:14:35"
+          "stock_updated": "2026-06-30 19:38:28"
         },
         {
           "skuid": "S0B2D3E6DA5E01005",

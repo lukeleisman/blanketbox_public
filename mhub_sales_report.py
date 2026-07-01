@@ -43,6 +43,7 @@ MHUB_FREEZER_ID = "15520"
 MHUB_MACHINE_KEY = "mHUBPrototypingShop"  # how it appears in order exports
 
 SALES_URL    = "https://webapi-us.sandstar.com/order/v2/findSaleInfo"
+TAX_URL      = "https://webapi-us.sandstar.com/tax/getOrderItemTaxByPage"
 MESSAGE_URL  = "https://webapi-us.sandstar.com/message/findWebUserMessage"
 DOWNLOAD_URL = "https://webapi-us.sandstar.com/homePage/download"
 ORGAN_SN     = "000332"
@@ -52,10 +53,12 @@ POLL_TIMEOUT  = 60
 
 TEST_MACHINE_SERIALS = {"2405131108007687", "2405131108006876"}
 
-# Revenue column: "Sales volume" is the per-product-line total *including tax*
-# (confirmed against Unit price × Quantity, which is consistently lower by ~the
-# local sales tax rate). True pre-tax per-line revenue is computed separately as
-# Unit price × Quantity — see `unit_price` in the parsed order dicts.
+# Revenue column: "Sales volume" is the per-product-line total *including tax*.
+# "Unit price" is ALSO post-tax (Unit price × Quantity reproduces Sales volume
+# exactly) — it is not a source of pre-tax figures. True pre-tax per-line revenue
+# comes from the orderItemTax report's "Taxable Amount" (see fetch_mhub_tax /
+# apply_tax_lookup), with an order-level-rate estimate as fallback when that
+# report is unavailable (estimate_line_pretax_from_order_rate).
 # "Order amount" is the per-order deduplicated pre-tax total — not usable at the product level.
 AMOUNT_COLUMN_CANDIDATES = ["Sales volume", "Total amount", "Actual payment", "Amount", "Subtotal"]
 
@@ -150,6 +153,78 @@ def generate_mock_data(start_date: date, end_date: date) -> tuple[list[dict], li
 
 
 # ============================================================
+# EXPORT POLLING (shared by order + tax exports)
+# ============================================================
+
+def _snapshot_max_pre_time(headers: dict) -> str:
+    """
+    Return the sendTime of the most recent inbox message, so callers can
+    ignore stale cached exports (same approach as restock_report.py).
+    """
+    try:
+        sr = requests.post(MESSAGE_URL, json={"page": 1, "pageSize": 1},
+                           headers=headers, timeout=10)
+        sr.raise_for_status()
+        pre_msgs = (sr.json().get("data") or {}).get("resultList") or []
+        if pre_msgs:
+            max_pre_time = pre_msgs[0].get("sendTime", "")
+            print(f"  Pre-trigger message time: {max_pre_time}", file=sys.stderr)
+            return max_pre_time
+    except Exception as e:
+        print(f"  Warning: pre-trigger snapshot failed ({e})", file=sys.stderr)
+    return ""
+
+
+def _poll_for_export(headers: dict, subject: str, max_pre_time: str,
+                     timeout: int = POLL_TIMEOUT) -> str | None:
+    """Poll the message inbox for a fresh export matching `subject`. Returns the filename or None."""
+    deadline = time.time() + timeout
+    filename = None
+
+    while time.time() < deadline:
+        for read_state in (0, None):
+            if filename:
+                break
+            try:
+                poll_payload = {"page": 1, "pageSize": 50}
+                if read_state is not None:
+                    poll_payload["readState"] = read_state
+                mr = requests.post(MESSAGE_URL, json=poll_payload, headers=headers, timeout=10)
+                mr.raise_for_status()
+                messages = (mr.json().get("data") or {}).get("resultList") or []
+                for msg in messages:
+                    if msg.get("subject") != subject:
+                        continue
+                    send_time_str = msg.get("sendTime") or ""
+                    if send_time_str <= max_pre_time:
+                        continue
+                    m = re.search(r'fileName=([^\s"\'<>&]+\.xlsx)', msg.get("content", ""))
+                    if m:
+                        filename = m.group(1)
+                        print(f"  Export ready: {filename}", file=sys.stderr)
+                        break
+            except Exception as e:
+                print(f"  Warning: poll failed ({e})", file=sys.stderr)
+        if filename:
+            break
+        remaining = int(deadline - time.time())
+        if remaining > 0:
+            print(f"  Waiting for {subject} export... ({remaining}s left)", file=sys.stderr)
+            time.sleep(POLL_INTERVAL)
+
+    if not filename:
+        print(f"  Timed out waiting for {subject} export.", file=sys.stderr)
+    return filename
+
+
+def _download_export(headers: dict, filename: str) -> io.BytesIO:
+    r = requests.get(DOWNLOAD_URL, params={"fileName": filename},
+                     headers=headers, timeout=120, stream=True)
+    r.raise_for_status()
+    return io.BytesIO(r.content)
+
+
+# ============================================================
 # ORDER FETCHING
 # ============================================================
 
@@ -172,19 +247,7 @@ def fetch_mhub_orders(token: str,
     start_str = f"{start_date} 00:00:00"
     end_str   = f"{end_date} 23:59:59"
 
-    # Snapshot the most recent message sendTime before triggering so we can
-    # ignore stale cached exports (same approach as restock_report.py).
-    max_pre_time = ""
-    try:
-        sr = requests.post(MESSAGE_URL, json={"page": 1, "pageSize": 1},
-                           headers=headers, timeout=10)
-        sr.raise_for_status()
-        pre_msgs = (sr.json().get("data") or {}).get("resultList") or []
-        if pre_msgs:
-            max_pre_time = pre_msgs[0].get("sendTime", "")
-            print(f"  Pre-trigger message time: {max_pre_time}", file=sys.stderr)
-    except Exception as e:
-        print(f"  Warning: pre-trigger snapshot failed ({e})", file=sys.stderr)
+    max_pre_time = _snapshot_max_pre_time(headers)
 
     print(f"  Triggering order export ({start_str[:10]} to {end_str[:10]})...")
     payload = {
@@ -197,50 +260,12 @@ def fetch_mhub_orders(token: str,
     r = requests.post(SALES_URL + "?exportType=3", json=payload, headers=headers, timeout=30)
     r.raise_for_status()
 
-    # Poll for the export message
-    deadline = time.time() + POLL_TIMEOUT
-    filename = None
-
-    while time.time() < deadline:
-        for read_state in (0, None):
-            if filename:
-                break
-            try:
-                poll_payload = {"page": 1, "pageSize": 50}
-                if read_state is not None:
-                    poll_payload["readState"] = read_state
-                mr = requests.post(MESSAGE_URL, json=poll_payload, headers=headers, timeout=10)
-                mr.raise_for_status()
-                messages = (mr.json().get("data") or {}).get("resultList") or []
-                for msg in messages:
-                    if msg.get("subject") != "OrderDetailsReport":
-                        continue
-                    send_time_str = msg.get("sendTime") or ""
-                    if send_time_str <= max_pre_time:
-                        continue
-                    m = re.search(r'fileName=([^\s"\'<>&]+\.xlsx)', msg.get("content", ""))
-                    if m:
-                        filename = m.group(1)
-                        print(f"  Export ready: {filename}", file=sys.stderr)
-                        break
-            except Exception as e:
-                print(f"  Warning: poll failed ({e})", file=sys.stderr)
-        if filename:
-            break
-        remaining = int(deadline - time.time())
-        if remaining > 0:
-            print(f"  Waiting for export... ({remaining}s left)", file=sys.stderr)
-            time.sleep(POLL_INTERVAL)
-
+    filename = _poll_for_export(headers, "OrderDetailsReport", max_pre_time)
     if not filename:
-        print("  Timed out waiting for export.", file=sys.stderr)
         return None
 
     print("  Downloading order data...", file=sys.stderr)
-    r = requests.get(DOWNLOAD_URL, params={"fileName": filename},
-                     headers=headers, timeout=120, stream=True)
-    r.raise_for_status()
-    xlsx_bytes = io.BytesIO(r.content)
+    xlsx_bytes = _download_export(headers, filename)
 
     return _parse_mhub_orders(xlsx_bytes, start_date, end_date)
 
@@ -263,6 +288,87 @@ def _parse_mhub_orders(xlsx_bytes: io.BytesIO,
     rows = list(ws.iter_rows(values_only=True))
     wb.close()
     return _parse_from_rows(rows, start_date, end_date)
+
+
+# ============================================================
+# TAX REPORT FETCHING
+# ============================================================
+# Sandstar's orderItemTax export has one row per (order line × tax jurisdiction),
+# so a line taxed by both a state and a city appears twice. "Taxable Amount" is
+# the true pre-tax total for that line (repeated across its jurisdiction rows);
+# "Sales Tax" is the tax for just that jurisdiction and must be summed per line.
+# This is the same report FullMonthlyReport.py uses for its monthly numbers.
+
+def fetch_mhub_tax(token: str,
+                   start_date: date = None, end_date: date = None) -> dict | None:
+    """
+    Fetch the Sandstar orderItemTax export, filtered to the mHUB machine.
+
+    Returns {(order_number, product_name): {"taxable": float, "tax": float}}.
+    Returns None if the export times out (caller should fall back to estimation).
+    """
+    headers = {**BASE_HEADERS, "x-token": token}
+
+    if end_date is None:
+        end_date = date.today()
+    if start_date is None:
+        start_date = end_date - timedelta(days=6)
+
+    start_str = f"{start_date} 00:00:00"
+    end_str   = f"{end_date} 23:59:59"
+
+    max_pre_time = _snapshot_max_pre_time(headers)
+
+    print(f"  Triggering tax export ({start_str[:10]} to {end_str[:10]})...")
+    payload = {
+        "page": 1,
+        "pageSize": 10,
+        "organSn": ORGAN_SN,
+        "startTime": start_str,
+        "endTime": end_str,
+        "language": "en",
+        "generateReport": True,
+    }
+    r = requests.post(TAX_URL, json=payload, headers=headers, timeout=30)
+    r.raise_for_status()
+
+    filename = _poll_for_export(headers, "orderItemTax", max_pre_time)
+    if not filename:
+        return None
+
+    print("  Downloading tax data...", file=sys.stderr)
+    xlsx_bytes = _download_export(headers, filename)
+
+    return _parse_mhub_tax(xlsx_bytes)
+
+
+def _parse_mhub_tax(xlsx_bytes: io.BytesIO) -> dict:
+    """
+    Parse the orderItemTax XLSX into a lookup:
+        {(order_number, product_name): {"taxable", "tax", "unit_price"}}
+    "unit_price" is the true pre-tax per-unit price (Taxable Amount / Quantity) —
+    Sandstar's own "Unit price" column in both exports is post-tax.
+    """
+    import pandas as pd
+    df = pd.read_excel(xlsx_bytes, header=2, engine="openpyxl")
+    print(f"  Tax XLSX rows: {len(df)}", file=sys.stderr)
+
+    df = df[df["Machine"].astype(str).str.strip() == MHUB_MACHINE_KEY]
+    df = df[df["Jurisdiction Name"] != "Credit Card Fee"].copy()
+    df["Sales Tax"] = pd.to_numeric(df["Sales Tax"], errors="coerce").fillna(0)
+
+    lookup: dict = {}
+    grouped = df.groupby(["Order number", "Product name"])
+    for (order_number, product_name), group in grouped:
+        taxable  = float(group["Taxable Amount"].iloc[0])
+        quantity = float(group["Quantity"].iloc[0]) or 1.0
+        lookup[(str(order_number).strip(), str(product_name).strip())] = {
+            "taxable":    taxable,
+            "tax":        round(float(group["Sales Tax"].sum()), 2),
+            "unit_price": round(taxable / quantity, 2),
+        }
+    print(f"  Tax lookup: {len(lookup)} line items", file=sys.stderr)
+    return lookup
 
 
 def _parse_from_dataframe(df, start_date: date, end_date: date) -> list[dict]:
@@ -429,15 +535,72 @@ def fetch_mhub_inventory(token: str) -> list[dict]:
 
 
 # ============================================================
+# PER-LINE PRE-TAX
+# ============================================================
+
+def estimate_line_pretax_from_order_rate(orders: list[dict]) -> None:
+    """
+    Mutate orders in place, adding 'subtotal' (pre-tax line estimate) and
+    'line_tax' fields by applying each order's overall tax rate
+    (payment_amount / order_amount - 1) to its post-tax line amount ("amount").
+    Also overwrites 'unit_price' with the implied pre-tax unit price
+    (subtotal / quantity) — Sandstar's own "Unit price" column is post-tax.
+
+    This is a fallback for when the orderItemTax report is unavailable — it's
+    an estimate, not exact, because it assumes the tax rate is uniform across
+    an order's line items (true when all lines share one jurisdiction, which
+    is the normal case for a single-machine order).
+    """
+    rates: dict[str, float] = {}
+    for o in orders:
+        onum = o["order_number"]
+        if onum in rates:
+            continue
+        order_amt   = o.get("order_amount", 0)
+        payment_amt = o.get("payment_amount", 0)
+        rates[onum] = (payment_amt - order_amt) / order_amt if order_amt > 0 else 0.0
+
+    for o in orders:
+        rate = rates.get(o["order_number"], 0.0)
+        subtotal = round(o["amount"] / (1 + rate), 2) if rate else o["amount"]
+        o["subtotal"] = subtotal
+        o["line_tax"] = round(o["amount"] - subtotal, 2)
+        if o["quantity"]:
+            o["unit_price"] = round(subtotal / o["quantity"], 2)
+
+
+def apply_tax_lookup(orders: list[dict], tax_lookup: dict) -> None:
+    """
+    Mutate orders in place, overriding 'subtotal'/'line_tax'/'unit_price' with
+    exact figures from the orderItemTax report (see fetch_mhub_tax) wherever a
+    matching (order_number, product_name) entry exists. Lines without a match
+    keep whatever estimate was already set (e.g. by
+    estimate_line_pretax_from_order_rate).
+    """
+    matched = 0
+    for o in orders:
+        key = (o["order_number"], o["product_name"])
+        entry = tax_lookup.get(key)
+        if entry is None:
+            continue
+        o["subtotal"]   = entry["taxable"]
+        o["unit_price"] = entry["unit_price"]
+        o["line_tax"] = entry["tax"]
+        matched += 1
+    print(f"  Tax report matched {matched}/{len(orders)} order lines", file=sys.stderr)
+
+
+# ============================================================
 # AGGREGATION
 # ============================================================
 
 def aggregate_sales(orders: list[dict]) -> list[dict]:
-    """Sum units and pre-tax revenue (unit price × qty) per product, sorted by revenue descending."""
+    """Sum units and pre-tax revenue ('subtotal', see estimate_line_pretax_from_order_rate /
+    apply_tax_lookup) per product, sorted by revenue descending."""
     by_product: dict[str, dict] = defaultdict(lambda: {"qty": 0, "revenue": 0.0})
     for o in orders:
         by_product[o["product_name"]]["qty"]     += o["quantity"]
-        by_product[o["product_name"]]["revenue"] += round(o["quantity"] * o.get("unit_price", 0), 2)
+        by_product[o["product_name"]]["revenue"] += o.get("subtotal", o["amount"])
     return sorted(
         [{"name": name, **vals} for name, vals in by_product.items()],
         key=lambda x: (-x["revenue"], -x["qty"]),
@@ -643,10 +806,11 @@ def _format_transactions(orders: list[dict], has_revenue: bool, single_day: bool
     """
     Transaction list sorted by time, shaded by order group.
 
-    When revenue data is present, each line shows Price, Qty, Subtotal (Price × Qty,
-    true pre-tax), Tax (Total minus Subtotal), and Total (Sandstar's "Sales volume",
-    which is post-tax — kept alongside Subtotal as a visual check that the two
-    differ by ~the sales tax rate).
+    When revenue data is present, each line shows Price (true pre-tax unit price —
+    Sandstar's own "Unit price" column is post-tax, so this is derived the same way
+    as Subtotal), Qty, Subtotal (Price × Qty, from the tax report or an order-rate
+    estimate — see estimate_line_pretax_from_order_rate / apply_tax_lookup), Tax,
+    and Total (Sandstar's "Sales volume", post-tax).
 
     When tax data is present, an order-total row follows each group whose numbers
     land under the Subtotal/Tax/Total columns rather than as free-floating text.
@@ -676,24 +840,33 @@ def _format_transactions(orders: list[dict], has_revenue: bool, single_day: bool
     current_payment_amount = 0.0
     rows: list[str] = []
 
+    ORDER_SEP_BORDER = "border-bottom:2px solid #dde4ed;"  # thick line between orders
+
     def _flush_order():
-        """Emit buffered product rows + order-total row for the completed order."""
-        rows.extend(pending_rows)
-        if show_tax and current_order is not None:
-            tax   = round(current_payment_amount - current_order_amount, 2)
-            total = current_payment_amount
-            style = (
-                "font-size:11px; color:#666; padding:3px 10px; "
-                "border-bottom:2px solid #dde4ed;"
-            )
-            rows.append(
-                f'<tr>'
-                f'<td colspan="{lead_cols}" style="text-align:right; {style}">Order total</td>'
-                f'<td class="num" style="{style}">${current_order_amount:.2f}</td>'
-                f'<td class="num" style="{style}">${tax:.2f}</td>'
-                f'<td class="num" style="{style} font-weight:600;">${total:.2f}</td>'
-                f'</tr>'
-            )
+        """
+        Emit buffered product rows + order-total row for the completed order.
+        Multi-item orders: thin lines between their items, thick line (via the
+        order-total row) separating from the next order.
+        Single-item orders: no order-total row (it would just repeat that line's
+        own Subtotal/Tax/Total) — instead the item row itself gets the thick
+        order-separator border, so every order boundary reads the same way.
+        """
+        if show_tax and current_order is not None and len(pending_rows) == 1:
+            rows.append(_ORDER_SEP_RE.sub(rf'style="\1; {ORDER_SEP_BORDER}"', pending_rows[0]))
+        else:
+            rows.extend(pending_rows)
+            if show_tax and current_order is not None and len(pending_rows) > 1:
+                tax   = round(current_payment_amount - current_order_amount, 2)
+                total = current_payment_amount
+                style = f"font-size:11px; color:#666; padding:3px 10px; {ORDER_SEP_BORDER}"
+                rows.append(
+                    f'<tr>'
+                    f'<td colspan="{lead_cols}" style="text-align:right; {style}">Order total</td>'
+                    f'<td class="num" style="{style}">${current_order_amount:.2f}</td>'
+                    f'<td class="num" style="{style}">${tax:.2f}</td>'
+                    f'<td class="num" style="{style} font-weight:600;">${total:.2f}</td>'
+                    f'</tr>'
+                )
         pending_rows.clear()
 
     for o in sorted_orders:
@@ -712,8 +885,8 @@ def _format_transactions(orders: list[dict], has_revenue: bool, single_day: bool
 
         if has_revenue:
             unit_price = o.get("unit_price", 0)
-            subtotal   = round(o["quantity"] * unit_price, 2)
-            line_tax   = round(o["amount"] - subtotal, 2)
+            subtotal   = o.get("subtotal", o["amount"])
+            line_tax   = o.get("line_tax", 0)
             rev_cells = (
                 f'<td class="num" style="background:{bg}">${unit_price:.2f}</td>'
                 f'<td class="num" style="background:{bg}">{o["quantity"]}</td>'
@@ -753,6 +926,11 @@ def _date_range_str(start: date, end: date) -> str:
 
 def _esc(s: str) -> str:
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+
+
+# Matches each td/tr's `style="background:#rrggbb"` so _flush_order can append
+# an order-separator border onto every cell of a single-item order's one row.
+_ORDER_SEP_RE = re.compile(r'style="(background:#[0-9a-fA-F]{6})"')
 
 
 # ============================================================
@@ -861,6 +1039,22 @@ def main():
     has_revenue = any(o["amount"] > 0 for o in orders)
     if not has_revenue:
         print("  Note: no revenue data in export (amount column absent)", file=sys.stderr)
+
+    # ── Pre-tax line amounts ───────────────────────────────────
+    # Baseline estimate from each order's own tax rate; overridden below with
+    # exact per-line figures from the Sandstar tax report when available
+    # (mock data has no real tax report, so it keeps the estimate).
+    estimate_line_pretax_from_order_rate(orders)
+    if has_revenue and not args.mock:
+        print("Logging in (tax)...")
+        token = login()
+        print("Fetching tax report...")
+        tax_lookup = fetch_mhub_tax(token, start_date=start_date, end_date=end_date)
+        if tax_lookup is None:
+            print("  Tax export timed out — using order-rate estimate for pre-tax figures.",
+                  file=sys.stderr)
+        else:
+            apply_tax_lookup(orders, tax_lookup)
 
     # ── Fetch inventory (skipped in mock mode) ────────────────
     if not args.mock:

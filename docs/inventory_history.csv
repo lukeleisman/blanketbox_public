@@ -2723,3 +2723,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-02T19:27:46Z,16214,doylestown,333 North Broad Cooler,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.5,0,8,8
 2026-07-02T22:06:12Z,129111,philly,Philly TrueCooler II,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.57,3,2,-1
 2026-07-02T22:06:12Z,16213,haven,TheHaven#2-cooler,S0B27699FEA161007,024100123223,Cheez It Original,2.07,6,5,-1
+2026-07-02T23:37:15Z,15519,doylestown,333 North Broad Ambient,S0B2BA2E2259B1009,643843713944,Cliff  Chocolate Chip Protein Bar,3.0,5,4,-1
+2026-07-02T23:37:15Z,16214,doylestown,333 North Broad Cooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,5.5,6,5,-1
+2026-07-02T23:37:15Z,129111,philly,Philly TrueCooler II,S0B246944E5611002,078000152401,Canada Dry Ginger Ale,2.57,5,4,-1
+2026-07-02T23:37:15Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.6,9,8,-1
+2026-07-02T23:37:15Z,16213,haven,TheHaven#2-cooler,S0B2BAC9D24491002,F0B2BAC9D24491000,Pop Secret popcorn,2.0,3,2,-1

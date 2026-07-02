@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T22:06:12Z",
+  "updated": "2026-07-02T23:37:15Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -114,11 +114,11 @@
           "name": "Cliff  Chocolate Chip Protein Bar",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17674936233687.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-06-14 17:50:02"
+          "stock_updated": "2026-07-02 18:03:33"
         },
         {
           "skuid": "S0B2D5CAD34F61005",
@@ -811,11 +811,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-07-02 13:29:48"
+          "stock_updated": "2026-07-02 18:24:27"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -1304,11 +1304,11 @@
           "name": "Canada Dry Ginger Ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175847239862745.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-07-01 19:03:41"
+          "stock_updated": "2026-07-02 17:54:36"
         },
         {
           "skuid": "S0B2A44D16D23100C",
@@ -2229,11 +2229,11 @@
           "name": "Pop Secret popcorn",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-06-30 08:50:51"
+          "stock_updated": "2026-07-02 18:36:27"
         },
         {
           "skuid": "S0B2CC2D2640F1005",
@@ -2325,11 +2325,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-06-30 08:57:43"
+          "stock_updated": "2026-07-02 18:36:27"
         },
         {
           "skuid": "S0B2D48452F7E1005",

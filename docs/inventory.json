@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T20:42:31Z",
+  "updated": "2026-07-02T22:06:12Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1412,11 +1412,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-07-01 22:05:12"
+          "stock_updated": "2026-07-02 16:48:15"
         },
         {
           "skuid": "S0B2DFCAA39F21000",
@@ -1833,11 +1833,11 @@
           "name": "Cheez It Original",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254819896872.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-06-30 18:41:43"
+          "stock_updated": "2026-07-02 16:14:11"
         },
         {
           "skuid": "S0B2DAF9429041007",

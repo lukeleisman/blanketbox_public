@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T19:34:59Z",
+  "updated": "2026-07-03T21:07:07Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -462,11 +462,11 @@
           "name": "Neutrogena Beach Defense spf 50",
           "price": 9.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363387219540.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-06-20 14:47:50"
+          "stock_updated": "2026-07-03 15:02:53"
         },
         {
           "skuid": "S0B25FC53055E1009",
@@ -1436,11 +1436,11 @@
           "name": "Deer park water",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 11,
+          "stock": 9,
           "capacity": 14,
-          "fill_pct": 79,
+          "fill_pct": 64,
           "stock_warning": 0,
-          "stock_updated": "2026-07-01 22:58:14"
+          "stock_updated": "2026-07-03 15:10:46"
         },
         {
           "skuid": "S0B246944E3EC1003",

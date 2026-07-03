@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T23:37:15Z",
+  "updated": "2026-07-03T03:18:31Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -3251,11 +3251,11 @@
           "name": "Kyser BMU Banjo/Mando Capo",
           "price": 29.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173758674668382.png",
-          "stock": 0,
+          "stock": -1,
           "capacity": 2,
-          "fill_pct": 0,
+          "fill_pct": -50,
           "stock_warning": 0,
-          "stock_updated": "2026-03-12 22:05:00"
+          "stock_updated": "2026-07-02 19:58:02"
         },
         {
           "skuid": "S0B248CF2771E100B",

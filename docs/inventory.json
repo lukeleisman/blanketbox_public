@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T21:07:07Z",
+  "updated": "2026-07-03T22:33:00Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1715,8 +1715,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 53,
-      "in_stock": 49,
-      "out_of_stock": 4,
+      "in_stock": 48,
+      "out_of_stock": 5,
       "low_stock": 0,
       "products": [
         {
@@ -1941,11 +1941,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-07-01 17:11:49"
+          "stock_updated": "2026-07-03 16:52:06"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2229,11 +2229,11 @@
           "name": "Pop Secret popcorn",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 2,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-07-02 18:36:27"
+          "stock_updated": "2026-07-03 16:52:06"
         },
         {
           "skuid": "S0B2CC2D2640F1005",
@@ -2289,11 +2289,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 4,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-07-01 14:30:19"
+          "stock_updated": "2026-07-03 16:52:06"
         },
         {
           "skuid": "S0B2DFCA832FF100C",

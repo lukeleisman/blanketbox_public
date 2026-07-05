@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T16:33:47Z",
+  "updated": "2026-07-05T18:02:59Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 23,
+          "stock": 22,
           "capacity": 24,
-          "fill_pct": 96,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-07-04 22:27:46"
+          "stock_updated": "2026-07-05 11:55:34"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1111,11 +1111,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 14,
+          "stock": 13,
           "capacity": 15,
-          "fill_pct": 93,
+          "fill_pct": 87,
           "stock_warning": 0,
-          "stock_updated": "2026-07-03 23:15:08"
+          "stock_updated": "2026-07-05 12:59:12"
         },
         {
           "skuid": "S0B2DD4AAFF451007",
@@ -1219,11 +1219,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 12,
-          "fill_pct": 83,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-07-04 14:26:29"
+          "stock_updated": "2026-07-05 12:39:45"
         },
         {
           "skuid": "S0B2EF08A265B1002",

@@ -2771,3 +2771,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-05T04:39:30Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,11,10,-1
 2026-07-05T10:17:47Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,10,9,-1
 2026-07-05T13:39:56Z,16213,haven,TheHaven#2-cooler,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.5,6,4,-2
+2026-07-05T15:13:01Z,16213,haven,TheHaven#2-cooler,S0B2BA2E24FD8100B,2225210120,Crunchy Peanut Butter Cliff Bar,2.0,4,3,-1
+2026-07-05T15:13:01Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,3,2,-1
+2026-07-05T15:13:01Z,16213,haven,TheHaven#2-cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,5,4,-1
+2026-07-05T15:13:01Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,9,8,-1

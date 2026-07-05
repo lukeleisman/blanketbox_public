@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T15:13:01Z",
+  "updated": "2026-07-05T16:33:47Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -41,7 +41,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
           "stock": 9,
           "capacity": 9,
           "fill_pct": 100,
@@ -1845,11 +1845,11 @@
           "name": "Chips Ahoy minis",
           "price": 5.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17767056506495.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-30 08:50:51"
+          "stock_updated": "2026-07-05 10:27:48"
         },
         {
           "skuid": "S0B246944DEAE1000",
@@ -1989,11 +1989,11 @@
           "name": "Fruit Loops Cereal",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177127272492393.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-07-01 21:01:02"
+          "stock_updated": "2026-07-05 10:27:48"
         },
         {
           "skuid": "S0B246944E40F1008",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T00:07:07Z",
+  "updated": "2026-07-05T04:39:30Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -931,11 +931,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 14,
+          "stock": 13,
           "capacity": 16,
-          "fill_pct": 88,
+          "fill_pct": 81,
           "stock_warning": 0,
-          "stock_updated": "2026-07-04 13:53:50"
+          "stock_updated": "2026-07-04 21:56:45"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 24,
+          "stock": 23,
           "capacity": 24,
-          "fill_pct": 100,
+          "fill_pct": 96,
           "stock_warning": 0,
-          "stock_updated": "2026-07-02 13:29:48"
+          "stock_updated": "2026-07-04 22:27:46"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1388,11 +1388,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-07-01 18:52:33"
+          "stock_updated": "2026-07-04 20:23:18"
         },
         {
           "skuid": "S0B2DAF9429041007",
@@ -1749,11 +1749,11 @@
           "name": "Beef Liver Dog Treats",
           "price": 20.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174907930543359.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-06-30 08:50:51"
+          "stock_updated": "2026-07-04 19:44:01"
         },
         {
           "skuid": "S0B2EB7FF1C0F1007",
@@ -2001,11 +2001,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 12,
-          "fill_pct": 92,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-07-01 21:01:02"
+          "stock_updated": "2026-07-04 20:50:11"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2073,11 +2073,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 4,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-06-30 18:41:43"
+          "stock_updated": "2026-07-04 20:50:11"
         },
         {
           "skuid": "S0B27699FEBD41002",
@@ -2325,11 +2325,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 9,
-          "fill_pct": 78,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-07-03 10:00:14"
+          "stock_updated": "2026-07-04 19:44:01"
         },
         {
           "skuid": "S0B2D48452F7E1005",

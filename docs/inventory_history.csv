@@ -2795,3 +2795,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-06T15:59:50Z,129111,philly,Philly TrueCooler II,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.57,2,1,-1
 2026-07-06T15:59:50Z,16213,haven,TheHaven#2-cooler,S0B2BDB1B79DB1001,2620000258,Slim Jim,1.0,5,4,-1
 2026-07-06T15:59:50Z,16213,haven,TheHaven#2-cooler,S0B2D527638181007,036632074782,Delight Cinnabon,3.0,2,1,-1
+2026-07-06T18:17:32Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.6,6,4,-2
+2026-07-06T18:17:32Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,2,1,-1
+2026-07-06T18:17:32Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,2,0,-2
+2026-07-06T18:17:32Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,0,-2,-2
+2026-07-06T18:17:32Z,16213,haven,TheHaven#2-cooler,S0B2DAF9429041007,044000085964,Chips Ahoy minis,5.07,3,2,-1

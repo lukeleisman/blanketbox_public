@@ -2791,3 +2791,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-06T03:35:13Z,129111,philly,Philly TrueCooler II,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,13,11,-2
 2026-07-06T08:20:38Z,129111,philly,Philly TrueCooler II,S0B246944E5611002,078000152401,Canada Dry Ginger Ale,2.57,2,1,-1
 2026-07-06T12:23:48Z,16213,haven,TheHaven#2-cooler,S0B2D527638181007,036632074782,Delight Cinnabon,3.0,3,2,-1
+2026-07-06T15:59:50Z,16214,doylestown,333 North Broad Cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.6,12,11,-1
+2026-07-06T15:59:50Z,129111,philly,Philly TrueCooler II,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.57,2,1,-1
+2026-07-06T15:59:50Z,16213,haven,TheHaven#2-cooler,S0B2BDB1B79DB1001,2620000258,Slim Jim,1.0,5,4,-1
+2026-07-06T15:59:50Z,16213,haven,TheHaven#2-cooler,S0B2D527638181007,036632074782,Delight Cinnabon,3.0,2,1,-1

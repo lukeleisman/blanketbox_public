@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T23:08:00Z",
+  "updated": "2026-07-07T01:16:42Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -943,11 +943,11 @@
           "name": "Maison Perrier Sparkling Water",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17773152898848.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-07-02 13:29:48"
+          "stock_updated": "2026-07-06 19:23:20"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1219,11 +1219,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 12,
-          "fill_pct": 75,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-07-05 12:39:45"
+          "stock_updated": "2026-07-06 19:23:20"
         },
         {
           "skuid": "S0B2EF08A265B1002",
@@ -1472,11 +1472,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 4.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-07-01 19:03:41"
+          "stock_updated": "2026-07-06 19:26:27"
         },
         {
           "skuid": "S0B2EC1587FF01001",

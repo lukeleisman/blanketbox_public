@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T05:37:57Z",
+  "updated": "2026-07-07T09:41:25Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1532,11 +1532,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173685359821166.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 5,
-          "fill_pct": 40,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-07-05 21:12:59"
+          "stock_updated": "2026-07-07 01:54:35"
         },
         {
           "skuid": "S0B2D90DF10651003",
@@ -1568,11 +1568,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 15,
+          "stock": 14,
           "capacity": 16,
-          "fill_pct": 94,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-07-02 01:58:05"
+          "stock_updated": "2026-07-07 01:54:35"
         },
         {
           "skuid": "S0B246944DEF51002",

@@ -2828,3 +2828,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-08T15:41:03Z,16214,doylestown,333 North Broad Cooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,5.5,4,3,-1
 2026-07-08T15:41:03Z,16213,haven,TheHaven#2-cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,3,2,-1
 2026-07-08T15:41:03Z,16213,haven,TheHaven#2-cooler,S0B2DAF9204FD1006,854622006007,Olina’s Wafer Crackers,2.5,5,4,-1
+2026-07-08T17:36:23Z,15519,doylestown,333 North Broad Ambient,S0B25FC58DD6C1004,8680011254,Neutrogena Beach Defense spf 50,9.99,5,4,-1
+2026-07-08T17:36:23Z,16214,doylestown,333 North Broad Cooler,S0B2EB7FF1C0F1007,01275900,Brisk Iced Tea,2.5,5,4,-1
+2026-07-08T17:36:23Z,16214,doylestown,333 North Broad Cooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,5.5,3,2,-1
+2026-07-08T17:36:23Z,16214,doylestown,333 North Broad Cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.5,8,7,-1
+2026-07-08T17:36:23Z,16214,doylestown,333 North Broad Cooler,S0B2C377070EC1001,082592194152,Naked Strawberry Banana 15.2oz,5.0,5,4,-1

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T15:41:03Z",
+  "updated": "2026-07-08T17:36:23Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -462,11 +462,11 @@
           "name": "Neutrogena Beach Defense spf 50",
           "price": 9.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363387219540.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-07-03 15:02:53"
+          "stock_updated": "2026-07-08 11:11:57"
         },
         {
           "skuid": "S0B25FC53055E1009",
@@ -643,11 +643,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 9,
-          "fill_pct": 89,
+          "fill_pct": 78,
           "stock_warning": 0,
-          "stock_updated": "2026-07-07 04:55:38"
+          "stock_updated": "2026-07-08 11:46:45"
         },
         {
           "skuid": "S0B2EB7FF1C0F1007",
@@ -655,11 +655,11 @@
           "name": "Brisk Iced Tea",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176736539400427.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-07-02 13:29:48"
+          "stock_updated": "2026-07-08 11:46:45"
         },
         {
           "skuid": "S0B2E02B5AA1F1005",
@@ -811,11 +811,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-07-08 08:44:28"
+          "stock_updated": "2026-07-08 11:46:45"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -979,11 +979,11 @@
           "name": "Naked Strawberry Banana 15.2oz",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176054114397470.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-07-02 13:08:45"
+          "stock_updated": "2026-07-08 11:46:45"
         },
         {
           "skuid": "S0B2EF08BF2341003",

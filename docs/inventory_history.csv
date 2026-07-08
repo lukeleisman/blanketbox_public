@@ -2835,3 +2835,9 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-08T17:36:23Z,16214,doylestown,333 North Broad Cooler,S0B2C377070EC1001,082592194152,Naked Strawberry Banana 15.2oz,5.0,5,4,-1
 2026-07-08T19:25:10Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,15,14,-1
 2026-07-08T19:25:10Z,16213,haven,TheHaven#2-cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,7,6,-1
+2026-07-08T22:05:47Z,15519,doylestown,333 North Broad Ambient,S0B260510FB391004,860002564531,Betterway Toilet Paper Roll,3.25,9,8,-1
+2026-07-08T22:05:47Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.5,17,16,-1
+2026-07-08T22:05:47Z,16214,doylestown,333 North Broad Cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,2,1,-1
+2026-07-08T22:05:47Z,16214,doylestown,333 North Broad Cooler,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.5,8,7,-1
+2026-07-08T22:05:47Z,16213,haven,TheHaven#2-cooler,S0B27699FEC921007,047495400700,Natures Bakery - Double Chocolate Brownie,2.57,5,4,-1
+2026-07-08T22:05:47Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.6,2,1,-1

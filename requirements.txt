@@ -1,3 +1,11 @@
-requests
-openpyxl
-pandas
+requests==2.34.2
+openpyxl==3.1.5
+pandas==3.0.3
+numpy==2.5.1
+python-dateutil==2.9.0.post0
+six==1.17.0
+certifi==2026.6.17
+charset_normalizer==3.4.9
+et-xmlfile==2.0.0
+idna==3.18
+urllib3==2.7.0

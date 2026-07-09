@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08T23:35:48Z",
+  "updated": "2026-07-09T03:19:42Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1715,8 +1715,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 53,
-      "in_stock": 45,
-      "out_of_stock": 8,
+      "in_stock": 44,
+      "out_of_stock": 9,
       "low_stock": 0,
       "products": [
         {
@@ -1749,11 +1749,11 @@
           "name": "Beef Liver Dog Treats",
           "price": 20.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174907930543359.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-07-04 19:44:01"
+          "stock_updated": "2026-07-08 18:52:11"
         },
         {
           "skuid": "S0B2EB7FF1C0F1007",
@@ -2001,11 +2001,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 12,
-          "fill_pct": 67,
+          "fill_pct": 58,
           "stock_warning": 0,
-          "stock_updated": "2026-07-05 08:52:03"
+          "stock_updated": "2026-07-08 18:52:11"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2325,11 +2325,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 9,
-          "fill_pct": 11,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-07-08 17:03:10"
+          "stock_updated": "2026-07-08 18:52:11"
         },
         {
           "skuid": "S0B2D48452F7E1005",

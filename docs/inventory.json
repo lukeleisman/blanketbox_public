@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T16:27:25Z",
+  "updated": "2026-07-09T18:18:21Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -775,11 +775,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 12,
+          "stock": 11,
           "capacity": 18,
-          "fill_pct": 67,
+          "fill_pct": 61,
           "stock_warning": 0,
-          "stock_updated": "2026-07-09 10:22:21"
+          "stock_updated": "2026-07-09 12:04:18"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2169,11 +2169,11 @@
           "name": "Natures Bakery - Double Chocolate Brownie",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368269911559.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-07-08 17:03:10"
+          "stock_updated": "2026-07-09 12:51:10"
         },
         {
           "skuid": "S0B25F6365FD11002",

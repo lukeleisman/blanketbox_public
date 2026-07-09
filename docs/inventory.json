@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T20:18:51Z",
+  "updated": "2026-07-09T21:57:05Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1715,8 +1715,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 53,
-      "in_stock": 44,
-      "out_of_stock": 9,
+      "in_stock": 41,
+      "out_of_stock": 12,
       "low_stock": 0,
       "products": [
         {
@@ -1917,11 +1917,11 @@
           "name": "Delight Cinnabon",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177514340736730.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-07-06 10:16:44"
+          "stock_updated": "2026-07-09 15:35:48"
         },
         {
           "skuid": "S0B2D527865D2100C",
@@ -2109,11 +2109,11 @@
           "name": "Milano",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-30 17:17:57"
+          "stock_updated": "2026-07-09 15:45:30"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -2181,11 +2181,11 @@
           "name": "NutellaGo",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-06-30 18:41:43"
+          "stock_updated": "2026-07-09 15:45:30"
         },
         {
           "skuid": "S0B2DAF9204FD1006",
@@ -2301,11 +2301,11 @@
           "name": "Sprinkles cupcakes",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799880951530.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-30 08:50:51"
+          "stock_updated": "2026-07-09 15:45:30"
         },
         {
           "skuid": "S0B2DAF8F87C31004",

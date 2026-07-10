@@ -2866,3 +2866,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-10T05:35:10Z,129111,philly,Philly TrueCooler II,S0B2DD4AAFF451007,850032072052,St James Blood orange,2.0,6,5,-1
 2026-07-10T05:35:10Z,129111,philly,Philly TrueCooler II,S0B2D484E0EFD1001,014100043706,Milano,2.57,14,13,-1
 2026-07-10T05:35:10Z,129111,philly,Philly TrueCooler II,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,7,6,-1
+2026-07-10T09:35:14Z,129111,philly,Philly TrueCooler II,S0B2D484E0EFD1001,014100043706,Milano,2.57,13,12,-1

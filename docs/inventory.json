@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T12:24:57Z",
+  "updated": "2026-07-10T15:11:23Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1715,8 +1715,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 53,
-      "in_stock": 40,
-      "out_of_stock": 13,
+      "in_stock": 39,
+      "out_of_stock": 14,
       "low_stock": 0,
       "products": [
         {
@@ -2313,11 +2313,11 @@
           "name": "St James Green Tea",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177670534725577.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-06-30 08:50:51"
+          "stock_updated": "2026-07-10 08:25:17"
         },
         {
           "skuid": "S0B246944E3C71001",

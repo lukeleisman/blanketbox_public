@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T19:00:29Z",
+  "updated": "2026-07-10T20:49:07Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -633,8 +633,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 50,
-      "in_stock": 36,
-      "out_of_stock": 14,
+      "in_stock": 35,
+      "out_of_stock": 15,
       "low_stock": 0,
       "products": [
         {
@@ -679,11 +679,11 @@
           "name": "Candy M&M Plain",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 13,
+          "stock": 12,
           "capacity": 16,
-          "fill_pct": 81,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-07-09 18:16:15"
+          "stock_updated": "2026-07-10 15:30:08"
         },
         {
           "skuid": "S0B27699FF0CC100A",
@@ -703,11 +703,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-07-08 16:46:35"
+          "stock_updated": "2026-07-10 15:47:33"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -775,11 +775,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 18,
-          "fill_pct": 28,
+          "fill_pct": 22,
           "stock_warning": 0,
-          "stock_updated": "2026-07-10 13:42:08"
+          "stock_updated": "2026-07-10 15:30:08"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1821,11 +1821,11 @@
           "name": "Cheerios Treats",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177731583592140.png",
-          "stock": 5,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-07-01 09:09:20"
+          "stock_updated": "2026-07-10 14:40:17"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -2169,11 +2169,11 @@
           "name": "Natures Bakery - Double Chocolate Brownie",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368269911559.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 5,
-          "fill_pct": 40,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-07-10 13:27:49"
+          "stock_updated": "2026-07-10 14:40:17"
         },
         {
           "skuid": "S0B25F6365FD11002",

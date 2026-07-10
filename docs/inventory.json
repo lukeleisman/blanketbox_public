@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T01:08:24Z",
+  "updated": "2026-07-10T05:35:10Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1280,11 +1280,11 @@
           "name": "Brisk Iced Tea",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176736539400427.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-07-01 19:03:41"
+          "stock_updated": "2026-07-09 21:03:12"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -1568,11 +1568,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 14,
+          "stock": 13,
           "capacity": 16,
-          "fill_pct": 88,
+          "fill_pct": 81,
           "stock_warning": 0,
-          "stock_updated": "2026-07-07 01:54:35"
+          "stock_updated": "2026-07-09 21:24:22"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1604,11 +1604,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 18,
-          "fill_pct": 39,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-07-09 17:19:20"
+          "stock_updated": "2026-07-09 21:24:22"
         },
         {
           "skuid": "S0B2EC158AB36100A",
@@ -1688,11 +1688,11 @@
           "name": "St James Blood orange",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177732790430139.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-07-01 18:52:33"
+          "stock_updated": "2026-07-09 21:24:22"
         },
         {
           "skuid": "S0B2DAF8F87C31004",

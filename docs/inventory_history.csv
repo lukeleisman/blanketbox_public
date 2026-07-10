@@ -2862,3 +2862,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-09T23:17:22Z,129111,philly,Philly TrueCooler II,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,8,7,-1
 2026-07-10T01:08:24Z,129111,philly,Philly TrueCooler II,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.25,1,0,-1
 2026-07-10T01:08:24Z,16213,haven,TheHaven#2-cooler,S0B2DAF9429041007,044000085964,Chips Ahoy minis,5.07,1,0,-1
+2026-07-10T05:35:10Z,129111,philly,Philly TrueCooler II,S0B2EB7FF1C0F1007,01275900,Brisk Iced Tea,2.57,7,6,-1
+2026-07-10T05:35:10Z,129111,philly,Philly TrueCooler II,S0B2DD4AAFF451007,850032072052,St James Blood orange,2.0,6,5,-1
+2026-07-10T05:35:10Z,129111,philly,Philly TrueCooler II,S0B2D484E0EFD1001,014100043706,Milano,2.57,14,13,-1
+2026-07-10T05:35:10Z,129111,philly,Philly TrueCooler II,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,7,6,-1

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T22:03:12Z",
+  "updated": "2026-07-10T23:28:15Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1219,11 +1219,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 12,
-          "fill_pct": 67,
+          "fill_pct": 58,
           "stock_warning": 0,
-          "stock_updated": "2026-07-06 19:23:20"
+          "stock_updated": "2026-07-10 17:06:50"
         },
         {
           "skuid": "S0B2EF08A265B1002",

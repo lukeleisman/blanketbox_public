@@ -2869,3 +2869,9 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-10T09:35:14Z,129111,philly,Philly TrueCooler II,S0B2D484E0EFD1001,014100043706,Milano,2.57,13,12,-1
 2026-07-10T12:24:57Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.5,13,11,-2
 2026-07-10T15:11:23Z,16213,haven,TheHaven#2-cooler,S0B2DAF8F87C31004,850032072090,St James Green Tea,3.0,1,0,-1
+2026-07-10T17:18:04Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,10,7,-3
+2026-07-10T17:18:04Z,16214,doylestown,333 North Broad Cooler,S0B2D0516EFCB1008,007478051550,Maison Perrier Sparkling Water,3.0,5,4,-1
+2026-07-10T17:18:04Z,16214,doylestown,333 North Broad Cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.6,11,10,-1
+2026-07-10T17:18:04Z,16214,doylestown,333 North Broad Cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,13,11,-2
+2026-07-10T17:18:04Z,16213,haven,TheHaven#2-cooler,S0B2D90DF10651003,071879700049,Jennie’s Coconut bites,18.0,4,3,-1
+2026-07-10T17:18:04Z,15520,mckinley,mHUBPrototypingShop,S0B2E92CBE7C81009,F0B2E92CBE7C81007,Robot Brown Bag,20.0,9997,9993,-4

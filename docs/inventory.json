@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T23:17:22Z",
+  "updated": "2026-07-10T01:08:24Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1246,8 +1246,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 38,
-      "in_stock": 36,
-      "out_of_stock": 2,
+      "in_stock": 35,
+      "out_of_stock": 3,
       "low_stock": 0,
       "products": [
         {
@@ -1532,11 +1532,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173685359821166.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 5,
-          "fill_pct": 20,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-07-07 01:54:35"
+          "stock_updated": "2026-07-09 19:08:20"
         },
         {
           "skuid": "S0B2D90DF10651003",
@@ -1715,8 +1715,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 53,
-      "in_stock": 41,
-      "out_of_stock": 12,
+      "in_stock": 40,
+      "out_of_stock": 13,
       "low_stock": 0,
       "products": [
         {
@@ -1845,11 +1845,11 @@
           "name": "Chips Ahoy minis",
           "price": 5.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17767056506495.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 4,
-          "fill_pct": 25,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-07-07 16:48:06"
+          "stock_updated": "2026-07-09 18:21:24"
         },
         {
           "skuid": "S0B246944DEAE1000",

@@ -2875,3 +2875,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-10T17:18:04Z,16214,doylestown,333 North Broad Cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,13,11,-2
 2026-07-10T17:18:04Z,16213,haven,TheHaven#2-cooler,S0B2D90DF10651003,071879700049,Jennie’s Coconut bites,18.0,4,3,-1
 2026-07-10T17:18:04Z,15520,mckinley,mHUBPrototypingShop,S0B2E92CBE7C81009,F0B2E92CBE7C81007,Robot Brown Bag,20.0,9997,9993,-4
+2026-07-10T19:00:29Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,7,5,-2
+2026-07-10T19:00:29Z,16213,haven,TheHaven#2-cooler,S0B27699FEC921007,047495400700,Natures Bakery - Double Chocolate Brownie,2.57,3,2,-1
+2026-07-10T19:00:29Z,16213,haven,TheHaven#2-cooler,S0B25F6365FD11002,0980080005,NutellaGo,2.5,5,4,-1
+2026-07-10T19:00:29Z,16213,haven,TheHaven#2-cooler,S0B246944E6E51005,016000264694,Nature Valley Granola Bar,2.5,2,1,-1

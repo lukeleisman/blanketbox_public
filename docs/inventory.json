@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T00:59:38Z",
+  "updated": "2026-07-11T04:19:42Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1280,11 +1280,11 @@
           "name": "Brisk Iced Tea",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176736539400427.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-07-09 21:03:12"
+          "stock_updated": "2026-07-10 21:16:20"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -1448,11 +1448,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 13,
-          "fill_pct": 85,
+          "fill_pct": 77,
           "stock_warning": 0,
-          "stock_updated": "2026-07-08 22:48:04"
+          "stock_updated": "2026-07-10 21:02:20"
         },
         {
           "skuid": "S0B2C85783CD31007",

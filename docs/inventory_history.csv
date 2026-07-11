@@ -2888,3 +2888,12 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-11T00:59:38Z,129111,philly,Philly TrueCooler II,S0B2D484E0EFD1001,014100043706,Milano,2.57,12,11,-1
 2026-07-11T04:19:42Z,129111,philly,Philly TrueCooler II,S0B2EB7FF1C0F1007,01275900,Brisk Iced Tea,2.57,6,5,-1
 2026-07-11T04:19:42Z,129111,philly,Philly TrueCooler II,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,11,10,-1
+2026-07-11T06:35:09Z,15519,doylestown,333 North Broad Ambient,S0B27699FEC921007,047495400700,Natures Bakery - Double Chocolate Brownie,2.57,10,9,-1
+2026-07-11T06:35:09Z,15519,doylestown,333 North Broad Ambient,S0B2D5C7E61611005,810113830728,Body Armor IV TrPnch,1.5,13,12,-1
+2026-07-11T06:35:09Z,15519,doylestown,333 North Broad Ambient,S0B2C6BE9F76D100A,2410012261,Cheez-It 1.5 oz,2.0,4,3,-1
+2026-07-11T06:35:09Z,16214,doylestown,333 North Broad Cooler,S0B2EF08A265B1002,850066031414,Wavii,5.99,15,14,-1
+2026-07-11T06:35:09Z,16214,doylestown,333 North Broad Cooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,5.5,2,1,-1
+2026-07-11T06:35:09Z,16214,doylestown,333 North Broad Cooler,S0B2C85783CD31007,1162002196,Fair Life Core Power 26g Vanilla Protein Shake,5.27,8,7,-1
+2026-07-11T06:35:09Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.5,11,10,-1
+2026-07-11T06:35:09Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,13,12,-1
+2026-07-11T06:35:09Z,129111,philly,Philly TrueCooler II,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.25,7,6,-1

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T23:28:15Z",
+  "updated": "2026-07-11T00:59:38Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1568,11 +1568,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 16,
-          "fill_pct": 75,
+          "fill_pct": 69,
           "stock_warning": 0,
-          "stock_updated": "2026-07-10 02:36:18"
+          "stock_updated": "2026-07-10 19:13:19"
         },
         {
           "skuid": "S0B246944DEF51002",

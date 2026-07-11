@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T14:22:01Z",
+  "updated": "2026-07-11T15:30:26Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -66,11 +66,11 @@
           "name": "Body Armor IV TrPnch",
           "price": 1.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531171446343.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 13,
-          "fill_pct": 92,
+          "fill_pct": 85,
           "stock_warning": 0,
-          "stock_updated": "2026-07-11 01:18:05"
+          "stock_updated": "2026-07-11 10:26:49"
         },
         {
           "skuid": "S0B248CF276EB1000",

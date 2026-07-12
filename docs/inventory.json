@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T16:58:33Z",
+  "updated": "2026-07-12T18:03:07Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1929,11 +1929,11 @@
           "name": "Delight Mocha",
           "price": 3.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177514355024033.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-07-04 07:46:04"
+          "stock_updated": "2026-07-12 12:23:01"
         },
         {
           "skuid": "S0B246944E3EC1003",

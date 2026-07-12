@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T18:03:07Z",
+  "updated": "2026-07-12T19:37:55Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -823,11 +823,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-07-02 13:08:45"
+          "stock_updated": "2026-07-12 13:44:47"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 8,
+          "stock": 6,
           "capacity": 24,
-          "fill_pct": 33,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-07-11 12:46:32"
+          "stock_updated": "2026-07-12 14:19:38"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1246,8 +1246,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 38,
-      "in_stock": 35,
-      "out_of_stock": 3,
+      "in_stock": 34,
+      "out_of_stock": 4,
       "low_stock": 0,
       "products": [
         {
@@ -1352,11 +1352,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176852826423823.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-07-07 17:27:32"
+          "stock_updated": "2026-07-12 13:24:43"
         },
         {
           "skuid": "S0B2668475B231007",

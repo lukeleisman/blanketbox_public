@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T22:49:33Z",
+  "updated": "2026-07-12T23:54:42Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1725,11 +1725,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-06-30 08:57:43"
+          "stock_updated": "2026-07-12 18:54:05"
         },
         {
           "skuid": "S0B2D4022EBB71006",
@@ -1857,11 +1857,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 3,
+          "stock": 1,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 17,
           "stock_warning": 0,
-          "stock_updated": "2026-07-11 12:19:04"
+          "stock_updated": "2026-07-12 18:54:05"
         },
         {
           "skuid": "S0B2C6BB0DE621006",
@@ -2253,11 +2253,11 @@
           "name": "San Pellegrino Essenza",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619022990038.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-30 08:50:51"
+          "stock_updated": "2026-07-12 18:54:05"
         },
         {
           "skuid": "S0B29D2F2643D100B",

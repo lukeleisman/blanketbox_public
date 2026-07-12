@@ -2929,3 +2929,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-12T21:50:34Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,11,10,-1
 2026-07-12T21:50:34Z,16214,doylestown,333 North Broad Cooler,S0B2D5DE0BABD100A,810119680266,Trip Elderflower Mint,5.27,5,4,-1
 2026-07-12T21:50:34Z,129111,philly,Philly TrueCooler II,S0B246944E4F01003,052000328677,GATORADE 20OZ ORANGE,3.25,1,0,-1
+2026-07-12T23:54:42Z,16213,haven,TheHaven#2-cooler,S0B2D90DB76B5100C,041508302074,San Pellegrino Essenza,3.77,4,3,-1
+2026-07-12T23:54:42Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.5,9,8,-1
+2026-07-12T23:54:42Z,16213,haven,TheHaven#2-cooler,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.5,3,1,-2

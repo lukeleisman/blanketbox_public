@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T15:33:11Z",
+  "updated": "2026-07-12T16:58:33Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -739,11 +739,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-07-08 16:26:17"
+          "stock_updated": "2026-07-12 11:30:04"
         },
         {
           "skuid": "S0B2D527638181007",
@@ -1231,11 +1231,11 @@
           "name": "Wavii",
           "price": 5.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178209048093040.png",
-          "stock": 13,
+          "stock": 12,
           "capacity": 16,
-          "fill_pct": 81,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-07-12 00:09:10"
+          "stock_updated": "2026-07-12 11:27:37"
         }
       ]
     },

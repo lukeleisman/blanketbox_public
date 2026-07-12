@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T20:49:18Z",
+  "updated": "2026-07-12T21:50:34Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -775,11 +775,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 18,
-          "fill_pct": 17,
+          "fill_pct": 11,
           "stock_warning": 0,
-          "stock_updated": "2026-07-11 15:33:37"
+          "stock_updated": "2026-07-12 15:50:29"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -931,11 +931,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 16,
-          "fill_pct": 69,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-07-12 00:06:06"
+          "stock_updated": "2026-07-12 16:12:14"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -1111,11 +1111,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 15,
-          "fill_pct": 73,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-07-10 11:42:51"
+          "stock_updated": "2026-07-12 16:12:14"
         },
         {
           "skuid": "S0B2DD4AAFF451007",
@@ -1171,11 +1171,11 @@
           "name": "Trip Elderflower Mint",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177533493701966.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-07-02 13:08:45"
+          "stock_updated": "2026-07-12 16:12:14"
         },
         {
           "skuid": "S0B266D76782F1002",
@@ -1195,11 +1195,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 15,
-          "fill_pct": 67,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-07-10 11:01:56"
+          "stock_updated": "2026-07-12 15:50:29"
         },
         {
           "skuid": "S0B2DB92EA84A1003",
@@ -1246,8 +1246,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 38,
-      "in_stock": 34,
-      "out_of_stock": 4,
+      "in_stock": 33,
+      "out_of_stock": 5,
       "low_stock": 0,
       "products": [
         {
@@ -1508,11 +1508,11 @@
           "name": "GATORADE 20OZ ORANGE",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063782730.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-07-05 21:12:59"
+          "stock_updated": "2026-07-12 16:15:48"
         },
         {
           "skuid": "S0B246944E40F1008",

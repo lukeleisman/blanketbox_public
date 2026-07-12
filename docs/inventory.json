@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T04:52:43Z",
+  "updated": "2026-07-12T07:28:39Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -54,11 +54,11 @@
           "name": "Body Armor IV StrKiwi",
           "price": 1.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531187161649.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-06-20 01:20:41"
+          "stock_updated": "2026-07-12 00:31:32"
         },
         {
           "skuid": "S0B2D5C7E61611005",
@@ -426,11 +426,11 @@
           "name": "Natures Bakery - Double Chocolate Brownie",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368269911559.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-07-11 15:21:45"
+          "stock_updated": "2026-07-12 00:31:32"
         },
         {
           "skuid": "S0B2885215A1B1003",
@@ -438,11 +438,11 @@
           "name": "Natures Bakery blueberry fig bat",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866563574429.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-06-28 19:04:57"
+          "stock_updated": "2026-07-12 00:39:21"
         },
         {
           "skuid": "S0B271C0F5611100C",
@@ -633,8 +633,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 50,
-      "in_stock": 35,
-      "out_of_stock": 15,
+      "in_stock": 34,
+      "out_of_stock": 16,
       "low_stock": 0,
       "products": [
         {
@@ -811,11 +811,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 6,
-          "fill_pct": 17,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-07-11 01:18:40"
+          "stock_updated": "2026-07-12 00:10:24"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -931,11 +931,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 12,
+          "stock": 11,
           "capacity": 16,
-          "fill_pct": 75,
+          "fill_pct": 69,
           "stock_warning": 0,
-          "stock_updated": "2026-07-11 01:17:26"
+          "stock_updated": "2026-07-12 00:06:06"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -1231,11 +1231,11 @@
           "name": "Wavii",
           "price": 5.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178209048093040.png",
-          "stock": 14,
+          "stock": 13,
           "capacity": 16,
-          "fill_pct": 88,
+          "fill_pct": 81,
           "stock_warning": 0,
-          "stock_updated": "2026-07-11 01:18:40"
+          "stock_updated": "2026-07-12 00:09:10"
         }
       ]
     },

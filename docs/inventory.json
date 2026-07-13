@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T21:56:50Z",
+  "updated": "2026-07-13T22:58:35Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1520,11 +1520,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/052000328660.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 10,
-          "fill_pct": 50,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-07-13 00:02:31"
+          "stock_updated": "2026-07-13 17:54:47"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -1592,11 +1592,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-07-01 19:03:41"
+          "stock_updated": "2026-07-13 17:54:47"
         },
         {
           "skuid": "S0B246944E3D51001",

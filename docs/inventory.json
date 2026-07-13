@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T02:49:25Z",
+  "updated": "2026-07-13T06:19:23Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -41,7 +41,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
           "stock": 8,
           "capacity": 9,
           "fill_pct": 89,
@@ -1195,11 +1195,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 15,
-          "fill_pct": 60,
+          "fill_pct": 53,
           "stock_warning": 0,
-          "stock_updated": "2026-07-12 15:50:29"
+          "stock_updated": "2026-07-12 22:48:41"
         },
         {
           "skuid": "S0B2DB92EA84A1003",
@@ -1448,11 +1448,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 10,
+          "stock": 8,
           "capacity": 13,
-          "fill_pct": 77,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-07-10 21:02:20"
+          "stock_updated": "2026-07-13 00:02:31"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1520,11 +1520,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/052000328660.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 10,
-          "fill_pct": 60,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-07-11 00:49:21"
+          "stock_updated": "2026-07-13 00:02:31"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2001,11 +2001,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 12,
-          "fill_pct": 58,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-07-08 18:52:11"
+          "stock_updated": "2026-07-13 00:23:25"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2217,11 +2217,11 @@
           "name": "Oreo Fresh stacks",
           "price": 5.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686702392867.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-30 08:50:51"
+          "stock_updated": "2026-07-13 00:23:25"
         },
         {
           "skuid": "S0B2BAC9D24491002",

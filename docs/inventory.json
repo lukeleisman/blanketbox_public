@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T19:23:34Z",
+  "updated": "2026-07-13T20:38:23Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -102,11 +102,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 7,
-          "fill_pct": 29,
+          "fill_pct": 14,
           "stock_warning": 0,
-          "stock_updated": "2026-07-11 15:21:45"
+          "stock_updated": "2026-07-13 15:31:00"
         },
         {
           "skuid": "S0B2BA2E2259B1009",
@@ -606,11 +606,11 @@
           "name": "Twix Candy Bar",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-07-01 15:43:32"
+          "stock_updated": "2026-07-13 15:31:00"
         },
         {
           "skuid": "S0B246944E8251002",
@@ -1364,11 +1364,11 @@
           "name": "Celsius Watermelon",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173400663718739.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-07-01 18:52:33"
+          "stock_updated": "2026-07-13 15:16:19"
         },
         {
           "skuid": "S0B2DD3F2D92D100A",

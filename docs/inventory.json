@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T23:54:42Z",
+  "updated": "2026-07-13T02:49:25Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 24,
-          "fill_pct": 25,
+          "fill_pct": 21,
           "stock_warning": 0,
-          "stock_updated": "2026-07-12 14:19:38"
+          "stock_updated": "2026-07-12 21:00:40"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1556,11 +1556,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-07-01 18:52:33"
+          "stock_updated": "2026-07-12 19:37:32"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -1568,11 +1568,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 16,
-          "fill_pct": 69,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-07-10 19:13:19"
+          "stock_updated": "2026-07-12 19:37:32"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1715,8 +1715,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 53,
-      "in_stock": 38,
-      "out_of_stock": 15,
+      "in_stock": 37,
+      "out_of_stock": 16,
       "low_stock": 0,
       "products": [
         {
@@ -1725,11 +1725,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 9,
-          "fill_pct": 89,
+          "fill_pct": 78,
           "stock_warning": 0,
-          "stock_updated": "2026-07-12 18:54:05"
+          "stock_updated": "2026-07-12 21:24:52"
         },
         {
           "skuid": "S0B2D4022EBB71006",
@@ -1857,11 +1857,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 6,
-          "fill_pct": 17,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-07-12 18:54:05"
+          "stock_updated": "2026-07-12 20:00:38"
         },
         {
           "skuid": "S0B2C6BB0DE621006",
@@ -1929,11 +1929,11 @@
           "name": "Delight Mocha",
           "price": 3.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177514355024033.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 5,
-          "fill_pct": 40,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-07-12 12:23:01"
+          "stock_updated": "2026-07-12 21:25:46"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -2013,11 +2013,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063766829.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-07-01 09:09:20"
+          "stock_updated": "2026-07-12 21:24:52"
         },
         {
           "skuid": "S0B246944E7FE1008",

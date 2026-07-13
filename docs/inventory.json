@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T12:31:28Z",
+  "updated": "2026-07-13T15:43:53Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -18,11 +18,11 @@
           "name": "Albanese peach rings",
           "price": 7.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178216062408651.png",
-          "stock": 10,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-06-25 21:25:25"
+          "stock_updated": "2026-07-13 08:50:32"
         },
         {
           "skuid": "S0B26050ED251100C",
@@ -90,11 +90,11 @@
           "name": "Cheerios Treats",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177731583592140.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-06-27 08:51:45"
+          "stock_updated": "2026-07-13 08:50:32"
         },
         {
           "skuid": "S0B2C6BE9F76D100A",
@@ -739,11 +739,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-07-12 11:30:04"
+          "stock_updated": "2026-07-13 08:05:11"
         },
         {
           "skuid": "S0B2D527638181007",
@@ -1715,8 +1715,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 53,
-      "in_stock": 37,
-      "out_of_stock": 16,
+      "in_stock": 36,
+      "out_of_stock": 17,
       "low_stock": 0,
       "products": [
         {
@@ -1809,11 +1809,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 7,
-          "fill_pct": 14,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-07-11 11:19:01"
+          "stock_updated": "2026-07-13 08:29:05"
         },
         {
           "skuid": "S0B2DD3F2D92D100A",

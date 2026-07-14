@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T16:44:37Z",
+  "updated": "2026-07-14T18:03:18Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1280,11 +1280,11 @@
           "name": "Brisk Iced Tea",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176736539400427.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-07-13 20:19:40"
+          "stock_updated": "2026-07-14 12:15:18"
         },
         {
           "skuid": "S0B26D8C6EAF31008",

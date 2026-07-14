@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T05:51:35Z",
+  "updated": "2026-07-14T08:04:51Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1436,11 +1436,11 @@
           "name": "Deer park water",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 15,
+          "stock": 14,
           "capacity": 16,
-          "fill_pct": 94,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-07-14 00:27:45"
+          "stock_updated": "2026-07-14 02:04:04"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -1676,11 +1676,11 @@
           "name": "Powerade Zero Mixed Berry 20floz",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176048132401919.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-07-13 20:28:20"
+          "stock_updated": "2026-07-14 02:04:04"
         },
         {
           "skuid": "S0B27BB097BD21006",
@@ -1808,11 +1808,11 @@
           "name": "VITAMIN WATER DRAGONFRUIT",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176953552008452.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-07-13 20:28:20"
+          "stock_updated": "2026-07-14 02:04:04"
         },
         {
           "skuid": "S0B2F619836EC1004",

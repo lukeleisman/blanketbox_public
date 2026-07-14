@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T19:51:13Z",
+  "updated": "2026-07-14T21:00:05Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1436,11 +1436,11 @@
           "name": "Deer park water",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 14,
+          "stock": 13,
           "capacity": 16,
-          "fill_pct": 88,
+          "fill_pct": 81,
           "stock_warning": 0,
-          "stock_updated": "2026-07-14 02:04:04"
+          "stock_updated": "2026-07-14 15:17:34"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -1772,11 +1772,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 12,
+          "stock": 11,
           "capacity": 12,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-07-13 20:31:46"
+          "stock_updated": "2026-07-14 15:44:44"
         },
         {
           "skuid": "S0B246944E7B61003",

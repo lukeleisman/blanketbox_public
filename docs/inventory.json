@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T17:46:45Z",
+  "updated": "2026-07-15T19:10:52Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1460,11 +1460,11 @@
           "name": "Deer park water",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 13,
+          "stock": 12,
           "capacity": 16,
-          "fill_pct": 81,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-07-14 15:17:34"
+          "stock_updated": "2026-07-15 13:54:29"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -1808,11 +1808,11 @@
           "name": "Vita Coco Coconut Water Organic",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1650653929348.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-07-13 20:33:09"
+          "stock_updated": "2026-07-15 13:54:29"
         },
         {
           "skuid": "S0B2F6198ACBB1001",

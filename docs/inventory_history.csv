@@ -3074,3 +3074,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-15T17:46:45Z,16213,haven,TheHaven#2-cooler,S0B27699FEBD41002,04003100,M&M’s Milk Chocolate,2.57,0,2,2
 2026-07-15T17:46:45Z,16213,haven,TheHaven#2-cooler,S0B2D527638181007,036632074782,Delight Cinnabon,3.0,0,4,4
 2026-07-15T17:46:45Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,14,17,3
+2026-07-15T19:10:52Z,129111,philly,Philly TrueCooler II,S0B246944E7B61003,898999011011,Vita Coco Coconut Water Organic,3.25,7,6,-1
+2026-07-15T19:10:52Z,129111,philly,Philly TrueCooler II,S0B246944E9A41003,082657500638,Deer park water,2.5,13,12,-1

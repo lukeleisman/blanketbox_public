@@ -3062,3 +3062,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-15T14:19:32Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,8,17,9
 2026-07-15T14:19:32Z,16214,doylestown,333 North Broad Cooler,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.5,4,7,3
 2026-07-15T14:19:32Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,10,8,-2
+2026-07-15T16:01:19Z,129111,philly,Philly TrueCooler II,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.25,6,5,-1

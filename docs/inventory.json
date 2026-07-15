@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T23:24:48Z",
+  "updated": "2026-07-15T00:49:54Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1400,11 +1400,11 @@
           "name": "Chips Ahoy minis",
           "price": 4.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17767056506495.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-07-13 20:19:40"
+          "stock_updated": "2026-07-14 18:27:36"
         },
         {
           "skuid": "S0B246944DEAE1000",
@@ -2734,11 +2734,11 @@
           "name": "orignal gorilla glue 2fl",
           "price": 11.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/da461886-a66f-4270-a21e-45146c8abf05.jpg",
-          "stock": 9998,
+          "stock": 9997,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-25 09:11:26"
+          "stock_updated": "2026-07-14 19:28:20"
         },
         {
           "skuid": "S0B2E970C27C91001",

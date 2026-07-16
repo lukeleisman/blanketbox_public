@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T20:58:22Z",
+  "updated": "2026-07-16T22:10:15Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 52,
-      "in_stock": 50,
-      "out_of_stock": 2,
+      "in_stock": 49,
+      "out_of_stock": 3,
       "low_stock": 0,
       "products": [
         {
@@ -114,11 +114,11 @@
           "name": "Cliff  Chocolate Chip Protein Bar",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17674936233687.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-07-15 15:21:48"
+          "stock_updated": "2026-07-16 16:15:15"
         },
         {
           "skuid": "S0B2D5CAD34F61005",
@@ -426,11 +426,11 @@
           "name": "Natures Bakery blueberry fig bat",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866563574429.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 12,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-07-15 08:52:25"
+          "stock_updated": "2026-07-16 16:15:15"
         },
         {
           "skuid": "S0B271C0F5611100C",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T18:06:09Z",
+  "updated": "2026-07-16T19:41:07Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1364,11 +1364,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 4,
-          "fill_pct": 50,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-07-15 06:23:08"
+          "stock_updated": "2026-07-16 13:41:51"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -1808,11 +1808,11 @@
           "name": "Vita Coco Coconut Water Organic",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1650653929348.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-07-15 13:54:29"
+          "stock_updated": "2026-07-16 13:41:51"
         },
         {
           "skuid": "S0B2F6198ACBB1001",

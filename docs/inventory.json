@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T04:15:26Z",
+  "updated": "2026-07-16T06:42:33Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -294,11 +294,11 @@
           "name": "IQ Bar Chocolate Sea Salt",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176092402211332.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-06-22 20:20:22"
+          "stock_updated": "2026-07-16 00:52:28"
         },
         {
           "skuid": "S0B2DFCAA016C1003",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 30,
+          "stock": 29,
           "capacity": 30,
-          "fill_pct": 100,
+          "fill_pct": 97,
           "stock_warning": 0,
-          "stock_updated": "2026-07-15 08:32:51"
+          "stock_updated": "2026-07-16 00:33:41"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -2097,11 +2097,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 21,
+          "stock": 20,
           "capacity": 21,
-          "fill_pct": 100,
+          "fill_pct": 95,
           "stock_warning": 0,
-          "stock_updated": "2026-07-14 16:51:26"
+          "stock_updated": "2026-07-15 23:29:58"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2457,11 +2457,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 15,
+          "stock": 13,
           "capacity": 17,
-          "fill_pct": 88,
+          "fill_pct": 76,
           "stock_warning": 0,
-          "stock_updated": "2026-07-15 15:15:54"
+          "stock_updated": "2026-07-15 23:30:48"
         },
         {
           "skuid": "S0B2DFCA832FF100C",
@@ -2505,11 +2505,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 22,
+          "stock": 20,
           "capacity": 22,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-07-14 14:38:34"
+          "stock_updated": "2026-07-15 23:29:58"
         },
         {
           "skuid": "S0B2D48452F7E1005",

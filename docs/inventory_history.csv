@@ -3121,3 +3121,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-17T04:40:45Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,10,9,-1
 2026-07-17T07:16:15Z,129111,philly,Philly TrueCooler II,S0B246944E9A41003,082657500638,Deer park water,2.5,12,11,-1
 2026-07-17T07:16:15Z,129111,philly,Philly TrueCooler II,S0B246944E5611002,078000152401,Canada Dry Ginger Ale,2.57,5,4,-1
+2026-07-17T09:26:52Z,129111,philly,Philly TrueCooler II,S0B246944E5611002,078000152401,Canada Dry Ginger Ale,2.57,4,3,-1

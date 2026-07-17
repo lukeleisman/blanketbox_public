@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T20:26:57Z",
+  "updated": "2026-07-17T21:22:29Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -41,7 +41,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
           "stock": 8,
           "capacity": 8,
           "fill_pct": 100,
@@ -2782,11 +2782,11 @@
           "name": "orignal gorilla glue 2fl",
           "price": 11.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/da461886-a66f-4270-a21e-45146c8abf05.jpg",
-          "stock": 9997,
+          "stock": 9996,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-07-14 19:28:20"
+          "stock_updated": "2026-07-17 15:42:54"
         },
         {
           "skuid": "S0B2E970C27C91001",

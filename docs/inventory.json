@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T16:15:33Z",
+  "updated": "2026-07-17T17:38:00Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1989,11 +1989,11 @@
           "name": "Cheez It Original",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254819896872.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-07-16 17:35:15"
+          "stock_updated": "2026-07-17 11:22:07"
         },
         {
           "skuid": "S0B2DAF9429041007",
@@ -2229,11 +2229,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 14,
+          "stock": 13,
           "capacity": 17,
-          "fill_pct": 82,
+          "fill_pct": 76,
           "stock_warning": 0,
-          "stock_updated": "2026-07-16 20:45:52"
+          "stock_updated": "2026-07-17 11:22:07"
         },
         {
           "skuid": "S0B27699FEBD41002",

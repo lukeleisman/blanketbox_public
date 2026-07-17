@@ -3123,3 +3123,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-17T07:16:15Z,129111,philly,Philly TrueCooler II,S0B246944E5611002,078000152401,Canada Dry Ginger Ale,2.57,5,4,-1
 2026-07-17T09:26:52Z,129111,philly,Philly TrueCooler II,S0B246944E5611002,078000152401,Canada Dry Ginger Ale,2.57,4,3,-1
 2026-07-17T14:43:18Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.5,28,26,-2
+2026-07-17T17:38:00Z,16213,haven,TheHaven#2-cooler,S0B27699FEA161007,024100123223,Cheez It Original,2.07,3,2,-1
+2026-07-17T17:38:00Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,14,13,-1

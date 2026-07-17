@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T01:01:03Z",
+  "updated": "2026-07-17T04:40:45Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1604,11 +1604,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 18,
+          "stock": 17,
           "capacity": 18,
-          "fill_pct": 100,
+          "fill_pct": 94,
           "stock_warning": 0,
-          "stock_updated": "2026-07-13 20:31:46"
+          "stock_updated": "2026-07-16 20:44:18"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -1652,11 +1652,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 20,
+          "stock": 19,
           "capacity": 20,
-          "fill_pct": 100,
+          "fill_pct": 95,
           "stock_warning": 0,
-          "stock_updated": "2026-07-13 20:31:46"
+          "stock_updated": "2026-07-16 22:21:44"
         },
         {
           "skuid": "S0B2EC158AB36100A",
@@ -1796,11 +1796,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 12,
-          "fill_pct": 67,
+          "fill_pct": 58,
           "stock_warning": 0,
-          "stock_updated": "2026-07-15 21:16:13"
+          "stock_updated": "2026-07-16 20:44:18"
         },
         {
           "skuid": "S0B246944E7B61003",
@@ -2229,11 +2229,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 16,
+          "stock": 14,
           "capacity": 17,
-          "fill_pct": 94,
+          "fill_pct": 82,
           "stock_warning": 0,
-          "stock_updated": "2026-07-15 15:15:54"
+          "stock_updated": "2026-07-16 20:45:52"
         },
         {
           "skuid": "S0B27699FEBD41002",
@@ -2373,11 +2373,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-07-13 18:32:21"
+          "stock_updated": "2026-07-16 20:45:52"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -2457,11 +2457,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 12,
+          "stock": 11,
           "capacity": 17,
-          "fill_pct": 71,
+          "fill_pct": 65,
           "stock_warning": 0,
-          "stock_updated": "2026-07-16 10:43:27"
+          "stock_updated": "2026-07-16 20:45:52"
         },
         {
           "skuid": "S0B2DFCA832FF100C",
@@ -2505,11 +2505,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 19,
+          "stock": 18,
           "capacity": 22,
-          "fill_pct": 86,
+          "fill_pct": 82,
           "stock_warning": 0,
-          "stock_updated": "2026-07-16 08:16:38"
+          "stock_updated": "2026-07-16 20:45:52"
         },
         {
           "skuid": "S0B2D48452F7E1005",

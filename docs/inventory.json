@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T22:21:31Z",
+  "updated": "2026-07-17T23:23:40Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -42,11 +42,11 @@
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-07-08 16:52:43"
+          "stock_updated": "2026-07-17 17:42:43"
         },
         {
           "skuid": "S0B2D5C80C7741005",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 26,
+          "stock": 25,
           "capacity": 30,
-          "fill_pct": 87,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-07-17 08:36:25"
+          "stock_updated": "2026-07-17 17:42:35"
         },
         {
           "skuid": "S0B2C377070EC1001",

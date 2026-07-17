@@ -3111,3 +3111,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-16T22:10:15Z,15519,doylestown,333 North Broad Ambient,S0B2885215A1B1003,047495112900,Natures Bakery blueberry fig bat,2.5,12,11,-1
 2026-07-16T23:24:57Z,16213,haven,TheHaven#2-cooler,S0B27699FEA161007,024100123223,Cheez It Original,2.07,4,3,-1
 2026-07-16T23:24:57Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,5,3,-2
+2026-07-17T01:01:03Z,16213,haven,TheHaven#2-cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,11,10,-1

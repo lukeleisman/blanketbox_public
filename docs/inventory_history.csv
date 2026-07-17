@@ -3135,3 +3135,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-17T20:26:57Z,129111,philly,Philly TrueCooler II,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,16,15,-1
 2026-07-17T20:26:57Z,129111,philly,Philly TrueCooler II,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,7,5,-2
 2026-07-17T21:22:29Z,15520,mckinley,mHUBPrototypingShop,S0B2E96C007F01002,052427500021,orignal gorilla glue 2fl,11.0,9997,9996,-1
+2026-07-17T22:21:31Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,11,10,-1

@@ -3164,3 +3164,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-18T21:23:14Z,129111,philly,Philly TrueCooler II,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,1,0,-1
 2026-07-18T21:23:14Z,16213,haven,TheHaven#2-cooler,S0B2DB93670101002,016000194069,Mott’s berry snacks,3.75,8,7,-1
 2026-07-18T21:23:14Z,16213,haven,TheHaven#2-cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,10,9,-1
+2026-07-18T23:26:07Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,20,19,-1

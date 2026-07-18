@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T00:55:15Z",
+  "updated": "2026-07-18T03:54:43Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1796,11 +1796,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 12,
-          "fill_pct": 42,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-07-17 14:18:33"
+          "stock_updated": "2026-07-17 21:12:48"
         },
         {
           "skuid": "S0B246944E7B61003",
@@ -2241,11 +2241,11 @@
           "name": "M&M\u2019s Milk Chocolate",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254811305183.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-07-15 11:53:15"
+          "stock_updated": "2026-07-17 21:45:40"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -2505,11 +2505,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 18,
+          "stock": 17,
           "capacity": 22,
-          "fill_pct": 82,
+          "fill_pct": 77,
           "stock_warning": 0,
-          "stock_updated": "2026-07-16 20:45:52"
+          "stock_updated": "2026-07-17 21:45:40"
         },
         {
           "skuid": "S0B2D48452F7E1005",

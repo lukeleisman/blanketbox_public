@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T20:03:39Z",
+  "updated": "2026-07-18T21:23:14Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -775,11 +775,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 13,
+          "stock": 12,
           "capacity": 20,
-          "fill_pct": 65,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-07-18 14:07:46"
+          "stock_updated": "2026-07-18 16:20:37"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -859,11 +859,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023828232980.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 9,
-          "fill_pct": 78,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-07-18 05:23:28"
+          "stock_updated": "2026-07-18 16:20:37"
         },
         {
           "skuid": "S0B2605A328C81009",
@@ -1270,8 +1270,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 49,
-      "in_stock": 41,
-      "out_of_stock": 8,
+      "in_stock": 40,
+      "out_of_stock": 9,
       "low_stock": 0,
       "products": [
         {
@@ -1364,11 +1364,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 4,
-          "fill_pct": 25,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-07-16 13:41:51"
+          "stock_updated": "2026-07-18 16:20:53"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -2169,11 +2169,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063766829.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 11,
-          "fill_pct": 91,
+          "fill_pct": 82,
           "stock_warning": 0,
-          "stock_updated": "2026-07-16 18:56:47"
+          "stock_updated": "2026-07-18 15:07:16"
         },
         {
           "skuid": "S0B246944E7FE1008",
@@ -2301,11 +2301,11 @@
           "name": "Mott\u2019s berry snacks",
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686728068670.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-07-15 11:56:06"
+          "stock_updated": "2026-07-18 15:07:16"
         },
         {
           "skuid": "S0B2EF08BF2341003",

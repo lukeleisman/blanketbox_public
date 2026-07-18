@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T03:54:43Z",
+  "updated": "2026-07-18T06:05:07Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -41,7 +41,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
           "stock": 7,
           "capacity": 8,
           "fill_pct": 88,
@@ -1135,11 +1135,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 17,
+          "stock": 16,
           "capacity": 17,
-          "fill_pct": 100,
+          "fill_pct": 94,
           "stock_warning": 0,
-          "stock_updated": "2026-07-15 08:39:43"
+          "stock_updated": "2026-07-18 01:04:26"
         },
         {
           "skuid": "S0B2DD4AAFF451007",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T12:12:24Z",
+  "updated": "2026-07-18T13:56:51Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -54,11 +54,11 @@
           "name": "Body Armor IV StrKiwi",
           "price": 1.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531187161649.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-07-15 15:21:48"
+          "stock_updated": "2026-07-18 07:44:59"
         },
         {
           "skuid": "S0B2D5C7E61611005",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 25,
+          "stock": 24,
           "capacity": 30,
-          "fill_pct": 83,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-07-17 17:42:35"
+          "stock_updated": "2026-07-18 07:46:29"
         },
         {
           "skuid": "S0B2C377070EC1001",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T23:23:40Z",
+  "updated": "2026-07-18T00:55:15Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -426,11 +426,11 @@
           "name": "Natures Bakery blueberry fig bat",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866563574429.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 12,
-          "fill_pct": 92,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-07-16 16:15:15"
+          "stock_updated": "2026-07-17 19:30:31"
         },
         {
           "skuid": "S0B271C0F5611100C",
@@ -618,11 +618,11 @@
           "name": "Twix Candy Bar",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 12,
+          "stock": 11,
           "capacity": 12,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-07-15 08:56:18"
+          "stock_updated": "2026-07-17 19:30:31"
         },
         {
           "skuid": "S0B246944E8251002",

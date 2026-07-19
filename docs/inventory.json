@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T04:47:16Z",
+  "updated": "2026-07-19T07:26:18Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -66,11 +66,11 @@
           "name": "Body Armor IV TrPnch",
           "price": 1.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531171446343.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-07-11 10:26:49"
+          "stock_updated": "2026-07-19 01:43:17"
         },
         {
           "skuid": "S0B248CF276EB1000",
@@ -450,11 +450,11 @@
           "name": "Nectar Whey Protein Pack Chocolate Truffle 28g",
           "price": 3.79,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175345504513327.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 12,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-07-15 08:59:00"
+          "stock_updated": "2026-07-19 01:43:17"
         },
         {
           "skuid": "S0B2845C0CA861005",
@@ -522,11 +522,11 @@
           "name": "Perfect Amino",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177533474808739.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-06-20 09:55:10"
+          "stock_updated": "2026-07-19 01:43:17"
         },
         {
           "skuid": "S0B2BAC9D24491002",
@@ -655,11 +655,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-07-15 08:32:51"
+          "stock_updated": "2026-07-19 02:21:54"
         },
         {
           "skuid": "S0B2EB7FF1C0F1007",
@@ -751,11 +751,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-07-15 08:32:51"
+          "stock_updated": "2026-07-19 02:21:54"
         },
         {
           "skuid": "S0B2D527865D2100C",
@@ -775,11 +775,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 12,
+          "stock": 11,
           "capacity": 20,
-          "fill_pct": 60,
+          "fill_pct": 55,
           "stock_warning": 0,
-          "stock_updated": "2026-07-18 16:20:37"
+          "stock_updated": "2026-07-19 02:21:54"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1255,11 +1255,11 @@
           "name": "Wavii",
           "price": 5.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178209048093040.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-07-15 08:17:25"
+          "stock_updated": "2026-07-19 00:59:16"
         }
       ]
     },
@@ -1436,11 +1436,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-07-18 19:02:44"
+          "stock_updated": "2026-07-19 00:10:16"
         },
         {
           "skuid": "S0B2DFCAA39F21000",
@@ -1472,11 +1472,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 15,
+          "stock": 14,
           "capacity": 15,
-          "fill_pct": 100,
+          "fill_pct": 93,
           "stock_warning": 0,
-          "stock_updated": "2026-07-13 20:28:20"
+          "stock_updated": "2026-07-19 00:10:16"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1604,11 +1604,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 15,
+          "stock": 14,
           "capacity": 18,
-          "fill_pct": 83,
+          "fill_pct": 78,
           "stock_warning": 0,
-          "stock_updated": "2026-07-17 14:18:33"
+          "stock_updated": "2026-07-19 00:02:20"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -1796,11 +1796,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 12,
-          "fill_pct": 33,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-07-17 21:12:48"
+          "stock_updated": "2026-07-19 00:02:20"
         },
         {
           "skuid": "S0B246944E7B61003",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T23:26:07Z",
+  "updated": "2026-07-19T01:01:43Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -811,11 +811,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 12,
-          "fill_pct": 75,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-07-18 14:10:59"
+          "stock_updated": "2026-07-18 20:00:05"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -1436,11 +1436,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-07-13 20:28:20"
+          "stock_updated": "2026-07-18 19:02:44"
         },
         {
           "skuid": "S0B2DFCAA39F21000",
@@ -1808,11 +1808,11 @@
           "name": "Vita Coco Coconut Water Organic",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1650653929348.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-07-16 13:41:51"
+          "stock_updated": "2026-07-18 19:11:13"
         },
         {
           "skuid": "S0B2F6198ACBB1001",
@@ -2157,11 +2157,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 3,
+          "stock": 1,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-07-16 17:50:04"
+          "stock_updated": "2026-07-18 19:26:42"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2505,11 +2505,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 17,
+          "stock": 16,
           "capacity": 22,
-          "fill_pct": 77,
+          "fill_pct": 73,
           "stock_warning": 0,
-          "stock_updated": "2026-07-17 21:45:40"
+          "stock_updated": "2026-07-18 19:26:42"
         },
         {
           "skuid": "S0B2D48452F7E1005",

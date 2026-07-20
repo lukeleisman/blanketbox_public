@@ -3212,3 +3212,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-20T15:10:54Z,129111,philly,Philly TrueCooler II,S0B246944DEF51002,070847811169,Monster Energy,4.27,4,2,-2
 2026-07-20T15:10:54Z,16213,haven,TheHaven#2-cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,0,-1,-1
 2026-07-20T15:10:54Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,5,4,-1
+2026-07-20T16:55:27Z,15520,mckinley,mHUBPrototypingShop,S0B2EE523C358100C,5895,robot remote kit,20.0,9927,9926,-1

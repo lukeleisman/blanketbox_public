@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T10:01:22Z",
+  "updated": "2026-07-21T12:07:27Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -41,7 +41,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
           "stock": 7,
           "capacity": 8,
           "fill_pct": 88,
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 17,
+          "stock": 15,
           "capacity": 30,
-          "fill_pct": 57,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-07-20 06:03:10"
+          "stock_updated": "2026-07-21 06:02:17"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1364,11 +1364,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 0,
+          "stock": -1,
           "capacity": 4,
-          "fill_pct": 0,
+          "fill_pct": -25,
           "stock_warning": 0,
-          "stock_updated": "2026-07-18 16:20:53"
+          "stock_updated": "2026-07-21 05:03:50"
         },
         {
           "skuid": "S0B246944E5841006",

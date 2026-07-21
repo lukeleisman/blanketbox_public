@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T00:57:21Z",
+  "updated": "2026-07-21T04:19:04Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -41,7 +41,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
           "stock": 7,
           "capacity": 8,
           "fill_pct": 88,
@@ -787,11 +787,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 4,
-          "fill_pct": 50,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-07-16 08:25:00"
+          "stock_updated": "2026-07-20 20:11:07"
         },
         {
           "skuid": "S0B2D055ACE44100B",
@@ -1544,11 +1544,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/052000328660.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 7,
-          "fill_pct": 57,
+          "fill_pct": 43,
           "stock_warning": 0,
-          "stock_updated": "2026-07-20 14:38:36"
+          "stock_updated": "2026-07-20 23:18:46"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",

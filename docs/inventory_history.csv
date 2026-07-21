@@ -3222,3 +3222,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-20T20:20:45Z,129111,philly,Philly TrueCooler II,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.25,5,4,-1
 2026-07-21T00:57:21Z,16214,doylestown,333 North Broad Cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.6,12,11,-1
 2026-07-21T00:57:21Z,129111,philly,Philly TrueCooler II,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.57,4,3,-1
+2026-07-21T04:19:04Z,16214,doylestown,333 North Broad Cooler,S0B2C85783CD31007,1162002196,Fair Life Core Power 26g Vanilla Protein Shake,5.5,2,1,-1
+2026-07-21T04:19:04Z,129111,philly,Philly TrueCooler II,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.25,4,3,-1

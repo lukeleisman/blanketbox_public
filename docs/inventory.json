@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T04:19:04Z",
+  "updated": "2026-07-21T07:07:06Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -41,7 +41,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
           "stock": 7,
           "capacity": 8,
           "fill_pct": 88,
@@ -1472,11 +1472,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 14,
+          "stock": 13,
           "capacity": 15,
-          "fill_pct": 93,
+          "fill_pct": 87,
           "stock_warning": 0,
-          "stock_updated": "2026-07-19 00:10:16"
+          "stock_updated": "2026-07-21 00:43:13"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1616,11 +1616,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-07-13 20:19:40"
+          "stock_updated": "2026-07-21 00:43:13"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1796,11 +1796,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 12,
-          "fill_pct": 25,
+          "fill_pct": 17,
           "stock_warning": 0,
-          "stock_updated": "2026-07-19 00:02:20"
+          "stock_updated": "2026-07-21 00:43:13"
         },
         {
           "skuid": "S0B246944E7B61003",

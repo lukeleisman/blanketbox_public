@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T16:22:34Z",
+  "updated": "2026-07-21T17:52:51Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -390,11 +390,11 @@
           "name": "Milano",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 9,
-          "fill_pct": 89,
+          "fill_pct": 78,
           "stock_warning": 0,
-          "stock_updated": "2026-07-17 14:39:53"
+          "stock_updated": "2026-07-21 12:28:29"
         },
         {
           "skuid": "S0B246944E1A51002",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 15,
+          "stock": 14,
           "capacity": 30,
-          "fill_pct": 50,
+          "fill_pct": 47,
           "stock_warning": 0,
-          "stock_updated": "2026-07-21 06:02:17"
+          "stock_updated": "2026-07-21 12:07:59"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1219,11 +1219,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 15,
-          "fill_pct": 73,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-07-20 19:01:10"
+          "stock_updated": "2026-07-21 12:21:31"
         },
         {
           "skuid": "S0B2DB92EA84A1003",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T15:46:56Z",
+  "updated": "2026-07-22T17:19:19Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -645,8 +645,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 51,
-      "in_stock": 35,
-      "out_of_stock": 16,
+      "in_stock": 37,
+      "out_of_stock": 14,
       "low_stock": 0,
       "products": [
         {
@@ -727,11 +727,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 0,
+          "stock": 6,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-07-15 08:17:25"
+          "stock_updated": "2026-07-22 11:44:40"
         },
         {
           "skuid": "S0B2668475B231007",
@@ -775,11 +775,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 3,
+          "stock": 19,
           "capacity": 20,
-          "fill_pct": 15,
+          "fill_pct": 95,
           "stock_warning": 0,
-          "stock_updated": "2026-07-22 08:22:07"
+          "stock_updated": "2026-07-22 11:44:40"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -787,11 +787,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 1,
+          "stock": 9,
           "capacity": 4,
-          "fill_pct": 25,
+          "fill_pct": 225,
           "stock_warning": 0,
-          "stock_updated": "2026-07-20 20:11:07"
+          "stock_updated": "2026-07-22 11:44:40"
         },
         {
           "skuid": "S0B2D055ACE44100B",
@@ -811,11 +811,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 8,
+          "stock": 11,
           "capacity": 12,
-          "fill_pct": 67,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-07-18 20:00:05"
+          "stock_updated": "2026-07-22 11:44:40"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -823,11 +823,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 4,
+          "stock": 5,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-07-16 15:37:30"
+          "stock_updated": "2026-07-22 11:44:40"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -835,11 +835,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 0,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-07-15 08:17:25"
+          "stock_updated": "2026-07-22 11:44:40"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -931,11 +931,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 14,
+          "stock": 17,
           "capacity": 17,
-          "fill_pct": 82,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-07-21 21:30:11"
+          "stock_updated": "2026-07-22 11:46:00"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 11,
+          "stock": 27,
           "capacity": 30,
-          "fill_pct": 37,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-07-22 06:04:18"
+          "stock_updated": "2026-07-22 11:44:40"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1135,11 +1135,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 12,
+          "stock": 17,
           "capacity": 17,
-          "fill_pct": 71,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-07-21 21:30:11"
+          "stock_updated": "2026-07-22 11:46:00"
         },
         {
           "skuid": "S0B2DD4AAFF451007",
@@ -1219,11 +1219,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 7,
+          "stock": 14,
           "capacity": 15,
-          "fill_pct": 47,
+          "fill_pct": 93,
           "stock_warning": 0,
-          "stock_updated": "2026-07-21 21:30:11"
+          "stock_updated": "2026-07-22 11:46:00"
         },
         {
           "skuid": "S0B2DB92EA84A1003",
@@ -1243,11 +1243,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 10,
+          "stock": 14,
           "capacity": 16,
-          "fill_pct": 62,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-07-21 20:06:39"
+          "stock_updated": "2026-07-22 11:44:40"
         },
         {
           "skuid": "S0B2EF08A265B1002",
@@ -1871,8 +1871,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 55,
-      "in_stock": 44,
-      "out_of_stock": 11,
+      "in_stock": 43,
+      "out_of_stock": 12,
       "low_stock": 0,
       "products": [
         {
@@ -1989,11 +1989,11 @@
           "name": "Cheez It Original",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254819896872.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 4,
-          "fill_pct": 25,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-07-19 17:51:31"
+          "stock_updated": "2026-07-22 11:10:17"
         },
         {
           "skuid": "S0B2DAF9429041007",
@@ -2397,11 +2397,11 @@
           "name": "Pop Secret popcorn",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-07-19 17:51:31"
+          "stock_updated": "2026-07-22 11:10:17"
         },
         {
           "skuid": "S0B2CC2D2640F1005",
@@ -2505,11 +2505,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 10,
+          "stock": 8,
           "capacity": 22,
-          "fill_pct": 45,
+          "fill_pct": 36,
           "stock_warning": 0,
-          "stock_updated": "2026-07-21 15:18:11"
+          "stock_updated": "2026-07-22 10:56:40"
         },
         {
           "skuid": "S0B2D48452F7E1005",

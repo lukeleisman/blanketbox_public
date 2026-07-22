@@ -3261,3 +3261,17 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-22T11:55:43Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.5,13,11,-2
 2026-07-22T13:59:25Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,5,3,-2
 2026-07-22T13:59:25Z,16213,haven,TheHaven#2-cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,6,5,-1
+2026-07-22T17:19:19Z,16214,doylestown,333 North Broad Cooler,S0B2E63AC3F231007,682430010486,Voss Water,6.99,10,14,4
+2026-07-22T17:19:19Z,16214,doylestown,333 North Broad Cooler,S0B246944E5841006,889392000313,Celsius Orange,3.57,0,6,6
+2026-07-22T17:19:19Z,16214,doylestown,333 North Broad Cooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,5.5,8,11,3
+2026-07-22T17:19:19Z,16214,doylestown,333 North Broad Cooler,S0B2C85783CD31007,1162002196,Fair Life Core Power 26g Vanilla Protein Shake,5.5,1,9,8
+2026-07-22T17:19:19Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.5,11,27,16
+2026-07-22T17:19:19Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,3,19,16
+2026-07-22T17:19:19Z,16214,doylestown,333 North Broad Cooler,S0B2BDAE8D5FB1006,520010247,Gatorade Glacier Cherry,3.0,0,1,1
+2026-07-22T17:19:19Z,16214,doylestown,333 North Broad Cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,4,5,1
+2026-07-22T17:19:19Z,16214,doylestown,333 North Broad Cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.6,7,14,7
+2026-07-22T17:19:19Z,16214,doylestown,333 North Broad Cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,12,17,5
+2026-07-22T17:19:19Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,14,17,3
+2026-07-22T17:19:19Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.6,10,8,-2
+2026-07-22T17:19:19Z,16213,haven,TheHaven#2-cooler,S0B27699FEA161007,024100123223,Cheez It Original,2.07,1,0,-1
+2026-07-22T17:19:19Z,16213,haven,TheHaven#2-cooler,S0B2BAC9D24491002,F0B2BAC9D24491000,Pop Secret popcorn,2.0,8,7,-1

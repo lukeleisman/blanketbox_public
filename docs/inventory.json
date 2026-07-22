@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T11:55:43Z",
+  "updated": "2026-07-22T13:59:25Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -775,11 +775,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 5,
+          "stock": 3,
           "capacity": 20,
-          "fill_pct": 25,
+          "fill_pct": 15,
           "stock_warning": 0,
-          "stock_updated": "2026-07-21 18:28:53"
+          "stock_updated": "2026-07-22 08:22:07"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2289,11 +2289,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-07-19 17:51:31"
+          "stock_updated": "2026-07-22 08:29:27"
         },
         {
           "skuid": "S0B2DB93670101002",

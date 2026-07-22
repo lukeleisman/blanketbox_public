@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T18:41:34Z",
+  "updated": "2026-07-22T20:11:03Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2313,11 +2313,11 @@
           "name": "Namai",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178209059828743.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-07-19 17:51:31"
+          "stock_updated": "2026-07-22 14:13:57"
         },
         {
           "skuid": "S0B246944E6E51005",

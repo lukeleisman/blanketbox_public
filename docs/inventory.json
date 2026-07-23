@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T07:32:31Z",
+  "updated": "2026-07-23T10:22:37Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -41,7 +41,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
           "stock": 7,
           "capacity": 8,
           "fill_pct": 88,
@@ -1255,11 +1255,11 @@
           "name": "Wavii",
           "price": 5.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178209048093040.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-07-19 00:59:16"
+          "stock_updated": "2026-07-23 04:53:59"
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T16:25:37Z",
+  "updated": "2026-07-23T17:54:50Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -751,11 +751,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-07-21 18:28:53"
+          "stock_updated": "2026-07-23 12:12:36"
         },
         {
           "skuid": "S0B2D527865D2100C",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 23,
+          "stock": 22,
           "capacity": 30,
-          "fill_pct": 77,
+          "fill_pct": 73,
           "stock_warning": 0,
-          "stock_updated": "2026-07-23 06:06:21"
+          "stock_updated": "2026-07-23 12:12:36"
         },
         {
           "skuid": "S0B2C377070EC1001",

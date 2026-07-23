@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T19:17:29Z",
+  "updated": "2026-07-23T20:35:15Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1640,11 +1640,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-07-13 20:19:40"
+          "stock_updated": "2026-07-23 14:25:29"
         },
         {
           "skuid": "S0B246944E3D51001",
@@ -2097,11 +2097,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 12,
+          "stock": 11,
           "capacity": 21,
-          "fill_pct": 57,
+          "fill_pct": 52,
           "stock_warning": 0,
-          "stock_updated": "2026-07-22 12:54:13"
+          "stock_updated": "2026-07-23 15:05:31"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2505,11 +2505,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 22,
-          "fill_pct": 32,
+          "fill_pct": 27,
           "stock_warning": 0,
-          "stock_updated": "2026-07-22 18:49:53"
+          "stock_updated": "2026-07-23 15:05:31"
         },
         {
           "skuid": "S0B2D48452F7E1005",

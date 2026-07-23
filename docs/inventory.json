@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T23:03:29Z",
+  "updated": "2026-07-23T01:00:36Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1243,11 +1243,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 13,
+          "stock": 12,
           "capacity": 16,
-          "fill_pct": 81,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-07-22 17:33:30"
+          "stock_updated": "2026-07-22 18:20:45"
         },
         {
           "skuid": "S0B2EF08A265B1002",
@@ -1871,8 +1871,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 55,
-      "in_stock": 43,
-      "out_of_stock": 12,
+      "in_stock": 42,
+      "out_of_stock": 13,
       "low_stock": 0,
       "products": [
         {
@@ -2061,11 +2061,11 @@
           "name": "Deer park water",
           "price": 1.87,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 5,
+          "stock": 0,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-07-21 07:09:13"
+          "stock_updated": "2026-07-22 18:46:11"
         },
         {
           "skuid": "S0B2D527638181007",
@@ -2505,11 +2505,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 22,
-          "fill_pct": 36,
+          "fill_pct": 32,
           "stock_warning": 0,
-          "stock_updated": "2026-07-22 10:56:40"
+          "stock_updated": "2026-07-22 18:49:53"
         },
         {
           "skuid": "S0B2D48452F7E1005",

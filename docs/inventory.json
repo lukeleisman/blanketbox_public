@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T04:50:41Z",
+  "updated": "2026-07-23T07:32:31Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -306,11 +306,11 @@
           "name": "Japanese Party Mix",
           "price": 18.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799892794318.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-06-25 23:42:11"
+          "stock_updated": "2026-07-23 00:01:46"
         },
         {
           "skuid": "S0B2D90DF10651003",
@@ -1688,11 +1688,11 @@
           "name": "Powerade Zero Grape",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175799657047375.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-07-13 20:28:20"
+          "stock_updated": "2026-07-23 00:10:20"
         },
         {
           "skuid": "S0B2F61930CDF1009",

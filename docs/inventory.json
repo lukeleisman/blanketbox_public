@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T22:03:04Z",
+  "updated": "2026-07-23T23:27:52Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -41,7 +41,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
           "stock": 7,
           "capacity": 8,
           "fill_pct": 88,
@@ -655,11 +655,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-07-19 02:21:54"
+          "stock_updated": "2026-07-23 17:20:06"
         },
         {
           "skuid": "S0B2EB7FF1C0F1007",
@@ -751,11 +751,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 7,
-          "fill_pct": 57,
+          "fill_pct": 43,
           "stock_warning": 0,
-          "stock_updated": "2026-07-23 12:12:36"
+          "stock_updated": "2026-07-23 18:19:02"
         },
         {
           "skuid": "S0B2D527865D2100C",
@@ -1099,11 +1099,11 @@
           "name": "San Pellegrino Essenza",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619022990038.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-07-15 08:17:25"
+          "stock_updated": "2026-07-23 18:10:39"
         },
         {
           "skuid": "S0B29D2F2643D100B",
@@ -2301,11 +2301,11 @@
           "name": "Mott\u2019s berry snacks",
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686728068670.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-07-19 17:51:31"
+          "stock_updated": "2026-07-23 18:09:16"
         },
         {
           "skuid": "S0B2EF08BF2341003",

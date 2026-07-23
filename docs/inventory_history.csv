@@ -3304,3 +3304,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-23T14:40:33Z,16213,haven,TheHaven#2-cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,3,2,-1
 2026-07-23T17:54:50Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.5,23,22,-1
 2026-07-23T17:54:50Z,16214,doylestown,333 North Broad Cooler,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.5,5,4,-1
+2026-07-23T19:17:29Z,16214,doylestown,333 North Broad Cooler,S0B246944E5841006,889392000313,Celsius Orange,3.57,6,5,-1
+2026-07-23T19:17:29Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,18,17,-1

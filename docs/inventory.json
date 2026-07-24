@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T09:54:28Z",
+  "updated": "2026-07-24T11:41:54Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 21,
+          "stock": 19,
           "capacity": 30,
-          "fill_pct": 70,
+          "fill_pct": 63,
           "stock_warning": 0,
-          "stock_updated": "2026-07-23 21:41:17"
+          "stock_updated": "2026-07-24 06:04:40"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -2301,11 +2301,11 @@
           "name": "Mott\u2019s berry snacks",
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686728068670.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-07-23 18:09:16"
+          "stock_updated": "2026-07-24 06:28:01"
         },
         {
           "skuid": "S0B2EF08BF2341003",

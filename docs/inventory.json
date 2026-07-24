@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T18:57:29Z",
+  "updated": "2026-07-24T20:24:00Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -41,7 +41,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
           "stock": 7,
           "capacity": 8,
           "fill_pct": 88,
@@ -1460,11 +1460,11 @@
           "name": "Deer park water",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 16,
-          "fill_pct": 56,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-07-21 20:50:21"
+          "stock_updated": "2026-07-24 14:41:20"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -1604,11 +1604,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 18,
-          "fill_pct": 61,
+          "fill_pct": 56,
           "stock_warning": 0,
-          "stock_updated": "2026-07-23 23:47:37"
+          "stock_updated": "2026-07-24 14:41:20"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2097,11 +2097,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 21,
-          "fill_pct": 48,
+          "fill_pct": 43,
           "stock_warning": 0,
-          "stock_updated": "2026-07-24 11:29:41"
+          "stock_updated": "2026-07-24 14:08:05"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2253,11 +2253,11 @@
           "name": "Maison Perrier Sparkling Water",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17773152898848.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-07-19 17:51:31"
+          "stock_updated": "2026-07-24 14:08:05"
         },
         {
           "skuid": "S0B2D484E0EFD1001",

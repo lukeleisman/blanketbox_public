@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T01:01:54Z",
+  "updated": "2026-07-25T04:43:00Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -41,7 +41,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
           "stock": 7,
           "capacity": 8,
           "fill_pct": 88,
@@ -1460,11 +1460,11 @@
           "name": "Deer park water",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 16,
-          "fill_pct": 50,
+          "fill_pct": 44,
           "stock_warning": 0,
-          "stock_updated": "2026-07-24 14:41:20"
+          "stock_updated": "2026-07-24 23:37:05"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -1604,11 +1604,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 10,
+          "stock": 8,
           "capacity": 18,
-          "fill_pct": 56,
+          "fill_pct": 44,
           "stock_warning": 0,
-          "stock_updated": "2026-07-24 14:41:20"
+          "stock_updated": "2026-07-24 23:06:40"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -1820,11 +1820,11 @@
           "name": "Vitamin Water Blue Raspberry Limeade",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175219487117396.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-07-13 20:28:20"
+          "stock_updated": "2026-07-24 23:37:05"
         },
         {
           "skuid": "S0B2F619785511007",
@@ -1832,11 +1832,11 @@
           "name": "VITAMIN WATER DRAGONFRUIT",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176953552008452.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-07-14 02:04:04"
+          "stock_updated": "2026-07-24 23:06:40"
         },
         {
           "skuid": "S0B2F619836EC1004",

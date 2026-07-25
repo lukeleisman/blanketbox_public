@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T12:02:14Z",
+  "updated": "2026-07-25T14:09:29Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -811,11 +811,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 12,
-          "fill_pct": 83,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-07-24 19:39:31"
+          "stock_updated": "2026-07-25 08:02:37"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 18,
+          "stock": 17,
           "capacity": 30,
-          "fill_pct": 60,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-07-24 16:38:57"
+          "stock_updated": "2026-07-25 08:02:37"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -979,11 +979,11 @@
           "name": "Naked Strawberry Banana 15.2oz",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176054114397470.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-07-15 08:17:25"
+          "stock_updated": "2026-07-25 07:43:52"
         },
         {
           "skuid": "S0B2EF08BF2341003",
@@ -1087,11 +1087,11 @@
           "name": "San Pellegrino Aranciata",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17145040865182.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-07-23 20:12:28"
+          "stock_updated": "2026-07-25 07:43:52"
         },
         {
           "skuid": "S0B2D90DB76B5100C",

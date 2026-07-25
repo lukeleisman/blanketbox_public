@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T14:09:29Z",
+  "updated": "2026-07-25T15:39:24Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2073,11 +2073,11 @@
           "name": "Delight Cinnabon",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177514340736730.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-07-24 19:11:26"
+          "stock_updated": "2026-07-25 09:57:29"
         },
         {
           "skuid": "S0B2D527865D2100C",

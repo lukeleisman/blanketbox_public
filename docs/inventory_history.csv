@@ -3341,3 +3341,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-25T04:43:00Z,129111,philly,Philly TrueCooler II,S0B2F619785511007,8616201000,VITAMIN WATER DRAGONFRUIT,3.25,5,4,-1
 2026-07-25T04:43:00Z,129111,philly,Philly TrueCooler II,S0B2F6198ACBB1001,8616241205,Vitamin Water Blue Raspberry Limeade,3.0,3,2,-1
 2026-07-25T04:43:00Z,129111,philly,Philly TrueCooler II,S0B246944E9A41003,082657500638,Deer park water,2.5,8,7,-1
+2026-07-25T07:16:51Z,15519,doylestown,333 North Broad Ambient,S0B260510FB391004,860002564531,Betterway Toilet Paper Roll,3.25,7,6,-1
+2026-07-25T07:16:51Z,129111,philly,Philly TrueCooler II,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,13,12,-1

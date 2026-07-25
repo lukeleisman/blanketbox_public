@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T23:01:54Z",
+  "updated": "2026-07-25T01:01:54Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -811,11 +811,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 12,
-          "fill_pct": 92,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-07-22 11:44:40"
+          "stock_updated": "2026-07-24 19:39:31"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -2073,11 +2073,11 @@
           "name": "Delight Cinnabon",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177514340736730.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-07-19 17:51:31"
+          "stock_updated": "2026-07-24 19:11:26"
         },
         {
           "skuid": "S0B2D527865D2100C",
@@ -2229,11 +2229,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 17,
-          "fill_pct": 41,
+          "fill_pct": 35,
           "stock_warning": 0,
-          "stock_updated": "2026-07-21 15:34:21"
+          "stock_updated": "2026-07-24 19:11:26"
         },
         {
           "skuid": "S0B27699FEBD41002",

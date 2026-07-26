@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T00:03:24Z",
+  "updated": "2026-07-26T04:05:22Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1652,11 +1652,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 17,
+          "stock": 16,
           "capacity": 20,
-          "fill_pct": 85,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-07-24 17:27:28"
+          "stock_updated": "2026-07-25 19:17:40"
         },
         {
           "skuid": "S0B2EC158AB36100A",
@@ -1820,11 +1820,11 @@
           "name": "Vitamin Water Blue Raspberry Limeade",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175219487117396.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-07-24 23:37:05"
+          "stock_updated": "2026-07-25 20:05:06"
         },
         {
           "skuid": "S0B2F619785511007",
@@ -1871,8 +1871,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 55,
-      "in_stock": 39,
-      "out_of_stock": 16,
+      "in_stock": 38,
+      "out_of_stock": 17,
       "low_stock": 0,
       "products": [
         {
@@ -2097,11 +2097,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 21,
-          "fill_pct": 43,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-07-24 14:08:05"
+          "stock_updated": "2026-07-25 19:09:36"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2289,11 +2289,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 6,
-          "fill_pct": 17,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-07-25 15:49:59"
+          "stock_updated": "2026-07-25 23:02:59"
         },
         {
           "skuid": "S0B2DB93670101002",

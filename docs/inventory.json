@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T04:05:22Z",
+  "updated": "2026-07-26T07:09:48Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -645,8 +645,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 51,
-      "in_stock": 37,
-      "out_of_stock": 14,
+      "in_stock": 36,
+      "out_of_stock": 15,
       "low_stock": 0,
       "products": [
         {
@@ -691,11 +691,11 @@
           "name": "Candy M&M Plain",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 10,
+          "stock": 8,
           "capacity": 12,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-07-21 13:26:51"
+          "stock_updated": "2026-07-25 23:38:51"
         },
         {
           "skuid": "S0B27699FF0CC100A",
@@ -811,11 +811,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 12,
-          "fill_pct": 75,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-07-25 08:02:37"
+          "stock_updated": "2026-07-25 23:40:15"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -823,11 +823,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-07-22 11:44:40"
+          "stock_updated": "2026-07-25 23:38:51"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -979,11 +979,11 @@
           "name": "Naked Strawberry Banana 15.2oz",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176054114397470.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-07-25 07:43:52"
+          "stock_updated": "2026-07-25 23:40:15"
         },
         {
           "skuid": "S0B2EF08BF2341003",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T22:56:53Z",
+  "updated": "2026-07-26T00:03:24Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 17,
+          "stock": 15,
           "capacity": 30,
-          "fill_pct": 57,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-07-25 08:02:37"
+          "stock_updated": "2026-07-25 18:17:07"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1243,11 +1243,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 16,
-          "fill_pct": 62,
+          "fill_pct": 56,
           "stock_warning": 0,
-          "stock_updated": "2026-07-24 15:30:01"
+          "stock_updated": "2026-07-25 18:36:07"
         },
         {
           "skuid": "S0B2EF08A265B1002",

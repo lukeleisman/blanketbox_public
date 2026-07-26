@@ -3383,3 +3383,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-26T19:10:25Z,129111,philly,Philly TrueCooler II,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,12,11,-1
 2026-07-26T20:28:41Z,129111,philly,Philly TrueCooler II,S0B246944E7B61003,898999011011,Vita Coco Coconut Water Organic,3.25,4,3,-1
 2026-07-26T20:28:41Z,129111,philly,Philly TrueCooler II,S0B2EB7FF1C0F1007,01275900,Brisk Iced Tea,2.57,3,2,-1
+2026-07-26T21:29:29Z,129111,philly,Philly TrueCooler II,S0B2F619342CA1009,049000056433,Powerade Zero Fruit Punch,3.0,8,7,-1

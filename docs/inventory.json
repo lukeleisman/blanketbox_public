@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T21:29:29Z",
+  "updated": "2026-07-26T22:32:45Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2013,11 +2013,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 11,
+          "stock": 9,
           "capacity": 14,
-          "fill_pct": 79,
+          "fill_pct": 64,
           "stock_warning": 0,
-          "stock_updated": "2026-07-22 23:31:09"
+          "stock_updated": "2026-07-26 16:32:11"
         },
         {
           "skuid": "S0B2C6BB0DE621006",
@@ -2097,11 +2097,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 21,
-          "fill_pct": 38,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-07-25 19:09:36"
+          "stock_updated": "2026-07-26 17:14:26"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2397,11 +2397,11 @@
           "name": "Pop Secret popcorn",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-07-22 11:10:17"
+          "stock_updated": "2026-07-26 17:13:59"
         },
         {
           "skuid": "S0B2CC2D2640F1005",
@@ -2505,11 +2505,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 22,
-          "fill_pct": 23,
+          "fill_pct": 18,
           "stock_warning": 0,
-          "stock_updated": "2026-07-25 11:51:05"
+          "stock_updated": "2026-07-26 16:47:25"
         },
         {
           "skuid": "S0B2D48452F7E1005",

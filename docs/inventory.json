@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T16:19:37Z",
+  "updated": "2026-07-27T18:04:59Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -41,7 +41,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
           "stock": 6,
           "capacity": 8,
           "fill_pct": 75,
@@ -787,11 +787,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 4,
-          "fill_pct": 225,
+          "fill_pct": 200,
           "stock_warning": 0,
-          "stock_updated": "2026-07-22 11:44:40"
+          "stock_updated": "2026-07-27 12:16:59"
         },
         {
           "skuid": "S0B2D055ACE44100B",
@@ -823,11 +823,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-07-25 23:38:51"
+          "stock_updated": "2026-07-27 12:33:40"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 13,
+          "stock": 12,
           "capacity": 30,
-          "fill_pct": 43,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-07-27 06:03:46"
+          "stock_updated": "2026-07-27 12:33:40"
         },
         {
           "skuid": "S0B2C377070EC1001",

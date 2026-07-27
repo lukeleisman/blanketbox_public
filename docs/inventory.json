@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T03:54:49Z",
+  "updated": "2026-07-27T07:31:21Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -41,7 +41,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
           "stock": 6,
           "capacity": 8,
           "fill_pct": 75,
@@ -1700,11 +1700,11 @@
           "name": "Powerade Zero Mixed Berry 20floz",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176048132401919.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-07-19 23:53:12"
+          "stock_updated": "2026-07-26 23:26:25"
         },
         {
           "skuid": "S0B27BB097BD21006",
@@ -1832,11 +1832,11 @@
           "name": "VITAMIN WATER DRAGONFRUIT",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176953552008452.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-07-24 23:06:40"
+          "stock_updated": "2026-07-26 23:26:25"
         },
         {
           "skuid": "S0B2F619836EC1004",

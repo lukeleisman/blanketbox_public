@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T20:00:34Z",
+  "updated": "2026-07-28T21:37:48Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1871,8 +1871,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 55,
-      "in_stock": 38,
-      "out_of_stock": 17,
+      "in_stock": 36,
+      "out_of_stock": 19,
       "low_stock": 0,
       "products": [
         {
@@ -2049,11 +2049,11 @@
           "name": "Crunchy Peanut Butter Cliff Bar",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175569542496463.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-07-19 17:51:31"
+          "stock_updated": "2026-07-28 15:13:11"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -2145,11 +2145,11 @@
           "name": "Fruit Loops Cereal",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177127272492393.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-07-19 17:51:31"
+          "stock_updated": "2026-07-28 15:13:11"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -2409,11 +2409,11 @@
           "name": "S. Pellegrino Blood Orange 11.15oz",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177078619893420.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-07-22 23:31:09"
+          "stock_updated": "2026-07-28 15:13:11"
         },
         {
           "skuid": "S0B2D90DB76B5100C",
@@ -2505,11 +2505,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 22,
-          "fill_pct": 9,
+          "fill_pct": 5,
           "stock_warning": 0,
-          "stock_updated": "2026-07-28 03:23:21"
+          "stock_updated": "2026-07-28 15:13:11"
         },
         {
           "skuid": "S0B2D48452F7E1005",

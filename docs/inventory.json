@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T23:01:26Z",
+  "updated": "2026-07-28T00:54:57Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -823,11 +823,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-07-27 12:33:40"
+          "stock_updated": "2026-07-27 19:06:44"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",

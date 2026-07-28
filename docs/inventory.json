@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T00:54:57Z",
+  "updated": "2026-07-28T04:09:32Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -210,11 +210,11 @@
           "name": "Fig Newtowns",
           "price": 1.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177450068582980.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-07-17 14:39:53"
+          "stock_updated": "2026-07-27 22:05:55"
         },
         {
           "skuid": "S0B248CF276BE1004",
@@ -2505,11 +2505,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 22,
-          "fill_pct": 18,
+          "fill_pct": 14,
           "stock_warning": 0,
-          "stock_updated": "2026-07-26 16:47:25"
+          "stock_updated": "2026-07-27 23:01:31"
         },
         {
           "skuid": "S0B2D48452F7E1005",

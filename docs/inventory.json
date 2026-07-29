@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T14:40:53Z",
+  "updated": "2026-07-29T16:21:25Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -943,11 +943,11 @@
           "name": "Maison Perrier Sparkling Water",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17773152898848.png",
-          "stock": 3,
+          "stock": 1,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 17,
           "stock_warning": 0,
-          "stock_updated": "2026-07-25 15:19:33"
+          "stock_updated": "2026-07-29 10:56:41"
         },
         {
           "skuid": "S0B246944DEF51002",

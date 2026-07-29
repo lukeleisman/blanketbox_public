@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T03:48:49Z",
+  "updated": "2026-07-29T06:30:31Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1472,11 +1472,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 15,
-          "fill_pct": 60,
+          "fill_pct": 53,
           "stock_warning": 0,
-          "stock_updated": "2026-07-26 22:36:11"
+          "stock_updated": "2026-07-28 23:32:49"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1688,11 +1688,11 @@
           "name": "Powerade Zero Grape",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175799657047375.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-07-28 06:26:16"
+          "stock_updated": "2026-07-29 00:05:19"
         },
         {
           "skuid": "S0B2F61930CDF1009",
@@ -2253,11 +2253,11 @@
           "name": "Maison Perrier Sparkling Water",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17773152898848.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-07-24 14:08:05"
+          "stock_updated": "2026-07-28 23:41:21"
         },
         {
           "skuid": "S0B2D484E0EFD1001",

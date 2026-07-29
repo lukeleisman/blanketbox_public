@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T09:36:54Z",
+  "updated": "2026-07-29T12:00:33Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -41,7 +41,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
           "stock": 6,
           "capacity": 8,
           "fill_pct": 75,
@@ -775,11 +775,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 6,
+          "stock": 4,
           "capacity": 20,
-          "fill_pct": 30,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-07-28 14:49:46"
+          "stock_updated": "2026-07-29 05:23:39"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 9,
+          "stock": 7,
           "capacity": 30,
-          "fill_pct": 30,
+          "fill_pct": 23,
           "stock_warning": 0,
-          "stock_updated": "2026-07-28 17:29:59"
+          "stock_updated": "2026-07-29 06:03:11"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1870,9 +1870,9 @@
       "location_name": "The Haven",
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
-      "total_skus": 55,
+      "total_skus": 52,
       "in_stock": 36,
-      "out_of_stock": 19,
+      "out_of_stock": 16,
       "low_stock": 0,
       "products": [
         {
@@ -1944,18 +1944,6 @@
           "stock": 4,
           "capacity": 5,
           "fill_pct": 80,
-          "stock_warning": 0,
-          "stock_updated": "2026-07-19 17:51:31"
-        },
-        {
-          "skuid": "S0B27699FF0CC100A",
-          "barcode": "889392001327",
-          "name": "Celsius Galaxy Vibe",
-          "price": 3.57,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368496288665.png",
-          "stock": 0,
-          "capacity": 0,
-          "fill_pct": null,
           "stock_warning": 0,
           "stock_updated": "2026-07-19 17:51:31"
         },
@@ -2140,18 +2128,6 @@
           "stock_updated": "2026-07-19 17:51:31"
         },
         {
-          "skuid": "S0B2C6BC04A97100D",
-          "barcode": "F0B2C6BC04A97100B",
-          "name": "Fruit Loops Cereal",
-          "price": 1.99,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177127272492393.png",
-          "stock": 0,
-          "capacity": 1,
-          "fill_pct": 0,
-          "stock_warning": 0,
-          "stock_updated": "2026-07-28 15:13:11"
-        },
-        {
           "skuid": "S0B246944E40F1008",
           "barcode": "052000328660",
           "name": "Gatorade Fruit Punch",
@@ -2328,18 +2304,6 @@
           "stock": 1,
           "capacity": 1,
           "fill_pct": 100,
-          "stock_warning": 0,
-          "stock_updated": "2026-07-19 17:51:31"
-        },
-        {
-          "skuid": "S0B27699FEC921007",
-          "barcode": "047495400700",
-          "name": "Natures Bakery - Double Chocolate Brownie",
-          "price": 2.57,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368269911559.png",
-          "stock": 0,
-          "capacity": 0,
-          "fill_pct": null,
           "stock_warning": 0,
           "stock_updated": "2026-07-19 17:51:31"
         },

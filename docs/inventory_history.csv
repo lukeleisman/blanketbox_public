@@ -3433,3 +3433,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-29T06:30:31Z,129111,philly,Philly TrueCooler II,S0B2F6194A055100A,4900005074,Powerade Zero Grape,3.0,6,5,-1
 2026-07-29T06:30:31Z,129111,philly,Philly TrueCooler II,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,9,8,-1
 2026-07-29T06:30:31Z,16213,haven,TheHaven#2-cooler,S0B2D0516EFCB1008,007478051550,Maison Perrier Sparkling Water,2.75,4,3,-1
+2026-07-29T12:00:33Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.5,9,7,-2
+2026-07-29T12:00:33Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,6,4,-2

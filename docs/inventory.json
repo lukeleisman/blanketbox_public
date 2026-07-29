@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T22:58:43Z",
+  "updated": "2026-07-29T00:04:14Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -41,7 +41,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
           "stock": 6,
           "capacity": 8,
           "fill_pct": 75,
@@ -811,11 +811,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 12,
-          "fill_pct": 42,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-07-27 13:33:43"
+          "stock_updated": "2026-07-28 18:23:13"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -2229,11 +2229,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 17,
-          "fill_pct": 29,
+          "fill_pct": 24,
           "stock_warning": 0,
-          "stock_updated": "2026-07-25 15:49:59"
+          "stock_updated": "2026-07-28 17:59:17"
         },
         {
           "skuid": "S0B27699FEBD41002",

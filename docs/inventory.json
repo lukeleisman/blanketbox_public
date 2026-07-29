@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T12:00:33Z",
+  "updated": "2026-07-29T14:40:53Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -41,7 +41,7 @@
           "barcode": "860002564531",
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378015617611.png",
           "stock": 6,
           "capacity": 8,
           "fill_pct": 75,
@@ -775,11 +775,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 20,
-          "fill_pct": 20,
+          "fill_pct": 15,
           "stock_warning": 0,
-          "stock_updated": "2026-07-29 05:23:39"
+          "stock_updated": "2026-07-29 07:49:42"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1135,11 +1135,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 17,
-          "fill_pct": 53,
+          "fill_pct": 47,
           "stock_warning": 0,
-          "stock_updated": "2026-07-27 13:17:19"
+          "stock_updated": "2026-07-29 07:49:42"
         },
         {
           "skuid": "S0B2DD4AAFF451007",
@@ -1270,8 +1270,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 49,
-      "in_stock": 39,
-      "out_of_stock": 10,
+      "in_stock": 38,
+      "out_of_stock": 11,
       "low_stock": 0,
       "products": [
         {
@@ -1592,11 +1592,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-07-26 22:34:52"
+          "stock_updated": "2026-07-29 09:35:17"
         },
         {
           "skuid": "S0B246944E19E1000",
@@ -2001,11 +2001,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 14,
-          "fill_pct": 64,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-07-26 16:32:11"
+          "stock_updated": "2026-07-29 09:28:30"
         },
         {
           "skuid": "S0B2C6BB0DE621006",
@@ -2253,11 +2253,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-07-19 17:51:31"
+          "stock_updated": "2026-07-29 07:36:12"
         },
         {
           "skuid": "S0B246944DEFB1003",

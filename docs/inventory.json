@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T06:06:20Z",
+  "updated": "2026-07-30T09:13:06Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1580,11 +1580,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/052000328660.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-07-29 18:32:54"
+          "stock_updated": "2026-07-30 01:19:13"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1700,11 +1700,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 30,
+          "stock": 28,
           "capacity": 31,
-          "fill_pct": 97,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-07-29 21:21:27"
+          "stock_updated": "2026-07-30 01:11:15"
         },
         {
           "skuid": "S0B2EC158AB36100A",
@@ -1844,11 +1844,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 15,
+          "stock": 13,
           "capacity": 16,
-          "fill_pct": 94,
+          "fill_pct": 81,
           "stock_warning": 0,
-          "stock_updated": "2026-07-29 23:25:04"
+          "stock_updated": "2026-07-30 01:19:13"
         },
         {
           "skuid": "S0B246944E7B61003",

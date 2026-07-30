@@ -3490,3 +3490,9 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-30T03:15:58Z,16214,doylestown,333 North Broad Cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,7,17,10
 2026-07-30T03:15:58Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,16,17,1
 2026-07-30T03:15:58Z,129111,philly,Philly TrueCooler II,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,31,30,-1
+2026-07-30T06:06:20Z,15519,doylestown,333 North Broad Ambient,S0B246944E1A51002,840515100044,Mrs. Thinsters Chocolate Chip Cookies,9.0,1,0,-1
+2026-07-30T06:06:20Z,15519,doylestown,333 North Broad Ambient,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.5,3,2,-1
+2026-07-30T06:06:20Z,15519,doylestown,333 North Broad Ambient,S0B2C6BE9F76D100A,2410012261,Cheez-It 1.5 oz,2.0,12,11,-1
+2026-07-30T06:06:20Z,129111,philly,Philly TrueCooler II,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,16,15,-1
+2026-07-30T06:06:20Z,129111,philly,Philly TrueCooler II,S0B246944E5611002,078000152401,Canada Dry Ginger Ale,2.57,9,8,-1
+2026-07-30T06:06:20Z,129111,philly,Philly TrueCooler II,S0B2D484E0EFD1001,014100043706,Milano,2.57,13,11,-2

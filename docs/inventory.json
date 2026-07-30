@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T20:15:04Z",
+  "updated": "2026-07-30T21:42:42Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -751,11 +751,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 7,
-          "fill_pct": 43,
+          "fill_pct": 29,
           "stock_warning": 0,
-          "stock_updated": "2026-07-23 18:19:02"
+          "stock_updated": "2026-07-30 16:34:16"
         },
         {
           "skuid": "S0B2D527865D2100C",
@@ -821,7 +821,7 @@
           "skuid": "S0B246944E40F1008",
           "barcode": "052000328660",
           "name": "Gatorade Fruit Punch",
-          "price": 3.0,
+          "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
           "stock": 1,
           "capacity": 5,
@@ -833,7 +833,7 @@
           "skuid": "S0B2BDAE8D5FB1006",
           "barcode": "520010247",
           "name": "Gatorade Glacier Cherry",
-          "price": 3.0,
+          "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
           "stock": 1,
           "capacity": 0,
@@ -857,7 +857,7 @@
           "skuid": "S0B246944E4051007",
           "barcode": "052000324815",
           "name": "Gatorade_Cool_Blue",
-          "price": 3.0,
+          "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023828232980.png",
           "stock": 5,
           "capacity": 9,
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 27,
+          "stock": 26,
           "capacity": 30,
-          "fill_pct": 90,
+          "fill_pct": 87,
           "stock_warning": 0,
-          "stock_updated": "2026-07-30 06:24:59"
+          "stock_updated": "2026-07-30 16:34:16"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1241,7 +1241,7 @@
           "skuid": "S0B2DB92EA84A1003",
           "barcode": "898999012247",
           "name": "Vita Coconut Extra Coconut",
-          "price": 4.0,
+          "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176904241917369.png",
           "stock": 4,
           "capacity": 4,
@@ -2445,11 +2445,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 4,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-07-29 17:12:42"
+          "stock_updated": "2026-07-30 15:55:01"
         },
         {
           "skuid": "S0B246944E3C71001",
@@ -2457,11 +2457,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 24,
+          "stock": 22,
           "capacity": 24,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-07-29 17:26:27"
+          "stock_updated": "2026-07-30 15:55:01"
         },
         {
           "skuid": "S0B2D48452F7E1005",

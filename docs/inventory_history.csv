@@ -3481,3 +3481,12 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-29T23:59:39Z,129111,philly,Philly TrueCooler II,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.25,3,4,1
 2026-07-29T23:59:39Z,129111,philly,Philly TrueCooler II,S0B2DAF9429041007,044000085964,Chips Ahoy minis,4.0,1,0,-1
 2026-07-29T23:59:39Z,129111,philly,Philly TrueCooler II,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,16,31,15
+2026-07-30T03:15:58Z,15519,doylestown,333 North Broad Ambient,S0B2C6BE9F76D100A,2410012261,Cheez-It 1.5 oz,2.0,4,12,8
+2026-07-30T03:15:58Z,16214,doylestown,333 North Broad Cooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,5.5,4,14,10
+2026-07-30T03:15:58Z,16214,doylestown,333 North Broad Cooler,S0B2D055ACE44100B,1162002198,Fairlife Core Power - Strawberry (26g Complete Protein),5.27,0,6,6
+2026-07-30T03:15:58Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.5,7,30,23
+2026-07-30T03:15:58Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,3,20,17
+2026-07-30T03:15:58Z,16214,doylestown,333 North Broad Cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.6,13,15,2
+2026-07-30T03:15:58Z,16214,doylestown,333 North Broad Cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,7,17,10
+2026-07-30T03:15:58Z,16214,doylestown,333 North Broad Cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,16,17,1
+2026-07-30T03:15:58Z,129111,philly,Philly TrueCooler II,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,31,30,-1

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T18:55:52Z",
+  "updated": "2026-07-30T20:15:04Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -775,11 +775,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 19,
+          "stock": 18,
           "capacity": 20,
-          "fill_pct": 95,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-07-30 12:24:34"
+          "stock_updated": "2026-07-30 13:59:38"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1844,11 +1844,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 13,
+          "stock": 12,
           "capacity": 16,
-          "fill_pct": 81,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-07-30 01:19:13"
+          "stock_updated": "2026-07-30 15:03:45"
         },
         {
           "skuid": "S0B246944E7B61003",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T20:41:26Z",
+  "updated": "2026-07-31T22:05:14Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 26,
+          "stock": 25,
           "capacity": 30,
-          "fill_pct": 87,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-07-30 16:34:16"
+          "stock_updated": "2026-07-31 16:59:05"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -2145,11 +2145,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063766829.jpg",
-          "stock": 13,
+          "stock": 12,
           "capacity": 13,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-07-29 17:26:27"
+          "stock_updated": "2026-07-31 15:44:59"
         },
         {
           "skuid": "S0B246944E7FE1008",

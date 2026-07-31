@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T04:59:17Z",
+  "updated": "2026-07-31T08:04:31Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1652,11 +1652,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 21,
+          "stock": 20,
           "capacity": 22,
-          "fill_pct": 95,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-07-30 21:31:30"
+          "stock_updated": "2026-07-31 00:59:28"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2061,11 +2061,11 @@
           "name": "Deer park water",
           "price": 1.87,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 6,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-07-29 17:26:27"
+          "stock_updated": "2026-07-31 00:10:50"
         },
         {
           "skuid": "S0B2D527638181007",
@@ -2229,11 +2229,11 @@
           "name": "Maison Perrier Sparkling Water",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17773152898848.png",
-          "stock": 3,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-07-29 17:12:42"
+          "stock_updated": "2026-07-31 00:26:12"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2409,11 +2409,11 @@
           "name": "San Pellegrino Essenza",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619022990038.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-07-29 17:12:42"
+          "stock_updated": "2026-07-31 00:26:12"
         },
         {
           "skuid": "S0B29D2F2643D100B",
@@ -2421,11 +2421,11 @@
           "name": "San Pelligrino Pomegranate and Orange",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17601191596212.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-07-29 17:12:42"
+          "stock_updated": "2026-07-31 00:26:12"
         },
         {
           "skuid": "S0B27699FEBCD1003",

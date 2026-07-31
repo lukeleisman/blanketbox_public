@@ -3528,3 +3528,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-07-31T08:04:31Z,16213,haven,TheHaven#2-cooler,S0B246944E9A41003,082657500638,Deer park water,1.87,6,3,-3
 2026-07-31T08:04:31Z,16213,haven,TheHaven#2-cooler,S0B2D0516EFCB1008,007478051550,Maison Perrier Sparkling Water,2.75,3,1,-2
 2026-07-31T15:37:02Z,129111,philly,Philly TrueCooler II,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,0,-1,-1
+2026-07-31T19:24:44Z,129111,philly,Philly TrueCooler II,S0B2F61930CDF1009,0049000050752,Powerade Zero Mixed Berry 20floz,3.0,7,6,-1
+2026-07-31T19:24:44Z,129111,philly,Philly TrueCooler II,S0B2F619342CA1009,049000056433,Powerade Zero Fruit Punch,3.0,7,6,-1

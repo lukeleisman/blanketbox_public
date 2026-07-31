@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T17:36:48Z",
+  "updated": "2026-07-31T19:24:44Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1724,11 +1724,11 @@
           "name": "Powerade Zero Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172366735251318.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-07-29 18:25:16"
+          "stock_updated": "2026-07-31 14:08:34"
         },
         {
           "skuid": "S0B2F6194A055100A",
@@ -1748,11 +1748,11 @@
           "name": "Powerade Zero Mixed Berry 20floz",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176048132401919.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-07-29 18:32:54"
+          "stock_updated": "2026-07-31 14:08:34"
         },
         {
           "skuid": "S0B27BB097BD21006",

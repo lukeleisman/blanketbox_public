@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T14:25:46Z",
+  "updated": "2026-08-01T15:37:01Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1748,11 +1748,11 @@
           "name": "Powerade Zero Mixed Berry 20floz",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176048132401919.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-07-31 14:08:34"
+          "stock_updated": "2026-08-01 09:58:27"
         },
         {
           "skuid": "S0B27BB097BD21006",

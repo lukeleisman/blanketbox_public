@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T04:51:03Z",
+  "updated": "2026-08-01T07:27:30Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -18,11 +18,11 @@
           "name": "Albanese peach rings",
           "price": 7.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178216062408651.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-07-13 08:50:32"
+          "stock_updated": "2026-08-01 01:00:22"
         },
         {
           "skuid": "S0B26050ED251100C",
@@ -102,11 +102,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 9,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 112,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-07-31 23:33:34"
+          "stock_updated": "2026-08-01 00:09:40"
         },
         {
           "skuid": "S0B2BA2E2259B1009",
@@ -390,11 +390,11 @@
           "name": "Milano",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 9,
-          "fill_pct": 67,
+          "fill_pct": 56,
           "stock_warning": 0,
-          "stock_updated": "2026-07-21 21:14:39"
+          "stock_updated": "2026-08-01 01:03:23"
         },
         {
           "skuid": "S0B246944E1A51002",
@@ -498,11 +498,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": -1,
+          "stock": -3,
           "capacity": 7,
-          "fill_pct": -14,
+          "fill_pct": -43,
           "stock_warning": 0,
-          "stock_updated": "2026-07-31 23:33:34"
+          "stock_updated": "2026-08-01 00:09:40"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -534,11 +534,11 @@
           "name": "Pop Secret popcorn",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 12,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-07-15 08:52:25"
+          "stock_updated": "2026-08-01 01:04:05"
         },
         {
           "skuid": "S0B2D5E2BE692100C",
@@ -618,11 +618,11 @@
           "name": "Twix Candy Bar",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 10,
+          "stock": 7,
           "capacity": 12,
-          "fill_pct": 83,
+          "fill_pct": 58,
           "stock_warning": 0,
-          "stock_updated": "2026-07-18 13:18:02"
+          "stock_updated": "2026-08-01 01:05:50"
         },
         {
           "skuid": "S0B246944E8251002",
@@ -1508,11 +1508,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 20,
+          "stock": 19,
           "capacity": 20,
-          "fill_pct": 100,
+          "fill_pct": 95,
           "stock_warning": 0,
-          "stock_updated": "2026-07-29 18:41:02"
+          "stock_updated": "2026-08-01 01:42:46"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1724,11 +1724,11 @@
           "name": "Powerade Zero Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172366735251318.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-07-31 14:08:34"
+          "stock_updated": "2026-08-01 01:42:46"
         },
         {
           "skuid": "S0B2F6194A055100A",
@@ -2133,11 +2133,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 11,
-          "fill_pct": 82,
+          "fill_pct": 73,
           "stock_warning": 0,
-          "stock_updated": "2026-07-31 21:34:14"
+          "stock_updated": "2026-08-01 02:05:17"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2325,11 +2325,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 11,
-          "fill_pct": 91,
+          "fill_pct": 82,
           "stock_warning": 0,
-          "stock_updated": "2026-07-31 21:34:14"
+          "stock_updated": "2026-08-01 02:05:17"
         },
         {
           "skuid": "S0B2DB932853E100A",

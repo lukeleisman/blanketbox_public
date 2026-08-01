@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T19:43:05Z",
+  "updated": "2026-08-01T20:52:56Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1400,11 +1400,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": -1,
+          "stock": -2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-07-31 10:24:27"
+          "stock_updated": "2026-08-01 14:43:37"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -1448,11 +1448,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 11,
-          "fill_pct": 91,
+          "fill_pct": 82,
           "stock_warning": 0,
-          "stock_updated": "2026-07-31 20:25:44"
+          "stock_updated": "2026-08-01 15:14:33"
         },
         {
           "skuid": "S0B2DAF9429041007",

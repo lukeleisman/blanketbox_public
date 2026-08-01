@@ -3561,3 +3561,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-01T07:27:30Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,10,9,-1
 2026-08-01T07:27:30Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,9,8,-1
 2026-08-01T15:37:01Z,129111,philly,Philly TrueCooler II,S0B2F61930CDF1009,0049000050752,Powerade Zero Mixed Berry 20floz,3.0,6,5,-1
+2026-08-01T20:52:56Z,129111,philly,Philly TrueCooler II,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,-1,-2,-1
+2026-08-01T20:52:56Z,129111,philly,Philly TrueCooler II,S0B2C6BE9F76D100A,2410012261,Cheez-It 1.5 oz,2.0,10,9,-1

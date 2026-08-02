@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T20:55:08Z",
+  "updated": "2026-08-02T21:56:34Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1929,11 +1929,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-07-30 20:20:52"
+          "stock_updated": "2026-08-02 16:48:28"
         },
         {
           "skuid": "S0B2740EB95E01006",
@@ -2457,11 +2457,11 @@
           "name": "Twix Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 19,
+          "stock": 18,
           "capacity": 24,
-          "fill_pct": 79,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-07-31 22:07:44"
+          "stock_updated": "2026-08-02 16:48:28"
         },
         {
           "skuid": "S0B2D48452F7E1005",
@@ -2469,11 +2469,11 @@
           "name": "Vita coconut water",
           "price": 3.49,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176913044023980.png",
-          "stock": 7,
+          "stock": 2,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 29,
           "stock_warning": 0,
-          "stock_updated": "2026-07-29 17:12:42"
+          "stock_updated": "2026-08-02 16:14:04"
         },
         {
           "skuid": "S0B2EF08A265B1002",

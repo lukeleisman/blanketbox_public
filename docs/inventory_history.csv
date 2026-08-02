@@ -3586,3 +3586,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-02T14:07:56Z,16213,haven,TheHaven#2-cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,6,5,-1
 2026-08-02T14:07:56Z,16213,haven,TheHaven#2-cooler,S0B2D484E0EFD1001,014100043706,Milano,2.5,14,13,-1
 2026-08-02T19:43:06Z,129111,philly,Philly TrueCooler II,S0B2F619342CA1009,049000056433,Powerade Zero Fruit Punch,3.0,4,3,-1
+2026-08-02T20:55:08Z,129111,philly,Philly TrueCooler II,S0B246944E5611002,078000152401,Canada Dry Ginger Ale,2.57,5,4,-1

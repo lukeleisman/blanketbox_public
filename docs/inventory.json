@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T03:42:46Z",
+  "updated": "2026-08-02T06:33:00Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1508,11 +1508,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 19,
+          "stock": 16,
           "capacity": 20,
-          "fill_pct": 95,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-08-01 01:42:46"
+          "stock_updated": "2026-08-02 00:56:40"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1700,11 +1700,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 28,
+          "stock": 26,
           "capacity": 31,
-          "fill_pct": 90,
+          "fill_pct": 84,
           "stock_warning": 0,
-          "stock_updated": "2026-07-30 01:11:15"
+          "stock_updated": "2026-08-02 00:56:40"
         },
         {
           "skuid": "S0B2EC158AB36100A",
@@ -1724,11 +1724,11 @@
           "name": "Powerade Zero Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172366735251318.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-08-01 01:42:46"
+          "stock_updated": "2026-08-01 23:25:24"
         },
         {
           "skuid": "S0B2F6194A055100A",
@@ -1748,11 +1748,11 @@
           "name": "Powerade Zero Mixed Berry 20floz",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176048132401919.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-08-01 09:58:27"
+          "stock_updated": "2026-08-02 00:56:40"
         },
         {
           "skuid": "S0B27BB097BD21006",
@@ -1844,11 +1844,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 16,
-          "fill_pct": 50,
+          "fill_pct": 44,
           "stock_warning": 0,
-          "stock_updated": "2026-08-01 17:13:47"
+          "stock_updated": "2026-08-01 23:25:24"
         },
         {
           "skuid": "S0B246944E7B61003",

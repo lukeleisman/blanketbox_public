@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T12:10:20Z",
+  "updated": "2026-08-02T14:07:56Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2241,11 +2241,11 @@
           "name": "Milano",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 14,
+          "stock": 13,
           "capacity": 14,
-          "fill_pct": 100,
+          "fill_pct": 93,
           "stock_warning": 0,
-          "stock_updated": "2026-07-29 17:12:42"
+          "stock_updated": "2026-08-02 08:57:34"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -2265,11 +2265,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-07-29 17:26:27"
+          "stock_updated": "2026-08-02 08:57:34"
         },
         {
           "skuid": "S0B2DB93670101002",

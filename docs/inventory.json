@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T22:56:46Z",
+  "updated": "2026-08-01T23:59:58Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1364,11 +1364,11 @@
           "name": "Canada Dry Ginger Ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175847239862745.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 9,
-          "fill_pct": 67,
+          "fill_pct": 56,
           "stock_warning": 0,
-          "stock_updated": "2026-08-01 17:12:49"
+          "stock_updated": "2026-08-01 18:59:45"
         },
         {
           "skuid": "S0B2A44D16D23100C",

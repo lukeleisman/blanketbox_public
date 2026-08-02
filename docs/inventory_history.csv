@@ -3567,3 +3567,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-01T22:56:46Z,129111,philly,Philly TrueCooler II,S0B246944E5611002,078000152401,Canada Dry Ginger Ale,2.57,7,6,-1
 2026-08-01T22:56:46Z,129111,philly,Philly TrueCooler II,S0B2C6BE9F76D100A,2410012261,Cheez-It 1.5 oz,2.0,9,7,-2
 2026-08-01T22:56:46Z,129111,philly,Philly TrueCooler II,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.25,4,3,-1
+2026-08-01T23:59:58Z,129111,philly,Philly TrueCooler II,S0B246944E5611002,078000152401,Canada Dry Ginger Ale,2.57,6,5,-1

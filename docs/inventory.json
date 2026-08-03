@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T20:26:29Z",
+  "updated": "2026-08-03T21:41:33Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2097,11 +2097,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-07-29 17:12:42"
+          "stock_updated": "2026-08-03 16:13:15"
         },
         {
           "skuid": "S0B246944DFD21006",
@@ -2205,11 +2205,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 17,
+          "stock": 16,
           "capacity": 20,
-          "fill_pct": 85,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-08-02 19:34:17"
+          "stock_updated": "2026-08-03 16:13:15"
         },
         {
           "skuid": "S0B27699FEBD41002",
@@ -2445,11 +2445,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 4,
-          "fill_pct": 50,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-07-30 15:55:01"
+          "stock_updated": "2026-08-03 16:13:15"
         },
         {
           "skuid": "S0B246944E3C71001",

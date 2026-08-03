@@ -3600,3 +3600,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-03T16:30:47Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.6,18,15,-3
 2026-08-03T16:30:47Z,16213,haven,TheHaven#2-cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,5,3,-2
 2026-08-03T20:26:29Z,16213,haven,TheHaven#2-cooler,S0B246944E9A41003,082657500638,Deer park water,1.87,3,2,-1
+2026-08-03T21:41:33Z,16213,haven,TheHaven#2-cooler,S0B246944E4B51008,012000813313,Starbucks_Frappuccino_Vanilla,4.27,2,1,-1
+2026-08-03T21:41:33Z,16213,haven,TheHaven#2-cooler,S0B2C85783CD31007,1162002196,Fair Life Core Power 26g Vanilla Protein Shake,5.27,6,5,-1
+2026-08-03T21:41:33Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,17,16,-1

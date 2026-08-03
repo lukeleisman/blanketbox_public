@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T00:05:08Z",
+  "updated": "2026-08-03T04:05:58Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -318,11 +318,11 @@
           "name": "Jennie\u2019s Coconut bites",
           "price": 16.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619046579382.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-06-10 20:47:57"
+          "stock_updated": "2026-08-02 21:04:39"
         },
         {
           "skuid": "S0B26860EB3691005",
@@ -510,11 +510,11 @@
           "name": "Oreo Fresh stacks",
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686702392867.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-07-02 13:45:46"
+          "stock_updated": "2026-08-02 21:04:39"
         },
         {
           "skuid": "S0B2D5DDDD87E1009",
@@ -2085,11 +2085,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 21,
+          "stock": 19,
           "capacity": 21,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-07-29 17:26:27"
+          "stock_updated": "2026-08-02 20:39:17"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2205,11 +2205,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 18,
+          "stock": 17,
           "capacity": 20,
-          "fill_pct": 90,
+          "fill_pct": 85,
           "stock_warning": 0,
-          "stock_updated": "2026-08-02 04:26:24"
+          "stock_updated": "2026-08-02 19:34:17"
         },
         {
           "skuid": "S0B27699FEBD41002",
@@ -2301,11 +2301,11 @@
           "name": "NutellaGo",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-07-29 17:12:42"
+          "stock_updated": "2026-08-02 19:34:17"
         },
         {
           "skuid": "S0B2DAF9204FD1006",

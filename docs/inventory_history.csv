@@ -3591,3 +3591,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-02T21:56:34Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.5,5,4,-1
 2026-08-02T21:56:34Z,16213,haven,TheHaven#2-cooler,S0B2D48452F7E1005,89899900002,Vita coconut water,3.49,7,2,-5
 2026-08-02T22:58:12Z,15519,doylestown,333 North Broad Ambient,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.5,-5,-6,-1
+2026-08-03T04:05:58Z,15519,doylestown,333 North Broad Ambient,S0B2DB932853E100A,044000082048,Oreo Fresh stacks,5.25,5,4,-1
+2026-08-03T04:05:58Z,15519,doylestown,333 North Broad Ambient,S0B2D90DF10651003,071879700049,Jennie’s Coconut bites,16.5,8,7,-1
+2026-08-03T04:05:58Z,16213,haven,TheHaven#2-cooler,S0B25F6365FD11002,0980080005,NutellaGo,2.5,3,2,-1
+2026-08-03T04:05:58Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,21,19,-2
+2026-08-03T04:05:58Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,18,17,-1

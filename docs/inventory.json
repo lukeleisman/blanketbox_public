@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T17:12:06Z",
+  "updated": "2026-08-04T19:06:40Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1604,11 +1604,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-07-29 18:32:54"
+          "stock_updated": "2026-08-04 12:48:05"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2433,11 +2433,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 20,
+          "stock": 17,
           "capacity": 23,
-          "fill_pct": 87,
+          "fill_pct": 74,
           "stock_warning": 0,
-          "stock_updated": "2026-08-04 00:17:45"
+          "stock_updated": "2026-08-04 13:54:58"
         },
         {
           "skuid": "S0B246944E4B51008",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T07:12:54Z",
+  "updated": "2026-08-04T10:09:23Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2037,11 +2037,11 @@
           "name": "Corn Pops Cereal",
           "price": 1.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177126355692713.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-07-29 17:12:42"
+          "stock_updated": "2026-08-04 04:30:34"
         },
         {
           "skuid": "S0B2BA2E24FD8100B",

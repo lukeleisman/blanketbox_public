@@ -3667,3 +3667,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-05T19:34:09Z,16214,doylestown,333 North Broad Cooler,S0B2D527865D2100C,036632078186,Delight Mocha,2.5,1,0,-1
 2026-08-05T19:34:09Z,16214,doylestown,333 North Broad Cooler,S0B2DAF8F87C31004,850032072090,St James Green Tea,2.5,5,3,-2
 2026-08-05T19:34:09Z,16214,doylestown,333 North Broad Cooler,S0B2E02B5AA1F1005,07811801,Canada Dry Diet Ginger Ale Can,2.57,1,0,-1
+2026-08-05T22:34:01Z,16214,doylestown,333 North Broad Cooler,S0B2D90DB76B5100C,041508302074,San Pellegrino Essenza,3.5,4,3,-1
+2026-08-05T22:34:01Z,16213,haven,TheHaven#2-cooler,S0B2F6194A055100A,4900005074,Powerade Zero Grape,3.0,8,7,-1
+2026-08-05T22:34:01Z,16213,haven,TheHaven#2-cooler,S0B2BA2E24FD8100B,2225210120,Crunchy Peanut Butter Cliff Bar,2.0,2,1,-1

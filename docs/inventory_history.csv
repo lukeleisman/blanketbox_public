@@ -3632,3 +3632,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-05T02:31:34Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,17,15,-2
 2026-08-05T02:31:34Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,7,5,-2
 2026-08-05T02:31:34Z,15520,mckinley,mHUBPrototypingShop,S0B2E970C27C91001,032076917814,performax short cable zip tie,8.0,9999,9998,-1
+2026-08-05T05:45:33Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,15,14,-1

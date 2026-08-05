@@ -3625,3 +3625,10 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-04T22:11:41Z,15519,doylestown,333 North Broad Ambient,S0B2DD3F2D92D100A,016000280427,Cheerios Treats,1.99,5,3,-2
 2026-08-04T22:11:41Z,15519,doylestown,333 North Broad Ambient,S0B2C6BE9F76D100A,2410012261,Cheez-It 1.5 oz,2.0,4,2,-2
 2026-08-04T22:11:41Z,15519,doylestown,333 North Broad Ambient,S0B260510FB391004,860002564531,Betterway Toilet Paper Roll,3.25,6,5,-1
+2026-08-05T02:31:34Z,16213,haven,TheHaven#2-cooler,S0B2DB93670101002,016000194069,Mott’s berry snacks,3.75,5,4,-1
+2026-08-05T02:31:34Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.6,14,13,-1
+2026-08-05T02:31:34Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,18,17,-1
+2026-08-05T02:31:34Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,16,15,-1
+2026-08-05T02:31:34Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.6,17,15,-2
+2026-08-05T02:31:34Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,7,5,-2
+2026-08-05T02:31:34Z,15520,mckinley,mHUBPrototypingShop,S0B2E970C27C91001,032076917814,performax short cable zip tie,8.0,9999,9998,-1

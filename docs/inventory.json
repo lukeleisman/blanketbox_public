@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T11:40:09Z",
+  "updated": "2026-08-06T14:09:10Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -656,9 +656,9 @@
       "location_name": "333 North Broad",
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
-      "total_skus": 56,
+      "total_skus": 51,
       "in_stock": 31,
-      "out_of_stock": 25,
+      "out_of_stock": 20,
       "low_stock": 0,
       "products": [
         {
@@ -684,18 +684,6 @@
           "fill_pct": 150,
           "stock_warning": 0,
           "stock_updated": "2026-08-05 22:54:42"
-        },
-        {
-          "skuid": "S0B2E02B5AA1F1005",
-          "barcode": "07811801",
-          "name": "Canada Dry Diet Ginger Ale Can",
-          "price": 2.57,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177810035529531.png",
-          "stock": 0,
-          "capacity": 1,
-          "fill_pct": 0,
-          "stock_warning": 0,
-          "stock_updated": "2026-08-05 22:48:57"
         },
         {
           "skuid": "S0B246944E6EA1003",
@@ -766,18 +754,6 @@
           "stock": 2,
           "capacity": 7,
           "fill_pct": 29,
-          "stock_warning": 0,
-          "stock_updated": "2026-08-05 22:48:57"
-        },
-        {
-          "skuid": "S0B2D527865D2100C",
-          "barcode": "036632078186",
-          "name": "Delight Mocha",
-          "price": 2.5,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177514355024033.png",
-          "stock": 0,
-          "capacity": 1,
-          "fill_pct": 0,
           "stock_warning": 0,
           "stock_updated": "2026-08-05 22:48:57"
         },
@@ -878,18 +854,6 @@
           "stock_updated": "2026-08-05 22:48:57"
         },
         {
-          "skuid": "S0B2605A328C81009",
-          "barcode": "348430",
-          "name": "Icebreakers IceCubes Peppermint",
-          "price": 5.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378973602717.png",
-          "stock": 0,
-          "capacity": 1,
-          "fill_pct": 0,
-          "stock_warning": 0,
-          "stock_updated": "2026-08-05 22:48:57"
-        },
-        {
           "skuid": "S0B2D4851D7141003",
           "barcode": "195372325155",
           "name": "Just Ice Tea Peach Oolong 16oz",
@@ -898,18 +862,6 @@
           "stock": 4,
           "capacity": 5,
           "fill_pct": 80,
-          "stock_warning": 0,
-          "stock_updated": "2026-08-05 22:48:57"
-        },
-        {
-          "skuid": "S0B2D11D53BB51008",
-          "barcode": "851861006126",
-          "name": "Kombucha",
-          "price": 4.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176169975175786.png",
-          "stock": 0,
-          "capacity": 0,
-          "fill_pct": null,
           "stock_warning": 0,
           "stock_updated": "2026-08-05 22:48:57"
         },
@@ -979,11 +931,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 19,
+          "stock": 18,
           "capacity": 30,
-          "fill_pct": 63,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-08-06 06:03:42"
+          "stock_updated": "2026-08-06 08:47:15"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1198,18 +1150,6 @@
           "stock": 1,
           "capacity": 7,
           "fill_pct": 14,
-          "stock_warning": 0,
-          "stock_updated": "2026-08-05 22:48:57"
-        },
-        {
-          "skuid": "S0B27699FEF291000",
-          "barcode": "4000000051",
-          "name": "Starburst Original",
-          "price": 2.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174309139125249.png",
-          "stock": 0,
-          "capacity": 0,
-          "fill_pct": null,
           "stock_warning": 0,
           "stock_updated": "2026-08-05 22:48:57"
         },

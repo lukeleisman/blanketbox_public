@@ -3741,3 +3741,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-07T05:16:25Z,16214,doylestown,333 North Broad Cooler,S0B2EF08A265B1002,850066031414,Wavii,5.99,5,4,-1
 2026-08-07T05:16:25Z,16214,doylestown,333 North Broad Cooler,S0B2E63AC3F231007,682430010486,Voss Water,7.25,16,15,-1
 2026-08-07T05:16:25Z,16214,doylestown,333 North Broad Cooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,6.0,6,5,-1
+2026-08-07T06:46:00Z,16214,doylestown,333 North Broad Cooler,S0B2EF08A265B1002,850066031414,Wavii,5.99,4,3,-1
+2026-08-07T06:46:00Z,16214,doylestown,333 North Broad Cooler,S0B2D3E6DA5E01005,041508235785,San Pellegrino Aranciata,3.77,3,2,-1
+2026-08-07T06:46:00Z,16214,doylestown,333 North Broad Cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.5,2,1,-1

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T13:02:55Z",
+  "updated": "2026-08-07T14:31:26Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1267,11 +1267,11 @@
           "name": "XXX Acai-Blueberry-Pomegranate 20 Oz Bottle",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000021/goods/000021/mergoods/1593545699367.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-05 22:48:57"
+          "stock_updated": "2026-08-07 09:13:48"
         }
       ]
     },
@@ -2241,11 +2241,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 6,
-          "fill_pct": 33,
+          "fill_pct": 17,
           "stock_warning": 0,
-          "stock_updated": "2026-08-06 09:59:15"
+          "stock_updated": "2026-08-07 08:04:17"
         },
         {
           "skuid": "S0B2DB93670101002",

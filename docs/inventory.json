@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T03:27:59Z",
+  "updated": "2026-08-07T05:16:25Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -102,11 +102,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 12,
+          "stock": 8,
           "capacity": 8,
-          "fill_pct": 150,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-05 23:30:25"
+          "stock_updated": "2026-08-06 23:32:50"
         },
         {
           "skuid": "S0B2BA2E2259B1009",
@@ -150,11 +150,11 @@
           "name": "Coconut Rolls",
           "price": 10.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972704249174.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-05 22:58:35"
+          "stock_updated": "2026-08-06 23:00:56"
         },
         {
           "skuid": "S0B25FC7B42F61009",
@@ -294,11 +294,11 @@
           "name": "IQ Bar Chocolate Sea Salt",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176092402211332.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 4,
-          "fill_pct": 50,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-08-05 22:58:35"
+          "stock_updated": "2026-08-06 23:04:53"
         },
         {
           "skuid": "S0B2DFCAA016C1003",
@@ -390,11 +390,11 @@
           "name": "Milano",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 9,
-          "fill_pct": 67,
+          "fill_pct": 56,
           "stock_warning": 0,
-          "stock_updated": "2026-08-05 22:59:37"
+          "stock_updated": "2026-08-06 23:04:53"
         },
         {
           "skuid": "S0B246944E1A51002",
@@ -414,11 +414,11 @@
           "name": "Natures Bakery - Double Chocolate Brownie",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368269911559.png",
-          "stock": 3,
+          "stock": 1,
           "capacity": 7,
-          "fill_pct": 43,
+          "fill_pct": 14,
           "stock_warning": 0,
-          "stock_updated": "2026-08-05 22:58:35"
+          "stock_updated": "2026-08-06 23:04:53"
         },
         {
           "skuid": "S0B2885215A1B1003",
@@ -510,11 +510,11 @@
           "name": "Oreo Fresh stacks",
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686702392867.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-08-05 22:58:35"
+          "stock_updated": "2026-08-06 23:32:50"
         },
         {
           "skuid": "S0B2D5DDDD87E1009",
@@ -799,11 +799,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 6.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 12,
-          "fill_pct": 50,
+          "fill_pct": 42,
           "stock_warning": 0,
-          "stock_updated": "2026-08-06 14:33:14"
+          "stock_updated": "2026-08-06 23:05:37"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -991,11 +991,11 @@
           "name": "Performance Gummies Recover",
           "price": 3.49,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174837408593565.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 13,
-          "fill_pct": 77,
+          "fill_pct": 69,
           "stock_warning": 0,
-          "stock_updated": "2026-08-05 22:48:57"
+          "stock_updated": "2026-08-06 23:05:37"
         },
         {
           "skuid": "S0B2F619342CA1009",
@@ -1243,11 +1243,11 @@
           "name": "Voss Water",
           "price": 7.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 16,
+          "stock": 15,
           "capacity": 16,
-          "fill_pct": 100,
+          "fill_pct": 94,
           "stock_warning": 0,
-          "stock_updated": "2026-08-05 22:54:42"
+          "stock_updated": "2026-08-06 23:05:37"
         },
         {
           "skuid": "S0B2EF08A265B1002",
@@ -1255,11 +1255,11 @@
           "name": "Wavii",
           "price": 5.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178209048093040.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-08-05 22:48:57"
+          "stock_updated": "2026-08-06 23:05:37"
         },
         {
           "skuid": "S0B246944DECF100B",

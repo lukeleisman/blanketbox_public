@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T22:34:56Z",
+  "updated": "2026-08-07T23:33:12Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -78,11 +78,11 @@
           "name": "Camera Violation",
           "price": 25.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174454737098059.png",
-          "stock": 0,
+          "stock": -2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-07 14:54:26"
+          "stock_updated": "2026-08-07 18:23:34"
         },
         {
           "skuid": "S0B248CF276EB1000",
@@ -642,11 +642,11 @@
           "name": "Twix Candy Bar",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 12,
-          "fill_pct": 75,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-05 23:01:43"
+          "stock_updated": "2026-08-07 18:23:34"
         },
         {
           "skuid": "S0B246944E8251002",

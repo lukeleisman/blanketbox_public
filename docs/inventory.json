@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T01:39:08Z",
+  "updated": "2026-08-08T03:25:17Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -787,11 +787,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 6.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 4,
-          "fill_pct": 175,
+          "fill_pct": 150,
           "stock_warning": 0,
-          "stock_updated": "2026-08-05 22:54:42"
+          "stock_updated": "2026-08-07 20:41:15"
         },
         {
           "skuid": "S0B2D055ACE44100B",
@@ -811,11 +811,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 6.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 12,
-          "fill_pct": 42,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-08-06 23:05:37"
+          "stock_updated": "2026-08-07 20:41:15"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -1520,11 +1520,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 4.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-07-29 18:41:02"
+          "stock_updated": "2026-08-07 21:39:16"
         },
         {
           "skuid": "S0B2EC1587FF01001",
@@ -1688,11 +1688,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 26,
+          "stock": 25,
           "capacity": 31,
-          "fill_pct": 84,
+          "fill_pct": 81,
           "stock_warning": 0,
-          "stock_updated": "2026-08-02 00:56:40"
+          "stock_updated": "2026-08-07 21:39:16"
         },
         {
           "skuid": "S0B2EC158AB36100A",
@@ -2073,11 +2073,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 15,
+          "stock": 14,
           "capacity": 21,
-          "fill_pct": 71,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-06 18:45:13"
+          "stock_updated": "2026-08-07 21:19:17"
         },
         {
           "skuid": "S0B2C85783CD31007",

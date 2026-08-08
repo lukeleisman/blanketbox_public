@@ -3771,3 +3771,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-08T06:52:23Z,129111,philly,Philly TrueCooler II,S0B2F6194A055100A,4900005074,Powerade Zero Grape,3.0,5,4,-1
 2026-08-08T13:45:16Z,16214,doylestown,333 North Broad Cooler,S0B246944E5841006,889392000313,Celsius Orange,3.57,5,4,-1
 2026-08-08T13:45:16Z,16213,haven,TheHaven#2-cooler,S0B2C6B34663C1009,F0B2C6B34663C1007,Corn Pops Cereal,1.75,2,0,-2
+2026-08-08T15:28:47Z,16214,doylestown,333 North Broad Cooler,S0B246944DECF100B,786162150004,XXX Acai-Blueberry-Pomegranate 20 Oz Bottle,3.5,1,0,-1
+2026-08-08T15:28:47Z,129111,philly,Philly TrueCooler II,S0B2F61930CDF1009,0049000050752,Powerade Zero Mixed Berry 20floz,3.0,4,2,-2

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T12:52:56Z",
+  "updated": "2026-08-08T13:45:16Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -739,11 +739,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-06 17:54:25"
+          "stock_updated": "2026-08-08 08:23:37"
         },
         {
           "skuid": "S0B2668475B231007",
@@ -1907,8 +1907,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 47,
-      "in_stock": 36,
-      "out_of_stock": 11,
+      "in_stock": 35,
+      "out_of_stock": 12,
       "low_stock": 0,
       "products": [
         {
@@ -2025,11 +2025,11 @@
           "name": "Corn Pops Cereal",
           "price": 1.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177126355692713.png",
-          "stock": 2,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-04 04:30:34"
+          "stock_updated": "2026-08-08 08:33:14"
         },
         {
           "skuid": "S0B2BA2E24FD8100B",

@@ -3768,3 +3768,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-08T04:34:48Z,15519,doylestown,333 North Broad Ambient,S0B2C6BE9F76D100A,2410012261,Cheez-It 1.5 oz,2.0,8,5,-3
 2026-08-08T04:34:48Z,16214,doylestown,333 North Broad Cooler,S0B2D3E6DA5E01005,041508235785,San Pellegrino Aranciata,3.77,2,1,-1
 2026-08-08T04:34:48Z,129111,philly,Philly TrueCooler II,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,4,3,-1
+2026-08-08T06:52:23Z,129111,philly,Philly TrueCooler II,S0B2F6194A055100A,4900005074,Powerade Zero Grape,3.0,5,4,-1

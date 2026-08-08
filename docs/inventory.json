@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T16:41:18Z",
+  "updated": "2026-08-08T17:29:33Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1520,11 +1520,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 4.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-08-07 21:39:16"
+          "stock_updated": "2026-08-08 12:09:13"
         },
         {
           "skuid": "S0B2EC1587FF01001",
@@ -1580,11 +1580,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-07-29 18:25:16"
+          "stock_updated": "2026-08-08 11:50:12"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -1640,11 +1640,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 19,
+          "stock": 18,
           "capacity": 22,
-          "fill_pct": 86,
+          "fill_pct": 82,
           "stock_warning": 0,
-          "stock_updated": "2026-07-31 17:17:59"
+          "stock_updated": "2026-08-08 12:09:13"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -1688,11 +1688,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 25,
+          "stock": 24,
           "capacity": 31,
-          "fill_pct": 81,
+          "fill_pct": 77,
           "stock_warning": 0,
-          "stock_updated": "2026-08-07 21:39:16"
+          "stock_updated": "2026-08-08 12:09:13"
         },
         {
           "skuid": "S0B2EC158AB36100A",

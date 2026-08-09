@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T19:32:48Z",
+  "updated": "2026-08-09T20:31:44Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -655,11 +655,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 19:43:12"
+          "stock_updated": "2026-08-09 15:24:57"
         },
         {
           "skuid": "S0B2EB7FF1C0F1007",
@@ -751,11 +751,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 23,
+          "stock": 22,
           "capacity": 23,
-          "fill_pct": 100,
+          "fill_pct": 96,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 20:29:08"
+          "stock_updated": "2026-08-09 15:24:57"
         },
         {
           "skuid": "S0B2C85783CD31007",

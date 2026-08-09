@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T13:00:52Z",
+  "updated": "2026-08-09T14:06:14Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2121,11 +2121,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 17:34:22"
+          "stock_updated": "2026-08-09 08:33:01"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2373,11 +2373,11 @@
           "name": "Powerade Zero Grape",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175799657047375.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 17:15:43"
+          "stock_updated": "2026-08-09 08:54:00"
         },
         {
           "skuid": "S0B2F61930CDF1009",

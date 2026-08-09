@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T20:31:44Z",
+  "updated": "2026-08-09T21:31:47Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1448,11 +1448,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 11:05:11"
+          "stock_updated": "2026-08-09 15:57:33"
         },
         {
           "skuid": "S0B2DFCAA39F21000",
@@ -1604,11 +1604,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173685359821166.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 11:21:05"
+          "stock_updated": "2026-08-09 15:57:33"
         },
         {
           "skuid": "S0B2FE7209DA61003",

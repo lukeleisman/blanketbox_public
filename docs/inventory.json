@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T23:30:51Z",
+  "updated": "2026-08-10T01:48:12Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -7,9 +7,9 @@
       "location_name": "333 North Broad",
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
-      "total_skus": 53,
-      "in_stock": 47,
-      "out_of_stock": 6,
+      "total_skus": 46,
+      "in_stock": 43,
+      "out_of_stock": 3,
       "low_stock": 0,
       "products": [
         {
@@ -49,30 +49,6 @@
           "stock_updated": "2026-08-08 20:13:25"
         },
         {
-          "skuid": "S0B2D5C80C7741005",
-          "barcode": "810113830742",
-          "name": "Body Armor IV StrKiwi",
-          "price": 1.5,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531187161649.png",
-          "stock": 5,
-          "capacity": 5,
-          "fill_pct": 100,
-          "stock_warning": 0,
-          "stock_updated": "2026-08-08 19:52:57"
-        },
-        {
-          "skuid": "S0B2D5C7E61611005",
-          "barcode": "810113830728",
-          "name": "Body Armor IV TrPnch",
-          "price": 1.5,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531171446343.png",
-          "stock": 7,
-          "capacity": 7,
-          "fill_pct": 100,
-          "stock_warning": 0,
-          "stock_updated": "2026-08-08 19:52:57"
-        },
-        {
           "skuid": "S0B26D8C6EAF31008",
           "barcode": "666",
           "name": "Camera Violation",
@@ -100,7 +76,7 @@
           "skuid": "S0B2C6BE9F76D100A",
           "barcode": "2410012261",
           "name": "Cheez-It 1.5 oz",
-          "price": 2.0,
+          "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
           "stock": 13,
           "capacity": 13,
@@ -109,23 +85,23 @@
           "stock_updated": "2026-08-08 20:33:59"
         },
         {
+          "skuid": "S0B2FECA70BC81000",
+          "barcode": "718604001346",
+          "name": "cioccolati biscotti",
+          "price": 2.57,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623526987032.png",
+          "stock": 17,
+          "capacity": 17,
+          "fill_pct": 100,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-09 19:08:12"
+        },
+        {
           "skuid": "S0B2BA2E2259B1009",
           "barcode": "643843713944",
           "name": "Cliff  Chocolate Chip Protein Bar",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17674936233687.png",
-          "stock": 0,
-          "capacity": 0,
-          "fill_pct": null,
-          "stock_warning": 0,
-          "stock_updated": "2026-08-08 19:52:57"
-        },
-        {
-          "skuid": "S0B2D5CAD34F61005",
-          "barcode": "722252128126",
-          "name": "Cliff Mini",
-          "price": 1.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531478317755.png",
           "stock": 0,
           "capacity": 0,
           "fill_pct": null,
@@ -205,18 +181,6 @@
           "stock_updated": "2026-08-08 19:52:57"
         },
         {
-          "skuid": "S0B2BACA08148100A",
-          "barcode": "F0B2BACA081481008",
-          "name": "General Med First Aid",
-          "price": 15.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806619266345.png",
-          "stock": 2,
-          "capacity": 2,
-          "fill_pct": 100,
-          "stock_warning": 0,
-          "stock_updated": "2026-08-08 19:52:57"
-        },
-        {
           "skuid": "S0B2FE7209DA61003",
           "barcode": "014100077602",
           "name": "Goldfish Cheddar",
@@ -227,18 +191,6 @@
           "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-08-08 20:33:34"
-        },
-        {
-          "skuid": "S0B26FCBF0D5A1006",
-          "barcode": "041167008812",
-          "name": "IcyHot Original Cream Pain Relief 3oz",
-          "price": 12.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174793553630710.png",
-          "stock": 2,
-          "capacity": 2,
-          "fill_pct": 100,
-          "stock_warning": 0,
-          "stock_updated": "2026-08-08 19:52:57"
         },
         {
           "skuid": "S0B2D1141B78F1003",
@@ -289,18 +241,6 @@
           "stock_updated": "2026-08-08 19:52:57"
         },
         {
-          "skuid": "S0B26860EB3691005",
-          "barcode": "192188778786",
-          "name": "JisuLife Portable Fan Pink",
-          "price": 15.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174594426745587.png",
-          "stock": 3,
-          "capacity": 3,
-          "fill_pct": 100,
-          "stock_warning": 0,
-          "stock_updated": "2026-08-08 19:52:57"
-        },
-        {
           "skuid": "S0B2C19076DF51005",
           "barcode": "F0B2C19076DF51003",
           "name": "JNJ first aid",
@@ -313,16 +253,16 @@
           "stock_updated": "2026-08-08 19:52:57"
         },
         {
-          "skuid": "S0B2D5C726B89100A",
-          "barcode": "850039286827",
-          "name": "Liquid IV WhtPeach",
-          "price": 1.75,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177531093062432.png",
-          "stock": 0,
-          "capacity": 0,
-          "fill_pct": null,
+          "skuid": "S0B246944E6C51002",
+          "barcode": "076410901633",
+          "name": "Lance Peanut Butter",
+          "price": 2.57,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168901539228250.jpeg",
+          "stock": 17,
+          "capacity": 17,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 19:52:57"
+          "stock_updated": "2026-08-09 19:08:12"
         },
         {
           "skuid": "S0B246944E19E1000",
@@ -331,8 +271,8 @@
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
           "stock": 7,
-          "capacity": 8,
-          "fill_pct": 88,
+          "capacity": 7,
+          "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-08-09 10:34:54"
         },
@@ -412,7 +352,7 @@
           "skuid": "S0B2885215A1B1003",
           "barcode": "047495112900",
           "name": "Natures Bakery blueberry fig bat",
-          "price": 2.5,
+          "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866563574429.png",
           "stock": 20,
           "capacity": 20,
@@ -484,7 +424,7 @@
           "skuid": "S0B25F6365FD11002",
           "barcode": "0980080005",
           "name": "NutellaGo",
-          "price": 2.77,
+          "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
           "stock": 10,
           "capacity": 10,
@@ -510,11 +450,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 0,
-          "capacity": 0,
-          "fill_pct": null,
+          "stock": 8,
+          "capacity": 8,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 19:52:57"
+          "stock_updated": "2026-08-09 19:08:12"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -529,16 +469,28 @@
           "stock_updated": "2026-08-08 19:52:57"
         },
         {
-          "skuid": "S0B2D5DDDD87E1009",
-          "barcode": "85005575622",
-          "name": "Perfect Amino",
-          "price": 2.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177533474808739.png",
-          "stock": 10,
-          "capacity": 10,
+          "skuid": "S0B2716E53EE6100C",
+          "barcode": "868949000341",
+          "name": "Performance Gummies Power Up",
+          "price": 3.49,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174837424695568.png",
+          "stock": 12,
+          "capacity": 12,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 19:52:57"
+          "stock_updated": "2026-08-09 19:08:12"
+        },
+        {
+          "skuid": "S0B2716E2C9E91004",
+          "barcode": "850032713375",
+          "name": "Performance Gummies Recover",
+          "price": 3.49,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174837408593565.png",
+          "stock": 9,
+          "capacity": 9,
+          "fill_pct": 100,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-09 19:08:12"
         },
         {
           "skuid": "S0B2BAC9D24491002",
@@ -565,18 +517,6 @@
           "stock_updated": "2026-08-08 20:06:20"
         },
         {
-          "skuid": "S0B26EA206C77100D",
-          "barcode": "F0B26EA206C77100B",
-          "name": "Splash Balls (Set of 4)",
-          "price": 5.99,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174762315040674.png",
-          "stock": 1,
-          "capacity": 1,
-          "fill_pct": 100,
-          "stock_warning": 0,
-          "stock_updated": "2026-08-08 19:52:57"
-        },
-        {
           "skuid": "S0B2C23DBC5C81001",
           "barcode": "Oxi Clean stain remover",
           "name": "Stain remover",
@@ -584,30 +524,6 @@
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177006656566118.png",
           "stock": 1,
           "capacity": 1,
-          "fill_pct": 100,
-          "stock_warning": 0,
-          "stock_updated": "2026-08-08 19:52:57"
-        },
-        {
-          "skuid": "S0B2D9240A38C1008",
-          "barcode": "850014658274",
-          "name": "Super Gut GLP-1 Booster",
-          "price": 1.99,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177621363776221.png",
-          "stock": 16,
-          "capacity": 16,
-          "fill_pct": 100,
-          "stock_warning": 0,
-          "stock_updated": "2026-08-08 19:52:57"
-        },
-        {
-          "skuid": "S0B248CF277191002",
-          "barcode": "073010214095",
-          "name": "Tampax Regular 10ct",
-          "price": 5.99,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/171416919623839.png",
-          "stock": 9,
-          "capacity": 9,
           "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-08-08 19:52:57"
@@ -656,20 +572,20 @@
       "location_name": "333 North Broad",
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
-      "total_skus": 50,
-      "in_stock": 34,
-      "out_of_stock": 16,
+      "total_skus": 54,
+      "in_stock": 37,
+      "out_of_stock": 17,
       "low_stock": 0,
       "products": [
         {
           "skuid": "S0B27699FEE4D1004",
           "barcode": "078000001143",
           "name": "12oz Canada Dry ginger ale",
-          "price": 2.5,
+          "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
           "stock": 4,
-          "capacity": 7,
-          "fill_pct": 57,
+          "capacity": 4,
+          "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-08-09 17:02:13"
         },
@@ -677,13 +593,25 @@
           "skuid": "S0B2EB7FF1C0F1007",
           "barcode": "01275900",
           "name": "Brisk Iced Tea",
-          "price": 2.5,
+          "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176736539400427.png",
           "stock": 5,
           "capacity": 5,
           "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-08-09 17:02:13"
+        },
+        {
+          "skuid": "S0B26D8C6EAF31008",
+          "barcode": "666",
+          "name": "Camera Violation",
+          "price": 25.0,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174454737098059.png",
+          "stock": 0,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-09 19:33:21"
         },
         {
           "skuid": "S0B2A44D16D23100C",
@@ -722,6 +650,18 @@
           "stock_updated": "2026-08-09 17:02:13"
         },
         {
+          "skuid": "S0B246944E4EB1007",
+          "barcode": "889392010145",
+          "name": "Celsius Kiwi Guava",
+          "price": 3.57,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/171949904019511.png",
+          "stock": 6,
+          "capacity": 6,
+          "fill_pct": 100,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-09 19:22:06"
+        },
+        {
           "skuid": "S0B246944E5841006",
           "barcode": "889392000313",
           "name": "Celsius Orange",
@@ -732,6 +672,18 @@
           "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-08-09 17:02:13"
+        },
+        {
+          "skuid": "S0B246944E5C11006",
+          "barcode": "889392010190",
+          "name": "Celsius Peach Vibes",
+          "price": 3.57,
+          "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064199646.jpg",
+          "stock": 6,
+          "capacity": 6,
+          "fill_pct": 100,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-09 19:40:24"
         },
         {
           "skuid": "S0B2668475B231007",
@@ -764,8 +716,8 @@
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
           "stock": 22,
-          "capacity": 23,
-          "fill_pct": 96,
+          "capacity": 22,
+          "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-08-09 17:02:13"
         },
@@ -776,8 +728,8 @@
           "price": 6.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
           "stock": 2,
-          "capacity": 6,
-          "fill_pct": 33,
+          "capacity": 2,
+          "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-08-09 17:02:13"
         },
@@ -806,6 +758,18 @@
           "stock_updated": "2026-08-09 17:02:13"
         },
         {
+          "skuid": "S0B2FECB8B02B1009",
+          "barcode": "811620022125",
+          "name": "Fairlife Vanilla Protein",
+          "price": 5.0,
+          "image": "https://image-us.sandstar.com/images/goods/000535/platgoods/a743c6ae-ae17-49ee-a05c-3438581609f1.jpg",
+          "stock": 5,
+          "capacity": 5,
+          "fill_pct": 100,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-09 19:24:20"
+        },
+        {
           "skuid": "S0B246944E4F01003",
           "barcode": "052000328677",
           "name": "GATORADE 20OZ ORANGE",
@@ -824,8 +788,8 @@
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17497632086008.png",
           "stock": 11,
-          "capacity": 12,
-          "fill_pct": 92,
+          "capacity": 11,
+          "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-08-09 17:02:13"
         },
@@ -968,10 +932,34 @@
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178209059828743.png",
           "stock": 11,
-          "capacity": 12,
-          "fill_pct": 92,
+          "capacity": 11,
+          "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-08-09 17:02:13"
+        },
+        {
+          "skuid": "S0B2FECB1AEFC1004",
+          "barcode": "077958790642",
+          "name": "Panera chicken tortilla",
+          "price": 10.0,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178632093028239.png",
+          "stock": 2,
+          "capacity": 2,
+          "fill_pct": 100,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-09 19:20:05"
+        },
+        {
+          "skuid": "S0B2FECAE8E5A1008",
+          "barcode": "077958790536",
+          "name": "Panera tomato soup",
+          "price": 10.0,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178632072509338.png",
+          "stock": 4,
+          "capacity": 4,
+          "fill_pct": 100,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-09 19:18:02"
         },
         {
           "skuid": "S0B246944E5891006",
@@ -982,30 +970,6 @@
           "stock": 0,
           "capacity": 0,
           "fill_pct": null,
-          "stock_warning": 0,
-          "stock_updated": "2026-08-09 17:02:13"
-        },
-        {
-          "skuid": "S0B2716E53EE6100C",
-          "barcode": "868949000341",
-          "name": "Performance Gummies Power Up",
-          "price": 3.49,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174837424695568.png",
-          "stock": 12,
-          "capacity": 12,
-          "fill_pct": 100,
-          "stock_warning": 0,
-          "stock_updated": "2026-08-09 17:02:13"
-        },
-        {
-          "skuid": "S0B2716E2C9E91004",
-          "barcode": "850032713375",
-          "name": "Performance Gummies Recover",
-          "price": 3.49,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174837408593565.png",
-          "stock": 9,
-          "capacity": 9,
-          "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-08-09 17:02:13"
         },
@@ -1121,7 +1085,7 @@
           "skuid": "S0B2DD4AAFF451007",
           "barcode": "850032072052",
           "name": "St James Blood orange",
-          "price": 2.5,
+          "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177732790430139.png",
           "stock": 4,
           "capacity": 4,
@@ -1133,7 +1097,7 @@
           "skuid": "S0B2DAF8F87C31004",
           "barcode": "850032072090",
           "name": "St James Green Tea",
-          "price": 2.5,
+          "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177670534725577.png",
           "stock": 3,
           "capacity": 3,
@@ -1145,7 +1109,7 @@
           "skuid": "S0B246944E4B51008",
           "barcode": "012000813313",
           "name": "Starbucks_Frappuccino_Vanilla",
-          "price": 3.5,
+          "price": 4.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
           "stock": 11,
           "capacity": 11,
@@ -1196,8 +1160,8 @@
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175219487117396.png",
           "stock": 0,
-          "capacity": 1,
-          "fill_pct": 0,
+          "capacity": 0,
+          "fill_pct": null,
           "stock_warning": 0,
           "stock_updated": "2026-08-09 17:02:13"
         },

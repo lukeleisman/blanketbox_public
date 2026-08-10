@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T16:03:44Z",
+  "updated": "2026-08-10T17:24:44Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -258,11 +258,11 @@
           "name": "Lance Peanut Butter",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168901539228250.jpeg",
-          "stock": 17,
+          "stock": 16,
           "capacity": 17,
-          "fill_pct": 100,
+          "fill_pct": 94,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 19:08:12"
+          "stock_updated": "2026-08-10 12:22:20"
         },
         {
           "skuid": "S0B246944E19E1000",
@@ -342,11 +342,11 @@
           "name": "Natures Bakery - Double Chocolate Brownie",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368269911559.png",
-          "stock": 19,
+          "stock": 18,
           "capacity": 19,
-          "fill_pct": 100,
+          "fill_pct": 95,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 20:17:21"
+          "stock_updated": "2026-08-10 12:22:20"
         },
         {
           "skuid": "S0B2885215A1B1003",
@@ -426,11 +426,11 @@
           "name": "NutellaGo",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 16:56:56"
+          "stock_updated": "2026-08-10 12:22:20"
         },
         {
           "skuid": "S0B2FE73E50B01004",
@@ -1207,11 +1207,11 @@
           "name": "Wavii",
           "price": 5.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178209048093040.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 17:02:13"
+          "stock_updated": "2026-08-10 11:55:56"
         },
         {
           "skuid": "S0B246944DECF100B",

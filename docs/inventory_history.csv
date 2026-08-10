@@ -3891,3 +3891,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-10T14:57:52Z,16214,doylestown,333 North Broad Cooler,S0B246944E5841006,889392000313,Celsius Orange,3.57,4,3,-1
 2026-08-10T16:03:44Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.75,22,21,-1
 2026-08-10T16:03:44Z,16214,doylestown,333 North Broad Cooler,S0B2FECAE8E5A1008,077958790536,Panera tomato soup,10.0,4,3,-1
+2026-08-10T17:24:44Z,15519,doylestown,333 North Broad Ambient,S0B25F6365FD11002,0980080005,NutellaGo,3.0,10,9,-1
+2026-08-10T17:24:44Z,15519,doylestown,333 North Broad Ambient,S0B246944E6C51002,076410901633,Lance Peanut Butter,2.57,17,16,-1
+2026-08-10T17:24:44Z,15519,doylestown,333 North Broad Ambient,S0B27699FEC921007,047495400700,Natures Bakery - Double Chocolate Brownie,2.57,19,18,-1
+2026-08-10T17:24:44Z,16214,doylestown,333 North Broad Cooler,S0B2EF08A265B1002,850066031414,Wavii,5.99,3,2,-1

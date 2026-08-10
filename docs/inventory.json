@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T11:13:50Z",
+  "updated": "2026-08-10T12:07:59Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -979,11 +979,11 @@
           "name": "Powerade Zero Fruit Punch",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172366735251318.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 17:02:13"
+          "stock_updated": "2026-08-10 06:27:16"
         },
         {
           "skuid": "S0B2F6194A055100A",

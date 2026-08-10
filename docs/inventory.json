@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T09:57:51Z",
+  "updated": "2026-08-10T11:13:50Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -18,11 +18,11 @@
           "name": "Albanese peach rings",
           "price": 7.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178216062408651.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 19:52:57"
+          "stock_updated": "2026-08-10 06:12:39"
         },
         {
           "skuid": "S0B26050ED251100C",
@@ -509,12 +509,12 @@
           "barcode": "040000424314",
           "name": "Snickers Candy Bar",
           "price": 2.67,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175747075093587.png",
-          "stock": 5,
+          "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 20:06:20"
+          "stock_updated": "2026-08-10 06:12:39"
         },
         {
           "skuid": "S0B2C23DBC5C81001",
@@ -907,11 +907,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 27,
+          "stock": 25,
           "capacity": 27,
-          "fill_pct": 100,
+          "fill_pct": 93,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 17:02:13"
+          "stock_updated": "2026-08-10 06:06:54"
         },
         {
           "skuid": "S0B2C377070EC1001",

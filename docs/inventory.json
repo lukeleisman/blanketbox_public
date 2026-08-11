@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T20:42:32Z",
+  "updated": "2026-08-11T21:46:39Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -78,11 +78,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 10,
+          "stock": 8,
           "capacity": 13,
-          "fill_pct": 77,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-08-11 00:31:39"
+          "stock_updated": "2026-08-11 16:13:54"
         },
         {
           "skuid": "S0B2FECA70BC81000",
@@ -270,11 +270,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-08-11 00:31:39"
+          "stock_updated": "2026-08-11 15:51:20"
         },
         {
           "skuid": "S0B263F734F7E100C",
@@ -546,11 +546,11 @@
           "name": "Twix Candy Bar",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 23,
+          "stock": 22,
           "capacity": 23,
-          "fill_pct": 100,
+          "fill_pct": 96,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 20:06:20"
+          "stock_updated": "2026-08-11 15:51:20"
         },
         {
           "skuid": "S0B246944E8251002",
@@ -1712,11 +1712,11 @@
           "name": "Skittles Gummies Original",
           "price": 4.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17728936897761.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 21:48:11"
+          "stock_updated": "2026-08-11 16:09:52"
         },
         {
           "skuid": "S0B2D9240A38C1008",
@@ -1748,11 +1748,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 14,
+          "stock": 13,
           "capacity": 14,
-          "fill_pct": 100,
+          "fill_pct": 93,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 11:22:26"
+          "stock_updated": "2026-08-11 16:09:52"
         },
         {
           "skuid": "S0B246944E7B61003",

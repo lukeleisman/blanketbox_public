@@ -3917,3 +3917,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-11T07:06:59Z,16214,doylestown,333 North Broad Cooler,S0B2D4851D7141003,195372325155,Just Ice Tea Peach Oolong 16oz,3.99,3,2,-1
 2026-08-11T11:51:01Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.5,25,23,-2
 2026-08-11T19:34:34Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.75,20,19,-1
+2026-08-11T21:46:39Z,15519,doylestown,333 North Broad Ambient,S0B246944E3C71001,04043506,Twix Candy Bar,2.67,23,22,-1
+2026-08-11T21:46:39Z,15519,doylestown,333 North Broad Ambient,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.67,6,5,-1
+2026-08-11T21:46:39Z,15519,doylestown,333 North Broad Ambient,S0B2C6BE9F76D100A,2410012261,Cheez-It 1.5 oz,2.5,10,8,-2
+2026-08-11T21:46:39Z,129111,philly,Philly TrueCooler II,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,14,13,-1
+2026-08-11T21:46:39Z,129111,philly,Philly TrueCooler II,S0B2FED3B6761100A,022000301154,Skittles Gummies Original,4.0,3,2,-1

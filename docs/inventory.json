@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T05:34:53Z",
+  "updated": "2026-08-11T07:06:59Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -799,11 +799,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-08-10 22:39:44"
+          "stock_updated": "2026-08-11 00:54:27"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -847,11 +847,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 3.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 17:02:13"
+          "stock_updated": "2026-08-11 00:54:27"
         },
         {
           "skuid": "S0B25FC5C5C991003",
@@ -883,11 +883,11 @@
           "name": "Maison Perrier Sparkling Water",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17773152898848.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 17:02:13"
+          "stock_updated": "2026-08-11 00:54:27"
         },
         {
           "skuid": "S0B246944DEF51002",

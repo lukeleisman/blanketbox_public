@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T23:06:12Z",
+  "updated": "2026-08-11T00:00:41Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -78,11 +78,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 13,
+          "stock": 12,
           "capacity": 13,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 20:33:59"
+          "stock_updated": "2026-08-10 18:16:54"
         },
         {
           "skuid": "S0B2FECA70BC81000",
@@ -450,11 +450,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 21:26:26"
+          "stock_updated": "2026-08-10 18:12:09"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -2229,11 +2229,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 17:27:03"
+          "stock_updated": "2026-08-10 18:59:27"
         },
         {
           "skuid": "S0B2DB93670101002",
@@ -2397,11 +2397,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 17:15:43"
+          "stock_updated": "2026-08-10 18:59:27"
         },
         {
           "skuid": "S0B246944E3C71001",

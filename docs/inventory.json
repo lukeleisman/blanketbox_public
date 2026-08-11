@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T10:59:16Z",
+  "updated": "2026-08-11T11:51:01Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -907,11 +907,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 25,
+          "stock": 23,
           "capacity": 27,
-          "fill_pct": 93,
+          "fill_pct": 85,
           "stock_warning": 0,
-          "stock_updated": "2026-08-10 06:06:54"
+          "stock_updated": "2026-08-11 06:05:37"
         },
         {
           "skuid": "S0B2C377070EC1001",

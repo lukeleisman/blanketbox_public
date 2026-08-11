@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T04:19:12Z",
+  "updated": "2026-08-11T05:34:53Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -78,11 +78,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 13,
-          "fill_pct": 85,
+          "fill_pct": 77,
           "stock_warning": 0,
-          "stock_updated": "2026-08-10 21:33:02"
+          "stock_updated": "2026-08-11 00:31:39"
         },
         {
           "skuid": "S0B2FECA70BC81000",
@@ -270,11 +270,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 10:34:54"
+          "stock_updated": "2026-08-11 00:31:39"
         },
         {
           "skuid": "S0B263F734F7E100C",
@@ -1316,11 +1316,11 @@
           "name": "Canada Dry Ginger Ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175847239862745.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 21:24:17"
+          "stock_updated": "2026-08-10 23:37:37"
         },
         {
           "skuid": "S0B2A44D16D23100C",
@@ -1580,11 +1580,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 18,
+          "stock": 17,
           "capacity": 18,
-          "fill_pct": 100,
+          "fill_pct": 94,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 11:22:26"
+          "stock_updated": "2026-08-10 23:37:37"
         },
         {
           "skuid": "S0B2D484E0EFD1001",

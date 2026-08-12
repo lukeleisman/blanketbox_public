@@ -3932,3 +3932,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-12T05:54:28Z,16213,haven,TheHaven#2-cooler,S0B2FE7209DA61003,014100077602,Goldfish Cheddar,2.77,7,6,-1
 2026-08-12T05:54:28Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,6,5,-1
 2026-08-12T05:54:28Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.25,3,2,-1
+2026-08-12T07:23:56Z,16213,haven,TheHaven#2-cooler,S0B2A44D16D23100C,88939200170,Celsius Cherry Cola,3.57,4,3,-1
+2026-08-12T07:23:56Z,16213,haven,TheHaven#2-cooler,S0B2EF08A265B1002,850066031414,Wavii,5.99,3,2,-1
+2026-08-12T07:23:56Z,16213,haven,TheHaven#2-cooler,S0B2D0516EFCB1008,007478051550,Maison Perrier Sparkling Water,2.75,4,2,-2

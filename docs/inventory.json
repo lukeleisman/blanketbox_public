@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T05:54:28Z",
+  "updated": "2026-08-12T07:23:56Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1881,11 +1881,11 @@
           "name": "Celsius Cherry Cola",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176202960060787.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 17:30:50"
+          "stock_updated": "2026-08-12 01:49:49"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -2193,11 +2193,11 @@
           "name": "Maison Perrier Sparkling Water",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17773152898848.png",
-          "stock": 4,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 17:30:50"
+          "stock_updated": "2026-08-12 01:49:49"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2445,11 +2445,11 @@
           "name": "Wavii",
           "price": 5.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178209048093040.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 17:04:35"
+          "stock_updated": "2026-08-12 01:49:49"
         }
       ]
     },

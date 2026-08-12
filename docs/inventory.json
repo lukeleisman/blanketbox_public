@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T21:44:20Z",
+  "updated": "2026-08-12T22:40:13Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2121,11 +2121,11 @@
           "name": "Japanese Party Mix",
           "price": 18.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799892794318.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 17:06:08"
+          "stock_updated": "2026-08-12 17:35:23"
         },
         {
           "skuid": "S0B2D90DF10651003",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T04:10:32Z",
+  "updated": "2026-08-12T05:54:28Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1400,11 +1400,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 14,
+          "stock": 13,
           "capacity": 14,
-          "fill_pct": 100,
+          "fill_pct": 93,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 21:24:17"
+          "stock_updated": "2026-08-12 00:09:44"
         },
         {
           "skuid": "S0B246944DEAE1000",
@@ -1496,11 +1496,11 @@
           "name": "Gatorade Fierce Grape",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17497632086008.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 11:24:14"
+          "stock_updated": "2026-08-12 00:09:44"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -2049,11 +2049,11 @@
           "name": "GATORADE 20OZ ORANGE",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063782730.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 17:38:18"
+          "stock_updated": "2026-08-12 00:23:48"
         },
         {
           "skuid": "0B2A3CC3855F1003",
@@ -2073,11 +2073,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 21:51:25"
+          "stock_updated": "2026-08-12 00:23:48"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2097,11 +2097,11 @@
           "name": "Goldfish Cheddar",
           "price": 2.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172165768291916.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 17:27:03"
+          "stock_updated": "2026-08-12 00:23:48"
         },
         {
           "skuid": "S0B246944E7FE1008",
@@ -2301,11 +2301,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 17:04:35"
+          "stock_updated": "2026-08-12 00:23:48"
         },
         {
           "skuid": "S0B2F619342CA1009",

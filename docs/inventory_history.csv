@@ -3942,3 +3942,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-12T17:28:29Z,16213,haven,TheHaven#2-cooler,S0B2DB93670101002,016000194069,Mott’s berry snacks,3.75,5,4,-1
 2026-08-12T17:28:29Z,16213,haven,TheHaven#2-cooler,S0B246944E4F01003,052000328677,GATORADE 20OZ ORANGE,3.25,3,2,-1
 2026-08-12T17:28:29Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.25,2,1,-1
+2026-08-12T19:40:04Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.5,20,19,-1
+2026-08-12T19:40:04Z,16213,haven,TheHaven#2-cooler,0B2A3CC3855F1003,052000208429,Gatorade Fierce Grape,3.0,8,7,-1
+2026-08-12T19:40:04Z,16213,haven,TheHaven#2-cooler,S0B246944E5C11006,889392010190,Celsius Peach Vibes,3.57,6,5,-1

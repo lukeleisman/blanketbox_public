@@ -3949,3 +3949,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-12T21:44:20Z,129111,philly,Philly TrueCooler II,S0B246944E5611002,078000152401,Canada Dry Ginger Ale,2.57,7,6,-1
 2026-08-12T21:44:20Z,129111,philly,Philly TrueCooler II,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,13,12,-1
 2026-08-12T22:40:13Z,16213,haven,TheHaven#2-cooler,S0B2DFCAA016C1003,818562022596,Japanese Party Mix,18.99,3,2,-1
+2026-08-12T23:40:31Z,16213,haven,TheHaven#2-cooler,S0B2DFCAA016C1003,818562022596,Japanese Party Mix,18.99,2,1,-1

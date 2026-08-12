@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T23:39:21Z",
+  "updated": "2026-08-12T01:56:41Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2698,11 +2698,11 @@
           "name": "orignal gorilla glue 2fl",
           "price": 11.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/da461886-a66f-4270-a21e-45146c8abf05.jpg",
-          "stock": 9996,
+          "stock": 9994,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-07-17 15:42:54"
+          "stock_updated": "2026-08-11 18:53:06"
         },
         {
           "skuid": "S0B2E970C27C91001",

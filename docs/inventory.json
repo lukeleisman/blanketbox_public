@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T12:09:58Z",
+  "updated": "2026-08-12T13:56:28Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -907,11 +907,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 21,
+          "stock": 20,
           "capacity": 27,
-          "fill_pct": 78,
+          "fill_pct": 74,
           "stock_warning": 0,
-          "stock_updated": "2026-08-12 06:07:17"
+          "stock_updated": "2026-08-12 08:08:42"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1147,11 +1147,11 @@
           "name": "Vita Coconut Extra Coconut",
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176904241917369.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-10 12:38:24"
+          "stock_updated": "2026-08-12 08:08:42"
         },
         {
           "skuid": "S0B2F6198ACBB1001",

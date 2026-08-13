@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T01:58:52Z",
+  "updated": "2026-08-13T04:18:00Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -222,11 +222,11 @@
           "name": "Japanese Party Mix",
           "price": 18.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799892794318.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-08-10 21:33:02"
+          "stock_updated": "2026-08-12 22:11:37"
         },
         {
           "skuid": "S0B2D90DF10651003",
@@ -270,11 +270,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 7,
-          "fill_pct": 43,
+          "fill_pct": 29,
           "stock_warning": 0,
-          "stock_updated": "2026-08-12 20:56:33"
+          "stock_updated": "2026-08-12 22:11:37"
         },
         {
           "skuid": "S0B263F734F7E100C",
@@ -450,11 +450,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 5,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-08-10 21:33:02"
+          "stock_updated": "2026-08-12 22:44:50"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -546,11 +546,11 @@
           "name": "Twix Candy Bar",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 21,
+          "stock": 20,
           "capacity": 23,
-          "fill_pct": 91,
+          "fill_pct": 87,
           "stock_warning": 0,
-          "stock_updated": "2026-08-12 20:56:33"
+          "stock_updated": "2026-08-12 22:44:50"
         },
         {
           "skuid": "S0B246944E8251002",
@@ -907,11 +907,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 19,
+          "stock": 18,
           "capacity": 27,
-          "fill_pct": 70,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-12 14:33:54"
+          "stock_updated": "2026-08-12 22:44:56"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1436,11 +1436,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 20,
+          "stock": 19,
           "capacity": 20,
-          "fill_pct": 100,
+          "fill_pct": 95,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 11:21:05"
+          "stock_updated": "2026-08-12 22:06:49"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1748,11 +1748,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 12,
+          "stock": 10,
           "capacity": 14,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-08-12 16:33:40"
+          "stock_updated": "2026-08-12 22:45:36"
         },
         {
           "skuid": "S0B246944E7B61003",
@@ -1833,11 +1833,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-12 19:32:17"
+          "stock_updated": "2026-08-12 21:51:57"
         },
         {
           "skuid": "S0B2740EB95E01006",
@@ -1857,11 +1857,11 @@
           "name": "Brisk Iced Tea",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176736539400427.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-08-12 19:32:17"
+          "stock_updated": "2026-08-12 21:51:57"
         },
         {
           "skuid": "S0B26D8C6EAF31008",

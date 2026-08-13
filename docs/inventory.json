@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T05:56:47Z",
+  "updated": "2026-08-13T07:40:29Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1748,11 +1748,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 10,
+          "stock": 8,
           "capacity": 14,
-          "fill_pct": 71,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-08-12 22:45:36"
+          "stock_updated": "2026-08-13 01:36:40"
         },
         {
           "skuid": "S0B246944E7B61003",
@@ -1833,11 +1833,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-12 21:51:57"
+          "stock_updated": "2026-08-13 02:24:29"
         },
         {
           "skuid": "S0B2740EB95E01006",
@@ -2373,11 +2373,11 @@
           "name": "San Pelligrino Pomegranate and Orange",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17601191596212.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 17:04:35"
+          "stock_updated": "2026-08-13 02:24:29"
         },
         {
           "skuid": "S0B27699FEBCD1003",

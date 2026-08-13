@@ -3968,3 +3968,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-13T04:18:00Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.5,5,4,-1
 2026-08-13T05:56:47Z,16213,haven,TheHaven#2-cooler,S0B2DB93670101002,016000194069,Mott’s berry snacks,3.75,4,3,-1
 2026-08-13T05:56:47Z,16213,haven,TheHaven#2-cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,5,4,-1
+2026-08-13T07:40:29Z,129111,philly,Philly TrueCooler II,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,10,8,-2
+2026-08-13T07:40:29Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.5,4,3,-1
+2026-08-13T07:40:29Z,16213,haven,TheHaven#2-cooler,S0B29D2F2643D100B,0041508659376,San Pelligrino Pomegranate and Orange,3.77,2,1,-1

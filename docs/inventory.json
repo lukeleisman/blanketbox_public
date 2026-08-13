@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T21:44:05Z",
+  "updated": "2026-08-13T22:41:08Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1063,11 +1063,11 @@
           "name": "San Pellegrino Essenza",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619022990038.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 17:02:13"
+          "stock_updated": "2026-08-13 17:33:39"
         },
         {
           "skuid": "S0B29D2F2643D100B",
@@ -1823,8 +1823,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 52,
-      "in_stock": 44,
-      "out_of_stock": 8,
+      "in_stock": 43,
+      "out_of_stock": 9,
       "low_stock": 0,
       "products": [
         {
@@ -2121,11 +2121,11 @@
           "name": "Japanese Party Mix",
           "price": 18.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799892794318.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-12 18:10:49"
+          "stock_updated": "2026-08-13 17:38:59"
         },
         {
           "skuid": "S0B2D90DF10651003",
@@ -2241,11 +2241,11 @@
           "name": "Mott\u2019s berry snacks",
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686728068670.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-08-12 23:45:00"
+          "stock_updated": "2026-08-13 17:38:59"
         },
         {
           "skuid": "S0B2EF08BF2341003",
@@ -2337,11 +2337,11 @@
           "name": "Powerade Zero Mixed Berry 20floz",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176048132401919.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 17:04:35"
+          "stock_updated": "2026-08-13 17:38:59"
         },
         {
           "skuid": "S0B2CC2D2640F1005",

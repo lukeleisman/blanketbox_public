@@ -3978,3 +3978,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-13T19:34:34Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,20,19,-1
 2026-08-13T20:41:53Z,16214,doylestown,333 North Broad Cooler,S0B2D0516EFCB1008,007478051550,Maison Perrier Sparkling Water,3.0,5,3,-2
 2026-08-13T20:41:53Z,16214,doylestown,333 North Broad Cooler,S0B2A44D16D23100C,88939200170,Celsius Cherry Cola,3.57,8,7,-1
+2026-08-13T22:41:08Z,16214,doylestown,333 North Broad Cooler,S0B2D90DB76B5100C,041508302074,San Pellegrino Essenza,3.5,3,2,-1
+2026-08-13T22:41:08Z,16213,haven,TheHaven#2-cooler,S0B2DB93670101002,016000194069,Mott’s berry snacks,3.75,3,2,-1
+2026-08-13T22:41:08Z,16213,haven,TheHaven#2-cooler,S0B2DFCAA016C1003,818562022596,Japanese Party Mix,18.99,1,0,-1
+2026-08-13T22:41:08Z,16213,haven,TheHaven#2-cooler,S0B2F61930CDF1009,0049000050752,Powerade Zero Mixed Berry 20floz,3.25,4,3,-1

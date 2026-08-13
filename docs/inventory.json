@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T23:40:31Z",
+  "updated": "2026-08-13T01:58:52Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -66,11 +66,11 @@
           "name": "Cheerios Treats",
           "price": 1.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177731583592140.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 19:52:57"
+          "stock_updated": "2026-08-12 20:01:20"
         },
         {
           "skuid": "S0B2C6BE9F76D100A",
@@ -258,11 +258,11 @@
           "name": "Lance Peanut Butter",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168901539228250.jpeg",
-          "stock": 16,
+          "stock": 15,
           "capacity": 17,
-          "fill_pct": 94,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-08-10 12:22:20"
+          "stock_updated": "2026-08-12 20:01:20"
         },
         {
           "skuid": "S0B246944E19E1000",
@@ -270,11 +270,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 5,
+          "stock": 3,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 43,
           "stock_warning": 0,
-          "stock_updated": "2026-08-11 15:51:20"
+          "stock_updated": "2026-08-12 20:56:33"
         },
         {
           "skuid": "S0B263F734F7E100C",
@@ -546,11 +546,11 @@
           "name": "Twix Candy Bar",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 22,
+          "stock": 21,
           "capacity": 23,
-          "fill_pct": 96,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-08-11 15:51:20"
+          "stock_updated": "2026-08-12 20:56:33"
         },
         {
           "skuid": "S0B246944E8251002",
@@ -799,11 +799,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-08-11 00:54:27"
+          "stock_updated": "2026-08-12 19:44:55"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1833,11 +1833,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 17:15:43"
+          "stock_updated": "2026-08-12 19:32:17"
         },
         {
           "skuid": "S0B2740EB95E01006",
@@ -1857,11 +1857,11 @@
           "name": "Brisk Iced Tea",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176736539400427.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 17:04:35"
+          "stock_updated": "2026-08-12 19:32:17"
         },
         {
           "skuid": "S0B26D8C6EAF31008",

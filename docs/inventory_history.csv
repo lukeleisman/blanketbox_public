@@ -3950,3 +3950,10 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-12T21:44:20Z,129111,philly,Philly TrueCooler II,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,13,12,-1
 2026-08-12T22:40:13Z,16213,haven,TheHaven#2-cooler,S0B2DFCAA016C1003,818562022596,Japanese Party Mix,18.99,3,2,-1
 2026-08-12T23:40:31Z,16213,haven,TheHaven#2-cooler,S0B2DFCAA016C1003,818562022596,Japanese Party Mix,18.99,2,1,-1
+2026-08-13T01:58:52Z,15519,doylestown,333 North Broad Ambient,S0B246944E3C71001,04043506,Twix Candy Bar,2.67,22,21,-1
+2026-08-13T01:58:52Z,15519,doylestown,333 North Broad Ambient,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.67,5,3,-2
+2026-08-13T01:58:52Z,15519,doylestown,333 North Broad Ambient,S0B246944E6C51002,076410901633,Lance Peanut Butter,2.57,16,15,-1
+2026-08-13T01:58:52Z,15519,doylestown,333 North Broad Ambient,S0B2DD3F2D92D100A,016000280427,Cheerios Treats,1.99,3,2,-1
+2026-08-13T01:58:52Z,16214,doylestown,333 North Broad Cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.5,3,2,-1
+2026-08-13T01:58:52Z,16213,haven,TheHaven#2-cooler,S0B2EB7FF1C0F1007,01275900,Brisk Iced Tea,2.5,7,6,-1
+2026-08-13T01:58:52Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.5,6,5,-1

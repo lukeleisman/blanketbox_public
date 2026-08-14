@@ -3993,3 +3993,18 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-14T01:56:23Z,16213,haven,TheHaven#2-cooler,S0B2DFCAA016C1003,818562022596,Japanese Party Mix,18.99,0,2,2
 2026-08-14T01:56:23Z,16213,haven,TheHaven#2-cooler,S0B2D90DF10651003,071879700049,Jennie’s Coconut bites,18.0,1,2,1
 2026-08-14T01:56:23Z,15452,borellis,BorellisBox,S0B246944E81B1008,037000018704,Tide To Go Stick,4.99,2,1,-1
+2026-08-14T04:11:04Z,15519,doylestown,333 North Broad Ambient,S0B2885215A1B1003,047495112900,Natures Bakery blueberry fig bat,2.57,20,14,-6
+2026-08-14T04:11:04Z,15519,doylestown,333 North Broad Ambient,S0B27699FEC921007,047495400700,Natures Bakery - Double Chocolate Brownie,2.57,18,15,-3
+2026-08-14T04:11:04Z,15519,doylestown,333 North Broad Ambient,S0B246944E3C71001,04043506,Twix Candy Bar,2.67,20,16,-4
+2026-08-14T04:11:04Z,15519,doylestown,333 North Broad Ambient,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.67,3,12,9
+2026-08-14T04:11:04Z,15519,doylestown,333 North Broad Ambient,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.67,2,11,9
+2026-08-14T04:11:04Z,15519,doylestown,333 North Broad Ambient,S0B30016DFAA81002,84908896,Every daze Konjac,3.5,0,10,10
+2026-08-14T04:11:04Z,15519,doylestown,333 North Broad Ambient,S0B300176CD16100C,753656720555,Think adventurefuls,2.0,0,15,15
+2026-08-14T04:11:04Z,15519,doylestown,333 North Broad Ambient,S0B300172DC1E1001,753656720807,Think minis smores,2.0,0,15,15
+2026-08-14T04:11:04Z,15519,doylestown,333 North Broad Ambient,S0B2C6BE9F76D100A,2410012261,Cheez-It 1.5 oz,2.5,8,13,5
+2026-08-14T04:11:04Z,15519,doylestown,333 North Broad Ambient,S0B2FE73E50B01004,072999803030,Olives to go,6.5,2,6,4
+2026-08-14T04:11:04Z,15519,doylestown,333 North Broad Ambient,S0B2E63AAF0F01005,850066378922,Coconut Rolls,10.99,16,2,-14
+2026-08-14T04:11:04Z,15519,doylestown,333 North Broad Ambient,S0B2DFCAA016C1003,818562022596,Japanese Party Mix,18.99,2,3,1
+2026-08-14T04:11:04Z,15519,doylestown,333 North Broad Ambient,S0B2D90DF10651003,071879700049,Jennie’s Coconut bites,15.0,6,5,-1
+2026-08-14T04:11:04Z,129111,philly,Philly TrueCooler II,S0B2C6BE9F76D100A,2410012261,Cheez-It 1.5 oz,2.0,13,12,-1
+2026-08-14T04:11:04Z,129111,philly,Philly TrueCooler II,S0B2DD527A6531007,8801073215863,Buldak Habanero Lime,5.5,1,0,-1

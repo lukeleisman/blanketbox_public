@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T16:52:08Z",
+  "updated": "2026-08-14T17:52:20Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1989,11 +1989,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-13 19:38:52"
+          "stock_updated": "2026-08-14 12:00:47"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2193,11 +2193,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-08-12 00:23:48"
+          "stock_updated": "2026-08-14 12:00:47"
         },
         {
           "skuid": "S0B2F619342CA1009",

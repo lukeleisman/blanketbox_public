@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T23:21:14Z",
+  "updated": "2026-08-14T23:47:34Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1448,11 +1448,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173685359821166.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 15:57:33"
+          "stock_updated": "2026-08-14 18:25:39"
         },
         {
           "skuid": "S0B2FE7209DA61003",
@@ -1727,8 +1727,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 54,
-      "in_stock": 49,
-      "out_of_stock": 5,
+      "in_stock": 47,
+      "out_of_stock": 7,
       "low_stock": 0,
       "products": [
         {
@@ -1749,11 +1749,11 @@
           "name": "Beef Liver Dog Treats",
           "price": 20.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174907930543359.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 17:04:35"
+          "stock_updated": "2026-08-14 18:42:08"
         },
         {
           "skuid": "S0B2EB7FF1C0F1007",
@@ -1989,11 +1989,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-14 12:00:47"
+          "stock_updated": "2026-08-14 18:42:08"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2181,11 +2181,11 @@
           "name": "NutellaGo",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 17:15:43"
+          "stock_updated": "2026-08-14 18:42:08"
         },
         {
           "skuid": "S0B246944E3D51001",
@@ -2265,11 +2265,11 @@
           "name": "San Pelligrino Pomegranate and Orange",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17601191596212.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-13 02:24:29"
+          "stock_updated": "2026-08-14 18:42:08"
         },
         {
           "skuid": "S0B27699FEBCD1003",
@@ -2277,11 +2277,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 26,
+          "stock": 25,
           "capacity": 26,
-          "fill_pct": 100,
+          "fill_pct": 96,
           "stock_warning": 0,
-          "stock_updated": "2026-08-10 08:03:07"
+          "stock_updated": "2026-08-14 18:42:08"
         },
         {
           "skuid": "S0B246944E4B51008",

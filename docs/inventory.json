@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T19:26:40Z",
+  "updated": "2026-08-15T19:46:06Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1833,11 +1833,11 @@
           "name": "Cheez It Original",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254819896872.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-08-15 11:39:16"
+          "stock_updated": "2026-08-15 14:39:22"
         },
         {
           "skuid": "S0B2DAF9429041007",
@@ -2097,11 +2097,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 19,
+          "stock": 18,
           "capacity": 19,
-          "fill_pct": 100,
+          "fill_pct": 95,
           "stock_warning": 0,
-          "stock_updated": "2026-08-13 13:44:55"
+          "stock_updated": "2026-08-15 14:39:22"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -2373,11 +2373,11 @@
           "name": "Wavii",
           "price": 5.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178209048093040.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-12 01:49:49"
+          "stock_updated": "2026-08-15 14:39:22"
         }
       ]
     },

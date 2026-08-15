@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T11:44:45Z",
+  "updated": "2026-08-15T12:36:31Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -583,11 +583,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 4,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-14 00:33:40"
+          "stock_updated": "2026-08-15 07:25:36"
         },
         {
           "skuid": "S0B246944E5C11006",
@@ -2001,11 +2001,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063766829.jpg",
-          "stock": 12,
+          "stock": 11,
           "capacity": 12,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 17:04:35"
+          "stock_updated": "2026-08-15 07:20:02"
         },
         {
           "skuid": "S0B2FE7209DA61003",
@@ -2085,11 +2085,11 @@
           "name": "Lance Peanut Butter",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168901539228250.jpeg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-08-13 19:45:55"
+          "stock_updated": "2026-08-15 07:20:02"
         },
         {
           "skuid": "S0B246944E19E1000",

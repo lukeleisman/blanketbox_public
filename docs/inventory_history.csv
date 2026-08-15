@@ -4039,3 +4039,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-15T02:32:24Z,15519,doylestown,333 North Broad Ambient,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.67,12,11,-1
 2026-08-15T02:32:24Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,19,18,-1
 2026-08-15T04:30:28Z,129111,philly,Philly TrueCooler II,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,8,6,-2
+2026-08-15T06:37:02Z,16214,doylestown,333 North Broad Cooler,S0B300263EBDF1004,0036632024275,Oikos Protein Shake Chocolate 12 oz,5.75,14,13,-1

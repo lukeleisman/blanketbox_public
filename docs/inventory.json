@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T03:38:07Z",
+  "updated": "2026-08-15T04:30:28Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1652,11 +1652,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 8,
+          "stock": 6,
           "capacity": 14,
-          "fill_pct": 57,
+          "fill_pct": 43,
           "stock_warning": 0,
-          "stock_updated": "2026-08-13 01:36:40"
+          "stock_updated": "2026-08-14 22:58:34"
         },
         {
           "skuid": "S0B246944E7B61003",

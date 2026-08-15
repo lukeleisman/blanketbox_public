@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T16:23:11Z",
+  "updated": "2026-08-15T16:49:54Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1833,11 +1833,11 @@
           "name": "Cheez It Original",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254819896872.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 17:04:35"
+          "stock_updated": "2026-08-15 11:39:16"
         },
         {
           "skuid": "S0B2DAF9429041007",

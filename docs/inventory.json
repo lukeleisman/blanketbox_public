@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T23:44:54Z",
+  "updated": "2026-08-16T01:17:32Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -30,11 +30,11 @@
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-08-13 22:58:12"
+          "stock_updated": "2026-08-15 19:21:12"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -535,11 +535,11 @@
           "name": "Celsius Cherry Cola",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176202960060787.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-08-15 12:25:46"
+          "stock_updated": "2026-08-15 18:49:37"
         },
         {
           "skuid": "S0B27699FF0CC100A",

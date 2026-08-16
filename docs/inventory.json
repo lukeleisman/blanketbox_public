@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T20:21:07Z",
+  "updated": "2026-08-16T20:47:38Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -138,11 +138,11 @@
           "name": "Ferrero Rocher",
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178668130904461.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-08-13 23:39:38"
+          "stock_updated": "2026-08-16 15:34:57"
         },
         {
           "skuid": "S0B2D48427F221004",
@@ -354,11 +354,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-08-14 00:06:31"
+          "stock_updated": "2026-08-16 15:34:57"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -631,11 +631,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 12,
+          "stock": 11,
           "capacity": 16,
-          "fill_pct": 75,
+          "fill_pct": 69,
           "stock_warning": 0,
-          "stock_updated": "2026-08-16 14:32:14"
+          "stock_updated": "2026-08-16 15:33:56"
         },
         {
           "skuid": "S0B2C85783CD31007",

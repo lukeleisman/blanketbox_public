@@ -4078,3 +4078,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-16T12:38:02Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,17,16,-1
 2026-08-16T12:38:02Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,25,24,-1
 2026-08-16T12:38:02Z,16213,haven,TheHaven#2-cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,10,9,-1
+2026-08-16T18:28:00Z,15519,doylestown,333 North Broad Ambient,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.67,11,10,-1
+2026-08-16T18:28:00Z,129111,philly,Philly TrueCooler II,S0B2FE7209DA61003,014100077602,Goldfish Cheddar,2.77,11,9,-2
+2026-08-16T18:28:00Z,129111,philly,Philly TrueCooler II,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,7,6,-1

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T17:44:55Z",
+  "updated": "2026-08-16T18:28:00Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -246,11 +246,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-08-13 22:58:12"
+          "stock_updated": "2026-08-16 13:17:22"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -1412,11 +1412,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/052000328660.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-08-16 01:13:06"
+          "stock_updated": "2026-08-16 12:46:31"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1460,11 +1460,11 @@
           "name": "Goldfish Cheddar",
           "price": 2.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172165768291916.png",
-          "stock": 11,
+          "stock": 9,
           "capacity": 12,
-          "fill_pct": 92,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-08-16 01:13:06"
+          "stock_updated": "2026-08-16 12:46:31"
         },
         {
           "skuid": "S0B2D4851D7141003",

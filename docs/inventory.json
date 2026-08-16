@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T23:19:18Z",
+  "updated": "2026-08-16T23:44:14Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -354,11 +354,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": -1,
+          "stock": -2,
           "capacity": 3,
-          "fill_pct": -33,
+          "fill_pct": -67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-16 16:00:17"
+          "stock_updated": "2026-08-16 18:35:27"
         },
         {
           "skuid": "S0B2DB932853E100A",

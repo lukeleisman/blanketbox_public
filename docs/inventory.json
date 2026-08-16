@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T22:20:06Z",
+  "updated": "2026-08-16T22:46:34Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -18,11 +18,11 @@
           "name": "Albanese peach rings",
           "price": 7.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178216062408651.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-08-13 22:58:12"
+          "stock_updated": "2026-08-16 17:38:53"
         },
         {
           "skuid": "S0B260510FB391004",
@@ -1220,11 +1220,11 @@
           "name": "Canada Dry Ginger Ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175847239862745.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-08-12 16:33:40"
+          "stock_updated": "2026-08-16 17:25:03"
         },
         {
           "skuid": "S0B2A44D16D23100C",
@@ -1316,11 +1316,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 15:57:33"
+          "stock_updated": "2026-08-16 17:25:03"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -1508,11 +1508,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 0,
+          "stock": -1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 11:05:11"
+          "stock_updated": "2026-08-16 17:25:03"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -1727,8 +1727,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 54,
-      "in_stock": 47,
-      "out_of_stock": 7,
+      "in_stock": 46,
+      "out_of_stock": 8,
       "low_stock": 0,
       "products": [
         {
@@ -1749,11 +1749,11 @@
           "name": "Beef Liver Dog Treats",
           "price": 20.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174907930543359.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-14 18:42:08"
+          "stock_updated": "2026-08-16 17:32:06"
         },
         {
           "skuid": "S0B2EB7FF1C0F1007",
@@ -1977,11 +1977,11 @@
           "name": "Gatorade Fierce Grape",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17497632086008.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-08-12 14:34:48"
+          "stock_updated": "2026-08-16 17:32:06"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -2277,11 +2277,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 24,
+          "stock": 23,
           "capacity": 26,
-          "fill_pct": 92,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-08-16 07:31:06"
+          "stock_updated": "2026-08-16 17:32:06"
         },
         {
           "skuid": "S0B246944E4B51008",
@@ -2337,11 +2337,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 16,
+          "stock": 15,
           "capacity": 20,
-          "fill_pct": 80,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-08-16 07:31:06"
+          "stock_updated": "2026-08-16 17:32:06"
         },
         {
           "skuid": "S0B2D48452F7E1005",

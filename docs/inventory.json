@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T20:47:38Z",
+  "updated": "2026-08-16T21:19:22Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 39,
-      "in_stock": 36,
-      "out_of_stock": 3,
+      "in_stock": 35,
+      "out_of_stock": 4,
       "low_stock": 0,
       "products": [
         {
@@ -150,11 +150,11 @@
           "name": "Fig Newtowns",
           "price": 1.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177450068582980.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-08-13 22:58:12"
+          "stock_updated": "2026-08-16 16:00:17"
         },
         {
           "skuid": "S0B2FE7209DA61003",
@@ -354,11 +354,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 1,
+          "stock": -1,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": -33,
           "stock_warning": 0,
-          "stock_updated": "2026-08-16 15:34:57"
+          "stock_updated": "2026-08-16 16:00:17"
         },
         {
           "skuid": "S0B2DB932853E100A",

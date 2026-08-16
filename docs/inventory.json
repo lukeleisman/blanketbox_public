@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T05:27:54Z",
+  "updated": "2026-08-16T05:55:17Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -126,11 +126,11 @@
           "name": "Every daze Konjac",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178666881468049.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-08-13 22:58:12"
+          "stock_updated": "2026-08-16 00:30:11"
         },
         {
           "skuid": "S0B30022CA06A1003",
@@ -390,11 +390,11 @@
           "name": "Skittles Gummies Wild Berry",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177941315465071.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-13 23:03:23"
+          "stock_updated": "2026-08-16 00:30:11"
         },
         {
           "skuid": "S0B2FED3AF93A1007",

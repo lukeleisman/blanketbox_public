@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T05:55:17Z",
+  "updated": "2026-08-16T06:39:26Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1412,11 +1412,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/052000328660.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 21:24:17"
+          "stock_updated": "2026-08-16 01:13:06"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1460,11 +1460,11 @@
           "name": "Goldfish Cheddar",
           "price": 2.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172165768291916.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 12,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 21:24:17"
+          "stock_updated": "2026-08-16 01:13:06"
         },
         {
           "skuid": "S0B2D4851D7141003",

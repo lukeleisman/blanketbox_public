@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T01:17:32Z",
+  "updated": "2026-08-16T02:41:42Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -330,11 +330,11 @@
           "name": "NutellaGo",
           "price": 2.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-08-13 22:58:12"
+          "stock_updated": "2026-08-15 20:20:54"
         },
         {
           "skuid": "S0B2FE73E50B01004",
@@ -402,11 +402,11 @@
           "name": "skittles sour gummies 4.2oz",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000949/platgoods/e6be730c-9c82-4477-baef-73a2d828e319.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-13 23:03:23"
+          "stock_updated": "2026-08-15 20:20:54"
         },
         {
           "skuid": "S0B3002251E69100C",
@@ -631,11 +631,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 17,
+          "stock": 16,
           "capacity": 19,
-          "fill_pct": 89,
+          "fill_pct": 84,
           "stock_warning": 0,
-          "stock_updated": "2026-08-15 14:07:43"
+          "stock_updated": "2026-08-15 20:17:54"
         },
         {
           "skuid": "S0B2C85783CD31007",

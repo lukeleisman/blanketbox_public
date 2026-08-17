@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T23:44:14Z",
+  "updated": "2026-08-17T01:15:13Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -18,11 +18,11 @@
           "name": "Albanese peach rings",
           "price": 7.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178216062408651.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-08-16 17:38:53"
+          "stock_updated": "2026-08-16 20:05:26"
         },
         {
           "skuid": "S0B260510FB391004",

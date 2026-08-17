@@ -4110,3 +4110,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-17T02:41:07Z,16213,haven,TheHaven#2-cooler,S0B2DFCAA016C1003,818562022596,Japanese Party Mix,18.99,2,1,-1
 2026-08-17T03:49:50Z,15519,doylestown,333 North Broad Ambient,S0B246944E3C71001,04043506,Twix Candy Bar,2.67,16,14,-2
 2026-08-17T11:24:43Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.5,26,24,-2
+2026-08-17T13:38:37Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,9,7,-2
+2026-08-17T13:38:37Z,16214,doylestown,333 North Broad Cooler,S0B2F619785511007,8616201000,VITAMIN WATER DRAGONFRUIT,3.0,5,4,-1

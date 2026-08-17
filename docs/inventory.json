@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T12:42:35Z",
+  "updated": "2026-08-17T13:38:37Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -631,11 +631,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 9,
+          "stock": 7,
           "capacity": 16,
-          "fill_pct": 56,
+          "fill_pct": 44,
           "stock_warning": 0,
-          "stock_updated": "2026-08-16 18:17:34"
+          "stock_updated": "2026-08-17 08:32:12"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1075,11 +1075,11 @@
           "name": "VITAMIN WATER DRAGONFRUIT",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176953552008452.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-08-16 02:43:49"
+          "stock_updated": "2026-08-17 08:32:12"
         },
         {
           "skuid": "S0B2F6197FB821002",

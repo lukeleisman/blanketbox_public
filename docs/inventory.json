@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T22:50:09Z",
+  "updated": "2026-08-17T23:22:03Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1737,11 +1737,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-14 15:28:07"
+          "stock_updated": "2026-08-17 17:57:57"
         },
         {
           "skuid": "S0B2740EB95E01006",
@@ -1953,11 +1953,11 @@
           "name": "Fairlife Vanilla Protein",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178408032447260.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-08-13 19:42:24"
+          "stock_updated": "2026-08-17 18:03:13"
         },
         {
           "skuid": "S0B246944E4F01003",
@@ -2277,11 +2277,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 23,
+          "stock": 22,
           "capacity": 26,
-          "fill_pct": 88,
+          "fill_pct": 85,
           "stock_warning": 0,
-          "stock_updated": "2026-08-16 17:32:06"
+          "stock_updated": "2026-08-17 17:57:57"
         },
         {
           "skuid": "S0B246944E4B51008",

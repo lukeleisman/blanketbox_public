@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T01:15:13Z",
+  "updated": "2026-08-17T02:41:07Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -306,11 +306,11 @@
           "name": "Natures Bakery - Double Chocolate Brownie",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368269911559.png",
-          "stock": 15,
+          "stock": 12,
           "capacity": 15,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-08-13 22:58:12"
+          "stock_updated": "2026-08-16 20:35:59"
         },
         {
           "skuid": "S0B2885215A1B1003",
@@ -535,11 +535,11 @@
           "name": "Celsius Cherry Cola",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176202960060787.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-08-16 02:43:49"
+          "stock_updated": "2026-08-16 20:46:11"
         },
         {
           "skuid": "S0B27699FF0CC100A",
@@ -811,11 +811,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-16 02:43:49"
+          "stock_updated": "2026-08-16 20:35:07"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -2037,11 +2037,11 @@
           "name": "Japanese Party Mix",
           "price": 18.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799892794318.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-13 19:38:52"
+          "stock_updated": "2026-08-16 20:54:58"
         },
         {
           "skuid": "S0B2D90DF10651003",

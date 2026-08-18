@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T01:12:54Z",
+  "updated": "2026-08-18T02:35:38Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -306,11 +306,11 @@
           "name": "Natures Bakery - Double Chocolate Brownie",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368269911559.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 15,
-          "fill_pct": 80,
+          "fill_pct": 73,
           "stock_warning": 0,
-          "stock_updated": "2026-08-16 20:35:59"
+          "stock_updated": "2026-08-17 20:45:57"
         },
         {
           "skuid": "S0B2885215A1B1003",
@@ -438,11 +438,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 12,
-          "fill_pct": 92,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-08-14 21:10:31"
+          "stock_updated": "2026-08-17 20:45:57"
         },
         {
           "skuid": "S0B300176CD16100C",
@@ -2193,11 +2193,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-08-14 12:00:47"
+          "stock_updated": "2026-08-17 20:35:29"
         },
         {
           "skuid": "S0B2F619342CA1009",

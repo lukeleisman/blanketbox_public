@@ -4121,3 +4121,14 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-18T02:35:38Z,15519,doylestown,333 North Broad Ambient,S0B27699FEC921007,047495400700,Natures Bakery - Double Chocolate Brownie,2.57,12,11,-1
 2026-08-18T02:35:38Z,15519,doylestown,333 North Broad Ambient,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.67,11,10,-1
 2026-08-18T02:35:38Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,4,3,-1
+2026-08-18T04:34:39Z,15519,doylestown,333 North Broad Ambient,S0B27699FEC921007,047495400700,Natures Bakery - Double Chocolate Brownie,2.57,11,14,3
+2026-08-18T04:34:39Z,15519,doylestown,333 North Broad Ambient,S0B246944E3C71001,04043506,Twix Candy Bar,2.67,14,16,2
+2026-08-18T04:34:39Z,15519,doylestown,333 North Broad Ambient,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.67,10,12,2
+2026-08-18T04:34:39Z,15519,doylestown,333 North Broad Ambient,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.67,9,11,2
+2026-08-18T04:34:39Z,15519,doylestown,333 North Broad Ambient,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.5,-2,6,8
+2026-08-18T04:34:39Z,16214,doylestown,333 North Broad Cooler,S0B246944DEF51002,070847811169,Monster Energy,4.27,2,3,1
+2026-08-18T04:34:39Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,7,12,5
+2026-08-18T04:34:39Z,16214,doylestown,333 North Broad Cooler,S0B2C85783CD31007,1162002196,Fair Life Core Power 26g Vanilla Protein Shake,5.25,11,10,-1
+2026-08-18T04:34:39Z,16214,doylestown,333 North Broad Cooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,5.25,10,9,-1
+2026-08-18T04:34:39Z,16214,doylestown,333 North Broad Cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.57,2,1,-1
+2026-08-18T04:34:39Z,16214,doylestown,333 North Broad Cooler,S0B2EB7FF1C0F1007,01275900,Brisk Iced Tea,2.57,4,3,-1

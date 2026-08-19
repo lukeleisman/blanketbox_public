@@ -4135,3 +4135,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-18T14:33:04Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,16,15,-1
 2026-08-18T20:49:42Z,16213,haven,TheHaven#2-cooler,S0B2FECB8B02B1009,811620022125,Fairlife Vanilla Protein,5.5,3,2,-1
 2026-08-18T22:22:52Z,129111,philly,Philly TrueCooler II,S0B246944E5841006,889392000313,Celsius Orange,3.57,6,5,-1
+2026-08-19T01:14:08Z,15519,doylestown,333 North Broad Ambient,S0B2EF4B873171003,634418523495,Albanese peach rings,7.99,3,2,-1
+2026-08-19T01:14:08Z,16213,haven,TheHaven#2-cooler,S0B2FE7209DA61003,014100077602,Goldfish Cheddar,2.77,6,5,-1

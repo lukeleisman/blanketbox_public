@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T23:47:08Z",
+  "updated": "2026-08-19T01:14:08Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -18,11 +18,11 @@
           "name": "Albanese peach rings",
           "price": 7.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178216062408651.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-08-17 22:53:06"
+          "stock_updated": "2026-08-18 18:54:42"
         },
         {
           "skuid": "S0B260510FB391004",
@@ -2013,11 +2013,11 @@
           "name": "Goldfish Cheddar",
           "price": 2.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172165768291916.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-08-12 00:23:48"
+          "stock_updated": "2026-08-18 19:56:24"
         },
         {
           "skuid": "S0B246944E7FE1008",

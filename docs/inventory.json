@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T22:50:57Z",
+  "updated": "2026-08-19T23:21:51Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2554,11 +2554,11 @@
           "name": "Loctite Threadlocker Red 271 0.2oz",
           "price": 9.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178051693336624.png",
-          "stock": 9999,
+          "stock": 9997,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-19 17:33:23"
+          "stock_updated": "2026-08-19 18:02:11"
         },
         {
           "skuid": "S0B2DD932E3FB100D",

@@ -4167,3 +4167,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-19T16:30:49Z,16213,haven,TheHaven#2-cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,0,-1,-1
 2026-08-19T17:26:09Z,129111,philly,Philly TrueCooler II,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,17,16,-1
 2026-08-19T19:24:53Z,15520,mckinley,mHUBPrototypingShop,S0B2E96BB70CA100B,076308872052,3m finishing 4 pack gray,8.0,9999,9998,-1
+2026-08-19T23:21:51Z,15520,mckinley,mHUBPrototypingShop,S0B2E92BFB7E01007,079340271005,Loctite Threadlocker Red 271 0.2oz,9.0,9999,9997,-2

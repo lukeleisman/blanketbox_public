@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T01:14:08Z",
+  "updated": "2026-08-19T02:38:27Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -102,11 +102,11 @@
           "name": "Coconut Rolls",
           "price": 9.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972704249174.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-17 22:53:06"
+          "stock_updated": "2026-08-18 20:41:39"
         },
         {
           "skuid": "S0B2FE716F5901003",
@@ -114,11 +114,11 @@
           "name": "Dot Pretzels",
           "price": 7.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17862269041505.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-17 22:53:06"
+          "stock_updated": "2026-08-18 20:41:39"
         },
         {
           "skuid": "S0B30016DFAA81002",
@@ -378,11 +378,11 @@
           "name": "Pop Secret popcorn",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-08-17 22:53:06"
+          "stock_updated": "2026-08-18 20:41:39"
         },
         {
           "skuid": "S0B2FED3B37D71002",
@@ -450,11 +450,11 @@
           "name": "Think adventurefuls",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178666939290752.png",
-          "stock": 15,
+          "stock": 14,
           "capacity": 15,
-          "fill_pct": 100,
+          "fill_pct": 93,
           "stock_warning": 0,
-          "stock_updated": "2026-08-17 22:53:06"
+          "stock_updated": "2026-08-18 20:41:39"
         },
         {
           "skuid": "S0B300172DC1E1001",
@@ -1857,11 +1857,11 @@
           "name": "cioccolati biscotti",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623526987032.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-08-13 19:43:40"
+          "stock_updated": "2026-08-18 20:20:45"
         },
         {
           "skuid": "S0B246944DEAE1000",
@@ -1869,11 +1869,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 11,
+          "stock": 9,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 82,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 17:04:35"
+          "stock_updated": "2026-08-18 20:56:31"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -1893,11 +1893,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 15,
+          "stock": 14,
           "capacity": 17,
-          "fill_pct": 88,
+          "fill_pct": 82,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 09:10:25"
+          "stock_updated": "2026-08-18 21:02:08"
         },
         {
           "skuid": "S0B2FE716F5901003",
@@ -1965,11 +1965,11 @@
           "name": "GATORADE 20OZ ORANGE",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063782730.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-12 12:09:38"
+          "stock_updated": "2026-08-18 21:30:35"
         },
         {
           "skuid": "0B2A3CC3855F1003",
@@ -1977,11 +1977,11 @@
           "name": "Gatorade Fierce Grape",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17497632086008.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-08-16 17:32:06"
+          "stock_updated": "2026-08-18 20:56:31"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -2277,11 +2277,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 22,
+          "stock": 21,
           "capacity": 26,
-          "fill_pct": 85,
+          "fill_pct": 81,
           "stock_warning": 0,
-          "stock_updated": "2026-08-17 17:57:57"
+          "stock_updated": "2026-08-18 21:02:08"
         },
         {
           "skuid": "S0B246944E4B51008",

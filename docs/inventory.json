@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T13:42:59Z",
+  "updated": "2026-08-19T14:32:58Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1857,11 +1857,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 11,
-          "fill_pct": 82,
+          "fill_pct": 73,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 20:56:31"
+          "stock_updated": "2026-08-19 08:47:20"
         },
         {
           "skuid": "S0B246944E9A41003",

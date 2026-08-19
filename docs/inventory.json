@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T18:34:36Z",
+  "updated": "2026-08-19T19:24:53Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2422,11 +2422,11 @@
           "name": "3m finishing 4 pack gray",
           "price": 8.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/14c74f90-f6d7-4ae9-a261-bb9672c9c867.jpg",
-          "stock": 9999,
+          "stock": 9998,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-19 17:33:23"
+          "stock_updated": "2026-08-19 13:57:05"
         },
         {
           "skuid": "S0B2E96BC970C100C",

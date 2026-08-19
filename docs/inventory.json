@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T14:32:58Z",
+  "updated": "2026-08-19T15:30:37Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -318,11 +318,11 @@
           "name": "NutellaGo",
           "price": 2.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 9,
-          "fill_pct": 78,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-19 09:45:22"
         },
         {
           "skuid": "S0B2FE73E50B01004",
@@ -342,11 +342,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 3,
-          "fill_pct": 200,
+          "fill_pct": 167,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-19 09:45:22"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -811,11 +811,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 21,
+          "stock": 20,
           "capacity": 26,
-          "fill_pct": 81,
+          "fill_pct": 77,
           "stock_warning": 0,
-          "stock_updated": "2026-08-19 06:06:44"
+          "stock_updated": "2026-08-19 09:44:14"
         },
         {
           "skuid": "S0B2C377070EC1001",

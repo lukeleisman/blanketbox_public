@@ -4168,3 +4168,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-19T17:26:09Z,129111,philly,Philly TrueCooler II,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,17,16,-1
 2026-08-19T19:24:53Z,15520,mckinley,mHUBPrototypingShop,S0B2E96BB70CA100B,076308872052,3m finishing 4 pack gray,8.0,9999,9998,-1
 2026-08-19T23:21:51Z,15520,mckinley,mHUBPrototypingShop,S0B2E92BFB7E01007,079340271005,Loctite Threadlocker Red 271 0.2oz,9.0,9999,9997,-2
+2026-08-20T01:13:28Z,15519,doylestown,333 North Broad Ambient,S0B27699FEC921007,047495400700,Natures Bakery - Double Chocolate Brownie,2.57,14,13,-1
+2026-08-20T01:13:28Z,15519,doylestown,333 North Broad Ambient,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.67,12,11,-1
+2026-08-20T01:13:28Z,15519,doylestown,333 North Broad Ambient,S0B300176CD16100C,753656720555,Think adventurefuls,2.0,14,13,-1
+2026-08-20T01:13:28Z,15519,doylestown,333 North Broad Ambient,S0B2C6BE9F76D100A,2410012261,Cheez-It 1.5 oz,2.5,12,11,-1

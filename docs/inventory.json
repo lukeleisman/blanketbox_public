@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T01:13:28Z",
+  "updated": "2026-08-20T02:36:48Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -54,11 +54,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 11,
+          "stock": 9,
           "capacity": 13,
-          "fill_pct": 85,
+          "fill_pct": 69,
           "stock_warning": 0,
-          "stock_updated": "2026-08-19 19:42:13"
+          "stock_updated": "2026-08-19 21:23:55"
         },
         {
           "skuid": "S0B2FECA70BC81000",
@@ -186,11 +186,11 @@
           "name": "Japanese Party Mix",
           "price": 18.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799892794318.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-19 21:23:55"
         },
         {
           "skuid": "S0B2D90DF10651003",
@@ -477,8 +477,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 53,
-      "in_stock": 35,
-      "out_of_stock": 18,
+      "in_stock": 34,
+      "out_of_stock": 19,
       "low_stock": 0,
       "products": [
         {
@@ -487,11 +487,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:23:03"
+          "stock_updated": "2026-08-19 20:32:15"
         },
         {
           "skuid": "S0B2EB7FF1C0F1007",
@@ -847,11 +847,11 @@
           "name": "Oikos Protein Shake Chocolate 12 oz",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175796271645448.png",
-          "stock": 13,
+          "stock": 12,
           "capacity": 13,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:23:03"
+          "stock_updated": "2026-08-19 20:15:49"
         },
         {
           "skuid": "S0B2FECB1AEFC1004",
@@ -1063,11 +1063,11 @@
           "name": "VITAMIN WATER DRAGONFRUIT",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176953552008452.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:23:03"
+          "stock_updated": "2026-08-19 20:32:15"
         },
         {
           "skuid": "S0B2F6197FB821002",
@@ -1087,11 +1087,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:23:03"
+          "stock_updated": "2026-08-19 20:32:15"
         },
         {
           "skuid": "S0B2EF08A265B1002",

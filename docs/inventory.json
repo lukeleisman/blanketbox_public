@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T22:56:19Z",
+  "updated": "2026-08-20T23:27:41Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1472,11 +1472,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 17,
+          "stock": 16,
           "capacity": 18,
-          "fill_pct": 94,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-08-10 23:37:37"
+          "stock_updated": "2026-08-20 18:13:00"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -1941,11 +1941,11 @@
           "name": "Fairlife Vanilla Protein",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178408032447260.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 4,
-          "fill_pct": 50,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 15:49:07"
+          "stock_updated": "2026-08-20 18:19:39"
         },
         {
           "skuid": "S0B246944E4F01003",

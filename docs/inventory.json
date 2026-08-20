@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T18:50:50Z",
+  "updated": "2026-08-20T19:30:50Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1989,11 +1989,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063766829.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 12,
-          "fill_pct": 75,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-16 07:31:06"
+          "stock_updated": "2026-08-20 14:05:15"
         },
         {
           "skuid": "S0B2FE7209DA61003",

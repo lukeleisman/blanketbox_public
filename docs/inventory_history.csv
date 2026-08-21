@@ -4226,3 +4226,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-21T03:49:57Z,16213,haven,TheHaven#2-cooler,S0B2FECA70BC81000,718604001346,cioccolati biscotti,2.57,5,3,-2
 2026-08-21T03:49:57Z,16213,haven,TheHaven#2-cooler,S0B2F61930CDF1009,0049000050752,Powerade Zero Mixed Berry 20floz,3.0,2,1,-1
 2026-08-21T03:49:57Z,16213,haven,TheHaven#2-cooler,S0B2DFCAA016C1003,818562022596,Japanese Party Mix,18.99,1,0,-1
+2026-08-21T05:31:44Z,16213,haven,TheHaven#2-cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,5,4,-1
+2026-08-21T05:31:44Z,16213,haven,TheHaven#2-cooler,S0B246944E4B51008,012000813313,Starbucks_Frappuccino_Vanilla,4.27,2,1,-1
+2026-08-21T05:31:44Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,17,16,-1

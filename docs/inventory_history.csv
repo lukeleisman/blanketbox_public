@@ -4221,3 +4221,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-21T02:44:04Z,16213,haven,TheHaven#2-cooler,S0B246944E3DB1006,048500008607,Tropicana Orange Juice,3.0,5,4,-1
 2026-08-21T02:44:04Z,16213,haven,TheHaven#2-cooler,S0B2FECA70BC81000,718604001346,cioccolati biscotti,2.57,7,5,-2
 2026-08-21T02:44:04Z,16213,haven,TheHaven#2-cooler,S0B2F619342CA1009,049000056433,Powerade Zero Fruit Punch,3.25,1,0,-1
+2026-08-21T03:49:57Z,129111,philly,Philly TrueCooler II,S0B2D484E0EFD1001,014100043706,Milano,2.57,13,11,-2
+2026-08-21T03:49:57Z,129111,philly,Philly TrueCooler II,S0B2BA2BFFF3F1006,8801073210363,Buldak Orginal Spicy Ramen,5.5,1,0,-1
+2026-08-21T03:49:57Z,16213,haven,TheHaven#2-cooler,S0B2FECA70BC81000,718604001346,cioccolati biscotti,2.57,5,3,-2
+2026-08-21T03:49:57Z,16213,haven,TheHaven#2-cooler,S0B2F61930CDF1009,0049000050752,Powerade Zero Mixed Berry 20floz,3.0,2,1,-1
+2026-08-21T03:49:57Z,16213,haven,TheHaven#2-cooler,S0B2DFCAA016C1003,818562022596,Japanese Party Mix,18.99,1,0,-1

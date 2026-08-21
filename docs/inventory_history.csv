@@ -4215,3 +4215,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-20T22:27:15Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,6,3,-3
 2026-08-20T23:27:41Z,129111,philly,Philly TrueCooler II,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,17,16,-1
 2026-08-20T23:27:41Z,16213,haven,TheHaven#2-cooler,S0B2FECB8B02B1009,811620022125,Fairlife Vanilla Protein,5.5,2,1,-1
+2026-08-21T01:16:52Z,15452,borellis,BorellisBox,S0B248CF277711000,F0B23D47534341008,Hohner Kazoo,3.0,2,1,-1

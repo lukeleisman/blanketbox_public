@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T01:16:52Z",
+  "updated": "2026-08-21T02:44:04Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -234,11 +234,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 11,
-          "fill_pct": 91,
+          "fill_pct": 82,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-20 20:59:14"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -1087,11 +1087,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 11,
-          "fill_pct": 91,
+          "fill_pct": 82,
           "stock_warning": 0,
-          "stock_updated": "2026-08-19 20:32:15"
+          "stock_updated": "2026-08-20 20:57:56"
         },
         {
           "skuid": "S0B2EF08A265B1002",
@@ -1715,8 +1715,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 54,
-      "in_stock": 46,
-      "out_of_stock": 8,
+      "in_stock": 45,
+      "out_of_stock": 9,
       "low_stock": 0,
       "products": [
         {
@@ -1845,11 +1845,11 @@
           "name": "cioccolati biscotti",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623526987032.png",
-          "stock": 7,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 20:20:45"
+          "stock_updated": "2026-08-20 20:53:37"
         },
         {
           "skuid": "S0B246944DEAE1000",
@@ -2193,11 +2193,11 @@
           "name": "Powerade Zero Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172366735251318.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-08 17:04:35"
+          "stock_updated": "2026-08-20 20:53:37"
         },
         {
           "skuid": "S0B2F6194A055100A",
@@ -2313,11 +2313,11 @@
           "name": "Tropicana Orange Juice",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175016539318827.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-08-13 19:42:24"
+          "stock_updated": "2026-08-20 20:53:37"
         },
         {
           "skuid": "S0B246944E3C71001",

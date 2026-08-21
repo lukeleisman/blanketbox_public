@@ -4230,3 +4230,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-21T05:31:44Z,16213,haven,TheHaven#2-cooler,S0B246944E4B51008,012000813313,Starbucks_Frappuccino_Vanilla,4.27,2,1,-1
 2026-08-21T05:31:44Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,17,16,-1
 2026-08-21T13:44:26Z,16213,haven,TheHaven#2-cooler,S0B2F6194A055100A,4900005074,Powerade Zero Grape,3.0,7,6,-1
+2026-08-21T14:34:37Z,129111,philly,Philly TrueCooler II,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,16,15,-1
+2026-08-21T14:34:37Z,129111,philly,Philly TrueCooler II,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,4,3,-1

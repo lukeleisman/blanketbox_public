@@ -4265,3 +4265,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-22T05:26:44Z,16213,haven,TheHaven#2-cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,8,7,-1
 2026-08-22T10:22:32Z,16214,doylestown,333 North Broad Cooler,S0B246944E5841006,889392000313,Celsius Orange,3.57,6,5,-1
 2026-08-22T12:38:04Z,16213,haven,TheHaven#2-cooler,S0B246944DEF51002,070847811169,Monster Energy,4.27,2,0,-2
+2026-08-22T13:31:16Z,16214,doylestown,333 North Broad Cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,1,0,-1
+2026-08-22T13:31:16Z,16213,haven,TheHaven#2-cooler,S0B300172DC1E1001,753656720807,Think minis smores,2.0,15,14,-1
+2026-08-22T13:31:16Z,16213,haven,TheHaven#2-cooler,S0B300176CD16100C,753656720555,Think adventurefuls,2.0,14,13,-1

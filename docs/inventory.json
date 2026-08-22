@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T12:38:04Z",
+  "updated": "2026-08-22T13:31:16Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -477,8 +477,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 53,
-      "in_stock": 34,
-      "out_of_stock": 19,
+      "in_stock": 33,
+      "out_of_stock": 20,
       "low_stock": 0,
       "products": [
         {
@@ -703,11 +703,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:23:03"
+          "stock_updated": "2026-08-22 08:16:39"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -2289,11 +2289,11 @@
           "name": "Think adventurefuls",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178666939290752.png",
-          "stock": 14,
+          "stock": 13,
           "capacity": 15,
-          "fill_pct": 93,
+          "fill_pct": 87,
           "stock_warning": 0,
-          "stock_updated": "2026-08-20 08:37:13"
+          "stock_updated": "2026-08-22 07:53:37"
         },
         {
           "skuid": "S0B300172DC1E1001",
@@ -2301,11 +2301,11 @@
           "name": "Think minis smores",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178666913465510.png",
-          "stock": 15,
+          "stock": 14,
           "capacity": 15,
-          "fill_pct": 100,
+          "fill_pct": 93,
           "stock_warning": 0,
-          "stock_updated": "2026-08-13 20:19:23"
+          "stock_updated": "2026-08-22 07:53:37"
         },
         {
           "skuid": "S0B246944E3DB1006",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T03:41:11Z",
+  "updated": "2026-08-22T04:32:14Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2001,11 +2001,11 @@
           "name": "Goldfish Cheddar",
           "price": 2.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172165768291916.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 19:56:24"
+          "stock_updated": "2026-08-21 22:53:31"
         },
         {
           "skuid": "S0B246944E7FE1008",
@@ -2325,11 +2325,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 20,
-          "fill_pct": 55,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-21 21:52:24"
+          "stock_updated": "2026-08-21 22:53:31"
         },
         {
           "skuid": "S0B2D48452F7E1005",

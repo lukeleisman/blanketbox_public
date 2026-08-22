@@ -4271,3 +4271,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-22T14:48:02Z,129111,philly,Philly TrueCooler II,S0B246944E5841006,889392000313,Celsius Orange,3.57,5,4,-1
 2026-08-22T16:50:03Z,16214,doylestown,333 North Broad Cooler,S0B2D0516EFCB1008,007478051550,Maison Perrier Sparkling Water,3.0,2,1,-1
 2026-08-22T16:50:03Z,16214,doylestown,333 North Broad Cooler,S0B2E63AC3F231007,682430010486,Voss Water,6.99,9,8,-1
+2026-08-22T17:45:57Z,129111,philly,Philly TrueCooler II,S0B2F619836EC1004,0786162411778,Vitamin Water Tropical Citrus,3.0,4,3,-1

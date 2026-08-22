@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T18:30:13Z",
+  "updated": "2026-08-22T19:21:38Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1316,11 +1316,11 @@
           "name": "Deer park water",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 28,
+          "stock": 27,
           "capacity": 28,
-          "fill_pct": 100,
+          "fill_pct": 96,
           "stock_warning": 0,
-          "stock_updated": "2026-08-09 11:21:05"
+          "stock_updated": "2026-08-22 13:47:28"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -1715,8 +1715,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 54,
-      "in_stock": 41,
-      "out_of_stock": 13,
+      "in_stock": 46,
+      "out_of_stock": 8,
       "low_stock": 0,
       "products": [
         {
@@ -1725,11 +1725,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 3,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-22 13:36:41"
         },
         {
           "skuid": "S0B2740EB95E01006",
@@ -1809,11 +1809,11 @@
           "name": "Celsius Peach Vibes",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064199646.jpg",
-          "stock": 3,
+          "stock": 5,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-22 13:36:41"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -1821,11 +1821,11 @@
           "name": "Cheez It Original",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254819896872.png",
-          "stock": 3,
+          "stock": 6,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 200,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-22 13:36:41"
         },
         {
           "skuid": "S0B2DAF9429041007",
@@ -1845,11 +1845,11 @@
           "name": "cioccolati biscotti",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623526987032.png",
-          "stock": 2,
+          "stock": 8,
           "capacity": 8,
-          "fill_pct": 25,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-22 13:36:41"
         },
         {
           "skuid": "S0B246944DEAE1000",
@@ -1941,11 +1941,11 @@
           "name": "Fairlife Vanilla Protein",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178408032447260.png",
-          "stock": 1,
+          "stock": 5,
           "capacity": 4,
-          "fill_pct": 25,
+          "fill_pct": 125,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-22 13:36:41"
         },
         {
           "skuid": "S0B246944E4F01003",
@@ -1953,11 +1953,11 @@
           "name": "GATORADE 20OZ ORANGE",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063782730.jpg",
-          "stock": 0,
+          "stock": 4,
           "capacity": 2,
-          "fill_pct": 0,
+          "fill_pct": 200,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-22 13:36:41"
         },
         {
           "skuid": "0B2A3CC3855F1003",
@@ -1965,11 +1965,11 @@
           "name": "Gatorade Fierce Grape",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17497632086008.png",
-          "stock": 4,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 57,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-22 13:36:41"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -1977,11 +1977,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 0,
+          "stock": 4,
           "capacity": 2,
-          "fill_pct": 0,
+          "fill_pct": 200,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-22 13:36:41"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2073,11 +2073,11 @@
           "name": "Lance Peanut Butter",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168901539228250.jpeg",
-          "stock": 8,
+          "stock": 9,
           "capacity": 9,
-          "fill_pct": 89,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-22 13:36:41"
         },
         {
           "skuid": "S0B246944E19E1000",
@@ -2121,11 +2121,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 0,
+          "stock": 4,
           "capacity": 2,
-          "fill_pct": 0,
+          "fill_pct": 200,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-22 13:36:41"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -2133,11 +2133,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 2,
+          "stock": 6,
           "capacity": 6,
-          "fill_pct": 33,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-22 13:36:41"
         },
         {
           "skuid": "S0B2DB93670101002",
@@ -2181,11 +2181,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 2,
+          "stock": 5,
           "capacity": 5,
-          "fill_pct": 40,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-22 13:36:41"
         },
         {
           "skuid": "S0B2F619342CA1009",
@@ -2193,11 +2193,11 @@
           "name": "Powerade Zero Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172366735251318.png",
-          "stock": 0,
+          "stock": 4,
           "capacity": 1,
-          "fill_pct": 0,
+          "fill_pct": 400,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-22 13:36:41"
         },
         {
           "skuid": "S0B2F6194A055100A",
@@ -2217,11 +2217,11 @@
           "name": "Powerade Zero Mixed Berry 20floz",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176048132401919.png",
-          "stock": 1,
+          "stock": 5,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": 167,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-22 13:36:41"
         },
         {
           "skuid": "S0B2CC2D2640F1005",
@@ -2265,11 +2265,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 18,
+          "stock": 24,
           "capacity": 26,
-          "fill_pct": 69,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-22 13:36:41"
         },
         {
           "skuid": "S0B246944E4B51008",
@@ -2277,11 +2277,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 0,
+          "stock": 6,
           "capacity": 3,
-          "fill_pct": 0,
+          "fill_pct": 200,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-22 13:36:41"
         },
         {
           "skuid": "S0B300176CD16100C",
@@ -2325,11 +2325,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 10,
+          "stock": 20,
           "capacity": 20,
-          "fill_pct": 50,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-22 13:36:41"
         },
         {
           "skuid": "S0B2D48452F7E1005",

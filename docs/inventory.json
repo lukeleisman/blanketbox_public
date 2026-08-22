@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T04:32:14Z",
+  "updated": "2026-08-22T05:26:44Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1965,11 +1965,11 @@
           "name": "Gatorade Fierce Grape",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17497632086008.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 20:56:31"
+          "stock_updated": "2026-08-21 23:47:36"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -1989,11 +1989,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063766829.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 12,
-          "fill_pct": 67,
+          "fill_pct": 58,
           "stock_warning": 0,
-          "stock_updated": "2026-08-20 14:05:15"
+          "stock_updated": "2026-08-21 23:47:36"
         },
         {
           "skuid": "S0B2FE7209DA61003",

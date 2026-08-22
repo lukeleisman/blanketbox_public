@@ -4235,3 +4235,12 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-21T20:24:59Z,129111,philly,Philly TrueCooler II,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,3,2,-1
 2026-08-21T20:24:59Z,129111,philly,Philly TrueCooler II,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,20,19,-1
 2026-08-21T21:23:55Z,16214,doylestown,333 North Broad Cooler,S0B2EF08BF2341003,847485,Namai,6.99,7,6,-1
+2026-08-22T02:34:14Z,15519,doylestown,333 North Broad Ambient,S0B2FED3AF93A1007,022000301178,skittles sour gummies 4.2oz,4.5,2,1,-1
+2026-08-22T02:34:14Z,15519,doylestown,333 North Broad Ambient,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.5,5,4,-1
+2026-08-22T02:34:14Z,129111,philly,Philly TrueCooler II,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,16,15,-1
+2026-08-22T02:34:14Z,16213,haven,TheHaven#2-cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,4,3,-1
+2026-08-22T02:34:14Z,16213,haven,TheHaven#2-cooler,S0B246944E4B51008,012000813313,Starbucks_Frappuccino_Vanilla,4.27,1,0,-1
+2026-08-22T02:34:14Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.5,4,3,-1
+2026-08-22T02:34:14Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,13,12,-1
+2026-08-22T02:34:14Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,16,15,-1
+2026-08-22T02:34:14Z,16213,haven,TheHaven#2-cooler,S0B27699FEA161007,024100123223,Cheez It Original,2.07,1,0,-1

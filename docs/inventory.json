@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T01:12:51Z",
+  "updated": "2026-08-22T02:34:14Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -342,11 +342,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 3,
-          "fill_pct": 167,
+          "fill_pct": 133,
           "stock_warning": 0,
-          "stock_updated": "2026-08-19 09:45:22"
+          "stock_updated": "2026-08-21 21:29:35"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -390,11 +390,11 @@
           "name": "skittles sour gummies 4.2oz",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000949/platgoods/e6be730c-9c82-4477-baef-73a2d828e319.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-21 21:29:35"
         },
         {
           "skuid": "S0B3002251E69100C",
@@ -1328,11 +1328,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 16,
+          "stock": 15,
           "capacity": 20,
-          "fill_pct": 80,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-08-19 11:53:18"
+          "stock_updated": "2026-08-21 21:34:11"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1715,8 +1715,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 54,
-      "in_stock": 44,
-      "out_of_stock": 10,
+      "in_stock": 42,
+      "out_of_stock": 12,
       "low_stock": 0,
       "products": [
         {
@@ -1725,11 +1725,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-17 17:57:57"
+          "stock_updated": "2026-08-21 21:14:57"
         },
         {
           "skuid": "S0B2740EB95E01006",
@@ -1821,11 +1821,11 @@
           "name": "Cheez It Original",
           "price": 2.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254819896872.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-15 14:39:22"
+          "stock_updated": "2026-08-21 20:42:48"
         },
         {
           "skuid": "S0B2DAF9429041007",
@@ -2085,11 +2085,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 16,
+          "stock": 15,
           "capacity": 19,
-          "fill_pct": 84,
+          "fill_pct": 79,
           "stock_warning": 0,
-          "stock_updated": "2026-08-20 23:59:20"
+          "stock_updated": "2026-08-21 21:14:57"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -2133,11 +2133,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-20 23:57:27"
+          "stock_updated": "2026-08-21 21:14:57"
         },
         {
           "skuid": "S0B2DB93670101002",
@@ -2277,11 +2277,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-20 23:59:20"
+          "stock_updated": "2026-08-21 21:14:57"
         },
         {
           "skuid": "S0B300176CD16100C",
@@ -2325,11 +2325,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 13,
+          "stock": 12,
           "capacity": 20,
-          "fill_pct": 65,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-08-19 22:16:21"
+          "stock_updated": "2026-08-21 20:42:48"
         },
         {
           "skuid": "S0B2D48452F7E1005",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T17:19:34Z",
+  "updated": "2026-08-23T17:45:45Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -643,11 +643,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 11,
+          "stock": 9,
           "capacity": 16,
-          "fill_pct": 69,
+          "fill_pct": 56,
           "stock_warning": 0,
-          "stock_updated": "2026-08-23 00:35:30"
+          "stock_updated": "2026-08-23 12:20:45"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1111,11 +1111,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 11,
-          "fill_pct": 73,
+          "fill_pct": 64,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-23 12:20:45"
         },
         {
           "skuid": "S0B2EF08A265B1002",

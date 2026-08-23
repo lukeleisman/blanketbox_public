@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T18:59:15Z",
+  "updated": "2026-08-23T19:28:13Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -703,11 +703,11 @@
           "name": "GATORADE 20OZ ORANGE",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1634632186095.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-23 14:02:23"
         },
         {
           "skuid": "0B2A3CC3855F1003",
@@ -727,11 +727,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 2,
-          "fill_pct": 200,
+          "fill_pct": 150,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:14:47"
+          "stock_updated": "2026-08-23 14:02:23"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",

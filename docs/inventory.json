@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T16:24:58Z",
+  "updated": "2026-08-23T16:51:43Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1149,8 +1149,8 @@
       "location_name": "4200 Ludlow \u00b7 West Philly",
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
-      "total_skus": 48,
-      "in_stock": 37,
+      "total_skus": 50,
+      "in_stock": 39,
       "out_of_stock": 11,
       "low_stock": 0,
       "products": [
@@ -1213,6 +1213,18 @@
           "fill_pct": 0,
           "stock_warning": 0,
           "stock_updated": "2026-08-20 21:51:01"
+        },
+        {
+          "skuid": "S0B25FC5136E7100C",
+          "barcode": "8801073211506",
+          "name": "Buldak Spicy Ramen",
+          "price": 6.0,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176703148096672.png",
+          "stock": 12,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-23 11:41:12"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -1549,6 +1561,18 @@
           "fill_pct": 90,
           "stock_warning": 0,
           "stock_updated": "2026-08-22 19:00:38"
+        },
+        {
+          "skuid": "S0B2FECAE8E5A1008",
+          "barcode": "077958790536",
+          "name": "Panera tomato soup",
+          "price": 10.0,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178632072509338.png",
+          "stock": 2,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-23 11:41:12"
         },
         {
           "skuid": "S0B2D5DDDD87E1009",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T18:29:12Z",
+  "updated": "2026-08-23T18:59:15Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1799,8 +1799,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 54,
-      "in_stock": 45,
-      "out_of_stock": 9,
+      "in_stock": 44,
+      "out_of_stock": 10,
       "low_stock": 0,
       "products": [
         {
@@ -2373,11 +2373,11 @@
           "name": "Think adventurefuls",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178666939290752.png",
-          "stock": 13,
+          "stock": 12,
           "capacity": 15,
-          "fill_pct": 87,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-23 13:39:04"
         },
         {
           "skuid": "S0B300172DC1E1001",
@@ -2421,11 +2421,11 @@
           "name": "Vita coconut water",
           "price": 3.49,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176913044023980.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-23 13:39:04"
         },
         {
           "skuid": "S0B2F61985D4D1008",
@@ -2445,11 +2445,11 @@
           "name": "Wavii",
           "price": 5.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178209048093040.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-23 13:39:04"
         }
       ]
     },

@@ -4319,3 +4319,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-23T01:19:19Z,129111,philly,Philly TrueCooler II,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,19,18,-1
 2026-08-23T01:19:19Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,15,14,-1
 2026-08-23T01:19:19Z,16213,haven,TheHaven#2-cooler,S0B2FE7209DA61003,014100077602,Goldfish Cheddar,2.77,3,2,-1
+2026-08-23T03:50:00Z,15519,doylestown,333 North Broad Ambient,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.67,12,11,-1
+2026-08-23T03:50:00Z,129111,philly,Philly TrueCooler II,S0B2A44D16D23100C,88939200170,Celsius Cherry Cola,3.57,4,3,-1
+2026-08-23T03:50:00Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,24,23,-1
+2026-08-23T03:50:00Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,14,13,-1
+2026-08-23T03:50:00Z,16213,haven,TheHaven#2-cooler,S0B2DB93670101002,016000194069,Mott’s berry snacks,3.75,1,0,-1

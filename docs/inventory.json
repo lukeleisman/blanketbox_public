@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T15:21:38Z",
+  "updated": "2026-08-23T15:47:09Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -583,11 +583,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 5,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-23 10:24:25"
         },
         {
           "skuid": "S0B246944E5C11006",

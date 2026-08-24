@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T01:16:45Z",
+  "updated": "2026-08-24T02:45:14Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -342,11 +342,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 3,
-          "fill_pct": 133,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-21 21:29:35"
+          "stock_updated": "2026-08-23 21:12:12"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -1003,11 +1003,11 @@
           "name": "San Pelligrino Pomegranate and Orange",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17601191596212.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-23 21:12:04"
         },
         {
           "skuid": "S0B246944E4B51008",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T23:21:52Z",
+  "updated": "2026-08-24T23:46:36Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2734,11 +2734,11 @@
           "name": "robot remote kit",
           "price": 20.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/fba0ba89-eb15-4790-bb0d-f62d6052332a.jpg",
-          "stock": 9926,
+          "stock": 9924,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-07-20 10:33:29"
+          "stock_updated": "2026-08-24 18:23:47"
         },
         {
           "skuid": "S0B2E969B9C5A1003",

@@ -4390,3 +4390,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-24T21:53:46Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,5,4,-1
 2026-08-24T23:21:52Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,21,20,-1
 2026-08-24T23:21:52Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,11,10,-1
+2026-08-24T23:46:36Z,15520,mckinley,mHUBPrototypingShop,S0B2EE523C358100C,5895,robot remote kit,20.0,9926,9924,-2

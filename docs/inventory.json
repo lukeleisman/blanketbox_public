@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T17:30:13Z",
+  "updated": "2026-08-24T18:00:46Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -835,11 +835,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 14,
+          "stock": 13,
           "capacity": 26,
-          "fill_pct": 54,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-24 06:05:09"
+          "stock_updated": "2026-08-24 12:47:11"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1123,11 +1123,11 @@
           "name": "Wavii",
           "price": 5.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178209048093040.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-24 12:47:11"
         },
         {
           "skuid": "S0B246944DECF100B",

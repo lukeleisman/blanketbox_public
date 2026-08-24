@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T21:01:24Z",
+  "updated": "2026-08-24T21:53:46Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2073,11 +2073,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063766829.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 12,
-          "fill_pct": 58,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-24 16:15:16"
         },
         {
           "skuid": "S0B2FE7209DA61003",
@@ -2265,11 +2265,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:36:41"
+          "stock_updated": "2026-08-24 16:15:16"
         },
         {
           "skuid": "S0B2F619342CA1009",

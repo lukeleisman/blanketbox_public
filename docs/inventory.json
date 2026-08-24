@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T20:29:40Z",
+  "updated": "2026-08-24T21:01:24Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2061,11 +2061,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 2,
-          "fill_pct": 150,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-23 16:29:28"
+          "stock_updated": "2026-08-24 15:45:24"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2169,11 +2169,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 12,
+          "stock": 11,
           "capacity": 19,
-          "fill_pct": 63,
+          "fill_pct": 58,
           "stock_warning": 0,
-          "stock_updated": "2026-08-23 19:15:10"
+          "stock_updated": "2026-08-24 15:45:24"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -2277,11 +2277,11 @@
           "name": "Powerade Zero Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172366735251318.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 1,
-          "fill_pct": 400,
+          "fill_pct": 300,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:36:41"
+          "stock_updated": "2026-08-24 15:45:24"
         },
         {
           "skuid": "S0B2F6194A055100A",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T23:46:36Z",
+  "updated": "2026-08-25T01:14:54Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -571,11 +571,11 @@
           "name": "Celsius Kiwi Guava",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/171949904019511.png",
-          "stock": 6,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-24 19:01:36"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -2373,11 +2373,11 @@
           "name": "Think adventurefuls",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178666939290752.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 15,
-          "fill_pct": 80,
+          "fill_pct": 73,
           "stock_warning": 0,
-          "stock_updated": "2026-08-23 13:39:04"
+          "stock_updated": "2026-08-24 19:06:29"
         },
         {
           "skuid": "S0B300172DC1E1001",

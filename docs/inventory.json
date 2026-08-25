@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T03:48:25Z",
+  "updated": "2026-08-25T04:38:11Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 39,
-      "in_stock": 35,
-      "out_of_stock": 4,
+      "in_stock": 34,
+      "out_of_stock": 5,
       "low_stock": 0,
       "products": [
         {
@@ -342,11 +342,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-23 21:12:12"
+          "stock_updated": "2026-08-24 22:51:29"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -402,11 +402,11 @@
           "name": "skittles sour gummies 4.2oz",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000949/platgoods/e6be730c-9c82-4477-baef-73a2d828e319.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-21 21:29:35"
+          "stock_updated": "2026-08-24 22:51:29"
         },
         {
           "skuid": "S0B3002251E69100C",

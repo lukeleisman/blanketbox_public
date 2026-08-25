@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T23:26:27Z",
+  "updated": "2026-08-25T23:49:31Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1736,11 +1736,11 @@
           "name": "Vita Coco Coconut Water Organic",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1650653929348.png",
-          "stock": 3,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-08-23 11:54:22"
+          "stock_updated": "2026-08-25 18:45:07"
         },
         {
           "skuid": "S0B2F6198ACBB1001",

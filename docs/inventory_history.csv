@@ -4398,3 +4398,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-25T04:38:11Z,15519,doylestown,333 North Broad Ambient,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.5,3,2,-1
 2026-08-25T05:30:56Z,129111,philly,Philly TrueCooler II,S0B2D484E0EFD1001,014100043706,Milano,2.57,10,9,-1
 2026-08-25T05:30:56Z,129111,philly,Philly TrueCooler II,S0B25FC5136E7100C,8801073211506,Buldak Spicy Ramen,6.0,12,11,-1
+2026-08-25T18:38:31Z,16213,haven,TheHaven#2-cooler,S0B246944DEF51002,070847811169,Monster Energy,4.27,4,2,-2

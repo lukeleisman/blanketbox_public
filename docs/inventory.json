@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T21:32:55Z",
+  "updated": "2026-08-25T22:26:47Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1869,11 +1869,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 0,
+          "stock": -1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-25 16:50:49"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -2121,11 +2121,11 @@
           "name": "Jennie\u2019s Coconut bites",
           "price": 18.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619046579382.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-25 16:50:49"
         },
         {
           "skuid": "S0B2D4851D7141003",
@@ -2193,11 +2193,11 @@
           "name": "Milano",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 13,
+          "stock": 12,
           "capacity": 13,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-25 16:50:49"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -2385,11 +2385,11 @@
           "name": "Think minis smores",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178666913465510.png",
-          "stock": 14,
+          "stock": 13,
           "capacity": 15,
-          "fill_pct": 93,
+          "fill_pct": 87,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-25 16:50:49"
         },
         {
           "skuid": "S0B246944E3DB1006",

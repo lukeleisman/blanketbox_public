@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T04:38:11Z",
+  "updated": "2026-08-25T05:30:56Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1220,11 +1220,11 @@
           "name": "Buldak Spicy Ramen",
           "price": 6.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176703148096672.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 12,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-08-23 11:54:22"
+          "stock_updated": "2026-08-25 00:27:19"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -1520,11 +1520,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-08-23 11:54:22"
+          "stock_updated": "2026-08-25 00:27:19"
         },
         {
           "skuid": "S0B246944DEF51002",

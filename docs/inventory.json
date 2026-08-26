@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T01:17:42Z",
+  "updated": "2026-08-26T02:46:58Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -342,11 +342,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-08-24 22:51:29"
+          "stock_updated": "2026-08-25 21:02:45"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -655,11 +655,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 11,
-          "fill_pct": 91,
+          "fill_pct": 82,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-25 21:01:43"
         },
         {
           "skuid": "S0B2D055ACE44100B",

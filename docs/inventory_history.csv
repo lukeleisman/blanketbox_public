@@ -4413,3 +4413,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-26T03:52:55Z,129111,philly,Philly TrueCooler II,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,15,14,-1
 2026-08-26T03:52:55Z,129111,philly,Philly TrueCooler II,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,5,4,-1
 2026-08-26T11:58:32Z,16213,haven,TheHaven#2-cooler,S0B246944DEF51002,070847811169,Monster Energy,4.27,2,0,-2
+2026-08-26T15:59:11Z,15520,mckinley,mHUBPrototypingShop,S0B2E92CBE7C81009,F0B2E92CBE7C81007,Robot Brown Bag,20.0,9993,9991,-2

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T11:29:39Z",
+  "updated": "2026-08-26T11:58:32Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1799,8 +1799,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 54,
-      "in_stock": 44,
-      "out_of_stock": 10,
+      "in_stock": 43,
+      "out_of_stock": 11,
       "low_stock": 0,
       "products": [
         {
@@ -2205,11 +2205,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 2,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-25 13:07:42"
+          "stock_updated": "2026-08-26 06:52:21"
         },
         {
           "skuid": "S0B246944DEFB1003",

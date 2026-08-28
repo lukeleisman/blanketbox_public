@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T00:15:43Z",
+  "updated": "2026-08-28T11:38:58Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -126,11 +126,11 @@
           "name": "Ferrero Rocher",
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178668130904461.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-27 21:07:37"
         },
         {
           "skuid": "S0B2D48427F221004",
@@ -378,11 +378,11 @@
           "name": "Righteous Jerky",
           "price": 10.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178744481516065.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 22:47:56"
+          "stock_updated": "2026-08-27 21:07:37"
         },
         {
           "skuid": "S0B2FED3B37D71002",
@@ -1580,11 +1580,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 17,
+          "stock": 16,
           "capacity": 18,
-          "fill_pct": 94,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-08-25 18:49:34"
+          "stock_updated": "2026-08-27 19:35:25"
         },
         {
           "skuid": "S0B2FECAE8E5A1008",
@@ -1833,11 +1833,11 @@
           "name": "Brisk Iced Tea",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176736539400427.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-27 22:09:02"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -2037,11 +2037,11 @@
           "name": "GATORADE 20OZ ORANGE",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063782730.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 2,
-          "fill_pct": 200,
+          "fill_pct": 150,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:36:41"
+          "stock_updated": "2026-08-28 03:53:58"
         },
         {
           "skuid": "0B2A3CC3855F1003",
@@ -2169,11 +2169,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 19,
-          "fill_pct": 47,
+          "fill_pct": 42,
           "stock_warning": 0,
-          "stock_updated": "2026-08-27 16:10:25"
+          "stock_updated": "2026-08-27 22:07:53"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -2229,11 +2229,11 @@
           "name": "Mott\u2019s berry snacks",
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177686728068670.png",
-          "stock": 0,
+          "stock": -1,
           "capacity": 1,
-          "fill_pct": 0,
+          "fill_pct": -100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 21:54:49"
+          "stock_updated": "2026-08-27 22:07:53"
         },
         {
           "skuid": "S0B2EF08BF2341003",
@@ -2361,11 +2361,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 3,
-          "fill_pct": 200,
+          "fill_pct": 167,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:36:41"
+          "stock_updated": "2026-08-27 22:09:02"
         },
         {
           "skuid": "S0B300176CD16100C",

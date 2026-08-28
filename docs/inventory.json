@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T11:38:58Z",
+  "updated": "2026-08-28T21:45:44Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -631,11 +631,11 @@
           "name": "Deer park water",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-26 19:50:53"
+          "stock_updated": "2026-08-28 11:06:55"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -643,11 +643,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 5,
+          "stock": 2,
           "capacity": 16,
-          "fill_pct": 31,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-08-24 09:36:18"
+          "stock_updated": "2026-08-28 14:49:16"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -703,11 +703,11 @@
           "name": "GATORADE 20OZ ORANGE",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1634632186095.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-08-23 14:02:23"
+          "stock_updated": "2026-08-28 15:45:57"
         },
         {
           "skuid": "0B2A3CC3855F1003",
@@ -1015,11 +1015,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-28 09:59:07"
         },
         {
           "skuid": "S0B2D5DE0BABD100A",
@@ -1893,11 +1893,11 @@
           "name": "Celsius Peach Vibes",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064199646.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:36:41"
+          "stock_updated": "2026-08-28 08:25:48"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -2061,11 +2061,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-24 15:45:24"
+          "stock_updated": "2026-08-28 08:16:42"
         },
         {
           "skuid": "S0B246944E4051007",

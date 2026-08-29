@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T21:52:42Z",
+  "updated": "2026-08-29T23:54:49Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -66,11 +66,11 @@
           "name": "Candy M&M Plain",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 16:19:26"
+          "stock_updated": "2026-08-29 17:18:08"
         },
         {
           "skuid": "S0B2C6BE9F76D100A",
@@ -270,11 +270,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 16:09:17"
+          "stock_updated": "2026-08-29 17:18:08"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -1977,11 +1977,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:36:41"
+          "stock_updated": "2026-08-29 17:47:07"
         },
         {
           "skuid": "S0B246944E6801005",
@@ -2217,11 +2217,11 @@
           "name": "GATORADE 20OZ ORANGE",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063782730.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-28 03:53:58"
+          "stock_updated": "2026-08-29 17:47:07"
         },
         {
           "skuid": "0B2A3CC3855F1003",

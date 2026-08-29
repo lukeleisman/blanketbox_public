@@ -4465,3 +4465,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-28T21:45:44Z,16214,doylestown,333 North Broad Cooler,S0B246944E4F01003,052000328677,GATORADE 20OZ ORANGE,3.0,2,1,-1
 2026-08-28T21:45:44Z,16213,haven,TheHaven#2-cooler,S0B246944E5C11006,889392010190,Celsius Peach Vibes,3.57,5,4,-1
 2026-08-28T21:45:44Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.25,2,1,-1
+2026-08-29T03:32:08Z,15519,doylestown,333 North Broad Ambient,S0B246944E3C71001,04043506,Twix Candy Bar,2.67,13,12,-1
+2026-08-29T03:32:08Z,15519,doylestown,333 North Broad Ambient,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.67,9,8,-1
+2026-08-29T03:32:08Z,16214,doylestown,333 North Broad Cooler,S0B2A44D16D23100C,88939200170,Celsius Cherry Cola,3.57,4,3,-1

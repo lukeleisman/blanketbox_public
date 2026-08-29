@@ -4500,3 +4500,26 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-29T19:14:08Z,16213,haven,TheHaven#2-cooler,S0B246944E4B51008,012000813313,Starbucks_Frappuccino_Vanilla,4.27,5,4,-1
 2026-08-29T19:14:08Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.5,8,7,-1
 2026-08-29T19:14:08Z,16213,haven,TheHaven#2-cooler,S0B27699FEA161007,024100123223,Cheez It Original,2.0,6,5,-1
+2026-08-29T21:52:42Z,15519,doylestown,333 North Broad Ambient,S0B246944E3C71001,04043506,Twix Candy Bar,2.67,12,15,3
+2026-08-29T21:52:42Z,15519,doylestown,333 North Broad Ambient,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.67,8,12,4
+2026-08-29T21:52:42Z,15519,doylestown,333 North Broad Ambient,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.67,10,6,-4
+2026-08-29T21:52:42Z,15519,doylestown,333 North Broad Ambient,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.5,0,9,9
+2026-08-29T21:52:42Z,15519,doylestown,333 North Broad Ambient,S0B25F6365FD11002,0980080005,NutellaGo,2.77,6,8,2
+2026-08-29T21:52:42Z,15519,doylestown,333 North Broad Ambient,S0B302FAECE981004,852089007469,Righteous Jerky,10.0,1,2,1
+2026-08-29T21:52:42Z,15519,doylestown,333 North Broad Ambient,S0B2FED3B37D71002,022000301130,Skittles Gummies Wild Berry,4.5,1,0,-1
+2026-08-29T21:52:42Z,16214,doylestown,333 North Broad Cooler,S0B246944E4B51008,012000813313,Starbucks_Frappuccino_Vanilla,3.75,10,11,1
+2026-08-29T21:52:42Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.5,13,21,8
+2026-08-29T21:52:42Z,16214,doylestown,333 North Broad Cooler,S0B246944DEF51002,070847811169,Monster Energy,4.27,6,7,1
+2026-08-29T21:52:42Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,1,26,25
+2026-08-29T21:52:42Z,16214,doylestown,333 North Broad Cooler,S0B2C858213931004,F0B2C858213931002,Recess strawberry rose,3.75,8,7,-1
+2026-08-29T21:52:42Z,16214,doylestown,333 North Broad Cooler,S0B2F6194A055100A,4900005074,Powerade Zero Grape,3.0,3,6,3
+2026-08-29T21:52:42Z,16214,doylestown,333 North Broad Cooler,S0B2D0516EFCB1008,007478051550,Maison Perrier Sparkling Water,3.0,0,1,1
+2026-08-29T21:52:42Z,16214,doylestown,333 North Broad Cooler,S0B2C85783CD31007,1162002196,Fair Life Core Power 26g Vanilla Protein Shake,5.25,9,10,1
+2026-08-29T21:52:42Z,16214,doylestown,333 North Broad Cooler,S0B2FECB8B02B1009,811620022125,Fairlife Vanilla Protein,5.5,6,7,1
+2026-08-29T21:52:42Z,16214,doylestown,333 North Broad Cooler,S0B2E63AC3F231007,682430010486,Voss Water,6.99,3,15,12
+2026-08-29T21:52:42Z,16214,doylestown,333 North Broad Cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,4,5,1
+2026-08-29T21:52:42Z,16214,doylestown,333 North Broad Cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,3,2,-1
+2026-08-29T21:52:42Z,16214,doylestown,333 North Broad Cooler,0B2A3CC3855F1003,052000208429,Gatorade Fierce Grape,2.5,25,22,-3
+2026-08-29T21:52:42Z,16214,doylestown,333 North Broad Cooler,S0B2A44D16D23100C,88939200170,Celsius Cherry Cola,3.57,2,0,-2
+2026-08-29T21:52:42Z,16214,doylestown,333 North Broad Cooler,S0B2D0552D8121008,8939200091,Celsius Grape,3.57,-2,0,2
+2026-08-29T21:52:42Z,129111,philly,Philly TrueCooler II,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,13,12,-1

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T19:14:08Z",
+  "updated": "2026-08-29T21:52:42Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -7,11 +7,23 @@
       "location_name": "333 North Broad",
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
-      "total_skus": 39,
-      "in_stock": 33,
+      "total_skus": 44,
+      "in_stock": 38,
       "out_of_stock": 6,
       "low_stock": 0,
       "products": [
+        {
+          "skuid": "S0B246944E6801005",
+          "barcode": "040000422082",
+          "name": "3 Musketeers",
+          "price": 2.5,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168901411356537.jpeg",
+          "stock": 5,
+          "capacity": 5,
+          "fill_pct": 100,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-29 16:10:20"
+        },
         {
           "skuid": "S0B2EF4B873171003",
           "barcode": "634418523495",
@@ -19,10 +31,10 @@
           "price": 7.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178216062408651.png",
           "stock": 1,
-          "capacity": 5,
-          "fill_pct": 20,
+          "capacity": 1,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-23 08:47:53"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B260510FB391004",
@@ -31,10 +43,10 @@
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
           "stock": 5,
-          "capacity": 6,
-          "fill_pct": 83,
+          "capacity": 5,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -46,7 +58,19 @@
           "capacity": 2,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-29 16:09:17"
+        },
+        {
+          "skuid": "S0B246944E6EA1003",
+          "barcode": "04043108",
+          "name": "Candy M&M Plain",
+          "price": 2.57,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
+          "stock": 10,
+          "capacity": 10,
+          "fill_pct": 100,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-29 16:19:26"
         },
         {
           "skuid": "S0B2C6BE9F76D100A",
@@ -55,10 +79,10 @@
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
           "stock": 14,
-          "capacity": 13,
-          "fill_pct": 108,
+          "capacity": 14,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:21:13"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B2FECA70BC81000",
@@ -70,7 +94,7 @@
           "capacity": 17,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B2BA2E2259B1009",
@@ -82,7 +106,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B2E63AAF0F01005",
@@ -91,10 +115,10 @@
           "price": 9.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972704249174.png",
           "stock": 0,
-          "capacity": 2,
-          "fill_pct": 0,
+          "capacity": 0,
+          "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-19 22:40:32"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B2FE716F5901003",
@@ -103,10 +127,22 @@
           "price": 7.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17862269041505.png",
           "stock": 2,
-          "capacity": 3,
-          "fill_pct": 67,
+          "capacity": 2,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-29 16:09:17"
+        },
+        {
+          "skuid": "S0B3053127F821006",
+          "barcode": "805509093313",
+          "name": "Elan Fiji Mix",
+          "price": 7.5,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178803855112463.png",
+          "stock": 3,
+          "capacity": 3,
+          "fill_pct": 100,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-29 16:28:07"
         },
         {
           "skuid": "S0B30016DFAA81002",
@@ -115,10 +151,10 @@
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178666881468049.png",
           "stock": 9,
-          "capacity": 10,
-          "fill_pct": 90,
+          "capacity": 9,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B30022CA06A1003",
@@ -127,10 +163,10 @@
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178668130904461.png",
           "stock": 2,
-          "capacity": 4,
-          "fill_pct": 50,
+          "capacity": 2,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-27 21:07:37"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B2D48427F221004",
@@ -139,10 +175,10 @@
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177450068582980.png",
           "stock": 5,
-          "capacity": 6,
-          "fill_pct": 83,
+          "capacity": 5,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B2FE7209DA61003",
@@ -151,10 +187,10 @@
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172165768291916.png",
           "stock": 10,
-          "capacity": 11,
-          "fill_pct": 91,
+          "capacity": 10,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-19 22:40:32"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B2D1141B78F1003",
@@ -166,7 +202,7 @@
           "capacity": 2,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B2D11E008E11008",
@@ -178,7 +214,7 @@
           "capacity": 1,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B2DFCAA016C1003",
@@ -187,10 +223,10 @@
           "price": 18.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799892794318.png",
           "stock": 1,
-          "capacity": 3,
-          "fill_pct": 33,
+          "capacity": 1,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-19 21:23:55"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B2D90DF10651003",
@@ -202,7 +238,7 @@
           "capacity": 5,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B30016FDCE11007",
@@ -214,7 +250,7 @@
           "capacity": 5,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B246944E6C51002",
@@ -226,7 +262,7 @@
           "capacity": 15,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B246944E19E1000",
@@ -234,11 +270,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 10,
-          "capacity": 11,
-          "fill_pct": 91,
+          "stock": 6,
+          "capacity": 6,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-26 17:31:52"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -247,10 +283,22 @@
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
           "stock": 3,
-          "capacity": 4,
-          "fill_pct": 75,
+          "capacity": 3,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-29 16:09:17"
+        },
+        {
+          "skuid": "S0B2BC10A038C1008",
+          "barcode": "040000522065",
+          "name": "Milky Way",
+          "price": 2.5,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176366967811221.png",
+          "stock": 6,
+          "capacity": 6,
+          "fill_pct": 100,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-29 16:10:20"
         },
         {
           "skuid": "S0B246944E1A51002",
@@ -262,7 +310,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B30022234F81004",
@@ -274,7 +322,7 @@
           "capacity": 4,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B246944E9DB1005",
@@ -286,7 +334,7 @@
           "capacity": 4,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B27699FEC921007",
@@ -295,10 +343,10 @@
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368269911559.png",
           "stock": 13,
-          "capacity": 15,
-          "fill_pct": 87,
+          "capacity": 13,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-19 19:42:13"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B2885215A1B1003",
@@ -307,10 +355,10 @@
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866563574429.png",
           "stock": 13,
-          "capacity": 14,
-          "fill_pct": 93,
+          "capacity": 13,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-27 08:50:42"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B25F6365FD11002",
@@ -318,11 +366,11 @@
           "name": "NutellaGo",
           "price": 2.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 6,
-          "capacity": 9,
-          "fill_pct": 67,
+          "stock": 8,
+          "capacity": 8,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-19 09:45:22"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B2FE73E50B01004",
@@ -334,7 +382,7 @@
           "capacity": 6,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B246944E3D51001",
@@ -342,11 +390,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 0,
-          "capacity": 3,
-          "fill_pct": 0,
+          "stock": 9,
+          "capacity": 9,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-27 18:16:46"
+          "stock_updated": "2026-08-29 16:19:26"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -358,7 +406,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B2BAC9D24491002",
@@ -367,10 +415,22 @@
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
           "stock": 7,
-          "capacity": 8,
-          "fill_pct": 88,
+          "capacity": 7,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-23 19:26:37"
+          "stock_updated": "2026-08-29 16:09:17"
+        },
+        {
+          "skuid": "S0B30530C0E711003",
+          "barcode": "655852006849",
+          "name": "Pub Spicy Blend",
+          "price": 13.0,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178803812880949.png",
+          "stock": 4,
+          "capacity": 4,
+          "fill_pct": 100,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-29 16:28:07"
         },
         {
           "skuid": "S0B302FAECE981004",
@@ -378,11 +438,11 @@
           "name": "Righteous Jerky",
           "price": 10.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178744481516065.png",
-          "stock": 1,
-          "capacity": 0,
-          "fill_pct": null,
+          "stock": 2,
+          "capacity": 2,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-27 21:07:37"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B2FED3B37D71002",
@@ -390,11 +450,11 @@
           "name": "Skittles Gummies Wild Berry",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177941315465071.png",
-          "stock": 1,
-          "capacity": 3,
-          "fill_pct": 33,
+          "stock": 0,
+          "capacity": 0,
+          "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B2FED3AF93A1007",
@@ -403,10 +463,10 @@
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000949/platgoods/e6be730c-9c82-4477-baef-73a2d828e319.jpg",
           "stock": 0,
-          "capacity": 3,
-          "fill_pct": 0,
+          "capacity": 0,
+          "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-24 22:51:29"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B3002251E69100C",
@@ -418,7 +478,7 @@
           "capacity": 3,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B30022A02171005",
@@ -430,7 +490,7 @@
           "capacity": 5,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B27699FEBCD1003",
@@ -438,11 +498,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 8,
+          "stock": 12,
           "capacity": 12,
-          "fill_pct": 67,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-28 17:56:17"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B300176CD16100C",
@@ -451,10 +511,10 @@
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178666939290752.png",
           "stock": 13,
-          "capacity": 15,
-          "fill_pct": 87,
+          "capacity": 13,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-19 19:42:13"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B300172DC1E1001",
@@ -466,7 +526,7 @@
           "capacity": 15,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-18 22:44:13"
+          "stock_updated": "2026-08-29 16:09:17"
         },
         {
           "skuid": "S0B246944E3C71001",
@@ -474,11 +534,11 @@
           "name": "Twix Candy Bar",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 12,
-          "capacity": 16,
-          "fill_pct": 75,
+          "stock": 15,
+          "capacity": 15,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-28 17:56:17"
+          "stock_updated": "2026-08-29 16:09:17"
         }
       ]
     },
@@ -488,8 +548,8 @@
       "location_name": "333 North Broad",
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
-      "total_skus": 54,
-      "in_stock": 33,
+      "total_skus": 59,
+      "in_stock": 38,
       "out_of_stock": 21,
       "low_stock": 0,
       "products": [
@@ -500,10 +560,10 @@
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
           "stock": 0,
-          "capacity": 2,
-          "fill_pct": 0,
+          "capacity": 0,
+          "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B2EB7FF1C0F1007",
@@ -512,10 +572,10 @@
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176736539400427.png",
           "stock": 0,
-          "capacity": 4,
-          "fill_pct": 0,
+          "capacity": 0,
+          "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-23 00:35:30"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -524,10 +584,10 @@
           "price": 25.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174454737098059.png",
           "stock": 2,
-          "capacity": 0,
-          "fill_pct": null,
+          "capacity": 2,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:15:08"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B2A44D16D23100C",
@@ -535,11 +595,11 @@
           "name": "Celsius Cherry Cola",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176202960060787.png",
-          "stock": 2,
-          "capacity": 5,
-          "fill_pct": 40,
+          "stock": 0,
+          "capacity": 0,
+          "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 14:02:39"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B27699FF0CC100A",
@@ -551,7 +611,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -559,11 +619,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": -2,
+          "stock": 0,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-27 18:02:06"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B246944E4EB1007",
@@ -572,10 +632,10 @@
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/171949904019511.png",
           "stock": 2,
-          "capacity": 6,
-          "fill_pct": 33,
+          "capacity": 2,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 06:35:29"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -584,10 +644,10 @@
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
           "stock": 1,
-          "capacity": 6,
-          "fill_pct": 17,
+          "capacity": 1,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-24 20:19:10"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B246944E5C11006",
@@ -596,10 +656,10 @@
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064199646.jpg",
           "stock": 5,
-          "capacity": 6,
-          "fill_pct": 83,
+          "capacity": 5,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 13:23:24"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B2668475B231007",
@@ -611,7 +671,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B246944DEAE1000",
@@ -623,7 +683,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -635,7 +695,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 12:27:37"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -643,11 +703,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 1,
-          "capacity": 16,
-          "fill_pct": 6,
+          "stock": 26,
+          "capacity": 26,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 13:23:24"
+          "stock_updated": "2026-08-29 16:00:27"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -655,11 +715,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 9,
-          "capacity": 11,
-          "fill_pct": 82,
+          "stock": 10,
+          "capacity": 10,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-25 21:01:43"
+          "stock_updated": "2026-08-29 16:00:27"
         },
         {
           "skuid": "S0B2D055ACE44100B",
@@ -668,10 +728,10 @@
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175859439715951.png",
           "stock": 4,
-          "capacity": 6,
-          "fill_pct": 67,
+          "capacity": 4,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-27 07:14:38"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B246944DFD21006",
@@ -680,10 +740,22 @@
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
           "stock": 3,
-          "capacity": 10,
-          "fill_pct": 30,
+          "capacity": 3,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-27 07:14:38"
+          "stock_updated": "2026-08-29 15:31:48"
+        },
+        {
+          "skuid": "S0B3052F2BFF3100A",
+          "barcode": "811620022118",
+          "name": "Fairlife Nutrition Plan 30g High Quality Protein",
+          "price": 5.5,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023836433496.png",
+          "stock": 7,
+          "capacity": 7,
+          "fill_pct": 100,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-29 15:49:41"
         },
         {
           "skuid": "S0B2FECB8B02B1009",
@@ -691,11 +763,11 @@
           "name": "Fairlife Vanilla Protein",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000535/platgoods/a743c6ae-ae17-49ee-a05c-3438581609f1.jpg",
-          "stock": 6,
-          "capacity": 8,
-          "fill_pct": 75,
+          "stock": 7,
+          "capacity": 7,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-27 14:44:46"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B246944E4F01003",
@@ -704,10 +776,10 @@
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1634632186095.png",
           "stock": 1,
-          "capacity": 3,
-          "fill_pct": 33,
+          "capacity": 1,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-28 15:45:57"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "0B2A3CC3855F1003",
@@ -715,11 +787,11 @@
           "name": "Gatorade Fierce Grape",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17497632086008.png",
-          "stock": 25,
-          "capacity": 25,
+          "stock": 22,
+          "capacity": 22,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -727,11 +799,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 2,
-          "fill_pct": 150,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-23 14:02:23"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -743,7 +815,7 @@
           "capacity": 1,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -752,10 +824,10 @@
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
           "stock": 7,
-          "capacity": 0,
-          "fill_pct": null,
+          "capacity": 7,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-28 22:47:14"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -763,11 +835,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023828232980.png",
-          "stock": 4,
-          "capacity": 4,
+          "stock": 5,
+          "capacity": 5,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:40:25"
         },
         {
           "skuid": "S0B2D4851D7141003",
@@ -779,7 +851,7 @@
           "capacity": 2,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B25FC5C5C991003",
@@ -791,7 +863,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B25FC5AF4F7100C",
@@ -803,7 +875,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -811,11 +883,47 @@
           "name": "Maison Perrier Sparkling Water",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17773152898848.png",
-          "stock": 0,
-          "capacity": 2,
-          "fill_pct": 0,
+          "stock": 1,
+          "capacity": 1,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-27 11:03:37"
+          "stock_updated": "2026-08-29 15:40:25"
+        },
+        {
+          "skuid": "S0B3052F18C8E1002",
+          "barcode": "850058349138",
+          "name": "Moment black lavender",
+          "price": 7.5,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178803639186656.png",
+          "stock": 2,
+          "capacity": 2,
+          "fill_pct": 100,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-29 15:57:22"
+        },
+        {
+          "skuid": "S0B3052F00C8E1005",
+          "barcode": "850058349091",
+          "name": "Moment Mango glow",
+          "price": 7.5,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178803629354046.png",
+          "stock": 2,
+          "capacity": 2,
+          "fill_pct": 100,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-29 15:57:22"
+        },
+        {
+          "skuid": "S0B3052F97FBC1003",
+          "barcode": "850058349114",
+          "name": "Moment Straw rose",
+          "price": 7.5,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178803691278760.png",
+          "stock": 2,
+          "capacity": 2,
+          "fill_pct": 100,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-29 15:58:53"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -823,11 +931,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 6,
-          "capacity": 3,
-          "fill_pct": 200,
+          "stock": 7,
+          "capacity": 7,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:12:42"
+          "stock_updated": "2026-08-29 15:38:17"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -835,11 +943,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 13,
-          "capacity": 26,
-          "fill_pct": 50,
+          "stock": 21,
+          "capacity": 21,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-24 12:47:11"
+          "stock_updated": "2026-08-29 16:00:27"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -851,7 +959,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B2EF08BF2341003",
@@ -860,10 +968,10 @@
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178209059828743.png",
           "stock": 5,
-          "capacity": 7,
-          "fill_pct": 71,
+          "capacity": 5,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-23 00:35:30"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B300263EBDF1004",
@@ -872,10 +980,10 @@
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175796271645448.png",
           "stock": 12,
-          "capacity": 13,
-          "fill_pct": 92,
+          "capacity": 12,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B2FECB1AEFC1004",
@@ -887,7 +995,7 @@
           "capacity": 2,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-23 12:56:10"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B2FECAE8E5A1008",
@@ -899,7 +1007,7 @@
           "capacity": 2,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-23 12:56:10"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B246944E5891006",
@@ -911,7 +1019,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B2F619342CA1009",
@@ -920,10 +1028,10 @@
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172366735251318.png",
           "stock": 3,
-          "capacity": 4,
-          "fill_pct": 75,
+          "capacity": 3,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B2F6194A055100A",
@@ -931,11 +1039,23 @@
           "name": "Powerade Zero Grape",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175799657047375.png",
-          "stock": 3,
-          "capacity": 3,
+          "stock": 6,
+          "capacity": 6,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:38:17"
+        },
+        {
+          "skuid": "S0B2F61930CDF1009",
+          "barcode": "0049000050752",
+          "name": "Powerade Zero Mixed Berry 20floz",
+          "price": 3.0,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176048132401919.png",
+          "stock": 2,
+          "capacity": 2,
+          "fill_pct": 100,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-29 15:40:25"
         },
         {
           "skuid": "S0B2D05DCDEEB1007",
@@ -947,7 +1067,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B2C858213931004",
@@ -955,11 +1075,11 @@
           "name": "Recess strawberry rose",
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177170485524851.png",
-          "stock": 8,
-          "capacity": 8,
+          "stock": 7,
+          "capacity": 7,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B2CC2D2640F1005",
@@ -971,7 +1091,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B2D3E6D7FBD1003",
@@ -983,7 +1103,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B2D3E6DA5E01005",
@@ -995,7 +1115,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B29D2F2643D100B",
@@ -1004,10 +1124,10 @@
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17601191596212.png",
           "stock": 0,
-          "capacity": 3,
-          "fill_pct": 0,
+          "capacity": 0,
+          "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 12:15:51"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B246944E4B51008",
@@ -1015,11 +1135,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 10,
+          "stock": 11,
           "capacity": 11,
-          "fill_pct": 91,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-28 09:59:07"
+          "stock_updated": "2026-08-29 16:00:27"
         },
         {
           "skuid": "S0B2D5DE0BABD100A",
@@ -1031,7 +1151,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B266D76782F1002",
@@ -1043,7 +1163,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B2FED291FB81003",
@@ -1055,7 +1175,7 @@
           "capacity": 8,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B2DB92EA84A1003",
@@ -1067,7 +1187,7 @@
           "capacity": 2,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B2F6198ACBB1001",
@@ -1079,7 +1199,7 @@
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B2F619785511007",
@@ -1088,10 +1208,10 @@
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176953552008452.png",
           "stock": 2,
-          "capacity": 5,
-          "fill_pct": 40,
+          "capacity": 2,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-23 18:43:13"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B2F6197FB821002",
@@ -1103,7 +1223,7 @@
           "capacity": 3,
           "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B2E63AC3F231007",
@@ -1111,11 +1231,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 3,
-          "capacity": 11,
-          "fill_pct": 27,
+          "stock": 15,
+          "capacity": 15,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-26 13:14:48"
+          "stock_updated": "2026-08-29 15:38:17"
         },
         {
           "skuid": "S0B2EF08A265B1002",
@@ -1124,10 +1244,10 @@
           "price": 5.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178209048093040.png",
           "stock": 1,
-          "capacity": 2,
-          "fill_pct": 50,
+          "capacity": 1,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-08-24 12:47:11"
+          "stock_updated": "2026-08-29 15:31:48"
         },
         {
           "skuid": "S0B246944DECF100B",
@@ -1136,10 +1256,10 @@
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000021/goods/000021/mergoods/1593545699367.jpg",
           "stock": 0,
-          "capacity": 1,
-          "fill_pct": 0,
+          "capacity": 0,
+          "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:09:04"
+          "stock_updated": "2026-08-29 15:31:48"
         }
       ]
     },
@@ -1376,11 +1496,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 13,
+          "stock": 12,
           "capacity": 13,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 14:05:11"
+          "stock_updated": "2026-08-29 14:25:41"
         },
         {
           "skuid": "S0B2C85783CD31007",

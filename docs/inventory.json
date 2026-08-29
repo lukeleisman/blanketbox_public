@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T10:51:16Z",
+  "updated": "2026-08-29T15:30:23Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -571,11 +571,11 @@
           "name": "Celsius Kiwi Guava",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/171949904019511.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-08-27 03:47:07"
+          "stock_updated": "2026-08-29 06:35:29"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -1748,11 +1748,11 @@
           "name": "Vitamin Water Blue Raspberry Limeade",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175219487117396.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-08-23 11:54:22"
+          "stock_updated": "2026-08-29 09:08:52"
         },
         {
           "skuid": "S0B2F619785511007",

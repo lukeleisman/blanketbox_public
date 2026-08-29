@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T03:32:08Z",
+  "updated": "2026-08-29T10:51:16Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -631,11 +631,11 @@
           "name": "Deer park water",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-28 11:06:55"
+          "stock_updated": "2026-08-28 22:47:14"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -751,11 +751,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:14:47"
+          "stock_updated": "2026-08-28 22:47:14"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2494,11 +2494,11 @@
           "name": "2in brush / 1in brush",
           "price": 4.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/bba37197-5ca3-4ce9-9157-f69d3aa0f50c.jpg",
-          "stock": 9999,
+          "stock": 9998,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-19 17:33:23"
+          "stock_updated": "2026-08-29 01:17:18"
         },
         {
           "skuid": "S0B2E96BB70CA100B",
@@ -2506,11 +2506,11 @@
           "name": "3m finishing 4 pack gray",
           "price": 8.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/14c74f90-f6d7-4ae9-a261-bb9672c9c867.jpg",
-          "stock": 9998,
+          "stock": 9997,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-19 13:57:05"
+          "stock_updated": "2026-08-29 01:17:18"
         },
         {
           "skuid": "S0B2E96BC970C100C",
@@ -2518,11 +2518,11 @@
           "name": "3M finishing green 2 pack",
           "price": 6.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/68b1c283-6f45-449e-af88-9f408cbba7ab.jpg",
-          "stock": 9999,
+          "stock": 9998,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-19 17:33:23"
+          "stock_updated": "2026-08-29 01:17:18"
         },
         {
           "skuid": "S0B2E92BC88C61003",
@@ -2830,11 +2830,11 @@
           "name": "Weld-on",
           "price": 12.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177740440491446.png",
-          "stock": 9999,
+          "stock": 9998,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-19 17:33:23"
+          "stock_updated": "2026-08-29 01:17:18"
         }
       ]
     },

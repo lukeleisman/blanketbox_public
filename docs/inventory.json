@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T09:53:17Z",
+  "updated": "2026-08-30T14:42:12Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1904,11 +1904,11 @@
           "name": "Vita Coco Coconut Water Organic",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1650653929348.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 14:05:11"
+          "stock_updated": "2026-08-30 06:10:06"
         },
         {
           "skuid": "S0B2F6198ACBB1001",
@@ -2073,11 +2073,11 @@
           "name": "Celsius Peach Vibes",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064199646.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-08-28 08:25:48"
+          "stock_updated": "2026-08-30 08:46:58"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -2085,11 +2085,11 @@
           "name": "Cheez It Original",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254819896872.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 11:27:12"
+          "stock_updated": "2026-08-30 08:46:58"
         },
         {
           "skuid": "S0B2DAF9429041007",

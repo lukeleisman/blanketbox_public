@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T21:24:11Z",
+  "updated": "2026-08-30T23:42:17Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -549,8 +549,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 59,
-      "in_stock": 37,
-      "out_of_stock": 22,
+      "in_stock": 36,
+      "out_of_stock": 23,
       "low_stock": 0,
       "products": [
         {
@@ -631,11 +631,11 @@
           "name": "Celsius Kiwi Guava",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/171949904019511.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-30 15:28:36"
+          "stock_updated": "2026-08-30 17:49:03"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -703,11 +703,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 25,
+          "stock": 20,
           "capacity": 26,
-          "fill_pct": 96,
+          "fill_pct": 77,
           "stock_warning": 0,
-          "stock_updated": "2026-08-30 15:28:36"
+          "stock_updated": "2026-08-30 18:38:09"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1051,11 +1051,11 @@
           "name": "Powerade Zero Mixed Berry 20floz",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176048132401919.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 15:40:25"
+          "stock_updated": "2026-08-30 17:49:03"
         },
         {
           "skuid": "S0B2D05DCDEEB1007",
@@ -1207,11 +1207,11 @@
           "name": "VITAMIN WATER DRAGONFRUIT",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176953552008452.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 15:31:48"
+          "stock_updated": "2026-08-30 17:18:20"
         },
         {
           "skuid": "S0B2F6197FB821002",
@@ -2253,11 +2253,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063766829.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-08-24 16:15:16"
+          "stock_updated": "2026-08-30 18:38:31"
         },
         {
           "skuid": "S0B2FE7209DA61003",
@@ -2265,11 +2265,11 @@
           "name": "Goldfish Cheddar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172165768291916.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 19:58:51"
+          "stock_updated": "2026-08-30 18:38:31"
         },
         {
           "skuid": "S0B246944E7FE1008",
@@ -2373,11 +2373,11 @@
           "name": "Milano",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 12,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-08-25 16:50:49"
+          "stock_updated": "2026-08-30 18:38:31"
         },
         {
           "skuid": "S0B2BC10A038C1008",
@@ -2445,11 +2445,11 @@
           "name": "NutellaGo",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-08-30 18:38:31"
         },
         {
           "skuid": "S0B246944E3D51001",

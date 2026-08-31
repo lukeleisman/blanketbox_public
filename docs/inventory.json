@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T04:04:00Z",
+  "updated": "2026-08-31T11:02:41Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 44,
-      "in_stock": 38,
-      "out_of_stock": 6,
+      "in_stock": 37,
+      "out_of_stock": 7,
       "low_stock": 0,
       "products": [
         {
@@ -222,11 +222,11 @@
           "name": "Japanese Party Mix",
           "price": 18.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177799892794318.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 16:09:17"
+          "stock_updated": "2026-08-31 01:53:53"
         },
         {
           "skuid": "S0B2D90DF10651003",
@@ -549,8 +549,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 59,
-      "in_stock": 35,
-      "out_of_stock": 24,
+      "in_stock": 34,
+      "out_of_stock": 25,
       "low_stock": 0,
       "products": [
         {
@@ -739,11 +739,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 3,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 15:31:48"
+          "stock_updated": "2026-08-31 01:45:16"
         },
         {
           "skuid": "S0B3052F2BFF3100A",
@@ -811,11 +811,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 15:31:48"
+          "stock_updated": "2026-08-31 01:54:56"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -943,11 +943,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 21,
+          "stock": 20,
           "capacity": 21,
-          "fill_pct": 100,
+          "fill_pct": 95,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 16:00:27"
+          "stock_updated": "2026-08-31 05:58:54"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1171,11 +1171,11 @@
           "name": "Tropicana Orange Juice",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176954850457683.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 15:31:48"
+          "stock_updated": "2026-08-31 01:54:56"
         },
         {
           "skuid": "S0B2DB92EA84A1003",
@@ -1255,11 +1255,11 @@
           "name": "XXX Acai-Blueberry-Pomegranate 20 Oz Bottle",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000021/goods/000021/mergoods/1593545699367.jpg",
-          "stock": 0,
+          "stock": -1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 15:31:48"
+          "stock_updated": "2026-08-31 01:45:16"
         }
       ]
     },

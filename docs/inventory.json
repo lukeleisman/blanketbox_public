@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T11:02:41Z",
+  "updated": "2026-08-31T18:04:10Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -7,8 +7,8 @@
       "location_name": "333 North Broad",
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
-      "total_skus": 44,
-      "in_stock": 37,
+      "total_skus": 50,
+      "in_stock": 43,
       "out_of_stock": 7,
       "low_stock": 0,
       "products": [
@@ -35,6 +35,18 @@
           "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-08-29 16:09:17"
+        },
+        {
+          "skuid": "S0B26050ED251100C",
+          "barcode": "079656045321",
+          "name": "Banana Boat Sport Ultra 30 SPF 1oz",
+          "price": 2.5,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17437800146259.png",
+          "stock": 4,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-31 10:39:13"
         },
         {
           "skuid": "S0B260510FB391004",
@@ -138,11 +150,11 @@
           "name": "Elan Fiji Mix",
           "price": 7.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178803855112463.png",
-          "stock": 3,
+          "stock": 4,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 133,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 16:28:07"
+          "stock_updated": "2026-08-31 10:39:13"
         },
         {
           "skuid": "S0B30016DFAA81002",
@@ -179,6 +191,18 @@
           "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-08-29 16:09:17"
+        },
+        {
+          "skuid": "S0B2BACA08148100A",
+          "barcode": "F0B2BACA081481008",
+          "name": "General Med First Aid",
+          "price": 12.0,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806619266345.png",
+          "stock": 2,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-31 10:39:13"
         },
         {
           "skuid": "S0B2FE7209DA61003",
@@ -251,6 +275,18 @@
           "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-08-29 16:09:17"
+        },
+        {
+          "skuid": "S0B2C19076DF51005",
+          "barcode": "F0B2C19076DF51003",
+          "name": "JNJ first aid",
+          "price": 3.0,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176988487714383.png",
+          "stock": 2,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-31 10:39:13"
         },
         {
           "skuid": "S0B246944E6C51002",
@@ -359,6 +395,30 @@
           "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-08-29 16:09:17"
+        },
+        {
+          "skuid": "S0B25FC58DD6C1004",
+          "barcode": "8680011254",
+          "name": "Neutrogena Beach Defense spf 50",
+          "price": 10.0,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363387219540.png",
+          "stock": 4,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-31 10:39:13"
+        },
+        {
+          "skuid": "S0B25FC53055E1009",
+          "barcode": "8680010040",
+          "name": "Neutrogena Ultra Sheer Body Mist Sunscreen",
+          "price": 10.0,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363348881538.png",
+          "stock": 2,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-31 10:39:13"
         },
         {
           "skuid": "S0B25F6365FD11002",
@@ -534,11 +594,23 @@
           "name": "Twix Candy Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 15,
+          "stock": 13,
           "capacity": 15,
-          "fill_pct": 100,
+          "fill_pct": 87,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 16:09:17"
+          "stock_updated": "2026-08-31 11:44:20"
+        },
+        {
+          "skuid": "S0B246944E8251002",
+          "barcode": "300450449153",
+          "name": "Tylenol 10 Pack",
+          "price": 4.0,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/169895824250838.jpeg",
+          "stock": 4,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-08-31 10:39:13"
         }
       ]
     },
@@ -691,11 +763,11 @@
           "name": "Deer park water",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 0,
+          "stock": 7,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 15:31:48"
+          "stock_updated": "2026-08-31 10:40:32"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -703,11 +775,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 20,
+          "stock": 18,
           "capacity": 26,
-          "fill_pct": 77,
+          "fill_pct": 69,
           "stock_warning": 0,
-          "stock_updated": "2026-08-30 18:38:09"
+          "stock_updated": "2026-08-31 07:17:57"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -787,11 +859,11 @@
           "name": "Gatorade Fierce Grape",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17497632086008.png",
-          "stock": 21,
+          "stock": 20,
           "capacity": 22,
-          "fill_pct": 95,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-08-30 22:31:27"
+          "stock_updated": "2026-08-31 12:17:13"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -799,11 +871,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-30 22:31:27"
+          "stock_updated": "2026-08-31 11:47:34"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1231,11 +1303,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 9,
+          "stock": 19,
           "capacity": 15,
-          "fill_pct": 60,
+          "fill_pct": 127,
           "stock_warning": 0,
-          "stock_updated": "2026-08-30 12:45:49"
+          "stock_updated": "2026-08-31 10:33:07"
         },
         {
           "skuid": "S0B2EF08A265B1002",
@@ -1496,11 +1568,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 13,
-          "fill_pct": 92,
+          "fill_pct": 85,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 14:25:41"
+          "stock_updated": "2026-08-31 12:54:51"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2133,11 +2205,11 @@
           "name": "Deer park water",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 19:59:25"
+          "stock_updated": "2026-08-31 11:46:29"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -2217,11 +2289,11 @@
           "name": "GATORADE 20OZ ORANGE",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063782730.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 17:47:07"
+          "stock_updated": "2026-08-31 11:46:29"
         },
         {
           "skuid": "0B2A3CC3855F1003",

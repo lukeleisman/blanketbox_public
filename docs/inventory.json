@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T18:04:10Z",
+  "updated": "2026-08-31T22:57:53Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -621,8 +621,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 59,
-      "in_stock": 34,
-      "out_of_stock": 25,
+      "in_stock": 33,
+      "out_of_stock": 26,
       "low_stock": 0,
       "products": [
         {
@@ -787,11 +787,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 16:00:27"
+          "stock_updated": "2026-08-31 13:05:32"
         },
         {
           "skuid": "S0B2D055ACE44100B",
@@ -1123,11 +1123,11 @@
           "name": "Powerade Zero Mixed Berry 20floz",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176048132401919.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-30 17:49:03"
+          "stock_updated": "2026-08-31 13:05:32"
         },
         {
           "skuid": "S0B2D05DCDEEB1007",
@@ -1243,11 +1243,11 @@
           "name": "Tropicana Orange Juice",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176954850457683.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-08-31 01:54:56"
+          "stock_updated": "2026-08-31 13:05:32"
         },
         {
           "skuid": "S0B2DB92EA84A1003",
@@ -1808,11 +1808,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 14:05:11"
+          "stock_updated": "2026-08-31 15:00:02"
         },
         {
           "skuid": "S0B2FECAE8E5A1008",
@@ -1916,11 +1916,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 14:05:11"
+          "stock_updated": "2026-08-31 15:00:02"
         },
         {
           "skuid": "S0B246944E4B51008",

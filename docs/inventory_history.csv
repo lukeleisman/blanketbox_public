@@ -4577,3 +4577,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-08-31T18:04:10Z,129111,philly,Philly TrueCooler II,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,12,11,-1
 2026-08-31T18:04:10Z,16213,haven,TheHaven#2-cooler,S0B246944E9A41003,082657500638,Deer park water,2.0,4,3,-1
 2026-08-31T18:04:10Z,16213,haven,TheHaven#2-cooler,S0B246944E4F01003,052000328677,GATORADE 20OZ ORANGE,3.0,2,1,-1
+2026-08-31T22:57:53Z,16214,doylestown,333 North Broad Cooler,S0B2FED291FB81003,048500206867,Tropicana Orange Juice,3.0,7,6,-1
+2026-08-31T22:57:53Z,16214,doylestown,333 North Broad Cooler,S0B2F61930CDF1009,0049000050752,Powerade Zero Mixed Berry 20floz,3.0,1,0,-1
+2026-08-31T22:57:53Z,16214,doylestown,333 North Broad Cooler,S0B2C85783CD31007,1162002196,Fair Life Core Power 26g Vanilla Protein Shake,5.25,10,9,-1
+2026-08-31T22:57:53Z,129111,philly,Philly TrueCooler II,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,11,10,-1
+2026-08-31T22:57:53Z,129111,philly,Philly TrueCooler II,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,11,10,-1

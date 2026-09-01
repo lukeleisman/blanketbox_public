@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T20:03:09Z",
+  "updated": "2026-09-01T22:43:43Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2157,11 +2157,11 @@
           "name": "Cheez It Original",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254819896872.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-08-30 08:46:58"
+          "stock_updated": "2026-09-01 16:06:41"
         },
         {
           "skuid": "S0B2DAF9429041007",
@@ -2409,11 +2409,11 @@
           "name": "Lance Peanut Butter",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168901539228250.jpeg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:36:41"
+          "stock_updated": "2026-09-01 16:06:41"
         },
         {
           "skuid": "S0B246944E19E1000",
@@ -2469,11 +2469,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 7,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-30 19:23:27"
+          "stock_updated": "2026-09-01 16:06:41"
         },
         {
           "skuid": "S0B246944DEFB1003",

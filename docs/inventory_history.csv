@@ -4589,3 +4589,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-09-01T17:10:33Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,18,16,-2
 2026-09-01T17:10:33Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.5,16,15,-1
 2026-09-01T17:10:33Z,16213,haven,TheHaven#2-cooler,S0B246944E6801005,040000422082,3 Musketeers,2.5,9,8,-1
+2026-09-01T22:43:43Z,16213,haven,TheHaven#2-cooler,S0B246944DEF51002,070847811169,Monster Energy,4.27,7,5,-2
+2026-09-01T22:43:43Z,16213,haven,TheHaven#2-cooler,S0B27699FEA161007,024100123223,Cheez It Original,2.0,4,3,-1
+2026-09-01T22:43:43Z,16213,haven,TheHaven#2-cooler,S0B246944E6C51002,076410901633,Lance Peanut Butter,2.5,9,8,-1

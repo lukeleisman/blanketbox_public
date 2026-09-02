@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T00:51:00Z",
+  "updated": "2026-09-02T05:29:01Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2433,11 +2433,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 11:27:12"
+          "stock_updated": "2026-09-01 20:37:55"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -2625,11 +2625,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 19,
+          "stock": 18,
           "capacity": 19,
-          "fill_pct": 100,
+          "fill_pct": 95,
           "stock_warning": 0,
-          "stock_updated": "2026-08-27 16:10:25"
+          "stock_updated": "2026-09-01 20:37:55"
         },
         {
           "skuid": "S0B246944E4B51008",
@@ -2649,11 +2649,11 @@
           "name": "Think adventurefuls",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178666939290752.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-08-24 19:06:29"
+          "stock_updated": "2026-09-01 20:37:55"
         },
         {
           "skuid": "S0B300172DC1E1001",
@@ -2661,11 +2661,11 @@
           "name": "Think minis smores",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178666913465510.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 12,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-08-27 05:33:26"
+          "stock_updated": "2026-09-01 20:37:55"
         },
         {
           "skuid": "S0B246944E3DB1006",

@@ -4597,3 +4597,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-09-02T00:51:00Z,16213,haven,TheHaven#2-cooler,S0B246944E4B51008,012000813313,Starbucks_Frappuccino_Vanilla,4.27,4,3,-1
 2026-09-02T00:51:00Z,16213,haven,TheHaven#2-cooler,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.5,6,5,-1
 2026-09-02T00:51:00Z,16213,haven,TheHaven#2-cooler,0B2A3CC3855F1003,052000208429,Gatorade Fierce Grape,2.0,5,4,-1
+2026-09-02T05:29:01Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.5,19,18,-1
+2026-09-02T05:29:01Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.5,7,6,-1
+2026-09-02T05:29:01Z,16213,haven,TheHaven#2-cooler,S0B300172DC1E1001,753656720807,Think minis smores,2.0,12,11,-1
+2026-09-02T05:29:01Z,16213,haven,TheHaven#2-cooler,S0B300176CD16100C,753656720555,Think adventurefuls,2.0,11,10,-1

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T17:58:46Z",
+  "updated": "2026-09-02T20:56:21Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -621,8 +621,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 59,
-      "in_stock": 33,
-      "out_of_stock": 26,
+      "in_stock": 32,
+      "out_of_stock": 27,
       "low_stock": 0,
       "products": [
         {
@@ -727,11 +727,11 @@
           "name": "Celsius Peach Vibes",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064199646.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 5,
-          "fill_pct": 20,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-09-01 19:17:43"
+          "stock_updated": "2026-09-02 13:49:17"
         },
         {
           "skuid": "S0B2668475B231007",
@@ -835,11 +835,11 @@
           "name": "Fairlife Vanilla Protein",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000535/platgoods/a743c6ae-ae17-49ee-a05c-3438581609f1.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 15:31:48"
+          "stock_updated": "2026-09-02 13:35:02"
         },
         {
           "skuid": "S0B246944E4F01003",
@@ -1015,11 +1015,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 19,
+          "stock": 18,
           "capacity": 21,
-          "fill_pct": 90,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-09-02 07:15:03"
+          "stock_updated": "2026-09-02 13:49:55"
         },
         {
           "skuid": "S0B2C377070EC1001",

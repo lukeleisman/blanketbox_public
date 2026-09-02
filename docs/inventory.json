@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T14:07:54Z",
+  "updated": "2026-09-02T17:58:46Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -558,11 +558,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 12,
-          "fill_pct": 75,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-09-01 19:19:07"
+          "stock_updated": "2026-09-02 10:09:10"
         },
         {
           "skuid": "S0B300176CD16100C",
@@ -2169,11 +2169,11 @@
           "name": "Cheez It Original",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254819896872.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-09-01 16:06:41"
+          "stock_updated": "2026-09-02 10:27:15"
         },
         {
           "skuid": "S0B2DAF9429041007",
@@ -2541,11 +2541,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-08-24 16:15:16"
+          "stock_updated": "2026-09-02 10:27:15"
         },
         {
           "skuid": "S0B2F619342CA1009",

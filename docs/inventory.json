@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T20:56:21Z",
+  "updated": "2026-09-02T23:06:55Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2217,11 +2217,11 @@
           "name": "Deer park water",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-08-31 11:46:29"
+          "stock_updated": "2026-09-02 16:17:35"
         },
         {
           "skuid": "S0B246944E3EC1003",

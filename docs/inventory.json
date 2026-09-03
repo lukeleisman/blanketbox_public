@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T11:31:47Z",
+  "updated": "2026-09-03T15:54:04Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 50,
-      "in_stock": 43,
-      "out_of_stock": 7,
+      "in_stock": 42,
+      "out_of_stock": 8,
       "low_stock": 0,
       "products": [
         {
@@ -234,11 +234,11 @@
           "name": "IQ Bar Chocolate Sea Salt",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176092402211332.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 16:09:17"
+          "stock_updated": "2026-09-03 08:55:34"
         },
         {
           "skuid": "S0B2DFCAA016C1003",
@@ -775,11 +775,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 16,
+          "stock": 14,
           "capacity": 26,
-          "fill_pct": 62,
+          "fill_pct": 54,
           "stock_warning": 0,
-          "stock_updated": "2026-09-01 11:15:40"
+          "stock_updated": "2026-09-03 08:52:09"
         },
         {
           "skuid": "S0B2C85783CD31007",

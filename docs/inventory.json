@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T19:08:13Z",
+  "updated": "2026-09-03T21:48:49Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -558,11 +558,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 12,
-          "fill_pct": 67,
+          "fill_pct": 58,
           "stock_warning": 0,
-          "stock_updated": "2026-09-02 10:09:10"
+          "stock_updated": "2026-09-03 15:41:40"
         },
         {
           "skuid": "S0B300176CD16100C",
@@ -621,8 +621,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 59,
-      "in_stock": 32,
-      "out_of_stock": 27,
+      "in_stock": 31,
+      "out_of_stock": 28,
       "low_stock": 0,
       "products": [
         {
@@ -775,11 +775,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 14,
+          "stock": 13,
           "capacity": 26,
-          "fill_pct": 54,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-03 08:52:09"
+          "stock_updated": "2026-09-03 15:59:41"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -955,11 +955,11 @@
           "name": "Maison Perrier Sparkling Water",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17773152898848.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 15:40:25"
+          "stock_updated": "2026-09-03 16:08:14"
         },
         {
           "skuid": "S0B3052F18C8E1002",
@@ -991,11 +991,11 @@
           "name": "Moment Straw rose",
           "price": 7.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178803691278760.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 15:58:53"
+          "stock_updated": "2026-09-03 15:26:31"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -2051,8 +2051,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 56,
-      "in_stock": 46,
-      "out_of_stock": 10,
+      "in_stock": 45,
+      "out_of_stock": 11,
       "low_stock": 0,
       "products": [
         {
@@ -2325,11 +2325,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-28 08:16:42"
+          "stock_updated": "2026-09-03 16:13:18"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2577,11 +2577,11 @@
           "name": "Powerade Zero Mixed Berry 20floz",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176048132401919.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:36:41"
+          "stock_updated": "2026-09-03 14:52:40"
         },
         {
           "skuid": "S0B2CC2D2640F1005",

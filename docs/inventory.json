@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T19:18:55Z",
+  "updated": "2026-09-04T21:40:01Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -775,11 +775,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 12,
+          "stock": 11,
           "capacity": 26,
-          "fill_pct": 46,
+          "fill_pct": 42,
           "stock_warning": 0,
-          "stock_updated": "2026-09-03 20:02:00"
+          "stock_updated": "2026-09-04 15:21:12"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -859,11 +859,11 @@
           "name": "Gatorade Fierce Grape",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17497632086008.png",
-          "stock": 20,
+          "stock": 19,
           "capacity": 22,
-          "fill_pct": 91,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-08-31 12:17:13"
+          "stock_updated": "2026-09-04 15:21:12"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -979,11 +979,11 @@
           "name": "Moment Mango glow",
           "price": 7.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178803629354046.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 15:57:22"
+          "stock_updated": "2026-09-04 16:11:57"
         },
         {
           "skuid": "S0B3052F97FBC1003",
@@ -1111,11 +1111,11 @@
           "name": "Powerade Zero Grape",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175799657047375.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 15:38:17"
+          "stock_updated": "2026-09-04 14:58:28"
         },
         {
           "skuid": "S0B2F61930CDF1009",
@@ -1147,11 +1147,11 @@
           "name": "Recess strawberry rose",
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177170485524851.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 15:31:48"
+          "stock_updated": "2026-09-04 14:46:47"
         },
         {
           "skuid": "S0B2CC2D2640F1005",

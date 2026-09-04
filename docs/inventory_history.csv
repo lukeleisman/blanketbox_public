@@ -4640,3 +4640,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-09-04T16:44:56Z,16213,haven,TheHaven#2-cooler,S0B2A44D16D23100C,88939200170,Celsius Cherry Cola,3.57,2,1,-1
 2026-09-04T16:44:56Z,16213,haven,TheHaven#2-cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,5,4,-1
 2026-09-04T16:44:56Z,16213,haven,TheHaven#2-cooler,S0B2F61985D4D1008,786162003546,Vitamin Water XXX,3.0,1,0,-1
+2026-09-04T19:18:55Z,129111,philly,Philly TrueCooler II,S0B246944E5841006,889392000313,Celsius Orange,3.57,3,2,-1
+2026-09-04T19:18:55Z,16213,haven,TheHaven#2-cooler,S0B246944E6801005,040000422082,3 Musketeers,2.5,8,7,-1

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T16:44:56Z",
+  "updated": "2026-09-04T19:18:55Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1496,11 +1496,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176852826423823.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-09-01 18:45:24"
+          "stock_updated": "2026-09-04 12:39:01"
         },
         {
           "skuid": "S0B2668475B231007",
@@ -2073,11 +2073,11 @@
           "name": "3 Musketeers",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168901411356537.jpeg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-09-01 10:29:22"
+          "stock_updated": "2026-09-04 12:06:58"
         },
         {
           "skuid": "S0B2740EB95E01006",

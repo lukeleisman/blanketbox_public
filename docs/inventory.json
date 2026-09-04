@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T21:40:01Z",
+  "updated": "2026-09-04T23:45:45Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2433,11 +2433,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-09-01 20:37:55"
+          "stock_updated": "2026-09-04 17:21:23"
         },
         {
           "skuid": "S0B2D0516EFCB1008",

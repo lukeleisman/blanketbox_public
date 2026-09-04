@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T12:50:55Z",
+  "updated": "2026-09-04T16:44:56Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -54,11 +54,11 @@
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 16:09:17"
+          "stock_updated": "2026-09-04 08:51:18"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -1568,11 +1568,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 13,
-          "fill_pct": 77,
+          "fill_pct": 69,
           "stock_warning": 0,
-          "stock_updated": "2026-09-03 21:19:27"
+          "stock_updated": "2026-09-04 11:04:47"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2051,8 +2051,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 56,
-      "in_stock": 45,
-      "out_of_stock": 11,
+      "in_stock": 44,
+      "out_of_stock": 12,
       "low_stock": 0,
       "products": [
         {
@@ -2121,11 +2121,11 @@
           "name": "Celsius Cherry Cola",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176202960060787.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-09-04 11:16:24"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -2145,11 +2145,11 @@
           "name": "Celsius Orange",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-08-22 13:28:21"
+          "stock_updated": "2026-09-04 08:26:08"
         },
         {
           "skuid": "S0B246944E5C11006",
@@ -2337,11 +2337,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063766829.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-30 18:38:31"
+          "stock_updated": "2026-09-04 08:34:47"
         },
         {
           "skuid": "S0B2FE7209DA61003",
@@ -2481,11 +2481,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-01 16:06:41"
+          "stock_updated": "2026-09-04 08:34:47"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -2709,11 +2709,11 @@
           "name": "Vitamin Water XXX",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176010518975523.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-31 21:28:08"
+          "stock_updated": "2026-09-04 08:26:08"
         },
         {
           "skuid": "S0B2EF08A265B1002",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T23:45:45Z",
+  "updated": "2026-09-05T03:16:28Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -621,8 +621,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 59,
-      "in_stock": 31,
-      "out_of_stock": 28,
+      "in_stock": 30,
+      "out_of_stock": 29,
       "low_stock": 0,
       "products": [
         {
@@ -775,11 +775,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 26,
-          "fill_pct": 42,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-09-04 15:21:12"
+          "stock_updated": "2026-09-04 18:47:20"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -919,11 +919,11 @@
           "name": "Just Ice Tea Peach Oolong 16oz",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-30 22:31:27"
+          "stock_updated": "2026-09-04 18:47:20"
         },
         {
           "skuid": "S0B25FC5C5C991003",
@@ -1676,11 +1676,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-01 18:45:24"
+          "stock_updated": "2026-09-04 20:15:09"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -2217,11 +2217,11 @@
           "name": "Deer park water",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 5,
-          "fill_pct": 40,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-09-02 16:17:35"
+          "stock_updated": "2026-09-04 18:53:49"
         },
         {
           "skuid": "S0B246944E3EC1003",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T17:10:32Z",
+  "updated": "2026-09-05T19:16:27Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -558,11 +558,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 7,
+          "stock": 5,
           "capacity": 12,
-          "fill_pct": 58,
+          "fill_pct": 42,
           "stock_warning": 0,
-          "stock_updated": "2026-09-03 15:41:40"
+          "stock_updated": "2026-09-05 13:49:44"
         },
         {
           "skuid": "S0B300176CD16100C",
@@ -775,11 +775,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 10,
+          "stock": 8,
           "capacity": 26,
-          "fill_pct": 38,
+          "fill_pct": 31,
           "stock_warning": 0,
-          "stock_updated": "2026-09-04 18:47:20"
+          "stock_updated": "2026-09-05 12:38:20"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2962,11 +2962,11 @@
           "name": "OLFA heavy duty 18mm snap off knife boxcutter",
           "price": 15.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/c74fe2d7-2672-4a41-a09b-16a60201b976.jpg",
-          "stock": 9998,
+          "stock": 9997,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-19 17:33:23"
+          "stock_updated": "2026-09-05 13:42:21"
         },
         {
           "skuid": "S0B2E96C007F01002",

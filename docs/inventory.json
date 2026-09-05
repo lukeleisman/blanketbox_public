@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T11:40:36Z",
+  "updated": "2026-09-05T14:42:14Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 50,
-      "in_stock": 42,
-      "out_of_stock": 8,
+      "in_stock": 41,
+      "out_of_stock": 9,
       "low_stock": 0,
       "products": [
         {
@@ -66,11 +66,11 @@
           "name": "Camera Violation",
           "price": 25.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174454737098059.png",
-          "stock": 2,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 16:09:17"
+          "stock_updated": "2026-09-05 06:41:00"
         },
         {
           "skuid": "S0B246944E6EA1003",
@@ -174,11 +174,11 @@
           "name": "Ferrero Rocher",
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178668130904461.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 16:09:17"
+          "stock_updated": "2026-09-05 06:41:00"
         },
         {
           "skuid": "S0B2D48427F221004",
@@ -222,11 +222,11 @@
           "name": "IQ Bar Chocolate Mint Chip",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17633311766684.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 16:09:17"
+          "stock_updated": "2026-09-05 08:49:20"
         },
         {
           "skuid": "S0B2D11E008E11008",
@@ -1147,11 +1147,11 @@
           "name": "Recess strawberry rose",
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177170485524851.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-09-04 14:46:47"
+          "stock_updated": "2026-09-05 08:48:18"
         },
         {
           "skuid": "S0B2CC2D2640F1005",
@@ -1556,11 +1556,11 @@
           "name": "Deer park water",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 23,
+          "stock": 22,
           "capacity": 23,
-          "fill_pct": 100,
+          "fill_pct": 96,
           "stock_warning": 0,
-          "stock_updated": "2026-09-01 18:45:24"
+          "stock_updated": "2026-09-05 08:29:20"
         },
         {
           "skuid": "S0B246944E3EC1003",

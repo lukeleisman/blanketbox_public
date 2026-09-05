@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T19:16:27Z",
+  "updated": "2026-09-05T21:31:17Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -486,11 +486,11 @@
           "name": "Pub Spicy Blend",
           "price": 13.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178803812880949.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 16:28:07"
+          "stock_updated": "2026-09-05 14:57:35"
         },
         {
           "skuid": "S0B302FAECE981004",
@@ -775,11 +775,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 26,
-          "fill_pct": 31,
+          "fill_pct": 27,
           "stock_warning": 0,
-          "stock_updated": "2026-09-05 12:38:20"
+          "stock_updated": "2026-09-05 16:18:28"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1147,11 +1147,11 @@
           "name": "Recess strawberry rose",
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177170485524851.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-09-05 08:48:18"
+          "stock_updated": "2026-09-05 14:57:03"
         },
         {
           "skuid": "S0B2CC2D2640F1005",
@@ -1460,11 +1460,11 @@
           "name": "Celsius Cherry Cola",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176202960060787.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-01 18:45:24"
+          "stock_updated": "2026-09-05 14:35:15"
         },
         {
           "skuid": "S0B27699FF0CC100A",
@@ -2097,11 +2097,11 @@
           "name": "Brisk Iced Tea",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176736539400427.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-08-27 22:09:02"
+          "stock_updated": "2026-09-05 15:33:35"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -2553,11 +2553,11 @@
           "name": "Powerade Zero Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172366735251318.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-24 15:45:24"
+          "stock_updated": "2026-09-05 15:33:35"
         },
         {
           "skuid": "S0B2F6194A055100A",

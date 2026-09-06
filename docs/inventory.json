@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T18:03:39Z",
+  "updated": "2026-09-06T20:39:23Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -835,11 +835,11 @@
           "name": "Fairlife Vanilla Protein",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000535/platgoods/a743c6ae-ae17-49ee-a05c-3438581609f1.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-09-02 13:35:02"
+          "stock_updated": "2026-09-06 13:19:31"
         },
         {
           "skuid": "S0B246944E4F01003",
@@ -1207,11 +1207,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 16:00:27"
+          "stock_updated": "2026-09-06 13:19:31"
         },
         {
           "skuid": "S0B2D5DE0BABD100A",
@@ -2051,8 +2051,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 56,
-      "in_stock": 44,
-      "out_of_stock": 12,
+      "in_stock": 43,
+      "out_of_stock": 13,
       "low_stock": 0,
       "products": [
         {
@@ -2217,11 +2217,11 @@
           "name": "Deer park water",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 5,
-          "fill_pct": 20,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-09-04 18:53:49"
+          "stock_updated": "2026-09-06 13:22:47"
         },
         {
           "skuid": "S0B246944E3EC1003",

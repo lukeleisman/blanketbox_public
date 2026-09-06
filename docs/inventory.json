@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T23:34:53Z",
+  "updated": "2026-09-06T03:16:16Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1099,11 +1099,11 @@
           "name": "Powerade Zero Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172366735251318.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 15:31:48"
+          "stock_updated": "2026-09-05 18:50:47"
         },
         {
           "skuid": "S0B2F6194A055100A",
@@ -1556,11 +1556,11 @@
           "name": "Deer park water",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 22,
+          "stock": 21,
           "capacity": 23,
-          "fill_pct": 96,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-09-05 08:29:20"
+          "stock_updated": "2026-09-05 20:22:12"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -1604,11 +1604,11 @@
           "name": "Fairlife Vanilla Protein",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000535/platgoods/a743c6ae-ae17-49ee-a05c-3438581609f1.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-09-01 18:45:24"
+          "stock_updated": "2026-09-05 22:13:14"
         },
         {
           "skuid": "S0B2C6BBCDF7C1006",

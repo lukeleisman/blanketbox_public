@@ -4683,3 +4683,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-09-06T08:03:01Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.5,15,14,-1
 2026-09-06T08:03:01Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.5,18,17,-1
 2026-09-06T08:03:01Z,16213,haven,TheHaven#2-cooler,S0B2F619342CA1009,049000056433,Powerade Zero Fruit Punch,3.0,2,1,-1
+2026-09-06T15:38:27Z,16213,haven,TheHaven#2-cooler,S0B246944E6801005,040000422082,3 Musketeers,2.5,6,4,-2

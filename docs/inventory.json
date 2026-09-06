@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T12:14:58Z",
+  "updated": "2026-09-06T15:38:27Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2073,11 +2073,11 @@
           "name": "3 Musketeers",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168901411356537.jpeg",
-          "stock": 6,
+          "stock": 4,
           "capacity": 10,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-09-05 10:45:41"
+          "stock_updated": "2026-09-06 07:57:41"
         },
         {
           "skuid": "S0B2740EB95E01006",

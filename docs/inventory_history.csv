@@ -4698,3 +4698,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-09-07T05:43:40Z,16213,haven,TheHaven#2-cooler,S0B246944E6C51002,076410901633,Lance Peanut Butter,2.5,8,7,-1
 2026-09-07T11:44:14Z,129111,philly,Philly TrueCooler II,S0B2C85783CD31007,1162002196,Fair Life Core Power 26g Vanilla Protein Shake,5.0,3,2,-1
 2026-09-07T11:44:14Z,129111,philly,Philly TrueCooler II,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,9,7,-2
+2026-09-07T17:21:57Z,15519,doylestown,333 North Broad Ambient,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.5,5,4,-1
+2026-09-07T17:21:57Z,16213,haven,TheHaven#2-cooler,S0B2D484E0EFD1001,014100043706,Milano,2.0,11,10,-1
+2026-09-07T17:21:57Z,16213,haven,TheHaven#2-cooler,S0B2F619342CA1009,049000056433,Powerade Zero Fruit Punch,3.0,1,0,-1

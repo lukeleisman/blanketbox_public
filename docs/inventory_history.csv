@@ -4696,3 +4696,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-09-07T05:43:40Z,16213,haven,TheHaven#2-cooler,S0B246944E4B51008,012000813313,Starbucks_Frappuccino_Vanilla,4.27,3,1,-2
 2026-09-07T05:43:40Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.5,5,4,-1
 2026-09-07T05:43:40Z,16213,haven,TheHaven#2-cooler,S0B246944E6C51002,076410901633,Lance Peanut Butter,2.5,8,7,-1
+2026-09-07T11:44:14Z,129111,philly,Philly TrueCooler II,S0B2C85783CD31007,1162002196,Fair Life Core Power 26g Vanilla Protein Shake,5.0,3,2,-1
+2026-09-07T11:44:14Z,129111,philly,Philly TrueCooler II,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,9,7,-2

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T17:21:57Z",
+  "updated": "2026-09-07T20:42:32Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1015,11 +1015,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 17,
+          "stock": 16,
           "capacity": 21,
-          "fill_pct": 81,
+          "fill_pct": 76,
           "stock_warning": 0,
-          "stock_updated": "2026-09-03 20:10:54"
+          "stock_updated": "2026-09-07 12:54:27"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1520,11 +1520,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 5,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-09-01 18:45:24"
+          "stock_updated": "2026-09-07 14:42:22"
         },
         {
           "skuid": "S0B246944DEAE1000",
@@ -1568,11 +1568,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 9,
+          "stock": 7,
           "capacity": 13,
-          "fill_pct": 69,
+          "fill_pct": 54,
           "stock_warning": 0,
-          "stock_updated": "2026-09-04 11:04:47"
+          "stock_updated": "2026-09-07 14:52:54"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1760,11 +1760,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-09-01 18:45:24"
+          "stock_updated": "2026-09-07 14:52:54"
         },
         {
           "skuid": "S0B246944DEF51002",

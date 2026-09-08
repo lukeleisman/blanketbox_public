@@ -4729,3 +4729,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-09-08T19:30:00Z,16213,haven,TheHaven#2-cooler,S0B246944E6801005,040000422082,3 Musketeers,2.5,4,3,-1
 2026-09-08T19:30:00Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.5,4,3,-1
 2026-09-08T19:30:00Z,15520,mckinley,mHUBPrototypingShop,S0B2E92BC88C61003,068060503961,3M pro grade sandpaper,12.0,9999,9998,-1
+2026-09-08T21:59:06Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.5,15,13,-2
+2026-09-08T21:59:06Z,16214,doylestown,333 North Broad Cooler,S0B2F6194A055100A,4900005074,Powerade Zero Grape,3.0,5,4,-1
+2026-09-08T21:59:06Z,16214,doylestown,333 North Broad Cooler,S0B2E63AC3F231007,682430010486,Voss Water,6.99,17,16,-1
+2026-09-08T21:59:06Z,16213,haven,TheHaven#2-cooler,0B2A3CC3855F1003,052000208429,Gatorade Fierce Grape,2.0,4,3,-1

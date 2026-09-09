@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T21:59:06Z",
+  "updated": "2026-09-09T00:02:14Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 50,
-      "in_stock": 41,
-      "out_of_stock": 9,
+      "in_stock": 40,
+      "out_of_stock": 10,
       "low_stock": 0,
       "products": [
         {
@@ -306,11 +306,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 2,
+          "stock": 0,
           "capacity": 6,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-09-05 17:13:02"
+          "stock_updated": "2026-09-08 18:52:47"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -907,11 +907,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023828232980.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 15:40:25"
+          "stock_updated": "2026-09-08 18:03:56"
         },
         {
           "skuid": "S0B2D4851D7141003",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T14:11:44Z",
+  "updated": "2026-09-09T17:54:54Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -621,8 +621,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 59,
-      "in_stock": 28,
-      "out_of_stock": 31,
+      "in_stock": 27,
+      "out_of_stock": 32,
       "low_stock": 0,
       "products": [
         {
@@ -847,11 +847,11 @@
           "name": "GATORADE 20OZ ORANGE",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1634632186095.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-29 15:31:48"
+          "stock_updated": "2026-09-09 09:57:58"
         },
         {
           "skuid": "0B2A3CC3855F1003",
@@ -1303,11 +1303,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 16,
+          "stock": 15,
           "capacity": 15,
-          "fill_pct": 107,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-09-08 16:11:28"
+          "stock_updated": "2026-09-09 10:37:25"
         },
         {
           "skuid": "S0B2EF08A265B1002",
@@ -2051,8 +2051,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 56,
-      "in_stock": 42,
-      "out_of_stock": 14,
+      "in_stock": 41,
+      "out_of_stock": 15,
       "low_stock": 0,
       "products": [
         {
@@ -2301,11 +2301,11 @@
           "name": "GATORADE 20OZ ORANGE",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063782730.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-31 11:46:29"
+          "stock_updated": "2026-09-09 10:09:51"
         },
         {
           "skuid": "0B2A3CC3855F1003",
@@ -2685,11 +2685,11 @@
           "name": "Twix Candy Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 16,
-          "fill_pct": 62,
+          "fill_pct": 56,
           "stock_warning": 0,
-          "stock_updated": "2026-09-07 20:28:08"
+          "stock_updated": "2026-09-09 10:09:51"
         },
         {
           "skuid": "S0B2D48452F7E1005",
@@ -2902,11 +2902,11 @@
           "name": "loctite epoxy clear",
           "price": 7.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/0351c02b-74c4-4f48-aa19-b58ebd2350b7.jpg",
-          "stock": 9997,
+          "stock": 9996,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-08-07 19:18:54"
+          "stock_updated": "2026-09-09 09:55:00"
         },
         {
           "skuid": "S0B2E92BFB7E01007",

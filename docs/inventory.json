@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T09:35:40Z",
+  "updated": "2026-09-09T14:11:44Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1342,8 +1342,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 58,
-      "in_stock": 42,
-      "out_of_stock": 16,
+      "in_stock": 41,
+      "out_of_stock": 17,
       "low_stock": 0,
       "products": [
         {
@@ -1460,11 +1460,11 @@
           "name": "Celsius Cherry Cola",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176202960060787.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-09-05 14:35:15"
+          "stock_updated": "2026-09-09 05:18:40"
         },
         {
           "skuid": "S0B27699FF0CC100A",
@@ -2145,11 +2145,11 @@
           "name": "Celsius Orange",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-04 08:26:08"
+          "stock_updated": "2026-09-09 08:13:42"
         },
         {
           "skuid": "S0B246944E5C11006",
@@ -2565,11 +2565,11 @@
           "name": "Powerade Zero Grape",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175799657047375.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-08-27 08:22:52"
+          "stock_updated": "2026-09-09 08:13:42"
         },
         {
           "skuid": "S0B2F61930CDF1009",

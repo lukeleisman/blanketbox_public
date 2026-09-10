@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T21:04:25Z",
+  "updated": "2026-09-10T23:19:54Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -703,11 +703,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
+          "stock_updated": "2026-09-10 16:35:04"
         },
         {
           "skuid": "S0B246944E5C11006",
@@ -1003,11 +1003,11 @@
           "name": "Oikos Protein Shake Chocolate 12 oz",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175796271645448.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
+          "stock_updated": "2026-09-10 16:24:25"
         },
         {
           "skuid": "S0B2FECB1AEFC1004",
@@ -1508,11 +1508,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 13,
-          "fill_pct": 15,
+          "fill_pct": 8,
           "stock_warning": 0,
-          "stock_updated": "2026-09-10 12:55:39"
+          "stock_updated": "2026-09-10 17:37:46"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2037,11 +2037,11 @@
           "name": "Brisk Iced Tea",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176736539400427.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 20:18:03"
+          "stock_updated": "2026-09-10 17:50:19"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -2385,11 +2385,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 19:51:19"
+          "stock_updated": "2026-09-10 17:50:19"
         },
         {
           "skuid": "S0B2D0516EFCB1008",

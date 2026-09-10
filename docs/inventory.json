@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T10:46:02Z",
+  "updated": "2026-09-10T14:52:21Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -799,11 +799,11 @@
           "name": "Fairlife Nutrition Plan 30g High Quality Protein",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023836433496.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
+          "stock_updated": "2026-09-10 09:50:34"
         },
         {
           "skuid": "S0B2FECB8B02B1009",
@@ -2109,11 +2109,11 @@
           "name": "Celsius Peach Vibes",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064199646.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 19:51:19"
+          "stock_updated": "2026-09-10 08:55:29"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -2637,11 +2637,11 @@
           "name": "Vitamin Water Tropical Citrus",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176040330342693.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 21:00:14"
+          "stock_updated": "2026-09-10 08:55:29"
         },
         {
           "skuid": "S0B2F61985D4D1008",

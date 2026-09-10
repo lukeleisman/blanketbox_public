@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T14:52:21Z",
+  "updated": "2026-09-10T18:09:07Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -594,11 +594,11 @@
           "name": "Twix Candy Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 13,
+          "stock": 12,
           "capacity": 15,
-          "fill_pct": 87,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:19:47"
+          "stock_updated": "2026-09-10 11:07:16"
         },
         {
           "skuid": "S0B246944E8251002",
@@ -691,11 +691,11 @@
           "name": "Celsius Kiwi Guava",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/171949904019511.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
+          "stock_updated": "2026-09-10 10:49:31"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -727,11 +727,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
+          "stock_updated": "2026-09-10 11:06:55"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -751,11 +751,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 27,
+          "stock": 26,
           "capacity": 27,
-          "fill_pct": 100,
+          "fill_pct": 96,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
+          "stock_updated": "2026-09-10 11:06:55"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1508,11 +1508,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 13,
-          "fill_pct": 23,
+          "fill_pct": 15,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 15:19:55"
+          "stock_updated": "2026-09-10 12:55:39"
         },
         {
           "skuid": "S0B2C85783CD31007",

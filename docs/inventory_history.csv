@@ -4829,3 +4829,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-09-10T14:52:21Z,16214,doylestown,333 North Broad Cooler,S0B3052F2BFF3100A,811620022118,Fairlife Nutrition Plan 30g High Quality Protein,5.5,7,6,-1
 2026-09-10T14:52:21Z,16213,haven,TheHaven#2-cooler,S0B2F619836EC1004,0786162411778,Vitamin Water Tropical Citrus,3.0,2,1,-1
 2026-09-10T14:52:21Z,16213,haven,TheHaven#2-cooler,S0B246944E5C11006,889392010190,Celsius Peach Vibes,3.5,3,2,-1
+2026-09-10T18:09:07Z,15519,doylestown,333 North Broad Ambient,S0B246944E3C71001,04043506,Twix Candy Bar,2.5,13,12,-1
+2026-09-10T18:09:07Z,16214,doylestown,333 North Broad Cooler,S0B246944E4EB1007,889392010145,Celsius Kiwi Guava,3.57,6,5,-1
+2026-09-10T18:09:07Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.6,27,26,-1
+2026-09-10T18:09:07Z,16214,doylestown,333 North Broad Cooler,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.57,8,7,-1
+2026-09-10T18:09:07Z,129111,philly,Philly TrueCooler II,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,3,2,-1

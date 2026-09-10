@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T18:09:07Z",
+  "updated": "2026-09-10T21:04:25Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1195,11 +1195,11 @@
           "name": "Vita Coconut Extra Coconut",
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176904241917369.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
+          "stock_updated": "2026-09-10 14:02:31"
         },
         {
           "skuid": "S0B2F6198ACBB1001",
@@ -2001,11 +2001,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 20:18:03"
+          "stock_updated": "2026-09-10 14:16:31"
         },
         {
           "skuid": "S0B246944E6801005",
@@ -2013,11 +2013,11 @@
           "name": "3 Musketeers",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168901411356537.jpeg",
-          "stock": 8,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 19:54:19"
+          "stock_updated": "2026-09-10 14:09:46"
         },
         {
           "skuid": "S0B2740EB95E01006",

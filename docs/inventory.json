@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T06:26:28Z",
+  "updated": "2026-09-11T11:42:19Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -138,11 +138,11 @@
           "name": "Dot Pretzels",
           "price": 7.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17862269041505.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:19:47"
+          "stock_updated": "2026-09-11 01:59:54"
         },
         {
           "skuid": "S0B3053127F821006",
@@ -1436,11 +1436,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176852826423823.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-09-04 12:39:01"
+          "stock_updated": "2026-09-11 04:58:13"
         },
         {
           "skuid": "S0B2668475B231007",

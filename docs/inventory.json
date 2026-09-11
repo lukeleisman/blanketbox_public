@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T21:50:37Z",
+  "updated": "2026-09-11T23:54:22Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1628,11 +1628,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 13,
+          "stock": 12,
           "capacity": 13,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-09-01 18:45:24"
+          "stock_updated": "2026-09-11 18:39:56"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -1664,11 +1664,11 @@
           "name": "Goldfish Cheddar",
           "price": 2.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172165768291916.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-09-01 18:45:24"
+          "stock_updated": "2026-09-11 18:39:56"
         },
         {
           "skuid": "S0B2D4851D7141003",
@@ -1748,11 +1748,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 11,
-          "fill_pct": 82,
+          "fill_pct": 73,
           "stock_warning": 0,
-          "stock_updated": "2026-09-07 18:56:00"
+          "stock_updated": "2026-09-11 18:39:56"
         },
         {
           "skuid": "S0B2FECAE8E5A1008",
@@ -1991,8 +1991,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 55,
-      "in_stock": 46,
-      "out_of_stock": 9,
+      "in_stock": 45,
+      "out_of_stock": 10,
       "low_stock": 0,
       "products": [
         {
@@ -2385,11 +2385,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 2,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-09-10 17:50:19"
+          "stock_updated": "2026-09-11 17:31:25"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -2433,11 +2433,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 4,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 19:51:19"
+          "stock_updated": "2026-09-11 17:31:25"
         },
         {
           "skuid": "S0B246944DEFB1003",

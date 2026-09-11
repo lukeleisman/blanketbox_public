@@ -4867,3 +4867,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-09-11T21:50:37Z,129111,philly,Philly TrueCooler II,S0B246944E9A41003,082657500638,Deer park water,2.5,16,15,-1
 2026-09-11T21:50:37Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,8,6,-2
 2026-09-11T21:50:37Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.5,18,16,-2
+2026-09-11T23:54:22Z,129111,philly,Philly TrueCooler II,S0B2FE7209DA61003,014100077602,Goldfish Cheddar,2.77,8,7,-1
+2026-09-11T23:54:22Z,129111,philly,Philly TrueCooler II,S0B246944E4141002,052000328684,Gatorade Lemon Lime,3.0,13,12,-1
+2026-09-11T23:54:22Z,129111,philly,Philly TrueCooler II,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,9,8,-1
+2026-09-11T23:54:22Z,16213,haven,TheHaven#2-cooler,S0B246944DEF51002,070847811169,Monster Energy,4.27,4,2,-2
+2026-09-11T23:54:22Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.5,2,0,-2

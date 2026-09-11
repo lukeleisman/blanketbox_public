@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T11:42:19Z",
+  "updated": "2026-09-11T15:58:27Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 50,
-      "in_stock": 39,
-      "out_of_stock": 11,
+      "in_stock": 38,
+      "out_of_stock": 12,
       "low_stock": 0,
       "products": [
         {
@@ -222,11 +222,11 @@
           "name": "IQ Bar Chocolate Mint Chip",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17633311766684.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:19:47"
+          "stock_updated": "2026-09-11 06:53:06"
         },
         {
           "skuid": "S0B2D11E008E11008",
@@ -703,11 +703,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-09-10 16:35:04"
+          "stock_updated": "2026-09-11 07:04:47"
         },
         {
           "skuid": "S0B246944E5C11006",
@@ -799,11 +799,11 @@
           "name": "Fairlife Nutrition Plan 30g High Quality Protein",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023836433496.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-09-10 09:50:34"
+          "stock_updated": "2026-09-11 07:04:47"
         },
         {
           "skuid": "S0B2FECB8B02B1009",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.25,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 13,
+          "stock": 12,
           "capacity": 13,
-          "fill_pct": 100,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
+          "stock_updated": "2026-09-11 10:37:33"
         },
         {
           "skuid": "S0B2C377070EC1001",

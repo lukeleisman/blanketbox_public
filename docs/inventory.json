@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T01:20:55Z",
+  "updated": "2026-09-11T06:26:28Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -450,11 +450,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 9,
-          "fill_pct": 33,
+          "fill_pct": 22,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:19:47"
+          "stock_updated": "2026-09-10 22:37:36"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -1015,11 +1015,11 @@
           "name": "Panera chicken tortilla",
           "price": 9.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178632093028239.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
+          "stock_updated": "2026-09-10 21:58:08"
         },
         {
           "skuid": "S0B2FECAE8E5A1008",
@@ -1099,11 +1099,11 @@
           "name": "S. Pellegrino Lemonade 11.15oz",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177078645626497.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
+          "stock_updated": "2026-09-10 21:58:08"
         },
         {
           "skuid": "S0B2D3E6DA5E01005",
@@ -1282,8 +1282,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 58,
-      "in_stock": 40,
-      "out_of_stock": 18,
+      "in_stock": 39,
+      "out_of_stock": 19,
       "low_stock": 0,
       "products": [
         {
@@ -1520,11 +1520,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-09-08 21:10:19"
+          "stock_updated": "2026-09-10 23:10:59"
         },
         {
           "skuid": "S0B246944DFD21006",
@@ -2073,11 +2073,11 @@
           "name": "Celsius Cherry Cola",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176202960060787.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 20:09:46"
+          "stock_updated": "2026-09-10 21:48:58"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -2277,11 +2277,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 21:00:14"
+          "stock_updated": "2026-09-10 21:48:58"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2301,11 +2301,11 @@
           "name": "Goldfish Cheddar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172165768291916.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 19:54:19"
+          "stock_updated": "2026-09-10 21:48:58"
         },
         {
           "skuid": "S0B246944E7FE1008",

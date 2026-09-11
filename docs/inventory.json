@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T23:19:54Z",
+  "updated": "2026-09-11T01:20:55Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -90,11 +90,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 14,
-          "fill_pct": 71,
+          "fill_pct": 64,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:19:47"
+          "stock_updated": "2026-09-10 19:44:49"
         },
         {
           "skuid": "S0B2FECA70BC81000",
@@ -1282,8 +1282,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 58,
-      "in_stock": 41,
-      "out_of_stock": 17,
+      "in_stock": 40,
+      "out_of_stock": 18,
       "low_stock": 0,
       "products": [
         {
@@ -1508,11 +1508,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 13,
-          "fill_pct": 8,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-09-10 17:37:46"
+          "stock_updated": "2026-09-10 18:46:06"
         },
         {
           "skuid": "S0B2C85783CD31007",

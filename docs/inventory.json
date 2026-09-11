@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T15:58:27Z",
+  "updated": "2026-09-11T19:06:43Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -751,11 +751,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 26,
+          "stock": 25,
           "capacity": 27,
-          "fill_pct": 96,
+          "fill_pct": 93,
           "stock_warning": 0,
-          "stock_updated": "2026-09-10 11:06:55"
+          "stock_updated": "2026-09-11 12:38:53"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.25,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 12,
+          "stock": 10,
           "capacity": 13,
-          "fill_pct": 92,
+          "fill_pct": 77,
           "stock_warning": 0,
-          "stock_updated": "2026-09-11 10:37:33"
+          "stock_updated": "2026-09-11 13:14:22"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -2085,11 +2085,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 0,
+          "stock": -1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 19:51:19"
+          "stock_updated": "2026-09-11 11:19:44"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -2181,11 +2181,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 20:02:25"
+          "stock_updated": "2026-09-11 12:18:47"
         },
         {
           "skuid": "S0B2FE716F5901003",
@@ -2469,11 +2469,11 @@
           "name": "NutellaGo",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 19:51:19"
+          "stock_updated": "2026-09-11 11:05:50"
         },
         {
           "skuid": "S0B246944E3D51001",
@@ -2565,11 +2565,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 20:02:25"
+          "stock_updated": "2026-09-11 11:05:50"
         },
         {
           "skuid": "S0B300176CD16100C",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T15:44:06Z",
+  "updated": "2026-09-12T18:09:04Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -871,11 +871,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
+          "stock_updated": "2026-09-12 12:11:51"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -1243,11 +1243,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 15,
+          "stock": 14,
           "capacity": 15,
-          "fill_pct": 100,
+          "fill_pct": 93,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
+          "stock_updated": "2026-09-12 12:11:51"
         },
         {
           "skuid": "S0B2EF08A265B1002",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T20:47:38Z",
+  "updated": "2026-09-12T22:51:29Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -621,8 +621,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 54,
-      "in_stock": 42,
-      "out_of_stock": 12,
+      "in_stock": 41,
+      "out_of_stock": 13,
       "low_stock": 0,
       "products": [
         {
@@ -1195,11 +1195,11 @@
           "name": "Vita Coconut Extra Coconut",
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176904241917369.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-09-10 14:02:31"
+          "stock_updated": "2026-09-12 15:58:22"
         },
         {
           "skuid": "S0B2F6198ACBB1001",
@@ -1219,11 +1219,11 @@
           "name": "VITAMIN WATER DRAGONFRUIT",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176953552008452.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
+          "stock_updated": "2026-09-12 15:58:22"
         },
         {
           "skuid": "S0B2F6197FB821002",
@@ -2734,11 +2734,11 @@
           "name": "3M pro grade sandpaper",
           "price": 12.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/844513f1-fb9f-482f-923c-c984b56034d0.jpg",
-          "stock": 9998,
+          "stock": 9997,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-08 13:39:45"
+          "stock_updated": "2026-09-12 16:47:51"
         },
         {
           "skuid": "S0B2E96B27D89100B",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T08:04:56Z",
+  "updated": "2026-09-12T12:17:47Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1123,11 +1123,11 @@
           "name": "San Pelligrino Pomegranate and Orange",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17601191596212.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
+          "stock_updated": "2026-09-12 03:23:46"
         },
         {
           "skuid": "S0B246944E4B51008",
@@ -2061,11 +2061,11 @@
           "name": "Candy M&M Plain",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 20:09:46"
+          "stock_updated": "2026-09-12 05:27:25"
         },
         {
           "skuid": "S0B2A44D16D23100C",
@@ -2589,11 +2589,11 @@
           "name": "Think minis smores",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178666913465510.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 19:51:19"
+          "stock_updated": "2026-09-12 05:27:25"
         },
         {
           "skuid": "S0B246944E3DB1006",
@@ -2613,11 +2613,11 @@
           "name": "Twix Candy Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 14,
+          "stock": 13,
           "capacity": 14,
-          "fill_pct": 100,
+          "fill_pct": 93,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 19:54:19"
+          "stock_updated": "2026-09-12 05:27:25"
         },
         {
           "skuid": "S0B2D48452F7E1005",

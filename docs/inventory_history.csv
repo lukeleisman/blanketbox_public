@@ -4881,3 +4881,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-09-12T12:17:47Z,16213,haven,TheHaven#2-cooler,S0B300172DC1E1001,753656720807,Think minis smores,2.0,11,10,-1
 2026-09-12T18:09:04Z,16214,doylestown,333 North Broad Cooler,S0B2E63AC3F231007,682430010486,Voss Water,6.99,15,14,-1
 2026-09-12T18:09:04Z,16214,doylestown,333 North Broad Cooler,S0B246944E4141002,052000328684,Gatorade Lemon Lime,3.25,6,5,-1
+2026-09-12T20:47:38Z,129111,philly,Philly TrueCooler II,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,6,5,-1
+2026-09-12T20:47:38Z,129111,philly,Philly TrueCooler II,S0B2F61930CDF1009,0049000050752,Powerade Zero Mixed Berry 20floz,3.0,7,6,-1
+2026-09-12T20:47:38Z,129111,philly,Philly TrueCooler II,S0B25FC5136E7100C,8801073211506,Buldak Spicy Ramen,6.0,11,10,-1
+2026-09-12T20:47:38Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.5,6,5,-1

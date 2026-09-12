@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T18:09:04Z",
+  "updated": "2026-09-12T20:47:38Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1364,11 +1364,11 @@
           "name": "Buldak Spicy Ramen",
           "price": 6.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176703148096672.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-09-01 18:45:24"
+          "stock_updated": "2026-09-12 15:03:17"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -1724,11 +1724,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-09-10 01:20:10"
+          "stock_updated": "2026-09-12 13:34:03"
         },
         {
           "skuid": "S0B2885215A1B1003",
@@ -1820,11 +1820,11 @@
           "name": "Powerade Zero Mixed Berry 20floz",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176048132401919.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-09-01 18:45:24"
+          "stock_updated": "2026-09-12 13:34:03"
         },
         {
           "skuid": "S0B2D3E6DA5E01005",
@@ -2181,11 +2181,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 9,
-          "fill_pct": 67,
+          "fill_pct": 56,
           "stock_warning": 0,
-          "stock_updated": "2026-09-11 16:20:18"
+          "stock_updated": "2026-09-12 13:58:32"
         },
         {
           "skuid": "S0B2FE716F5901003",

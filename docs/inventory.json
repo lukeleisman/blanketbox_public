@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T23:54:22Z",
+  "updated": "2026-09-12T03:26:02Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1282,8 +1282,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 58,
-      "in_stock": 39,
-      "out_of_stock": 19,
+      "in_stock": 38,
+      "out_of_stock": 20,
       "low_stock": 0,
       "products": [
         {
@@ -1616,11 +1616,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-09-04 20:15:09"
+          "stock_updated": "2026-09-11 19:00:19"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -1664,11 +1664,11 @@
           "name": "Goldfish Cheddar",
           "price": 2.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172165768291916.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-09-11 18:39:56"
+          "stock_updated": "2026-09-11 19:17:16"
         },
         {
           "skuid": "S0B2D4851D7141003",

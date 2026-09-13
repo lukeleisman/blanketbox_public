@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T14:58:43Z",
+  "updated": "2026-09-13T18:04:15Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1219,11 +1219,11 @@
           "name": "VITAMIN WATER DRAGONFRUIT",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176953552008452.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-09-12 15:58:22"
+          "stock_updated": "2026-09-13 10:41:36"
         },
         {
           "skuid": "S0B2F6197FB821002",
@@ -1243,11 +1243,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 14,
+          "stock": 13,
           "capacity": 15,
-          "fill_pct": 93,
+          "fill_pct": 87,
           "stock_warning": 0,
-          "stock_updated": "2026-09-12 12:11:51"
+          "stock_updated": "2026-09-13 10:41:36"
         },
         {
           "skuid": "S0B2EF08A265B1002",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T13:41:31Z",
+  "updated": "2026-09-14T19:03:01Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -631,11 +631,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
+          "stock_updated": "2026-09-14 11:43:42"
         },
         {
           "skuid": "S0B2EB7FF1C0F1007",
@@ -703,11 +703,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 5,
-          "fill_pct": 40,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-09-14 07:23:30"
+          "stock_updated": "2026-09-14 11:52:56"
         },
         {
           "skuid": "S0B246944E5C11006",
@@ -751,11 +751,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 21,
+          "stock": 20,
           "capacity": 27,
-          "fill_pct": 78,
+          "fill_pct": 74,
           "stock_warning": 0,
-          "stock_updated": "2026-09-13 19:35:50"
+          "stock_updated": "2026-09-14 10:29:19"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -883,11 +883,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023828232980.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
+          "stock_updated": "2026-09-14 11:43:42"
         },
         {
           "skuid": "S0B2D4851D7141003",
@@ -1135,11 +1135,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
+          "stock_updated": "2026-09-14 12:02:10"
         },
         {
           "skuid": "S0B2D5DE0BABD100A",
@@ -1472,11 +1472,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-09-13 20:25:38"
+          "stock_updated": "2026-09-14 09:27:46"
         },
         {
           "skuid": "S0B246944DEAE1000",
@@ -1604,11 +1604,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/052000328660.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-09-13 20:36:20"
+          "stock_updated": "2026-09-14 09:27:46"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1904,11 +1904,11 @@
           "name": "Twix Candy Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 5,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-09-13 20:25:38"
+          "stock_updated": "2026-09-14 09:27:46"
         },
         {
           "skuid": "S0B246944E7B61003",
@@ -1989,11 +1989,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-09-10 14:16:31"
+          "stock_updated": "2026-09-14 13:39:19"
         },
         {
           "skuid": "S0B246944E6801005",
@@ -2169,11 +2169,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 9,
-          "fill_pct": 89,
+          "fill_pct": 78,
           "stock_warning": 0,
-          "stock_updated": "2026-09-13 21:33:59"
+          "stock_updated": "2026-09-14 13:39:19"
         },
         {
           "skuid": "S0B2FE716F5901003",

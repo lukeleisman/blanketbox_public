@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T06:46:20Z",
+  "updated": "2026-09-14T13:41:31Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -162,11 +162,11 @@
           "name": "Every daze Konjac",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178666881468049.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:19:47"
+          "stock_updated": "2026-09-14 05:34:43"
         },
         {
           "skuid": "S0B30022CA06A1003",
@@ -366,11 +366,11 @@
           "name": "Nature's Bakery - Raspberry Fig Bar",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168624019575474.jpeg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:19:47"
+          "stock_updated": "2026-09-14 05:34:43"
         },
         {
           "skuid": "S0B27699FEC921007",
@@ -498,11 +498,11 @@
           "name": "Righteous Jerky",
           "price": 10.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178744481516065.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:19:47"
+          "stock_updated": "2026-09-14 05:34:43"
         },
         {
           "skuid": "S0B2FED3B37D71002",
@@ -546,11 +546,11 @@
           "name": "Snack Factory Pretzel Chips",
           "price": 7.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178668113716221.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:19:47"
+          "stock_updated": "2026-09-14 05:35:23"
         },
         {
           "skuid": "S0B27699FEBCD1003",
@@ -703,11 +703,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-09-11 07:04:47"
+          "stock_updated": "2026-09-14 07:23:30"
         },
         {
           "skuid": "S0B246944E5C11006",
@@ -2097,11 +2097,11 @@
           "name": "Celsius Peach Vibes",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064199646.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-09-10 08:55:29"
+          "stock_updated": "2026-09-14 08:17:59"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -2433,11 +2433,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-09-13 22:34:49"
+          "stock_updated": "2026-09-14 04:22:30"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -2505,11 +2505,11 @@
           "name": "Powerade Zero Grape",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175799657047375.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 20:02:25"
+          "stock_updated": "2026-09-14 08:17:59"
         },
         {
           "skuid": "S0B2F61930CDF1009",

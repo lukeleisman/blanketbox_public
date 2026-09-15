@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T20:22:06Z",
+  "updated": "2026-09-15T23:04:02Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -631,11 +631,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-09-14 11:43:42"
+          "stock_updated": "2026-09-15 17:48:43"
         },
         {
           "skuid": "S0B2EB7FF1C0F1007",
@@ -1099,11 +1099,11 @@
           "name": "S. Pellegrino Lemonade 11.15oz",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177078645626497.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-09-10 21:58:08"
+          "stock_updated": "2026-09-15 17:48:43"
         },
         {
           "skuid": "S0B2D3E6DA5E01005",

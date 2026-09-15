@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T22:38:29Z",
+  "updated": "2026-09-15T01:11:31Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1171,11 +1171,11 @@
           "name": "Trip Raspberry",
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177016814456712.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
+          "stock_updated": "2026-09-14 20:05:21"
         },
         {
           "skuid": "S0B2FED291FB81003",
@@ -1282,8 +1282,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 57,
-      "in_stock": 43,
-      "out_of_stock": 14,
+      "in_stock": 42,
+      "out_of_stock": 15,
       "low_stock": 0,
       "products": [
         {
@@ -1520,11 +1520,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-09-13 20:25:38"
+          "stock_updated": "2026-09-14 17:47:22"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1544,11 +1544,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 3,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-09-13 20:36:20"
+          "stock_updated": "2026-09-14 19:57:48"
         },
         {
           "skuid": "S0B2FECB8B02B1009",
@@ -1844,11 +1844,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-09-13 20:25:38"
+          "stock_updated": "2026-09-14 19:57:48"
         },
         {
           "skuid": "S0B246944E4B51008",
@@ -2169,11 +2169,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 9,
-          "fill_pct": 78,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-09-14 13:39:19"
+          "stock_updated": "2026-09-14 19:46:57"
         },
         {
           "skuid": "S0B2FE716F5901003",

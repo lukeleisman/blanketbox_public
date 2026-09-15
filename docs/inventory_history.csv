@@ -4967,3 +4967,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-09-14T19:03:01Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,8,7,-1
 2026-09-14T19:03:01Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.5,7,6,-1
 2026-09-14T22:38:29Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.6,20,19,-1
+2026-09-15T01:11:31Z,16214,doylestown,333 North Broad Cooler,S0B308CFC6B011002,810119680259,Trip Raspberry,5.25,4,3,-1
+2026-09-15T01:11:31Z,129111,philly,Philly TrueCooler II,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,5.0,3,0,-3
+2026-09-15T01:11:31Z,129111,philly,Philly TrueCooler II,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,8,7,-1
+2026-09-15T01:11:31Z,129111,philly,Philly TrueCooler II,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,11,10,-1
+2026-09-15T01:11:31Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,7,6,-1

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T12:01:07Z",
+  "updated": "2026-09-15T17:11:32Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -763,11 +763,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
+          "stock_updated": "2026-09-15 07:35:38"
         },
         {
           "skuid": "S0B2D055ACE44100B",
@@ -787,11 +787,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
+          "stock_updated": "2026-09-15 07:35:38"
         },
         {
           "skuid": "S0B3052F2BFF3100A",
@@ -1135,11 +1135,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-09-14 12:02:10"
+          "stock_updated": "2026-09-15 07:50:12"
         },
         {
           "skuid": "S0B2D5DE0BABD100A",
@@ -2085,11 +2085,11 @@
           "name": "Celsius Orange",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 20:02:25"
+          "stock_updated": "2026-09-15 08:38:27"
         },
         {
           "skuid": "S0B246944E5C11006",
@@ -2265,11 +2265,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-09-13 21:33:59"
+          "stock_updated": "2026-09-15 08:38:27"
         },
         {
           "skuid": "S0B246944E4051007",

@@ -4972,3 +4972,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-09-15T01:11:31Z,129111,philly,Philly TrueCooler II,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,8,7,-1
 2026-09-15T01:11:31Z,129111,philly,Philly TrueCooler II,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,11,10,-1
 2026-09-15T01:11:31Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,7,6,-1
+2026-09-15T06:28:15Z,15519,doylestown,333 North Broad Ambient,S0B2BAC9D24491002,F0B2BAC9D24491000,Pop Secret popcorn,2.0,6,5,-1
+2026-09-15T06:28:15Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.25,10,8,-2
+2026-09-15T06:28:15Z,16214,doylestown,333 North Broad Cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.25,9,8,-1
+2026-09-15T06:28:15Z,16214,doylestown,333 North Broad Cooler,S0B2EB7FF1C0F1007,01275900,Brisk Iced Tea,2.57,4,3,-1

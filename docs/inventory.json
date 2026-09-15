@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T01:11:31Z",
+  "updated": "2026-09-15T06:28:15Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -474,11 +474,11 @@
           "name": "Pop Secret popcorn",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:19:47"
+          "stock_updated": "2026-09-15 00:29:29"
         },
         {
           "skuid": "S0B30530C0E711003",
@@ -643,11 +643,11 @@
           "name": "Brisk Iced Tea",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176736539400427.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-09-13 21:56:10"
+          "stock_updated": "2026-09-14 23:01:50"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -847,11 +847,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
+          "stock_updated": "2026-09-14 23:01:50"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.25,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 10,
+          "stock": 8,
           "capacity": 13,
-          "fill_pct": 77,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-09-11 13:14:22"
+          "stock_updated": "2026-09-14 21:41:14"
         },
         {
           "skuid": "S0B2C377070EC1001",

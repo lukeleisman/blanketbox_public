@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T17:29:37Z",
+  "updated": "2026-09-16T20:23:04Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1844,11 +1844,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 11,
-          "fill_pct": 91,
+          "fill_pct": 82,
           "stock_warning": 0,
-          "stock_updated": "2026-09-14 19:57:48"
+          "stock_updated": "2026-09-16 14:17:14"
         },
         {
           "skuid": "S0B246944E4B51008",
@@ -1904,11 +1904,11 @@
           "name": "Twix Candy Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 5,
-          "fill_pct": 40,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-09-16 01:17:46"
+          "stock_updated": "2026-09-16 14:17:14"
         },
         {
           "skuid": "S0B246944E7B61003",
@@ -1989,11 +1989,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-09-16 08:17:06"
+          "stock_updated": "2026-09-16 13:53:32"
         },
         {
           "skuid": "S0B246944E6801005",
@@ -2217,11 +2217,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 6,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 20:09:46"
+          "stock_updated": "2026-09-16 13:53:32"
         },
         {
           "skuid": "S0B3052F2BFF3100A",
@@ -2445,11 +2445,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 19:51:19"
+          "stock_updated": "2026-09-16 13:10:47"
         },
         {
           "skuid": "S0B2EF08BF2341003",

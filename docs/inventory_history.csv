@@ -5029,3 +5029,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-09-16T17:29:37Z,16213,haven,TheHaven#2-cooler,S0B2A44D16D23100C,88939200170,Celsius Cherry Cola,3.57,4,3,-1
 2026-09-16T17:29:37Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.5,5,4,-1
 2026-09-16T17:29:37Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.5,12,11,-1
+2026-09-16T20:23:04Z,129111,philly,Philly TrueCooler II,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,10,9,-1
+2026-09-16T20:23:04Z,129111,philly,Philly TrueCooler II,S0B246944E3C71001,04043506,Twix Candy Bar,2.5,2,1,-1
+2026-09-16T20:23:04Z,16213,haven,TheHaven#2-cooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,5.25,6,4,-2
+2026-09-16T20:23:04Z,16213,haven,TheHaven#2-cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,8,7,-1
+2026-09-16T20:23:04Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.5,4,3,-1

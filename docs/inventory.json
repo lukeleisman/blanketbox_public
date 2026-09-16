@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T20:23:04Z",
+  "updated": "2026-09-16T23:09:49Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -210,11 +210,11 @@
           "name": "Goldfish Cheddar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172165768291916.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-09-15 20:16:35"
+          "stock_updated": "2026-09-16 15:54:32"
         },
         {
           "skuid": "S0B2D1141B78F1003",
@@ -1075,11 +1075,11 @@
           "name": "Powerade Zero Mixed Berry 20floz",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176048132401919.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-15 19:57:53"
+          "stock_updated": "2026-09-16 16:03:49"
         },
         {
           "skuid": "S0B2C858213931004",
@@ -1364,11 +1364,11 @@
           "name": "Buldak Spicy Ramen",
           "price": 6.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176703148096672.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-09-13 20:19:22"
+          "stock_updated": "2026-09-16 16:20:17"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -1520,11 +1520,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 6,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-15 20:00:43"
+          "stock_updated": "2026-09-16 17:49:47"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1844,11 +1844,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 11,
-          "fill_pct": 82,
+          "fill_pct": 73,
           "stock_warning": 0,
-          "stock_updated": "2026-09-16 14:17:14"
+          "stock_updated": "2026-09-16 16:04:29"
         },
         {
           "skuid": "S0B246944E4B51008",
@@ -1979,8 +1979,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 56,
-      "in_stock": 45,
-      "out_of_stock": 11,
+      "in_stock": 44,
+      "out_of_stock": 12,
       "low_stock": 0,
       "products": [
         {
@@ -2085,11 +2085,11 @@
           "name": "Celsius Orange",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-09-15 08:38:27"
+          "stock_updated": "2026-09-16 15:47:36"
         },
         {
           "skuid": "S0B246944E5C11006",
@@ -2637,11 +2637,11 @@
           "name": "Vitamin Water Tropical Citrus",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176040330342693.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 3,
-          "fill_pct": 33,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-09-10 08:55:29"
+          "stock_updated": "2026-09-16 15:47:36"
         },
         {
           "skuid": "S0B2F61985D4D1008",

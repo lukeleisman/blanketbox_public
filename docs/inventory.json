@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T23:04:02Z",
+  "updated": "2026-09-16T01:32:21Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -210,11 +210,11 @@
           "name": "Goldfish Cheddar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172165768291916.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:19:47"
+          "stock_updated": "2026-09-15 20:16:35"
         },
         {
           "skuid": "S0B2D1141B78F1003",
@@ -256,19 +256,19 @@
           "skuid": "S0B2D90DF10651003",
           "barcode": "071879700049",
           "name": "Jennie\u2019s Coconut bites",
-          "price": 13.0,
+          "price": 18.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177619046579382.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:19:47"
+          "stock_updated": "2026-09-15 19:57:03"
         },
         {
           "skuid": "S0B30016FDCE11007",
           "barcode": "071879126009",
           "name": "Jennie\u2019s Cranberry & coconut",
-          "price": 13.0,
+          "price": 18.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178666893817294.png",
           "stock": 5,
           "capacity": 5,
@@ -484,7 +484,7 @@
           "skuid": "S0B30530C0E711003",
           "barcode": "655852006849",
           "name": "Pub Spicy Blend",
-          "price": 13.0,
+          "price": 15.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178803812880949.png",
           "stock": 3,
           "capacity": 4,
@@ -496,7 +496,7 @@
           "skuid": "S0B302FAECE981004",
           "barcode": "852089007469",
           "name": "Righteous Jerky",
-          "price": 10.0,
+          "price": 12.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178744481516065.png",
           "stock": 1,
           "capacity": 2,
@@ -558,17 +558,17 @@
           "name": "Snickers Candy Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 3,
+          "stock": 1,
           "capacity": 12,
-          "fill_pct": 25,
+          "fill_pct": 8,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:19:47"
+          "stock_updated": "2026-09-15 20:16:35"
         },
         {
           "skuid": "S0B300176CD16100C",
           "barcode": "753656720555",
           "name": "Think adventurefuls",
-          "price": 2.0,
+          "price": 1.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178666939290752.png",
           "stock": 13,
           "capacity": 13,
@@ -580,7 +580,7 @@
           "skuid": "S0B300172DC1E1001",
           "barcode": "753656720807",
           "name": "Think minis smores",
-          "price": 2.0,
+          "price": 1.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178666913465510.png",
           "stock": 15,
           "capacity": 15,
@@ -691,11 +691,11 @@
           "name": "Celsius Kiwi Guava",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/171949904019511.png",
-          "stock": 5,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-10 10:49:31"
+          "stock_updated": "2026-09-15 20:19:34"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -751,11 +751,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 19,
+          "stock": 17,
           "capacity": 27,
-          "fill_pct": 70,
+          "fill_pct": 63,
           "stock_warning": 0,
-          "stock_updated": "2026-09-14 16:47:21"
+          "stock_updated": "2026-09-15 18:29:23"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1075,11 +1075,11 @@
           "name": "Powerade Zero Mixed Berry 20floz",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176048132401919.png",
-          "stock": 6,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
+          "stock_updated": "2026-09-15 19:57:53"
         },
         {
           "skuid": "S0B2C858213931004",
@@ -1520,11 +1520,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-09-14 17:47:22"
+          "stock_updated": "2026-09-15 20:00:43"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1989,11 +1989,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-09-14 13:39:19"
+          "stock_updated": "2026-09-15 20:10:33"
         },
         {
           "skuid": "S0B246944E6801005",
@@ -2109,11 +2109,11 @@
           "name": "Cheez It Original",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254819896872.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 4,
-          "fill_pct": 175,
+          "fill_pct": 150,
           "stock_warning": 0,
-          "stock_updated": "2026-09-13 22:34:49"
+          "stock_updated": "2026-09-15 19:22:45"
         },
         {
           "skuid": "S0B2DAF9429041007",
@@ -2385,11 +2385,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 3,
-          "fill_pct": 200,
+          "fill_pct": 167,
           "stock_warning": 0,
-          "stock_updated": "2026-09-13 22:34:49"
+          "stock_updated": "2026-09-15 19:22:45"
         },
         {
           "skuid": "S0B2D0516EFCB1008",
@@ -2397,11 +2397,11 @@
           "name": "Maison Perrier Sparkling Water",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17773152898848.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 19:51:19"
+          "stock_updated": "2026-09-15 20:10:33"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2553,11 +2553,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 14,
+          "stock": 13,
           "capacity": 18,
-          "fill_pct": 78,
+          "fill_pct": 72,
           "stock_warning": 0,
-          "stock_updated": "2026-09-13 14:47:10"
+          "stock_updated": "2026-09-15 20:10:33"
         },
         {
           "skuid": "S0B246944E4B51008",
@@ -2613,11 +2613,11 @@
           "name": "Twix Candy Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 13,
+          "stock": 12,
           "capacity": 14,
-          "fill_pct": 93,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-09-12 05:27:25"
+          "stock_updated": "2026-09-15 19:22:45"
         },
         {
           "skuid": "S0B2D48452F7E1005",

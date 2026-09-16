@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T12:43:15Z",
+  "updated": "2026-09-16T17:29:37Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -594,11 +594,11 @@
           "name": "Twix Candy Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 12,
+          "stock": 11,
           "capacity": 15,
-          "fill_pct": 80,
+          "fill_pct": 73,
           "stock_warning": 0,
-          "stock_updated": "2026-09-10 11:07:16"
+          "stock_updated": "2026-09-16 09:48:35"
         },
         {
           "skuid": "S0B246944E8251002",
@@ -1171,11 +1171,11 @@
           "name": "Trip Raspberry",
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177016814456712.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-14 20:05:21"
+          "stock_updated": "2026-09-16 08:55:35"
         },
         {
           "skuid": "S0B2FED291FB81003",
@@ -1979,8 +1979,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 56,
-      "in_stock": 46,
-      "out_of_stock": 10,
+      "in_stock": 45,
+      "out_of_stock": 11,
       "low_stock": 0,
       "products": [
         {
@@ -1989,11 +1989,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-15 20:10:33"
+          "stock_updated": "2026-09-16 08:17:06"
         },
         {
           "skuid": "S0B246944E6801005",
@@ -2061,11 +2061,11 @@
           "name": "Celsius Cherry Cola",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176202960060787.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-09-10 21:48:58"
+          "stock_updated": "2026-09-16 11:26:57"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -2169,11 +2169,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 6,
+          "stock": 4,
           "capacity": 9,
-          "fill_pct": 67,
+          "fill_pct": 44,
           "stock_warning": 0,
-          "stock_updated": "2026-09-14 19:46:57"
+          "stock_updated": "2026-09-16 09:41:47"
         },
         {
           "skuid": "S0B2FE716F5901003",
@@ -2397,11 +2397,11 @@
           "name": "Maison Perrier Sparkling Water",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17773152898848.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-09-15 20:10:33"
+          "stock_updated": "2026-09-16 08:17:06"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2613,11 +2613,11 @@
           "name": "Twix Candy Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 12,
+          "stock": 11,
           "capacity": 14,
-          "fill_pct": 86,
+          "fill_pct": 79,
           "stock_warning": 0,
-          "stock_updated": "2026-09-15 19:22:45"
+          "stock_updated": "2026-09-16 08:17:06"
         },
         {
           "skuid": "S0B2D48452F7E1005",

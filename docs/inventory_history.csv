@@ -5015,3 +5015,10 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-09-16T07:18:38Z,129111,philly,Philly TrueCooler II,S0B246944E3C71001,04043506,Twix Candy Bar,2.5,3,2,-1
 2026-09-16T07:18:38Z,129111,philly,Philly TrueCooler II,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,3,2,-1
 2026-09-16T07:18:38Z,129111,philly,Philly TrueCooler II,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,11,10,-1
+2026-09-16T12:43:15Z,15519,doylestown,333 North Broad Ambient,S0B246944E6801005,040000422082,3 Musketeers,2.5,3,1,-2
+2026-09-16T12:43:15Z,15519,doylestown,333 North Broad Ambient,S0B246944E6C51002,076410901633,Lance Peanut Butter,2.5,15,14,-1
+2026-09-16T12:43:15Z,15519,doylestown,333 North Broad Ambient,S0B246944E9DB1005,047495013054,Nature's Bakery - Raspberry Fig Bar,2.0,3,2,-1
+2026-09-16T12:43:15Z,15519,doylestown,333 North Broad Ambient,S0B2D484E0EFD1001,014100043706,Milano,2.0,3,2,-1
+2026-09-16T12:43:15Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.25,6,4,-2
+2026-09-16T12:43:15Z,16213,haven,TheHaven#2-cooler,S0B2FECA70BC81000,718604001346,cioccolati biscotti,2.5,8,7,-1
+2026-09-16T12:43:15Z,16213,haven,TheHaven#2-cooler,S0B300172DC1E1001,753656720807,Think minis smores,2.0,10,9,-1

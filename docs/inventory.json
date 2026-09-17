@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T07:14:09Z",
+  "updated": "2026-09-17T12:42:58Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -620,9 +620,9 @@
       "location_name": "333 North Broad",
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
-      "total_skus": 54,
+      "total_skus": 52,
       "in_stock": 40,
-      "out_of_stock": 14,
+      "out_of_stock": 12,
       "low_stock": 0,
       "products": [
         {
@@ -830,18 +830,6 @@
           "stock_updated": "2026-09-09 22:18:08"
         },
         {
-          "skuid": "0B2A3CC3855F1003",
-          "barcode": "052000208429",
-          "name": "Gatorade Fierce Grape",
-          "price": 2.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17497632086008.png",
-          "stock": 0,
-          "capacity": 0,
-          "fill_pct": null,
-          "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
-        },
-        {
           "skuid": "S0B246944E40F1008",
           "barcode": "052000328660",
           "name": "Gatorade Fruit Punch",
@@ -852,18 +840,6 @@
           "fill_pct": 89,
           "stock_warning": 0,
           "stock_updated": "2026-09-14 23:01:50"
-        },
-        {
-          "skuid": "S0B2BDAE8D5FB1006",
-          "barcode": "520010247",
-          "name": "Gatorade Glacier Cherry",
-          "price": 3.0,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 0,
-          "capacity": 0,
-          "fill_pct": null,
-          "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -890,18 +866,6 @@
           "stock_updated": "2026-09-14 11:43:42"
         },
         {
-          "skuid": "S0B2D4851D7141003",
-          "barcode": "195372325155",
-          "name": "Just Ice Tea Peach Oolong 16oz",
-          "price": 2.75,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 0,
-          "capacity": 0,
-          "fill_pct": null,
-          "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
-        },
-        {
           "skuid": "S0B25FC5C5C991003",
           "barcode": "0491300092",
           "name": "La Colombe Draft Latte Caramel",
@@ -912,6 +876,42 @@
           "fill_pct": null,
           "stock_warning": 0,
           "stock_updated": "2026-09-09 22:18:08"
+        },
+        {
+          "skuid": "S0B30B2FAEB911000",
+          "barcode": "840442200978",
+          "name": "Liquid Death Energy Murder",
+          "price": 2.75,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176616577399761.png",
+          "stock": 0,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-09-17 07:37:14"
+        },
+        {
+          "skuid": "S0B30B2FB4C961001",
+          "barcode": "840442200961",
+          "name": "Liquid Death Energy Orange",
+          "price": 2.75,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176616612693764.png",
+          "stock": 0,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-09-17 07:37:14"
+        },
+        {
+          "skuid": "S0B30B2FB9466100A",
+          "barcode": "840442200947",
+          "name": "Liquid Death Energy Scary",
+          "price": 2.75,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176616600069663.png",
+          "stock": 0,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-09-17 07:37:14"
         },
         {
           "skuid": "S0B3052F18C8E1002",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.25,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 4,
+          "stock": 2,
           "capacity": 13,
-          "fill_pct": 31,
+          "fill_pct": 15,
           "stock_warning": 0,
-          "stock_updated": "2026-09-16 06:03:58"
+          "stock_updated": "2026-09-17 06:08:22"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1030,18 +1030,6 @@
           "stock": 2,
           "capacity": 2,
           "fill_pct": 100,
-          "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
-        },
-        {
-          "skuid": "S0B246944E5891006",
-          "barcode": "01201303",
-          "name": "Pepsi 12oz",
-          "price": 2.5,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/169279986316211.jpeg",
-          "stock": 0,
-          "capacity": 0,
-          "fill_pct": null,
           "stock_warning": 0,
           "stock_updated": "2026-09-09 22:18:08"
         },
@@ -1188,18 +1176,6 @@
           "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-09-09 22:18:08"
-        },
-        {
-          "skuid": "S0B2DB92EA84A1003",
-          "barcode": "898999012247",
-          "name": "Vita Coconut Extra Coconut",
-          "price": 3.75,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176904241917369.png",
-          "stock": 0,
-          "capacity": 2,
-          "fill_pct": 0,
-          "stock_warning": 0,
-          "stock_updated": "2026-09-12 15:58:22"
         },
         {
           "skuid": "S0B2F6198ACBB1001",
@@ -1978,9 +1954,9 @@
       "location_name": "The Haven",
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
-      "total_skus": 56,
+      "total_skus": 54,
       "in_stock": 44,
-      "out_of_stock": 12,
+      "out_of_stock": 10,
       "low_stock": 0,
       "products": [
         {
@@ -2068,40 +2044,16 @@
           "stock_updated": "2026-09-16 11:26:57"
         },
         {
-          "skuid": "S0B2D0552D8121008",
-          "barcode": "8939200091",
-          "name": "Celsius Grape",
-          "price": 3.57,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": -2,
-          "capacity": 0,
-          "fill_pct": null,
-          "stock_warning": 0,
-          "stock_updated": "2026-09-15 01:38:59"
-        },
-        {
           "skuid": "S0B246944E5841006",
           "barcode": "889392000313",
           "name": "Celsius Orange",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-09-16 15:47:36"
-        },
-        {
-          "skuid": "S0B246944E5C11006",
-          "barcode": "889392010190",
-          "name": "Celsius Peach Vibes",
-          "price": 3.5,
-          "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064199646.jpg",
-          "stock": 0,
-          "capacity": 3,
-          "fill_pct": 0,
-          "stock_warning": 0,
-          "stock_updated": "2026-09-15 06:24:18"
+          "stock_updated": "2026-09-17 07:39:12"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -2114,18 +2066,6 @@
           "fill_pct": 150,
           "stock_warning": 0,
           "stock_updated": "2026-09-15 19:22:45"
-        },
-        {
-          "skuid": "S0B2DAF9429041007",
-          "barcode": "044000085964",
-          "name": "Chips Ahoy minis",
-          "price": 5.07,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17767056506495.png",
-          "stock": 0,
-          "capacity": 0,
-          "fill_pct": null,
-          "stock_warning": 0,
-          "stock_updated": "2026-09-09 19:51:19"
         },
         {
           "skuid": "S0B2FECA70BC81000",
@@ -2344,30 +2284,6 @@
           "stock_updated": "2026-09-15 01:38:59"
         },
         {
-          "skuid": "S0B2D4851D7141003",
-          "barcode": "195372325155",
-          "name": "Just Ice Tea Peach Oolong 16oz",
-          "price": 4.07,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17725699992989.png",
-          "stock": 0,
-          "capacity": 0,
-          "fill_pct": null,
-          "stock_warning": 0,
-          "stock_updated": "2026-09-09 19:51:19"
-        },
-        {
-          "skuid": "S0B25FC5DA5DD1003",
-          "barcode": "0491300013",
-          "name": "La Colombe Draft Latte Mocha",
-          "price": 4.27,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174363418524043.png",
-          "stock": 0,
-          "capacity": 0,
-          "fill_pct": null,
-          "stock_warning": 0,
-          "stock_updated": "2026-09-09 19:51:19"
-        },
-        {
           "skuid": "S0B246944E6C51002",
           "barcode": "076410901633",
           "name": "Lance Peanut Butter",
@@ -2380,6 +2296,54 @@
           "stock_updated": "2026-09-09 19:54:19"
         },
         {
+          "skuid": "S0B30B2FAEB911000",
+          "barcode": "840442200978",
+          "name": "Liquid Death Energy Murder",
+          "price": 2.75,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176616577399761.png",
+          "stock": 0,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-09-17 07:22:28"
+        },
+        {
+          "skuid": "S0B30B2FB4C961001",
+          "barcode": "840442200961",
+          "name": "Liquid Death Energy Orange",
+          "price": 2.75,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176616612693764.png",
+          "stock": 0,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-09-17 07:22:28"
+        },
+        {
+          "skuid": "S0B30B2FB9466100A",
+          "barcode": "840442200947",
+          "name": "Liquid Death Energy Scary",
+          "price": 2.75,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176616600069663.png",
+          "stock": 0,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-09-17 07:22:28"
+        },
+        {
+          "skuid": "S0B30B300238A1008",
+          "barcode": "840442200954",
+          "name": "Liquid Death Energy Tropical",
+          "price": 2.75,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176616588958860.png",
+          "stock": 0,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-09-17 07:26:13"
+        },
+        {
           "skuid": "S0B246944E19E1000",
           "barcode": "006ckhkp04",
           "name": "M&M'S, Peanut Milk Chocolate Candy",
@@ -2390,18 +2354,6 @@
           "fill_pct": 167,
           "stock_warning": 0,
           "stock_updated": "2026-09-15 19:22:45"
-        },
-        {
-          "skuid": "S0B2D0516EFCB1008",
-          "barcode": "007478051550",
-          "name": "Maison Perrier Sparkling Water",
-          "price": 2.75,
-          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17773152898848.png",
-          "stock": 0,
-          "capacity": 2,
-          "fill_pct": 0,
-          "stock_warning": 0,
-          "stock_updated": "2026-09-16 08:17:06"
         },
         {
           "skuid": "S0B2D484E0EFD1001",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T01:37:11Z",
+  "updated": "2026-09-17T07:14:09Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1282,8 +1282,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 57,
-      "in_stock": 42,
-      "out_of_stock": 15,
+      "in_stock": 41,
+      "out_of_stock": 16,
       "low_stock": 0,
       "products": [
         {
@@ -1520,11 +1520,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-09-16 17:49:47"
+          "stock_updated": "2026-09-16 21:24:39"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1904,11 +1904,11 @@
           "name": "Twix Candy Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 5,
-          "fill_pct": 20,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-09-16 14:17:14"
+          "stock_updated": "2026-09-16 21:24:39"
         },
         {
           "skuid": "S0B246944E7B61003",
@@ -2289,11 +2289,11 @@
           "name": "Goldfish Cheddar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172165768291916.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 2,
-          "fill_pct": 350,
+          "fill_pct": 300,
           "stock_warning": 0,
-          "stock_updated": "2026-09-13 22:34:49"
+          "stock_updated": "2026-09-16 20:56:24"
         },
         {
           "skuid": "S0B246944E7FE1008",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T23:09:49Z",
+  "updated": "2026-09-17T01:37:11Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -667,11 +667,11 @@
           "name": "Celsius Cherry Cola",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176202960060787.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-09-09 22:18:08"
+          "stock_updated": "2026-09-16 19:51:14"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -691,11 +691,11 @@
           "name": "Celsius Kiwi Guava",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/171949904019511.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-09-15 20:19:34"
+          "stock_updated": "2026-09-16 18:43:11"
         },
         {
           "skuid": "S0B246944E5841006",

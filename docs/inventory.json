@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T21:29:32Z",
+  "updated": "2026-09-18T23:32:10Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -847,11 +847,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023828232980.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-09-17 23:38:05"
+          "stock_updated": "2026-09-18 17:04:32"
         },
         {
           "skuid": "S0B25FC5C5C991003",
@@ -1448,11 +1448,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 13:40:07"
+          "stock_updated": "2026-09-18 16:31:09"
         },
         {
           "skuid": "S0B2C85783CD31007",

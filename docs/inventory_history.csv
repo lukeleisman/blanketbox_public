@@ -5104,3 +5104,12 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-09-18T06:21:20Z,16214,doylestown,333 North Broad Cooler,S0B2EB7FF1C0F1007,01275900,Brisk Iced Tea,2.57,3,5,2
 2026-09-18T06:21:20Z,16213,haven,TheHaven#2-cooler,S0B2EB7FF1C0F1007,01275900,Brisk Iced Tea,2.5,7,6,-1
 2026-09-18T06:21:20Z,15452,borellis,BorellisBox,S0B248CF276A91005,039800011329,Energizer AA Batteries,5.99,3,2,-1
+2026-09-18T11:37:56Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.25,9,7,-2
+2026-09-18T11:37:56Z,129111,philly,Philly TrueCooler II,S0B2C6BE9F76D100A,2410012261,Cheez-It 1.5 oz,2.0,8,6,-2
+2026-09-18T11:37:56Z,129111,philly,Philly TrueCooler II,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,7,6,-1
+2026-09-18T11:37:56Z,129111,philly,Philly TrueCooler II,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,5,4,-1
+2026-09-18T11:37:56Z,16213,haven,TheHaven#2-cooler,S0B2C85783CD31007,1162002196,Fair Life Core Power 26g Vanilla Protein Shake,5.25,5,4,-1
+2026-09-18T11:37:56Z,16213,haven,TheHaven#2-cooler,S0B2FECB8B02B1009,811620022125,Fairlife Vanilla Protein,5.5,5,4,-1
+2026-09-18T11:37:56Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.5,6,3,-3
+2026-09-18T11:37:56Z,16213,haven,TheHaven#2-cooler,S0B2D484E0EFD1001,014100043706,Milano,2.0,10,9,-1
+2026-09-18T11:37:56Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.5,5,4,-1

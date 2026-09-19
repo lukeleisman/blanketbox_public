@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T12:37:29Z",
+  "updated": "2026-09-19T16:16:00Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -282,11 +282,11 @@
           "name": "Kim Nori Seaweed",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178965721524086.png",
-          "stock": 34,
+          "stock": 33,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 00:37:33"
+          "stock_updated": "2026-09-19 07:57:23"
         },
         {
           "skuid": "S0B246944E6C51002",
@@ -474,11 +474,11 @@
           "name": "Pop Secret popcorn",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 7,
+          "stock": 5,
           "capacity": 20,
-          "fill_pct": 35,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-09-17 23:52:11"
+          "stock_updated": "2026-09-19 07:57:23"
         },
         {
           "skuid": "S0B30530C0E711003",
@@ -609,8 +609,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 51,
-      "in_stock": 42,
-      "out_of_stock": 9,
+      "in_stock": 41,
+      "out_of_stock": 10,
       "low_stock": 0,
       "products": [
         {
@@ -739,11 +739,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 16,
+          "stock": 15,
           "capacity": 24,
-          "fill_pct": 67,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 10:24:34"
+          "stock_updated": "2026-09-19 11:07:31"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -835,11 +835,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-09-17 23:38:05"
+          "stock_updated": "2026-09-19 11:01:42"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -931,11 +931,11 @@
           "name": "Moment Mango glow",
           "price": 7.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178803629354046.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-17 23:38:05"
+          "stock_updated": "2026-09-19 09:37:21"
         },
         {
           "skuid": "S0B3052F97FBC1003",
@@ -1234,8 +1234,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 53,
-      "in_stock": 47,
-      "out_of_stock": 6,
+      "in_stock": 46,
+      "out_of_stock": 7,
       "low_stock": 0,
       "products": [
         {
@@ -1328,11 +1328,11 @@
           "name": "Celsius Cherry Cola",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176202960060787.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 8,
-          "fill_pct": 12,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 13:40:07"
+          "stock_updated": "2026-09-19 09:25:48"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -1652,11 +1652,11 @@
           "name": "Milky Way",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176366967811221.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-19 02:37:54"
+          "stock_updated": "2026-09-19 10:48:52"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1712,11 +1712,11 @@
           "name": "NutellaGo",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 20:11:20"
+          "stock_updated": "2026-09-19 10:48:52"
         },
         {
           "skuid": "S0B2FE73E50B01004",
@@ -1905,11 +1905,11 @@
           "name": "3 Musketeers",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168901411356537.jpeg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 10,
-          "fill_pct": 60,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-10 14:09:46"
+          "stock_updated": "2026-09-19 07:57:59"
         },
         {
           "skuid": "S0B2740EB95E01006",
@@ -2277,11 +2277,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 3,
+          "stock": 1,
           "capacity": 10,
-          "fill_pct": 30,
+          "fill_pct": 10,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 14:09:43"
+          "stock_updated": "2026-09-19 07:57:59"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2493,11 +2493,11 @@
           "name": "Twix Candy Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 11,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 110,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-09-16 08:17:06"
+          "stock_updated": "2026-09-19 07:57:59"
         },
         {
           "skuid": "S0B2F619836EC1004",

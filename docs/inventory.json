@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T18:42:46Z",
+  "updated": "2026-09-19T21:19:00Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -775,11 +775,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-09-17 23:38:05"
+          "stock_updated": "2026-09-19 15:26:22"
         },
         {
           "skuid": "S0B3052F2BFF3100A",
@@ -1027,11 +1027,11 @@
           "name": "Powerade Zero Grape",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175799657047375.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-09-17 23:38:05"
+          "stock_updated": "2026-09-19 15:09:07"
         },
         {
           "skuid": "S0B2F61930CDF1009",
@@ -1195,11 +1195,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 13,
+          "stock": 12,
           "capacity": 10,
-          "fill_pct": 130,
+          "fill_pct": 120,
           "stock_warning": 0,
-          "stock_updated": "2026-09-17 23:38:05"
+          "stock_updated": "2026-09-19 15:09:07"
         },
         {
           "skuid": "S0B2EF08A265B1002",

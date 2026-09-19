@@ -5173,3 +5173,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-09-19T16:16:00Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.5,3,1,-2
 2026-09-19T18:42:46Z,16213,haven,TheHaven#2-cooler,S0B3052F2BFF3100A,811620022118,Fairlife Nutrition Plan 30g High Quality Protein,5.5,4,3,-1
 2026-09-19T18:42:46Z,16213,haven,TheHaven#2-cooler,S0B246944E6801005,040000422082,3 Musketeers,2.5,5,4,-1
+2026-09-19T21:19:00Z,16214,doylestown,333 North Broad Cooler,S0B2F6194A055100A,4900005074,Powerade Zero Grape,3.0,6,5,-1
+2026-09-19T21:19:00Z,16214,doylestown,333 North Broad Cooler,S0B246944DFD21006,811620022002,Fairlife Core Power Chocolate 26g,5.25,8,7,-1
+2026-09-19T21:19:00Z,16214,doylestown,333 North Broad Cooler,S0B2E63AC3F231007,682430010486,Voss Water,6.99,13,12,-1

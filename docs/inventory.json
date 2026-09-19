@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T03:27:53Z",
+  "updated": "2026-09-19T08:15:20Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -619,11 +619,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-09-17 23:38:05"
+          "stock_updated": "2026-09-19 02:06:46"
         },
         {
           "skuid": "S0B2EB7FF1C0F1007",
@@ -1147,11 +1147,11 @@
           "name": "Tropicana Orange Juice",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176954850457683.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-09-17 23:38:05"
+          "stock_updated": "2026-09-19 02:06:46"
         },
         {
           "skuid": "S0B2F6198ACBB1001",
@@ -1256,11 +1256,11 @@
           "name": "Brisk Iced Tea",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176736539400427.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 13:40:07"
+          "stock_updated": "2026-09-18 23:11:39"
         },
         {
           "skuid": "S0B2BA2BFFF3F1006",
@@ -1604,11 +1604,11 @@
           "name": "Liquid Death Energy Murder",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176616577399761.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 13:40:07"
+          "stock_updated": "2026-09-19 02:37:54"
         },
         {
           "skuid": "S0B30B2FB9466100A",
@@ -1652,11 +1652,11 @@
           "name": "Milky Way",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176366967811221.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 20:11:20"
+          "stock_updated": "2026-09-19 02:37:54"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1676,11 +1676,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 13:40:07"
+          "stock_updated": "2026-09-18 23:11:39"
         },
         {
           "skuid": "S0B30022234F81004",

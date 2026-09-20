@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T06:42:46Z",
+  "updated": "2026-09-20T12:02:36Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1436,11 +1436,11 @@
           "name": "Deer park water",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 16,
+          "stock": 15,
           "capacity": 16,
-          "fill_pct": 100,
+          "fill_pct": 94,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 13:40:07"
+          "stock_updated": "2026-09-20 03:59:39"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -1893,11 +1893,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 3,
+          "stock": 1,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 06:31:04"
+          "stock_updated": "2026-09-20 05:09:28"
         },
         {
           "skuid": "S0B246944E6801005",
@@ -2445,11 +2445,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-09-11 11:05:50"
+          "stock_updated": "2026-09-20 05:09:28"
         },
         {
           "skuid": "S0B300176CD16100C",

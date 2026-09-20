@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T01:24:14Z",
+  "updated": "2026-09-20T06:42:46Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 49,
-      "in_stock": 35,
-      "out_of_stock": 14,
+      "in_stock": 34,
+      "out_of_stock": 15,
       "low_stock": 0,
       "products": [
         {
@@ -138,11 +138,11 @@
           "name": "Dot Pretzels",
           "price": 7.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17862269041505.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-17 23:52:11"
+          "stock_updated": "2026-09-19 23:42:14"
         },
         {
           "skuid": "S0B3053127F821006",
@@ -450,11 +450,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 16,
-          "fill_pct": 56,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-17 23:52:11"
+          "stock_updated": "2026-09-19 23:42:14"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -1147,11 +1147,11 @@
           "name": "Tropicana Orange Juice",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176954850457683.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-09-19 02:06:46"
+          "stock_updated": "2026-09-20 00:33:28"
         },
         {
           "skuid": "S0B2F6198ACBB1001",
@@ -1234,8 +1234,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 53,
-      "in_stock": 46,
-      "out_of_stock": 7,
+      "in_stock": 45,
+      "out_of_stock": 8,
       "low_stock": 0,
       "products": [
         {
@@ -1520,11 +1520,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/052000328660.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 8,
-          "fill_pct": 25,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 20:11:20"
+          "stock_updated": "2026-09-19 22:54:41"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1652,11 +1652,11 @@
           "name": "Milky Way",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176366967811221.png",
-          "stock": 3,
+          "stock": 0,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-19 10:48:52"
+          "stock_updated": "2026-09-19 22:54:41"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1700,11 +1700,11 @@
           "name": "Nonni\u2019s Chocolate Biscotti",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378025726710.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 20:11:20"
+          "stock_updated": "2026-09-19 22:54:41"
         },
         {
           "skuid": "S0B25F6365FD11002",
@@ -1712,11 +1712,11 @@
           "name": "NutellaGo",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-19 10:48:52"
+          "stock_updated": "2026-09-19 22:54:41"
         },
         {
           "skuid": "S0B2FE73E50B01004",
@@ -1844,11 +1844,11 @@
           "name": "Twix Candy Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 20,
-          "fill_pct": 40,
+          "fill_pct": 35,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 13:40:07"
+          "stock_updated": "2026-09-19 22:41:43"
         },
         {
           "skuid": "S0B246944E7B61003",

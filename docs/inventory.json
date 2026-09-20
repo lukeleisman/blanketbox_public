@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T23:20:38Z",
+  "updated": "2026-09-20T01:24:14Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -691,11 +691,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 8,
-          "fill_pct": 138,
+          "fill_pct": 125,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 12:08:34"
+          "stock_updated": "2026-09-19 19:54:50"
         },
         {
           "skuid": "S0B246944E5C11006",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.25,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 7,
+          "stock": 5,
           "capacity": 24,
-          "fill_pct": 29,
+          "fill_pct": 21,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 06:01:25"
+          "stock_updated": "2026-09-19 19:54:50"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1304,11 +1304,11 @@
           "name": "Canada Dry Ginger Ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175847239862745.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 13:40:07"
+          "stock_updated": "2026-09-19 19:31:15"
         },
         {
           "skuid": "S0B246944E6EA1003",
@@ -1448,11 +1448,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 16:31:09"
+          "stock_updated": "2026-09-19 18:59:35"
         },
         {
           "skuid": "S0B2C85783CD31007",

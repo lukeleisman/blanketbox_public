@@ -5212,3 +5212,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-09-20T21:24:06Z,16213,haven,TheHaven#2-cooler,S0B246944E4B51008,012000813313,Starbucks_Frappuccino_Vanilla,4.27,5,3,-2
 2026-09-20T21:24:06Z,16213,haven,TheHaven#2-cooler,S0B246944E6801005,040000422082,3 Musketeers,2.5,3,2,-1
 2026-09-20T21:24:06Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.5,4,3,-1
+2026-09-20T23:21:09Z,129111,philly,Philly TrueCooler II,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,4,3,-1
+2026-09-20T23:21:09Z,129111,philly,Philly TrueCooler II,S0B246944E5C11006,889392010190,Celsius Peach Vibes,3.57,4,3,-1

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T21:24:06Z",
+  "updated": "2026-09-20T23:21:09Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1364,11 +1364,11 @@
           "name": "Celsius Peach Vibes",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064199646.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 13:40:07"
+          "stock_updated": "2026-09-20 17:04:17"
         },
         {
           "skuid": "S0B2668475B231007",
@@ -1676,11 +1676,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-09-20 14:51:12"
+          "stock_updated": "2026-09-20 17:04:17"
         },
         {
           "skuid": "S0B30022234F81004",

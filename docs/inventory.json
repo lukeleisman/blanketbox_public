@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T06:48:29Z",
+  "updated": "2026-09-21T13:40:29Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.25,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 3,
+          "stock": 1,
           "capacity": 24,
-          "fill_pct": 12,
+          "fill_pct": 4,
           "stock_warning": 0,
-          "stock_updated": "2026-09-20 16:20:55"
+          "stock_updated": "2026-09-21 06:04:27"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1977,11 +1977,11 @@
           "name": "Celsius Orange",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-09-20 07:43:53"
+          "stock_updated": "2026-09-21 08:25:30"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -2121,11 +2121,11 @@
           "name": "GATORADE 20OZ ORANGE",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063782730.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 10:07:44"
+          "stock_updated": "2026-09-21 08:25:30"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -2734,11 +2734,11 @@
           "name": "milwaukee 18mm boxcutter knife",
           "price": 15.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/f3a07106-9f49-4d3c-88db-dc9b1ccc5764.jpg",
-          "stock": 9999,
+          "stock": 9998,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-19 17:33:23"
+          "stock_updated": "2026-09-21 02:52:08"
         },
         {
           "skuid": "S0B2E92CCA1881001",

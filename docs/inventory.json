@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T06:41:16Z",
+  "updated": "2026-09-22T12:23:27Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -609,8 +609,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 51,
-      "in_stock": 40,
-      "out_of_stock": 11,
+      "in_stock": 39,
+      "out_of_stock": 12,
       "low_stock": 0,
       "products": [
         {
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.25,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 24,
-          "fill_pct": 4,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-09-21 06:04:27"
+          "stock_updated": "2026-09-22 06:04:38"
         },
         {
           "skuid": "S0B2C377070EC1001",

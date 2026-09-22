@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T12:23:27Z",
+  "updated": "2026-09-22T17:09:06Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -787,11 +787,11 @@
           "name": "Fairlife Nutrition Plan 30g High Quality Protein",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023836433496.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 10:05:47"
+          "stock_updated": "2026-09-22 09:20:27"
         },
         {
           "skuid": "S0B2FECB8B02B1009",
@@ -1364,11 +1364,11 @@
           "name": "Celsius Peach Vibes",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064199646.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-20 17:04:17"
+          "stock_updated": "2026-09-22 11:41:54"
         },
         {
           "skuid": "S0B2668475B231007",
@@ -1496,11 +1496,11 @@
           "name": "Frosted Flakes cereal",
           "price": 1.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177127250090090.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 13:40:07"
+          "stock_updated": "2026-09-22 11:11:59"
         },
         {
           "skuid": "S0B246944E4F01003",
@@ -1628,11 +1628,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 20,
+          "stock": 19,
           "capacity": 20,
-          "fill_pct": 100,
+          "fill_pct": 95,
           "stock_warning": 0,
-          "stock_updated": "2026-09-21 21:23:02"
+          "stock_updated": "2026-09-22 11:41:54"
         },
         {
           "skuid": "S0B2D484E0EFD1001",

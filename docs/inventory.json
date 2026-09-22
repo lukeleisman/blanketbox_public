@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T20:22:30Z",
+  "updated": "2026-09-22T23:09:17Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -78,11 +78,11 @@
           "name": "Candy M&M Plain",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 5,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-21 00:36:51"
+          "stock_updated": "2026-09-22 16:19:57"
         },
         {
           "skuid": "S0B2C6BE9F76D100A",
@@ -306,11 +306,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 13,
+          "stock": 12,
           "capacity": 8,
-          "fill_pct": 162,
+          "fill_pct": 150,
           "stock_warning": 0,
-          "stock_updated": "2026-09-17 23:52:11"
+          "stock_updated": "2026-09-22 16:19:57"
         },
         {
           "skuid": "S0B29439727A41005",
@@ -1039,11 +1039,11 @@
           "name": "Powerade Zero Mixed Berry 20floz",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176048132401919.png",
-          "stock": 5,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-17 23:38:05"
+          "stock_updated": "2026-09-22 16:57:55"
         },
         {
           "skuid": "S0B2C858213931004",
@@ -1893,11 +1893,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-09-22 13:21:05"
+          "stock_updated": "2026-09-22 18:09:15"
         },
         {
           "skuid": "S0B246944E6801005",
@@ -2373,11 +2373,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 10,
-          "fill_pct": 50,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-09-22 13:21:05"
+          "stock_updated": "2026-09-22 18:09:15"
         },
         {
           "skuid": "S0B2F619342CA1009",

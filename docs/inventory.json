@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T12:55:26Z",
+  "updated": "2026-09-23T17:44:27Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -608,9 +608,9 @@
       "location_name": "333 North Broad",
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
-      "total_skus": 51,
+      "total_skus": 53,
       "in_stock": 39,
-      "out_of_stock": 12,
+      "out_of_stock": 14,
       "low_stock": 0,
       "products": [
         {
@@ -624,6 +624,18 @@
           "fill_pct": 25,
           "stock_warning": 0,
           "stock_updated": "2026-09-19 02:06:46"
+        },
+        {
+          "skuid": "S0B30D2113F861008",
+          "barcode": "613008725914",
+          "name": "Arnold palmer",
+          "price": 2.5,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17608957377979.png",
+          "stock": 0,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-09-23 08:13:21"
         },
         {
           "skuid": "S0B2EB7FF1C0F1007",
@@ -679,11 +691,11 @@
           "name": "Celsius Kiwi Guava",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/171949904019511.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 00:30:09"
+          "stock_updated": "2026-09-23 08:08:42"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -972,6 +984,18 @@
           "fill_pct": 0,
           "stock_warning": 0,
           "stock_updated": "2026-09-22 06:04:38"
+        },
+        {
+          "skuid": "S0B27699FED6C1005",
+          "barcode": "070847898146",
+          "name": "Monster Zero Sugar Guava",
+          "price": 4.27,
+          "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473811426492.png",
+          "stock": 0,
+          "capacity": 0,
+          "fill_pct": null,
+          "stock_warning": 0,
+          "stock_updated": "2026-09-23 08:10:13"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1448,11 +1472,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-09-19 18:59:35"
+          "stock_updated": "2026-09-23 12:34:09"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1628,11 +1652,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 19,
+          "stock": 18,
           "capacity": 20,
-          "fill_pct": 95,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-09-22 11:41:54"
+          "stock_updated": "2026-09-23 12:34:09"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2025,11 +2049,11 @@
           "name": "Deer park water",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-09-22 13:21:05"
+          "stock_updated": "2026-09-23 12:01:34"
         },
         {
           "skuid": "S0B246944E3EC1003",

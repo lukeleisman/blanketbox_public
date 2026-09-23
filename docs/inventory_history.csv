@@ -5299,3 +5299,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-09-23T17:44:27Z,129111,philly,Philly TrueCooler II,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,6,5,-1
 2026-09-23T17:44:27Z,129111,philly,Philly TrueCooler II,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,19,18,-1
 2026-09-23T17:44:27Z,16213,haven,TheHaven#2-cooler,S0B246944E9A41003,082657500638,Deer park water,2.0,8,7,-1
+2026-09-23T21:10:12Z,129111,philly,Philly TrueCooler II,S0B246944E3C71001,04043506,Twix Candy Bar,2.5,6,5,-1
+2026-09-23T21:10:12Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.5,12,10,-2

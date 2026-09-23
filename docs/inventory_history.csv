@@ -5286,3 +5286,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-09-22T23:09:17Z,16214,doylestown,333 North Broad Cooler,S0B2F61930CDF1009,0049000050752,Powerade Zero Mixed Berry 20floz,3.0,5,3,-2
 2026-09-22T23:09:17Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.5,8,7,-1
 2026-09-22T23:09:17Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.5,5,4,-1
+2026-09-23T01:39:12Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.5,10,9,-1
+2026-09-23T01:39:12Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.5,13,12,-1
+2026-09-23T01:39:12Z,16213,haven,TheHaven#2-cooler,S0B25F6365FD11002,0980080005,NutellaGo,2.5,10,9,-1

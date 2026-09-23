@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T07:25:44Z",
+  "updated": "2026-09-23T12:55:26Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1616,11 +1616,11 @@
           "name": "Liquid Death Energy Scary",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176616600069663.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-18 13:40:07"
+          "stock_updated": "2026-09-23 05:06:14"
         },
         {
           "skuid": "S0B246944E19E1000",
@@ -2085,11 +2085,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 7,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-09-22 15:01:30"
+          "stock_updated": "2026-09-23 07:47:07"
         },
         {
           "skuid": "S0B3052F2BFF3100A",
@@ -2337,11 +2337,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-09-22 13:07:07"
+          "stock_updated": "2026-09-23 07:47:07"
         },
         {
           "skuid": "S0B2EF08BF2341003",

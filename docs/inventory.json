@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T22:00:41Z",
+  "updated": "2026-09-25T00:40:22Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2373,11 +2373,11 @@
           "name": "Liquid Death Energy Orange",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176616612693764.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-22 13:07:07"
+          "stock_updated": "2026-09-24 17:53:47"
         },
         {
           "skuid": "S0B30B2FB9466100A",
@@ -2601,11 +2601,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-09-24 10:05:13"
+          "stock_updated": "2026-09-24 17:53:47"
         },
         {
           "skuid": "S0B30CDD73C721000",

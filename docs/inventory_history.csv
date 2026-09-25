@@ -5360,3 +5360,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-09-24T18:33:39Z,16213,haven,TheHaven#2-cooler,S0B246944E5841006,889392000313,Celsius Orange,3.57,7,6,-1
 2026-09-24T18:33:39Z,16213,haven,TheHaven#2-cooler,S0B246944E4B51008,012000813313,Starbucks_Frappuccino_Vanilla,4.27,7,6,-1
 2026-09-24T18:33:39Z,16213,haven,TheHaven#2-cooler,S0B246944E4F01003,052000328677,GATORADE 20OZ ORANGE,3.0,3,2,-1
+2026-09-25T00:40:22Z,16213,haven,TheHaven#2-cooler,S0B30B2FB4C961001,840442200961,Liquid Death Energy Orange,2.75,6,5,-1
+2026-09-25T00:40:22Z,16213,haven,TheHaven#2-cooler,S0B246944E4B51008,012000813313,Starbucks_Frappuccino_Vanilla,4.27,6,5,-1

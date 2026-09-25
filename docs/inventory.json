@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T00:40:22Z",
+  "updated": "2026-09-25T05:53:53Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1294,8 +1294,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 59,
-      "in_stock": 47,
-      "out_of_stock": 12,
+      "in_stock": 46,
+      "out_of_stock": 13,
       "low_stock": 0,
       "products": [
         {
@@ -1472,11 +1472,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 16:48:38"
+          "stock_updated": "2026-09-24 23:36:58"
         },
         {
           "skuid": "S0B2C6B34663C1009",
@@ -1976,11 +1976,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 2,
+          "stock": 0,
           "capacity": 20,
-          "fill_pct": 10,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 22:14:29"
+          "stock_updated": "2026-09-24 21:47:24"
         },
         {
           "skuid": "S0B246944E7B61003",
@@ -2577,11 +2577,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 9,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-09-22 18:14:42"
+          "stock_updated": "2026-09-24 20:13:14"
         },
         {
           "skuid": "S0B30CDD5FE8E1006",
@@ -3085,8 +3085,8 @@
       "machine_name": "BorellisBox",
       "address": "2124 W. Lawrence Ave. Chicago, IL 60640",
       "total_skus": 57,
-      "in_stock": 50,
-      "out_of_stock": 7,
+      "in_stock": 49,
+      "out_of_stock": 8,
       "low_stock": 0,
       "products": [
         {
@@ -3263,11 +3263,11 @@
           "name": "Dominant A, D, G Violin String Set",
           "price": 79.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173758454549478.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-19 21:57:19"
+          "stock_updated": "2026-09-24 23:23:30"
         },
         {
           "skuid": "S0B24D695D36F1001",
@@ -3623,11 +3623,11 @@
           "name": "Pirastro violin E string",
           "price": 10.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173758509391478.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-08-19 21:57:19"
+          "stock_updated": "2026-09-24 23:23:30"
         },
         {
           "skuid": "S0B248CF2774C1004",

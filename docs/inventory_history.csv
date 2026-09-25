@@ -5362,3 +5362,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-09-24T18:33:39Z,16213,haven,TheHaven#2-cooler,S0B246944E4F01003,052000328677,GATORADE 20OZ ORANGE,3.0,3,2,-1
 2026-09-25T00:40:22Z,16213,haven,TheHaven#2-cooler,S0B30B2FB4C961001,840442200961,Liquid Death Energy Orange,2.75,6,5,-1
 2026-09-25T00:40:22Z,16213,haven,TheHaven#2-cooler,S0B246944E4B51008,012000813313,Starbucks_Frappuccino_Vanilla,4.27,6,5,-1
+2026-09-25T05:53:53Z,129111,philly,Philly TrueCooler II,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.57,6,5,-1
+2026-09-25T05:53:53Z,129111,philly,Philly TrueCooler II,S0B246944E3C71001,04043506,Twix Candy Bar,2.57,2,0,-2
+2026-09-25T05:53:53Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,9,7,-2
+2026-09-25T05:53:53Z,15452,borellis,BorellisBox,S0B2493CFD54E1007,016710105122,Pirastro violin E string,10.0,2,1,-1
+2026-09-25T05:53:53Z,15452,borellis,BorellisBox,S0B2493C7770D1006,003918101532,"Dominant A, D, G Violin String Set",79.0,1,0,-1

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T11:18:25Z",
+  "updated": "2026-09-25T15:52:57Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 53,
-      "in_stock": 40,
-      "out_of_stock": 13,
+      "in_stock": 39,
+      "out_of_stock": 14,
       "low_stock": 0,
       "products": [
         {
@@ -66,11 +66,11 @@
           "name": "Candy M&M Plain",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 18:47:23"
+          "stock_updated": "2026-09-25 08:49:58"
         },
         {
           "skuid": "S0B30D45D64CD1004",
@@ -402,11 +402,11 @@
           "name": "Nature's Bakery - Raspberry Fig Bar",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168624019575474.jpeg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 8,
-          "fill_pct": 12,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-09-25 04:13:49"
+          "stock_updated": "2026-09-25 08:49:58"
         },
         {
           "skuid": "S0B27699FEC921007",
@@ -727,11 +727,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-09-24 11:48:59"
+          "stock_updated": "2026-09-25 08:47:32"
         },
         {
           "skuid": "S0B246944E4EB1007",
@@ -751,11 +751,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 8,
-          "fill_pct": 112,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 19:35:11"
+          "stock_updated": "2026-09-25 10:35:23"
         },
         {
           "skuid": "S0B246944E5C11006",
@@ -1195,11 +1195,11 @@
           "name": "Trip Raspberry",
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177016814456712.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 19:35:11"
+          "stock_updated": "2026-09-25 07:30:02"
         },
         {
           "skuid": "S0B2FED291FB81003",
@@ -2109,11 +2109,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 6,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-24 09:27:09"
+          "stock_updated": "2026-09-25 08:07:08"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -2217,11 +2217,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 07:47:07"
+          "stock_updated": "2026-09-25 07:03:05"
         },
         {
           "skuid": "S0B3052F2BFF3100A",
@@ -2289,11 +2289,11 @@
           "name": "Goldfish Cheddar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172165768291916.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-09-22 13:21:05"
+          "stock_updated": "2026-09-25 07:03:05"
         },
         {
           "skuid": "S0B2DFCAA016C1003",
@@ -2529,11 +2529,11 @@
           "name": "Powerade Zero Grape",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175799657047375.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-09-22 13:21:05"
+          "stock_updated": "2026-09-25 08:07:08"
         },
         {
           "skuid": "S0B2F61930CDF1009",
@@ -2601,11 +2601,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-24 17:53:47"
+          "stock_updated": "2026-09-25 10:49:10"
         },
         {
           "skuid": "S0B30CDD73C721000",

@@ -5383,3 +5383,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-09-25T15:52:57Z,16213,haven,TheHaven#2-cooler,S0B246944E4B51008,012000813313,Starbucks_Frappuccino_Vanilla,4.27,5,4,-1
 2026-09-25T15:52:57Z,16213,haven,TheHaven#2-cooler,S0B2F6194A055100A,4900005074,Powerade Zero Grape,3.0,6,5,-1
 2026-09-25T15:52:57Z,16213,haven,TheHaven#2-cooler,S0B2FE7209DA61003,014100077602,Goldfish Cheddar,2.5,8,7,-1
+2026-09-25T19:51:32Z,129111,philly,Philly TrueCooler II,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,8,7,-1
+2026-09-25T19:51:32Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,5,4,-1
+2026-09-25T19:51:32Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.57,7,6,-1

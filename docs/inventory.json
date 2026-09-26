@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T12:19:47Z",
+  "updated": "2026-09-26T16:34:48Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1027,11 +1027,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.37,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 18,
+          "stock": 17,
           "capacity": 24,
-          "fill_pct": 75,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-09-24 06:05:32"
+          "stock_updated": "2026-09-26 08:39:24"
         },
         {
           "skuid": "S0B27699FED6C1005",
@@ -1039,11 +1039,11 @@
           "name": "Monster Zero Sugar Guava",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473811426492.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-24 06:05:32"
+          "stock_updated": "2026-09-26 08:39:24"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1760,11 +1760,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 16:58:54"
+          "stock_updated": "2026-09-26 10:39:27"
         },
         {
           "skuid": "S0B30022234F81004",

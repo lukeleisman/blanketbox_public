@@ -5413,3 +5413,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-09-26T12:19:47Z,15519,doylestown,333 North Broad Ambient,S0B30D45B0438100A,028400799416,Doritos NKD CR,2.57,10,8,-2
 2026-09-26T12:19:47Z,15519,doylestown,333 North Broad Ambient,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,7,6,-1
 2026-09-26T12:19:47Z,15519,doylestown,333 North Broad Ambient,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,6,4,-2
+2026-09-26T16:34:48Z,16214,doylestown,333 North Broad Cooler,S0B27699FED6C1005,070847898146,Monster Zero Sugar Guava,4.27,5,4,-1
+2026-09-26T16:34:48Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.37,18,17,-1
+2026-09-26T16:34:48Z,129111,philly,Philly TrueCooler II,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,5,4,-1

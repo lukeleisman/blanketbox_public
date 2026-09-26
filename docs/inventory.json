@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T07:07:17Z",
+  "updated": "2026-09-26T12:19:47Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -138,11 +138,11 @@
           "name": "Doritos NKD CR",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/179020756383351.png",
-          "stock": 10,
+          "stock": 8,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 19:11:53"
+          "stock_updated": "2026-09-26 03:20:24"
         },
         {
           "skuid": "S0B2FE716F5901003",
@@ -450,11 +450,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 16,
-          "fill_pct": 44,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 20:01:47"
+          "stock_updated": "2026-09-26 03:20:24"
         },
         {
           "skuid": "S0B2DB932853E100A",
@@ -546,11 +546,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 6,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 18:47:23"
+          "stock_updated": "2026-09-26 03:20:24"
         },
         {
           "skuid": "S0B30D3F42A2E100A",

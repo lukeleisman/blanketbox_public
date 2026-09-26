@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T01:48:44Z",
+  "updated": "2026-09-26T07:07:17Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 53,
-      "in_stock": 39,
-      "out_of_stock": 14,
+      "in_stock": 38,
+      "out_of_stock": 15,
       "low_stock": 0,
       "products": [
         {
@@ -30,11 +30,11 @@
           "name": "Albanese peach rings",
           "price": 7.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178216062408651.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 18:47:23"
+          "stock_updated": "2026-09-25 21:53:06"
         },
         {
           "skuid": "S0B260510FB391004",
@@ -78,11 +78,11 @@
           "name": "Cheetos NKD P",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/179020772041454.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 19:11:01"
+          "stock_updated": "2026-09-25 21:53:06"
         },
         {
           "skuid": "S0B2C6BE9F76D100A",
@@ -558,11 +558,11 @@
           "name": "SNICKERS CRUNCHY PEANUT BUTTER SQUARES",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17703051384187.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 19:11:01"
+          "stock_updated": "2026-09-25 21:53:06"
         },
         {
           "skuid": "S0B30CDD5FE8E1006",
@@ -657,8 +657,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 52,
-      "in_stock": 42,
-      "out_of_stock": 10,
+      "in_stock": 41,
+      "out_of_stock": 11,
       "low_stock": 0,
       "products": [
         {
@@ -679,11 +679,11 @@
           "name": "Arnold palmer",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17608957377979.png",
-          "stock": 7,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 19:35:11"
+          "stock_updated": "2026-09-26 01:07:08"
         },
         {
           "skuid": "S0B2EB7FF1C0F1007",
@@ -799,11 +799,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 16,
+          "stock": 15,
           "capacity": 24,
-          "fill_pct": 67,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-09-25 20:31:57"
+          "stock_updated": "2026-09-25 21:53:26"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -883,11 +883,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 19:35:11"
+          "stock_updated": "2026-09-26 01:07:08"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -1003,11 +1003,11 @@
           "name": "Moment Straw rose",
           "price": 7.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178803691278760.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 19:35:11"
+          "stock_updated": "2026-09-25 21:06:06"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1015,11 +1015,11 @@
           "name": "Monster Energy",
           "price": 4.25,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 19:35:11"
+          "stock_updated": "2026-09-26 00:06:18"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -1294,8 +1294,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 59,
-      "in_stock": 46,
-      "out_of_stock": 13,
+      "in_stock": 45,
+      "out_of_stock": 14,
       "low_stock": 0,
       "products": [
         {
@@ -1472,11 +1472,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-09-25 02:18:47"
+          "stock_updated": "2026-09-25 22:30:56"
         },
         {
           "skuid": "S0B2C6B34663C1009",
@@ -1508,11 +1508,11 @@
           "name": "Deer park water",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 13,
+          "stock": 10,
           "capacity": 16,
-          "fill_pct": 81,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-09-24 01:17:26"
+          "stock_updated": "2026-09-25 22:03:11"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -1700,11 +1700,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 16,
+          "stock": 14,
           "capacity": 20,
-          "fill_pct": 80,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-09-24 01:17:26"
+          "stock_updated": "2026-09-25 22:03:11"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -1712,11 +1712,11 @@
           "name": "Milano",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 2,
+          "stock": 0,
           "capacity": 5,
-          "fill_pct": 40,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 22:14:29"
+          "stock_updated": "2026-09-25 22:43:36"
         },
         {
           "skuid": "S0B2BC10A038C1008",
@@ -1952,11 +1952,11 @@
           "name": "TAKIS FUEGO HOT CHILI PEPPER AND LIME",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174645971192562.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-25 19:54:24"
+          "stock_updated": "2026-09-25 22:30:56"
         },
         {
           "skuid": "S0B2FED291FB81003",
@@ -2145,11 +2145,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 7,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-09-25 18:06:08"
+          "stock_updated": "2026-09-25 23:57:37"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -2157,11 +2157,11 @@
           "name": "Deer park water",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 12:01:34"
+          "stock_updated": "2026-09-25 22:15:40"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -2169,11 +2169,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 4,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-09-25 13:42:40"
+          "stock_updated": "2026-09-25 23:57:37"
         },
         {
           "skuid": "S0B2FE716F5901003",
@@ -2205,11 +2205,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-09-22 15:01:30"
+          "stock_updated": "2026-09-25 22:22:06"
         },
         {
           "skuid": "S0B246944DFD21006",
@@ -2217,11 +2217,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-09-25 07:03:05"
+          "stock_updated": "2026-09-25 22:22:06"
         },
         {
           "skuid": "S0B3052F2BFF3100A",
@@ -2241,11 +2241,11 @@
           "name": "Fairlife Vanilla Protein",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178408032447260.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-09-22 13:21:05"
+          "stock_updated": "2026-09-25 22:22:06"
         },
         {
           "skuid": "S0B246944E4F01003",
@@ -2409,11 +2409,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 23:59:49"
+          "stock_updated": "2026-09-25 22:22:06"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2445,11 +2445,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 8,
-          "fill_pct": 25,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-09-22 15:04:16"
+          "stock_updated": "2026-09-25 22:22:06"
         },
         {
           "skuid": "S0B30CDD32EDA1003",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T20:18:12Z",
+  "updated": "2026-09-27T23:16:04Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -775,11 +775,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 7,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-09-26 16:40:28"
+          "stock_updated": "2026-09-27 17:38:12"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -1376,11 +1376,11 @@
           "name": "Canada Dry Ginger Ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175847239862745.png",
-          "stock": 6,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-27 06:33:14"
+          "stock_updated": "2026-09-27 16:58:10"
         },
         {
           "skuid": "S0B246944E6EA1003",

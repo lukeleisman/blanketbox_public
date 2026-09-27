@@ -5426,3 +5426,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-09-26T22:24:27Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,7,5,-2
 2026-09-26T22:24:27Z,16213,haven,TheHaven#2-cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,5,4,-1
 2026-09-26T22:24:27Z,16213,haven,TheHaven#2-cooler,S0B300172DC1E1001,753656720807,Think minis smores,2.0,9,8,-1
+2026-09-27T00:46:50Z,16213,haven,TheHaven#2-cooler,S0B246944E4B51008,012000813313,Starbucks_Frappuccino_Vanilla,4.27,4,3,-1
+2026-09-27T00:46:50Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.57,5,3,-2
+2026-09-27T00:46:50Z,16213,haven,TheHaven#2-cooler,S0B27699FEA161007,024100123223,Cheez It Original,2.0,9,8,-1
+2026-09-27T00:46:50Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,4,3,-1

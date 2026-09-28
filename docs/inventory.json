@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T08:18:16Z",
+  "updated": "2026-09-28T16:54:07Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -775,11 +775,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-09-27 20:06:32"
+          "stock_updated": "2026-09-28 11:49:12"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -1027,11 +1027,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.37,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 17,
+          "stock": 16,
           "capacity": 24,
-          "fill_pct": 71,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-09-26 08:39:24"
+          "stock_updated": "2026-09-28 06:08:26"
         },
         {
           "skuid": "S0B27699FED6C1005",
@@ -1039,11 +1039,11 @@
           "name": "Monster Zero Sugar Guava",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473811426492.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-26 08:39:24"
+          "stock_updated": "2026-09-28 06:08:26"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -1294,8 +1294,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 59,
-      "in_stock": 45,
-      "out_of_stock": 14,
+      "in_stock": 44,
+      "out_of_stock": 15,
       "low_stock": 0,
       "products": [
         {
@@ -1628,11 +1628,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173685359821166.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-09-27 13:17:31"
+          "stock_updated": "2026-09-28 08:26:43"
         },
         {
           "skuid": "S0B2FE7209DA61003",
@@ -1688,11 +1688,11 @@
           "name": "Liquid Death Energy Scary",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176616600069663.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 16:48:38"
+          "stock_updated": "2026-09-28 05:06:54"
         },
         {
           "skuid": "S0B246944E19E1000",
@@ -1784,11 +1784,11 @@
           "name": "Nonni\u2019s Chocolate Biscotti",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378025726710.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-24 02:55:42"
+          "stock_updated": "2026-09-28 08:26:43"
         },
         {
           "skuid": "S0B25F6365FD11002",
@@ -1904,11 +1904,11 @@
           "name": "SNICKERS CRUNCHY PEANUT BUTTER SQUARES",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17703051384187.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-27 13:17:31"
+          "stock_updated": "2026-09-28 08:26:43"
         },
         {
           "skuid": "S0B30CDD5FE8E1006",
@@ -2037,11 +2037,11 @@
           "name": "3 Musketeers",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168901411356537.jpeg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 10,
-          "fill_pct": 30,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-09-22 13:07:07"
+          "stock_updated": "2026-09-28 08:27:42"
         },
         {
           "skuid": "S0B2740EB95E01006",
@@ -2409,11 +2409,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 8,
+          "stock": 6,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-09-25 22:22:06"
+          "stock_updated": "2026-09-28 08:27:42"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2577,11 +2577,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 4,
+          "stock": 1,
           "capacity": 10,
-          "fill_pct": 40,
+          "fill_pct": 10,
           "stock_warning": 0,
-          "stock_updated": "2026-09-26 19:47:30"
+          "stock_updated": "2026-09-28 08:27:42"
         },
         {
           "skuid": "S0B30CDD5FE8E1006",

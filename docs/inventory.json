@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T23:16:04Z",
+  "updated": "2026-09-28T01:52:59Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -186,11 +186,11 @@
           "name": "Fig Newtowns",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177450068582980.png",
-          "stock": 5,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 18:47:23"
+          "stock_updated": "2026-09-27 19:44:03"
         },
         {
           "skuid": "S0B30D45F0363100A",
@@ -630,11 +630,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-09-26 23:01:04"
+          "stock_updated": "2026-09-27 20:07:03"
         },
         {
           "skuid": "S0B246944E8251002",
@@ -657,8 +657,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 52,
-      "in_stock": 41,
-      "out_of_stock": 11,
+      "in_stock": 40,
+      "out_of_stock": 12,
       "low_stock": 0,
       "products": [
         {
@@ -775,11 +775,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-27 17:38:12"
+          "stock_updated": "2026-09-27 20:06:32"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -835,11 +835,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-09-24 11:03:28"
+          "stock_updated": "2026-09-27 18:51:20"
         },
         {
           "skuid": "S0B3052F2BFF3100A",
@@ -1219,11 +1219,11 @@
           "name": "Vitamin Water Blue Raspberry Limeade",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175219487117396.png",
-          "stock": 2,
+          "stock": 0,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 19:35:11"
+          "stock_updated": "2026-09-27 19:57:18"
         },
         {
           "skuid": "S0B2F619785511007",
@@ -1243,11 +1243,11 @@
           "name": "Vitamin Water Zero Sugar Acai Blueberry Pomegranate",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177404354076939.png",
-          "stock": 0,
+          "stock": -2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-25 06:06:53"
+          "stock_updated": "2026-09-27 19:57:18"
         },
         {
           "skuid": "S0B2E63AC3F231007",
@@ -1352,11 +1352,11 @@
           "name": "Buldak Spicy Ramen",
           "price": 6.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176703148096672.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 10,
-          "fill_pct": 70,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 16:48:38"
+          "stock_updated": "2026-09-27 19:14:00"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -1520,11 +1520,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-09-25 11:07:51"
+          "stock_updated": "2026-09-27 19:14:00"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2025,11 +2025,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-09-26 19:34:51"
+          "stock_updated": "2026-09-27 20:52:25"
         },
         {
           "skuid": "S0B246944E6801005",
@@ -2505,11 +2505,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 10,
-          "fill_pct": 30,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-09-26 18:03:19"
+          "stock_updated": "2026-09-27 20:52:25"
         },
         {
           "skuid": "S0B2F619342CA1009",

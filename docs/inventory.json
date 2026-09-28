@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T16:54:07Z",
+  "updated": "2026-09-28T22:25:08Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -582,11 +582,11 @@
           "name": "SNICKERS XTREME",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178257312503836.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 19:11:01"
+          "stock_updated": "2026-09-28 12:34:26"
         },
         {
           "skuid": "S0B30CDD73C721000",
@@ -630,11 +630,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-09-27 20:07:03"
+          "stock_updated": "2026-09-28 12:39:27"
         },
         {
           "skuid": "S0B246944E8251002",
@@ -2015,8 +2015,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 56,
-      "in_stock": 51,
-      "out_of_stock": 5,
+      "in_stock": 50,
+      "out_of_stock": 6,
       "low_stock": 0,
       "products": [
         {
@@ -2025,11 +2025,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 2,
+          "stock": 0,
           "capacity": 8,
-          "fill_pct": 25,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-09-27 20:52:25"
+          "stock_updated": "2026-09-28 16:47:19"
         },
         {
           "skuid": "S0B246944E6801005",
@@ -2409,11 +2409,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 10,
-          "fill_pct": 60,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-28 08:27:42"
+          "stock_updated": "2026-09-28 16:47:19"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2505,11 +2505,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 10,
-          "fill_pct": 20,
+          "fill_pct": 10,
           "stock_warning": 0,
-          "stock_updated": "2026-09-27 20:52:25"
+          "stock_updated": "2026-09-28 13:14:03"
         },
         {
           "skuid": "S0B2F619342CA1009",
@@ -2601,11 +2601,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-09-26 19:34:51"
+          "stock_updated": "2026-09-28 16:47:19"
         },
         {
           "skuid": "S0B30CDD73C721000",
@@ -2613,11 +2613,11 @@
           "name": "TAKIS FUEGO HOT CHILI PEPPER AND LIME",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174645971192562.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-22 13:21:05"
+          "stock_updated": "2026-09-28 13:14:03"
         },
         {
           "skuid": "S0B300176CD16100C",

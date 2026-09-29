@@ -139,6 +139,16 @@ MIN_RESTOCK_UNITS    = 5   # min total units added across all products
 # many (popular products can double up). Last-restock quantity is used when it's higher.
 MIN_SLOT_CAPACITY = 16
 
+# Negative stock handling
+# The Sandstar API sometimes reports negative stock (e.g. -1, -2) when a slot's count
+# drifts below zero. Negative values break the sellout date math (stock / tiny rate →
+# huge negative day count → OverflowError). This floor is applied to the stock used in
+# all calculations; the raw API value is still shown in the report's stock column and
+# logged as a warning.
+# OPEN QUESTION: is negative stock always "actually empty"? Alternatives: skip the product
+# entirely, or show it in a separate "bad count" section for a manual check.
+NEGATIVE_STOCK_FLOOR = 0
+
 # Restocking totals groupings
 REGION_ROUTES = {
     "Philly": {"philly_west", "philly_suburbs"},
@@ -748,7 +758,12 @@ def build_report_data(inventory: dict, rate_lookup: dict, global_rates: dict,
         products_out = []
         for p in m["products"]:
             pname = p["name"]
-            stock = p["stock"]
+            reported_stock = p["stock"]
+            # Clamp negative API counts so the date math below stays valid (see NEGATIVE_STOCK_FLOOR)
+            stock = max(reported_stock, NEGATIVE_STOCK_FLOOR)
+            if reported_stock < NEGATIVE_STOCK_FLOOR:
+                print(f"  WARNING: Negative stock from API — {mname} / {pname}: "
+                      f"{reported_stock} (treated as {stock})", file=sys.stderr)
             capacity = p["capacity"] or 0
 
             rk = _rate_key(p["barcode"], pname)
@@ -834,6 +849,7 @@ def build_report_data(inventory: dict, rate_lookup: dict, global_rates: dict,
                 "name": pname,
                 "barcode": p["barcode"],
                 "stock": stock,
+                "reported_stock": reported_stock,   # raw API value (may be negative)
                 "capacity": capacity,
                 "pct_remaining": round(stock / capacity * 100) if capacity > 0 else None,
                 "daily_rate": daily_rate,
@@ -1085,7 +1101,7 @@ def _product_table(products: list, row_class: str = None, oos_section: bool = Fa
             sellout = "&mdash;"
         conf = f'<span class="confidence">{p["confidence"]}</span>'
         rows.append(
-            f'<tr class="{cls}"><td>{p["name"]}</td><td>{p["stock"]}</td>'
+            f'<tr class="{cls}"><td>{p["name"]}</td><td>{p["reported_stock"]}</td>'
             f'<td>{pct}</td><td>{rate}</td><td>{days}</td><td>{sellout}</td>'
             f'<td>{p["qty_to_fill"]}</td><td>{conf}</td></tr>'
         )
@@ -1118,7 +1134,7 @@ def format_text_report(machines: list, data_source: str = None) -> str:
                     lines.append(f"    [OOS]  {p['name']}")
                 elif p["needs_restock"]:
                     days = f"{p['est_days_remaining']:.0f}d" if p["est_days_remaining"] else "?"
-                    lines.append(f"    [LOW]  {p['name']}  stock={p['stock']}  {days} left")
+                    lines.append(f"    [LOW]  {p['name']}  stock={p['reported_stock']}  {days} left")
 
     lines.append("")
     return "\n".join(lines)

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T08:52:53Z",
+  "updated": "2026-09-29T15:24:14Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -174,11 +174,11 @@
           "name": "Every daze Konjac",
           "price": 3.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178666881468049.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 18:47:23"
+          "stock_updated": "2026-09-29 09:33:33"
         },
         {
           "skuid": "S0B2D48427F221004",
@@ -414,11 +414,11 @@
           "name": "Natures Bakery - Double Chocolate Brownie",
           "price": 2.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368269911559.png",
-          "stock": 12,
+          "stock": 9,
           "capacity": 8,
-          "fill_pct": 150,
+          "fill_pct": 112,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 18:47:23"
+          "stock_updated": "2026-09-29 09:33:33"
         },
         {
           "skuid": "S0B25F6365FD11002",
@@ -799,11 +799,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 13,
+          "stock": 12,
           "capacity": 24,
-          "fill_pct": 54,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-28 17:55:54"
+          "stock_updated": "2026-09-29 10:20:08"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -967,11 +967,11 @@
           "name": "Liquid Death Energy Scary",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176616600069663.png",
-          "stock": 15,
+          "stock": 14,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 19:35:11"
+          "stock_updated": "2026-09-29 10:20:08"
         },
         {
           "skuid": "S0B3052F18C8E1002",
@@ -1027,11 +1027,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.37,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 16,
+          "stock": 15,
           "capacity": 24,
-          "fill_pct": 67,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-09-28 06:08:26"
+          "stock_updated": "2026-09-29 06:04:52"
         },
         {
           "skuid": "S0B27699FED6C1005",
@@ -1039,11 +1039,11 @@
           "name": "Monster Zero Sugar Guava",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473811426492.png",
-          "stock": 3,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-28 06:08:26"
+          "stock_updated": "2026-09-29 06:26:39"
         },
         {
           "skuid": "S0B2C377070EC1001",
@@ -2121,11 +2121,11 @@
           "name": "Cheez It Original",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254819896872.png",
-          "stock": 7,
+          "stock": 5,
           "capacity": 10,
-          "fill_pct": 70,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-28 20:21:30"
+          "stock_updated": "2026-09-29 09:55:20"
         },
         {
           "skuid": "S0B2FECA70BC81000",

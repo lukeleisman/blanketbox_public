@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T10:39:02Z",
+  "updated": "2026-09-30T16:40:55Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1929,11 +1929,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 14:44:48"
+          "stock_updated": "2026-09-30 10:22:20"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -1989,11 +1989,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 14:59:09"
+          "stock_updated": "2026-09-30 11:30:22"
         },
         {
           "skuid": "S0B30016DFAA81002",
@@ -2133,11 +2133,11 @@
           "name": "Hint-Peach Raspberry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177574577282010.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 14:59:09"
+          "stock_updated": "2026-09-30 10:22:20"
         },
         {
           "skuid": "S0B2D90DF10651003",
@@ -2397,11 +2397,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 9,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-09-30 02:55:32"
+          "stock_updated": "2026-09-30 11:30:22"
         },
         {
           "skuid": "S0B30CDD5FE8E1006",
@@ -2433,11 +2433,11 @@
           "name": "TAKIS FUEGO HOT CHILI PEPPER AND LIME",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174645971192562.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 14:44:48"
+          "stock_updated": "2026-09-30 11:30:22"
         },
         {
           "skuid": "S0B300176CD16100C",

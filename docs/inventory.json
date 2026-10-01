@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T00:41:48Z",
+  "updated": "2026-10-01T06:54:37Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1412,11 +1412,11 @@
           "name": "GATORADE 20OZ ORANGE",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063782730.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 18:25:30"
+          "stock_updated": "2026-09-30 22:17:58"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -1857,11 +1857,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 14:59:09"
+          "stock_updated": "2026-09-30 23:34:51"
         },
         {
           "skuid": "S0B2740EB95E01006",
@@ -2481,11 +2481,11 @@
           "name": "Twix Candy Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 10,
-          "fill_pct": 60,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 22:30:05"
+          "stock_updated": "2026-09-30 23:34:51"
         },
         {
           "skuid": "S0B2F619836EC1004",

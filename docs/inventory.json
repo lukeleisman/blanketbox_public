@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T14:15:13Z",
+  "updated": "2026-10-01T19:42:29Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -691,11 +691,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 15:03:31"
+          "stock_updated": "2026-10-01 12:34:16"
         },
         {
           "skuid": "S0B246944DEAE1000",
@@ -727,11 +727,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 13,
+          "stock": 11,
           "capacity": 24,
-          "fill_pct": 54,
+          "fill_pct": 46,
           "stock_warning": 0,
-          "stock_updated": "2026-09-30 14:10:21"
+          "stock_updated": "2026-10-01 12:00:32"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1364,11 +1364,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 18:39:12"
+          "stock_updated": "2026-10-01 10:45:39"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1388,11 +1388,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 4,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 18:25:30"
+          "stock_updated": "2026-10-01 14:41:50"
         },
         {
           "skuid": "S0B2FECB8B02B1009",
@@ -1484,11 +1484,11 @@
           "name": "Kim Nori Seaweed",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178965721524086.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 18:25:30"
+          "stock_updated": "2026-10-01 14:41:50"
         },
         {
           "skuid": "S0B2D918381EA1006",
@@ -1941,11 +1941,11 @@
           "name": "Cheez It Original",
           "price": 2.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254819896872.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 14:59:09"
+          "stock_updated": "2026-10-01 12:45:53"
         },
         {
           "skuid": "S0B2FECA70BC81000",
@@ -2433,11 +2433,11 @@
           "name": "TAKIS FUEGO HOT CHILI PEPPER AND LIME",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174645971192562.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-30 15:00:35"
+          "stock_updated": "2026-10-01 12:45:53"
         },
         {
           "skuid": "S0B300176CD16100C",

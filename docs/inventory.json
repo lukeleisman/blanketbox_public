@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T21:13:46Z",
+  "updated": "2026-10-01T00:41:48Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -991,11 +991,11 @@
           "name": "Monster Zero Sugar Guava",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473811426492.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 20:25:32"
+          "stock_updated": "2026-09-30 19:26:28"
         },
         {
           "skuid": "S0B300263EBDF1004",
@@ -1039,11 +1039,11 @@
           "name": "Powerade Zero Mixed Berry 20floz",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176048132401919.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 19:35:11"
+          "stock_updated": "2026-09-30 18:04:41"
         },
         {
           "skuid": "S0B2C858213931004",
@@ -1905,11 +1905,11 @@
           "name": "Candy M&M Plain",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 14:44:48"
+          "stock_updated": "2026-09-30 18:12:48"
         },
         {
           "skuid": "S0B2A44D16D23100C",

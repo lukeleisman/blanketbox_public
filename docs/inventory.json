@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T06:54:37Z",
+  "updated": "2026-10-01T14:15:13Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -991,11 +991,11 @@
           "name": "Monster Zero Sugar Guava",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473811426492.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-30 19:26:28"
+          "stock_updated": "2026-10-01 06:07:48"
         },
         {
           "skuid": "S0B300263EBDF1004",
@@ -1424,11 +1424,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176135320494550.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 18:34:24"
+          "stock_updated": "2026-10-01 03:27:44"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1472,11 +1472,11 @@
           "name": "Goldfish Cheddar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172165768291916.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 18:25:30"
+          "stock_updated": "2026-10-01 02:10:46"
         },
         {
           "skuid": "S0B30B38D5A5B1002",
@@ -1616,11 +1616,11 @@
           "name": "NutellaGo",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 10,
-          "fill_pct": 110,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-09-30 01:44:55"
+          "stock_updated": "2026-10-01 03:27:44"
         },
         {
           "skuid": "S0B246944E3D51001",
@@ -1700,11 +1700,11 @@
           "name": "Skittles Original Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177009328012364.png",
-          "stock": 7,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 18:34:24"
+          "stock_updated": "2026-10-01 03:27:44"
         },
         {
           "skuid": "S0B27699FEBCD1003",
@@ -1808,11 +1808,11 @@
           "name": "TAKIS FUEGO HOT CHILI PEPPER AND LIME",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174645971192562.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 18:25:30"
+          "stock_updated": "2026-10-01 02:10:46"
         },
         {
           "skuid": "S0B2FED291FB81003",
@@ -1929,11 +1929,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 8,
-          "fill_pct": 25,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-09-30 10:22:20"
+          "stock_updated": "2026-10-01 08:07:57"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -2505,11 +2505,11 @@
           "name": "Vitamin Water XXX",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176010518975523.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 14:59:09"
+          "stock_updated": "2026-10-01 08:07:57"
         }
       ]
     },
@@ -2905,8 +2905,8 @@
       "machine_name": "BorellisBox",
       "address": "2124 W. Lawrence Ave. Chicago, IL 60640",
       "total_skus": 57,
-      "in_stock": 49,
-      "out_of_stock": 8,
+      "in_stock": 47,
+      "out_of_stock": 10,
       "low_stock": 0,
       "products": [
         {
@@ -2927,11 +2927,11 @@
           "name": "Animal Finger Puppets",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174475931083695.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 6,
-          "fill_pct": 17,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-19 21:57:19"
+          "stock_updated": "2026-10-01 02:46:34"
         },
         {
           "skuid": "S0B254BAFF3AC1004",
@@ -3359,11 +3359,11 @@
           "name": "Kodama - 3D Tree Spirit",
           "price": 6.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174242342208364.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 4,
-          "fill_pct": 25,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-08-19 21:57:19"
+          "stock_updated": "2026-10-01 02:46:34"
         },
         {
           "skuid": "S0B2493E90DAE1003",

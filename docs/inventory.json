@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T16:30:39Z",
+  "updated": "2026-10-02T21:10:47Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -691,11 +691,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-10-02 06:50:44"
+          "stock_updated": "2026-10-02 14:01:00"
         },
         {
           "skuid": "S0B246944DEAE1000",
@@ -727,11 +727,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 24,
-          "fill_pct": 42,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-10-02 09:41:10"
+          "stock_updated": "2026-10-02 13:58:42"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.37,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 15,
+          "stock": 14,
           "capacity": 24,
-          "fill_pct": 62,
+          "fill_pct": 58,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 06:04:52"
+          "stock_updated": "2026-10-02 15:16:39"
         },
         {
           "skuid": "S0B30F22A91B21006",
@@ -1724,11 +1724,11 @@
           "name": "Snickers Pecan",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178257269042050.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 18:25:30"
+          "stock_updated": "2026-10-02 14:34:58"
         },
         {
           "skuid": "S0B30D3F4D5051001",
@@ -2097,11 +2097,11 @@
           "name": "Goldfish Cheddar",
           "price": 2.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172165768291916.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 10,
-          "fill_pct": 110,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 14:59:09"
+          "stock_updated": "2026-10-02 11:32:27"
         },
         {
           "skuid": "S0B30F2100488100A",
@@ -2217,11 +2217,11 @@
           "name": "Liquid Death Energy Scary",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176616600069663.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 14:44:48"
+          "stock_updated": "2026-10-02 14:30:05"
         },
         {
           "skuid": "S0B30B300238A1008",
@@ -2349,11 +2349,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 23:02:22"
+          "stock_updated": "2026-10-02 11:32:27"
         },
         {
           "skuid": "S0B2F619342CA1009",

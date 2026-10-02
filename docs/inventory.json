@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T23:42:35Z",
+  "updated": "2026-10-02T04:23:26Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1364,11 +1364,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-10-01 10:45:39"
+          "stock_updated": "2026-10-01 22:28:43"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2397,11 +2397,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 10,
-          "fill_pct": 60,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-10-01 15:21:05"
+          "stock_updated": "2026-10-01 18:47:54"
         },
         {
           "skuid": "S0B30CDD5FE8E1006",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T00:37:11Z",
+  "updated": "2026-10-03T06:04:23Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1027,11 +1027,11 @@
           "name": "Powerade Zero Grape",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175799657047375.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 19:35:11"
+          "stock_updated": "2026-10-02 21:49:07"
         },
         {
           "skuid": "S0B2F61930CDF1009",
@@ -1135,11 +1135,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 10,
-          "fill_pct": 110,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-09-27 08:25:31"
+          "stock_updated": "2026-10-03 00:30:46"
         },
         {
           "skuid": "S0B246944DECF100B",
@@ -1532,11 +1532,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 18:25:30"
+          "stock_updated": "2026-10-02 19:39:55"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1700,11 +1700,11 @@
           "name": "Skittles Original Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177009328012364.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-01 03:27:44"
+          "stock_updated": "2026-10-02 19:39:55"
         },
         {
           "skuid": "S0B27699FEBCD1003",
@@ -1857,11 +1857,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-09-30 23:34:51"
+          "stock_updated": "2026-10-02 23:31:18"
         },
         {
           "skuid": "S0B2740EB95E01006",
@@ -1917,11 +1917,11 @@
           "name": "Celsius Cherry Cola",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176202960060787.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-10-02 09:52:35"
+          "stock_updated": "2026-10-02 22:35:37"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -1965,11 +1965,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-10-01 15:21:05"
+          "stock_updated": "2026-10-02 23:31:18"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -2241,11 +2241,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 7,
+          "stock": 5,
           "capacity": 10,
-          "fill_pct": 70,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-09-30 02:55:32"
+          "stock_updated": "2026-10-02 23:31:18"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2277,11 +2277,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 9,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 112,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-09-30 02:55:32"
+          "stock_updated": "2026-10-02 23:31:18"
         },
         {
           "skuid": "S0B30CDD32EDA1003",
@@ -2421,11 +2421,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 23:02:22"
+          "stock_updated": "2026-10-02 20:41:22"
         },
         {
           "skuid": "S0B30CDD73C721000",
@@ -2445,11 +2445,11 @@
           "name": "Think adventurefuls",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178666939290752.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 14:44:48"
+          "stock_updated": "2026-10-02 22:35:37"
         },
         {
           "skuid": "S0B300172DC1E1001",
@@ -2481,11 +2481,11 @@
           "name": "Twix Candy Bar",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 10,
-          "fill_pct": 40,
+          "fill_pct": 30,
           "stock_warning": 0,
-          "stock_updated": "2026-10-02 16:58:41"
+          "stock_updated": "2026-10-02 22:35:37"
         },
         {
           "skuid": "S0B2F619836EC1004",

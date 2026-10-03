@@ -5668,3 +5668,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-10-03T06:04:23Z,16213,haven,TheHaven#2-cooler,S0B300176CD16100C,753656720555,Think adventurefuls,2.0,7,6,-1
 2026-10-03T15:49:13Z,129111,philly,Philly TrueCooler II,S0B30CDD32EDA1003,070847898245,MONSTER ENERGY ULTRA BLUE HAWAIIAN,4.27,3,2,-1
 2026-10-03T19:01:45Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.5,5,4,-1
+2026-10-03T22:18:46Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.6,9,8,-1
+2026-10-03T22:18:46Z,16214,doylestown,333 North Broad Cooler,S0B2F61930CDF1009,0049000050752,Powerade Zero Mixed Berry 20floz,3.0,2,1,-1
+2026-10-03T22:18:46Z,16214,doylestown,333 North Broad Cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.57,10,9,-1
+2026-10-03T22:18:46Z,129111,philly,Philly TrueCooler II,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,6,5,-1

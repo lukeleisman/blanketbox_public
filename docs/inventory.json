@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T01:50:05Z",
+  "updated": "2026-10-04T07:49:51Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -78,11 +78,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 10,
-          "fill_pct": 120,
+          "fill_pct": 110,
           "stock_warning": 0,
-          "stock_updated": "2026-09-26 23:01:04"
+          "stock_updated": "2026-10-03 22:40:41"
         },
         {
           "skuid": "S0B2FECA70BC81000",
@@ -342,11 +342,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 16,
-          "fill_pct": 69,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 20:08:27"
+          "stock_updated": "2026-10-03 22:40:41"
         },
         {
           "skuid": "S0B2BAC9D24491002",
@@ -811,11 +811,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 20:15:47"
+          "stock_updated": "2026-10-04 02:26:28"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -1087,11 +1087,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 14,
+          "stock": 13,
           "capacity": 8,
-          "fill_pct": 175,
+          "fill_pct": 162,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 19:35:11"
+          "stock_updated": "2026-10-04 02:26:28"
         },
         {
           "skuid": "S0B308CFC6B011002",
@@ -1196,11 +1196,11 @@
           "name": "Brisk Iced Tea",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176736539400427.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-09-30 01:44:55"
+          "stock_updated": "2026-10-03 21:01:07"
         },
         {
           "skuid": "S0B25FC5136E7100C",
@@ -1580,11 +1580,11 @@
           "name": "Monster Ultra Fantasy Ruby Red 500ml",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178488332087637.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 18:39:12"
+          "stock_updated": "2026-10-03 21:01:07"
         },
         {
           "skuid": "S0B30022234F81004",

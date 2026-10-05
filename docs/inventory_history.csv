@@ -5689,3 +5689,10 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-10-04T07:49:51Z,129111,philly,Philly TrueCooler II,S0B2EB7FF1C0F1007,01275900,Brisk Iced Tea,2.57,6,5,-1
 2026-10-04T13:44:14Z,129111,philly,Philly TrueCooler II,S0B2EB7FF1C0F1007,01275900,Brisk Iced Tea,2.57,5,4,-1
 2026-10-04T13:44:14Z,129111,philly,Philly TrueCooler II,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,10,9,-1
+2026-10-05T00:04:02Z,129111,philly,Philly TrueCooler II,S0B25FC5136E7100C,8801073211506,Buldak Spicy Ramen,6.0,1,0,-1
+2026-10-05T00:04:02Z,16213,haven,TheHaven#2-cooler,S0B2FECB8B02B1009,811620022125,Fairlife Vanilla Protein,5.0,7,6,-1
+2026-10-05T00:04:02Z,16213,haven,TheHaven#2-cooler,S0B246944E4B51008,012000813313,Starbucks_Frappuccino_Vanilla,4.27,6,5,-1
+2026-10-05T00:04:02Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.6,5,4,-1
+2026-10-05T00:04:02Z,16213,haven,TheHaven#2-cooler,S0B246944E3C71001,04043506,Twix Candy Bar,2.5,3,1,-2
+2026-10-05T00:04:02Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.5,3,2,-1
+2026-10-05T00:04:02Z,16213,haven,TheHaven#2-cooler,S0B2740EB95E01006,850076106010,Beef Liver Dog Treats,20.07,2,1,-1

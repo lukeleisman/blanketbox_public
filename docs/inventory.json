@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T06:02:51Z",
+  "updated": "2026-10-05T15:07:26Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -943,11 +943,11 @@
           "name": "Monster Energy",
           "price": 4.25,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 20:39:40"
+          "stock_updated": "2026-10-05 05:44:41"
         },
         {
           "skuid": "S0B30CDD32EDA1003",
@@ -1400,11 +1400,11 @@
           "name": "Fairlife Vanilla Protein",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000535/platgoods/a743c6ae-ae17-49ee-a05c-3438581609f1.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 18:25:30"
+          "stock_updated": "2026-10-05 08:12:44"
         },
         {
           "skuid": "S0B246944E4F01003",
@@ -1917,11 +1917,11 @@
           "name": "Celsius Cherry Cola",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176202960060787.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-10-02 22:35:37"
+          "stock_updated": "2026-10-05 09:33:24"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -2493,11 +2493,11 @@
           "name": "Vitamin Water Tropical Citrus",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176040330342693.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 6,
-          "fill_pct": 133,
+          "fill_pct": 117,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 14:44:48"
+          "stock_updated": "2026-10-05 09:33:24"
         },
         {
           "skuid": "S0B2F61985D4D1008",

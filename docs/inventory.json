@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T02:23:47Z",
+  "updated": "2026-10-06T09:13:29Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1111,11 +1111,11 @@
           "name": "Tropicana Orange Juice",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176954850457683.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-09-23 19:35:11"
+          "stock_updated": "2026-10-05 21:56:25"
         },
         {
           "skuid": "S0B2F619785511007",
@@ -1628,11 +1628,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 18:25:30"
+          "stock_updated": "2026-10-05 22:36:46"
         },
         {
           "skuid": "S0B2D90E22889100A",
@@ -2530,11 +2530,11 @@
           "name": "2 in black duck tape",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/cec4ea18-71ca-4a0a-a90a-dad9ca895601.jpg",
-          "stock": 9998,
+          "stock": 9996,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-05 16:25:08"
+          "stock_updated": "2026-10-06 00:53:40"
         },
         {
           "skuid": "S0B2E969CF9C5100B",

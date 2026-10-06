@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T22:07:10Z",
+  "updated": "2026-10-06T02:23:47Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1162,8 +1162,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 56,
-      "in_stock": 49,
-      "out_of_stock": 7,
+      "in_stock": 48,
+      "out_of_stock": 8,
       "low_stock": 0,
       "products": [
         {
@@ -1388,11 +1388,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-01 14:41:50"
+          "stock_updated": "2026-10-05 18:23:38"
         },
         {
           "skuid": "S0B2FECB8B02B1009",
@@ -1484,11 +1484,11 @@
           "name": "Kim Nori Seaweed",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178965721524086.png",
-          "stock": 3,
+          "stock": 0,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-01 14:41:50"
+          "stock_updated": "2026-10-05 18:23:38"
         },
         {
           "skuid": "S0B2D918381EA1006",
@@ -2337,11 +2337,11 @@
           "name": "NutellaGo",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-10-04 19:57:50"
+          "stock_updated": "2026-10-05 18:11:17"
         },
         {
           "skuid": "S0B246944E3D51001",
@@ -2349,11 +2349,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 10,
-          "fill_pct": 70,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-10-02 16:58:41"
+          "stock_updated": "2026-10-05 19:23:18"
         },
         {
           "skuid": "S0B2F619342CA1009",
@@ -2409,11 +2409,11 @@
           "name": "Snickers Pecan",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178257269042050.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 14:44:48"
+          "stock_updated": "2026-10-05 19:23:18"
         },
         {
           "skuid": "S0B246944E4B51008",
@@ -2421,11 +2421,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 5,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-10-04 17:00:28"
+          "stock_updated": "2026-10-05 19:23:18"
         },
         {
           "skuid": "S0B30CDD73C721000",

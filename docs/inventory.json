@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T06:52:58Z",
+  "updated": "2026-10-07T14:14:26Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -943,11 +943,11 @@
           "name": "Monster Energy",
           "price": 4.25,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-10-06 10:26:19"
+          "stock_updated": "2026-10-07 06:29:27"
         },
         {
           "skuid": "S0B30CDD32EDA1003",
@@ -1162,8 +1162,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 56,
-      "in_stock": 48,
-      "out_of_stock": 8,
+      "in_stock": 47,
+      "out_of_stock": 9,
       "low_stock": 0,
       "products": [
         {
@@ -1388,11 +1388,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-05 18:23:38"
+          "stock_updated": "2026-10-07 07:31:01"
         },
         {
           "skuid": "S0B2FECB8B02B1009",
@@ -1929,11 +1929,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 0,
+          "stock": -1,
           "capacity": 8,
-          "fill_pct": 0,
+          "fill_pct": -12,
           "stock_warning": 0,
-          "stock_updated": "2026-10-02 07:32:19"
+          "stock_updated": "2026-10-07 09:13:05"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -2061,11 +2061,11 @@
           "name": "GATORADE 20OZ ORANGE",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063782730.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-10-06 09:35:41"
+          "stock_updated": "2026-10-07 09:13:05"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -2349,11 +2349,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-10-06 22:08:26"
+          "stock_updated": "2026-10-07 09:13:05"
         },
         {
           "skuid": "S0B2F619342CA1009",

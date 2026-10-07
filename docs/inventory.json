@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T00:54:34Z",
+  "updated": "2026-10-07T06:52:58Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -811,11 +811,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-10-06 10:26:19"
+          "stock_updated": "2026-10-06 22:31:51"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -1328,11 +1328,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 18:39:12"
+          "stock_updated": "2026-10-06 20:28:39"
         },
         {
           "skuid": "S0B2BAC924065100B",
@@ -1352,11 +1352,11 @@
           "name": "Deer park water",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 15,
+          "stock": 13,
           "capacity": 16,
-          "fill_pct": 94,
+          "fill_pct": 81,
           "stock_warning": 0,
-          "stock_updated": "2026-10-06 10:35:12"
+          "stock_updated": "2026-10-06 20:28:39"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -1700,11 +1700,11 @@
           "name": "Skittles Original Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177009328012364.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-02 19:39:55"
+          "stock_updated": "2026-10-06 23:36:40"
         },
         {
           "skuid": "S0B27699FEBCD1003",
@@ -1784,11 +1784,11 @@
           "name": "Starburst original",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175337864986311.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 18:34:24"
+          "stock_updated": "2026-10-06 23:36:40"
         },
         {
           "skuid": "S0B246944E7241001",
@@ -1847,8 +1847,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 55,
-      "in_stock": 52,
-      "out_of_stock": 3,
+      "in_stock": 51,
+      "out_of_stock": 4,
       "low_stock": 0,
       "products": [
         {
@@ -1869,11 +1869,11 @@
           "name": "Beef Liver Dog Treats",
           "price": 20.07,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174907930543359.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 5,
-          "fill_pct": 20,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-10-04 17:00:28"
+          "stock_updated": "2026-10-06 22:08:26"
         },
         {
           "skuid": "S0B2EB7FF1C0F1007",
@@ -2025,11 +2025,11 @@
           "name": "Fairlife Core Power Chocolate 26g",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1630405135562.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-06 12:48:37"
+          "stock_updated": "2026-10-06 22:08:26"
         },
         {
           "skuid": "S0B3052F2BFF3100A",
@@ -2349,11 +2349,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-10-06 12:48:37"
+          "stock_updated": "2026-10-06 22:08:26"
         },
         {
           "skuid": "S0B2F619342CA1009",

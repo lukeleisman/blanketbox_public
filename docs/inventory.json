@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T20:04:13Z",
+  "updated": "2026-10-08T00:19:10Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -703,11 +703,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 5,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-10-06 14:26:47"
+          "stock_updated": "2026-10-07 18:59:59"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -740,8 +740,8 @@
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
           "stock": 5,
-          "capacity": 8,
-          "fill_pct": 62,
+          "capacity": 5,
+          "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-10-06 10:27:18"
         },
@@ -752,8 +752,8 @@
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175859439715951.png",
           "stock": 5,
-          "capacity": 8,
-          "fill_pct": 62,
+          "capacity": 5,
+          "fill_pct": 100,
           "stock_warning": 0,
           "stock_updated": "2026-10-06 10:27:18"
         },
@@ -1162,8 +1162,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 56,
-      "in_stock": 47,
-      "out_of_stock": 9,
+      "in_stock": 46,
+      "out_of_stock": 10,
       "low_stock": 0,
       "products": [
         {
@@ -1196,11 +1196,11 @@
           "name": "Brisk Iced Tea",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176736539400427.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-10-04 03:20:00"
+          "stock_updated": "2026-10-07 18:40:00"
         },
         {
           "skuid": "S0B25FC5136E7100C",
@@ -1244,11 +1244,11 @@
           "name": "Candy M&M Plain",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 2,
+          "stock": 0,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-05 14:28:57"
+          "stock_updated": "2026-10-07 18:40:00"
         },
         {
           "skuid": "S0B2A44D16D23100C",
@@ -1364,11 +1364,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 5,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-10-03 14:20:36"
+          "stock_updated": "2026-10-07 18:40:00"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1664,11 +1664,11 @@
           "name": "Powerade Zero Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172366735251318.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 18:25:30"
+          "stock_updated": "2026-10-07 18:40:00"
         },
         {
           "skuid": "S0B2F6194A055100A",
@@ -1905,11 +1905,11 @@
           "name": "Candy M&M Plain",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 6,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-30 18:12:48"
+          "stock_updated": "2026-10-07 15:56:31"
         },
         {
           "skuid": "S0B2A44D16D23100C",
@@ -1965,11 +1965,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-10-03 19:58:00"
+          "stock_updated": "2026-10-07 15:24:19"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -2397,11 +2397,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-10-06 12:48:37"
+          "stock_updated": "2026-10-07 15:24:19"
         },
         {
           "skuid": "S0B30CDD5FE8E1006",

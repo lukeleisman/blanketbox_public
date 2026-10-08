@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T06:28:26Z",
+  "updated": "2026-10-08T13:55:01Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -823,11 +823,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-10-06 10:20:17"
+          "stock_updated": "2026-10-08 08:34:54"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -943,11 +943,11 @@
           "name": "Monster Energy",
           "price": 4.25,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-10-07 06:29:27"
+          "stock_updated": "2026-10-08 06:15:04"
         },
         {
           "skuid": "S0B30CDD32EDA1003",
@@ -1111,11 +1111,11 @@
           "name": "Tropicana Orange Juice",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176954850457683.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-10-06 10:20:17"
+          "stock_updated": "2026-10-08 08:34:54"
         },
         {
           "skuid": "S0B2F619785511007",

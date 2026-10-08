@@ -5815,3 +5815,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-10-08T06:28:26Z,15519,doylestown,333 North Broad Ambient,S0B246944E6C51002,076410901633,Lance Peanut Butter,2.0,13,11,-2
 2026-10-08T06:28:26Z,129111,philly,Philly TrueCooler II,S0B2C6BE9F76D100A,2410012261,Cheez-It 1.5 oz,2.0,9,8,-1
 2026-10-08T06:28:26Z,129111,philly,Philly TrueCooler II,S0B2F619785511007,8616201000,VITAMIN WATER DRAGONFRUIT,3.0,7,6,-1
+2026-10-08T13:55:01Z,16214,doylestown,333 North Broad Cooler,S0B2FED291FB81003,048500206867,Tropicana Orange Juice,3.0,7,6,-1
+2026-10-08T13:55:01Z,16214,doylestown,333 North Broad Cooler,S0B246944DEF51002,070847811169,Monster Energy,4.25,5,4,-1
+2026-10-08T13:55:01Z,16214,doylestown,333 North Broad Cooler,S0B246944E4141002,052000328684,Gatorade Lemon Lime,3.25,7,6,-1

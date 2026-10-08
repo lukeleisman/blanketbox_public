@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T13:55:01Z",
+  "updated": "2026-10-08T19:40:54Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1712,11 +1712,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 10,
-          "fill_pct": 70,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 18:25:30"
+          "stock_updated": "2026-10-08 10:56:47"
         },
         {
           "skuid": "S0B30CDD5FE8E1006",
@@ -2301,11 +2301,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-10-07 13:28:53"
+          "stock_updated": "2026-10-08 11:38:25"
         },
         {
           "skuid": "S0B27699FED6C1005",

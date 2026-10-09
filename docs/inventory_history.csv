@@ -5841,3 +5841,11 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-10-09T06:29:37Z,16213,haven,TheHaven#2-cooler,S0B27699FEA161007,024100123223,Cheez It Original,2.25,7,6,-1
 2026-10-09T06:29:37Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,8,6,-2
 2026-10-09T06:29:37Z,16213,haven,TheHaven#2-cooler,S0B2BC10A038C1008,040000522065,Milky Way,2.5,3,2,-1
+2026-10-09T13:39:38Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.37,13,12,-1
+2026-10-09T13:39:38Z,16214,doylestown,333 North Broad Cooler,S0B246944DEF51002,070847811169,Monster Energy,4.25,4,3,-1
+2026-10-09T13:39:38Z,129111,philly,Philly TrueCooler II,S0B2BDB15D6F41005,040000009702,Starburst Fave Reds,2.5,6,5,-1
+2026-10-09T13:39:38Z,129111,philly,Philly TrueCooler II,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,6,5,-1
+2026-10-09T13:39:38Z,129111,philly,Philly TrueCooler II,S0B246944E3C2100B,040000001607,Skittles Original Candy,2.5,3,2,-1
+2026-10-09T13:39:38Z,16213,haven,TheHaven#2-cooler,S0B30F20FD8EC1002,847390031,Hint Watermelon Water,3.0,6,5,-1
+2026-10-09T13:39:38Z,16213,haven,TheHaven#2-cooler,S0B246944E4B51008,012000813313,Starbucks_Frappuccino_Vanilla,4.27,9,8,-1
+2026-10-09T13:39:38Z,16213,haven,TheHaven#2-cooler,S0B2F619836EC1004,0786162411778,Vitamin Water Tropical Citrus,3.0,7,6,-1

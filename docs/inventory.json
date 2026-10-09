@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T06:29:37Z",
+  "updated": "2026-10-09T13:39:38Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -943,11 +943,11 @@
           "name": "Monster Energy",
           "price": 4.25,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-10-08 06:15:04"
+          "stock_updated": "2026-10-09 06:24:37"
         },
         {
           "skuid": "S0B30CDD32EDA1003",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.37,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 13,
+          "stock": 12,
           "capacity": 24,
-          "fill_pct": 54,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-10-06 10:20:17"
+          "stock_updated": "2026-10-09 05:49:23"
         },
         {
           "skuid": "S0B30F22A91B21006",
@@ -1424,11 +1424,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176135320494550.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-10-01 03:27:44"
+          "stock_updated": "2026-10-09 08:31:15"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1700,11 +1700,11 @@
           "name": "Skittles Original Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177009328012364.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-06 23:36:40"
+          "stock_updated": "2026-10-09 08:31:15"
         },
         {
           "skuid": "S0B27699FEBCD1003",
@@ -1772,11 +1772,11 @@
           "name": "Starburst Fave Reds",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175355844746183.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 18:34:24"
+          "stock_updated": "2026-10-09 08:31:15"
         },
         {
           "skuid": "S0B2BDB1580711003",
@@ -2121,11 +2121,11 @@
           "name": "Hint Watermelon Water",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178091499226935.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 14:59:09"
+          "stock_updated": "2026-10-09 01:57:23"
         },
         {
           "skuid": "S0B30F20F9AB61000",
@@ -2421,11 +2421,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 8,
-          "fill_pct": 112,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-10-06 12:48:37"
+          "stock_updated": "2026-10-09 01:57:23"
         },
         {
           "skuid": "S0B30CDD73C721000",
@@ -2493,11 +2493,11 @@
           "name": "Vitamin Water Tropical Citrus",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176040330342693.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 6,
-          "fill_pct": 117,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-10-05 09:33:24"
+          "stock_updated": "2026-10-09 01:57:23"
         },
         {
           "skuid": "S0B2F61985D4D1008",

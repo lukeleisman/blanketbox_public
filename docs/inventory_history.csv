@@ -5854,3 +5854,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-10-09T19:17:08Z,16213,haven,TheHaven#2-cooler,S0B2A44D16D23100C,88939200170,Celsius Cherry Cola,3.57,4,3,-1
 2026-10-09T19:17:08Z,16213,haven,TheHaven#2-cooler,S0B246944E4F01003,052000328677,GATORADE 20OZ ORANGE,3.25,2,1,-1
 2026-10-09T19:17:08Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,6,5,-1
+2026-10-09T23:24:11Z,16214,doylestown,333 North Broad Cooler,S0B27699FED6C1005,070847898146,Monster Zero Sugar Guava,4.27,5,4,-1
+2026-10-09T23:24:11Z,129111,philly,Philly TrueCooler II,S0B2BDAE8D5FB1006,520010247,Gatorade Glacier Cherry,3.0,7,6,-1

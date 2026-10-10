@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T23:24:11Z",
+  "updated": "2026-10-10T02:33:50Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2337,11 +2337,11 @@
           "name": "NutellaGo",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-10-06 12:48:37"
+          "stock_updated": "2026-10-09 20:27:24"
         },
         {
           "skuid": "S0B246944E3D51001",

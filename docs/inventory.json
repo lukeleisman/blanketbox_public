@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T19:49:43Z",
+  "updated": "2026-10-10T23:17:00Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -474,11 +474,11 @@
           "name": "Sour Skittles",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176160435418133.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-06 10:11:44"
+          "stock_updated": "2026-10-10 15:13:17"
         },
         {
           "skuid": "S0B2BDB15D6F41005",
@@ -522,11 +522,11 @@
           "name": "TAKIS FUEGO HOT CHILI PEPPER AND LIME",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174645971192562.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-06 10:11:44"
+          "stock_updated": "2026-10-10 15:32:52"
         },
         {
           "skuid": "S0B300176CD16100C",
@@ -727,11 +727,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 24,
-          "fill_pct": 33,
+          "fill_pct": 29,
           "stock_warning": 0,
-          "stock_updated": "2026-10-09 10:16:06"
+          "stock_updated": "2026-10-10 15:12:50"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -955,11 +955,11 @@
           "name": "MONSTER ENERGY ULTRA BLUE HAWAIIAN",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17463835125505.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-06 10:20:17"
+          "stock_updated": "2026-10-10 17:02:07"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.37,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 12,
+          "stock": 11,
           "capacity": 24,
-          "fill_pct": 50,
+          "fill_pct": 46,
           "stock_warning": 0,
-          "stock_updated": "2026-10-09 05:49:23"
+          "stock_updated": "2026-10-10 17:02:07"
         },
         {
           "skuid": "S0B30F22A91B21006",
@@ -1328,11 +1328,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-10-06 20:28:39"
+          "stock_updated": "2026-10-10 15:24:13"
         },
         {
           "skuid": "S0B2BAC924065100B",

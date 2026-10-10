@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T02:33:50Z",
+  "updated": "2026-10-10T09:29:59Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1232,11 +1232,11 @@
           "name": "Canada Dry Ginger Ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175847239862745.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-10-02 18:02:59"
+          "stock_updated": "2026-10-10 03:08:39"
         },
         {
           "skuid": "S0B246944E6EA1003",
@@ -1316,11 +1316,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-10-07 20:47:09"
+          "stock_updated": "2026-10-10 03:06:47"
         },
         {
           "skuid": "S0B246944DEAE1000",
@@ -1364,11 +1364,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-10-07 18:40:00"
+          "stock_updated": "2026-10-09 23:38:28"
         },
         {
           "skuid": "S0B2C85783CD31007",

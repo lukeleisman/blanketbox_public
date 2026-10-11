@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T15:52:40Z",
+  "updated": "2026-10-11T19:56:37Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -258,11 +258,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-10-06 10:11:44"
+          "stock_updated": "2026-10-11 12:31:11"
         },
         {
           "skuid": "S0B29439727A41005",
@@ -1162,8 +1162,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 56,
-      "in_stock": 46,
-      "out_of_stock": 10,
+      "in_stock": 45,
+      "out_of_stock": 11,
       "low_stock": 0,
       "products": [
         {
@@ -1460,11 +1460,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173685359821166.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 8,
-          "fill_pct": 112,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-09-30 03:03:42"
+          "stock_updated": "2026-10-11 14:52:31"
         },
         {
           "skuid": "S0B2FE7209DA61003",
@@ -1556,11 +1556,11 @@
           "name": "MONSTER ENERGY ULTRA BLUE HAWAIIAN",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17463835125505.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-03 09:38:14"
+          "stock_updated": "2026-10-11 12:29:31"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -1568,11 +1568,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 2,
+          "stock": 0,
           "capacity": 8,
-          "fill_pct": 25,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-10-09 00:38:06"
+          "stock_updated": "2026-10-11 12:29:31"
         },
         {
           "skuid": "S0B30F22A91B21006",
@@ -1700,11 +1700,11 @@
           "name": "Skittles Original Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177009328012364.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-09 08:31:15"
+          "stock_updated": "2026-10-11 14:52:31"
         },
         {
           "skuid": "S0B27699FEBCD1003",
@@ -1748,11 +1748,11 @@
           "name": "Sour Patch Kids Watermelon",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17490402625956.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 18:34:24"
+          "stock_updated": "2026-10-11 14:52:31"
         },
         {
           "skuid": "S0B246944E4B51008",
@@ -1965,11 +1965,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 8,
-          "fill_pct": 25,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-10-08 20:36:33"
+          "stock_updated": "2026-10-11 12:28:20"
         },
         {
           "skuid": "S0B246944E9A41003",

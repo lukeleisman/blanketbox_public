@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T19:56:37Z",
+  "updated": "2026-10-11T23:30:51Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -703,11 +703,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 3,
+          "stock": 1,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-10-07 18:59:59"
+          "stock_updated": "2026-10-11 15:56:08"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -1162,8 +1162,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 56,
-      "in_stock": 45,
-      "out_of_stock": 11,
+      "in_stock": 43,
+      "out_of_stock": 13,
       "low_stock": 0,
       "products": [
         {
@@ -1364,11 +1364,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 8,
-          "fill_pct": 12,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-10-10 21:16:42"
+          "stock_updated": "2026-10-11 16:50:28"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1436,11 +1436,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-10-09 15:23:27"
+          "stock_updated": "2026-10-11 16:14:32"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -1460,11 +1460,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173685359821166.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-10-11 14:52:31"
+          "stock_updated": "2026-10-11 15:11:18"
         },
         {
           "skuid": "S0B2FE7209DA61003",
@@ -1628,11 +1628,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-10-10 19:50:28"
+          "stock_updated": "2026-10-11 16:14:32"
         },
         {
           "skuid": "S0B2D90E22889100A",
@@ -1664,11 +1664,11 @@
           "name": "Powerade Zero Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172366735251318.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-07 18:40:00"
+          "stock_updated": "2026-10-11 16:50:28"
         },
         {
           "skuid": "S0B2F6194A055100A",
@@ -1688,11 +1688,11 @@
           "name": "Powerade Zero Mixed Berry 20floz",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176048132401919.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 18:25:30"
+          "stock_updated": "2026-10-11 16:50:28"
         },
         {
           "skuid": "S0B246944E3C2100B",
@@ -1700,11 +1700,11 @@
           "name": "Skittles Original Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177009328012364.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-11 14:52:31"
+          "stock_updated": "2026-10-11 16:45:27"
         },
         {
           "skuid": "S0B27699FEBCD1003",
@@ -1712,11 +1712,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 10,
-          "fill_pct": 30,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-10-09 13:59:37"
+          "stock_updated": "2026-10-11 17:36:47"
         },
         {
           "skuid": "S0B30CDD5FE8E1006",
@@ -1736,11 +1736,11 @@
           "name": "SNICKERS XTREME",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178257312503836.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-30 01:44:55"
+          "stock_updated": "2026-10-11 16:50:28"
         },
         {
           "skuid": "S0B273E97D6C2100B",
@@ -1847,8 +1847,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 55,
-      "in_stock": 49,
-      "out_of_stock": 6,
+      "in_stock": 48,
+      "out_of_stock": 7,
       "low_stock": 0,
       "products": [
         {
@@ -1881,11 +1881,11 @@
           "name": "Brisk Iced Tea",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176736539400427.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 14:44:48"
+          "stock_updated": "2026-10-11 15:34:24"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -1905,11 +1905,11 @@
           "name": "Candy M&M Plain",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 4,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-07 15:56:31"
+          "stock_updated": "2026-10-11 15:34:24"
         },
         {
           "skuid": "S0B2A44D16D23100C",
@@ -1965,11 +1965,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 8,
-          "fill_pct": 12,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-10-11 12:28:20"
+          "stock_updated": "2026-10-11 15:34:24"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -2181,11 +2181,11 @@
           "name": "Lance Peanut Butter",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168901539228250.jpeg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-29 14:44:48"
+          "stock_updated": "2026-10-11 15:58:47"
         },
         {
           "skuid": "S0B30B2FAEB911000",
@@ -2241,11 +2241,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 11,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 110,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-10-08 15:58:22"
+          "stock_updated": "2026-10-11 15:34:24"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2397,11 +2397,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 10,
-          "fill_pct": 40,
+          "fill_pct": 30,
           "stock_warning": 0,
-          "stock_updated": "2026-10-10 19:12:41"
+          "stock_updated": "2026-10-11 15:34:24"
         },
         {
           "skuid": "S0B30CDD5FE8E1006",
@@ -2590,11 +2590,11 @@
           "name": "3M pro grade sandpaper",
           "price": 12.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/844513f1-fb9f-482f-923c-c984b56034d0.jpg",
-          "stock": 9997,
+          "stock": 9996,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-12 16:47:51"
+          "stock_updated": "2026-10-11 15:52:33"
         },
         {
           "skuid": "S0B2E96B27D89100B",

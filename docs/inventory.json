@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T23:17:00Z",
+  "updated": "2026-10-11T02:03:31Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1532,11 +1532,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 11,
-          "fill_pct": 55,
+          "fill_pct": 45,
           "stock_warning": 0,
-          "stock_updated": "2026-10-07 13:32:42"
+          "stock_updated": "2026-10-10 19:50:28"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1580,11 +1580,11 @@
           "name": "Monster Ultra Fantasy Ruby Red 500ml",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178488332087637.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-03 21:01:07"
+          "stock_updated": "2026-10-10 19:41:48"
         },
         {
           "skuid": "S0B30022234F81004",
@@ -1628,11 +1628,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-10-05 22:36:46"
+          "stock_updated": "2026-10-10 19:50:28"
         },
         {
           "skuid": "S0B2D90E22889100A",
@@ -1989,11 +1989,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 8,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-10-06 12:48:37"
+          "stock_updated": "2026-10-10 18:23:31"
         },
         {
           "skuid": "S0B30016DFAA81002",
@@ -2397,11 +2397,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 10,
-          "fill_pct": 50,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-10-09 14:02:06"
+          "stock_updated": "2026-10-10 19:12:41"
         },
         {
           "skuid": "S0B30CDD5FE8E1006",

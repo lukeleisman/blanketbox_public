@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T23:30:51Z",
+  "updated": "2026-10-12T04:39:47Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1232,11 +1232,11 @@
           "name": "Canada Dry Ginger Ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175847239862745.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-10-10 03:08:39"
+          "stock_updated": "2026-10-11 21:06:23"
         },
         {
           "skuid": "S0B246944E6EA1003",
@@ -1532,11 +1532,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 11,
-          "fill_pct": 45,
+          "fill_pct": 36,
           "stock_warning": 0,
-          "stock_updated": "2026-10-10 19:50:28"
+          "stock_updated": "2026-10-11 20:41:13"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1616,11 +1616,11 @@
           "name": "NutellaGo",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-10-01 03:27:44"
+          "stock_updated": "2026-10-11 21:06:23"
         },
         {
           "skuid": "S0B246944E3D51001",

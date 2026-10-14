@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T12:40:18Z",
+  "updated": "2026-10-14T17:48:15Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -18,11 +18,11 @@
           "name": "3 Musketeers",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168901411356537.jpeg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 19:40:42"
+          "stock_updated": "2026-10-14 11:54:20"
         },
         {
           "skuid": "S0B260510FB391004",
@@ -150,11 +150,11 @@
           "name": "Fig Newtowns",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177450068582980.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 19:40:42"
+          "stock_updated": "2026-10-14 11:54:20"
         },
         {
           "skuid": "S0B30D45F0363100A",
@@ -186,11 +186,11 @@
           "name": "Goldfish Cheddar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172165768291916.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 10,
-          "fill_pct": 110,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 19:44:38"
+          "stock_updated": "2026-10-14 11:54:20"
         },
         {
           "skuid": "S0B2D90DF10651003",
@@ -258,11 +258,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 19:40:42"
+          "stock_updated": "2026-10-14 11:51:29"
         },
         {
           "skuid": "S0B29439727A41005",
@@ -570,11 +570,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 10,
-          "fill_pct": 40,
+          "fill_pct": 30,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 19:40:42"
+          "stock_updated": "2026-10-14 11:51:29"
         },
         {
           "skuid": "S0B246944E8251002",
@@ -1352,11 +1352,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 21:21:55"
+          "stock_updated": "2026-10-14 09:05:14"
         },
         {
           "skuid": "S0B2BAC924065100B",
@@ -1388,11 +1388,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 21:21:55"
+          "stock_updated": "2026-10-14 07:55:25"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2325,11 +2325,11 @@
           "name": "Milano",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 17:38:17"
+          "stock_updated": "2026-10-14 10:53:12"
         },
         {
           "skuid": "S0B2BC10A038C1008",

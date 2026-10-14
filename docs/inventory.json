@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T17:48:15Z",
+  "updated": "2026-10-14T21:19:43Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -594,11 +594,11 @@
           "name": "Wild Berry Skittles",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174196255228456.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 19:40:42"
+          "stock_updated": "2026-10-14 13:24:46"
         }
       ]
     },

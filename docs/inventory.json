@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T01:19:26Z",
+  "updated": "2026-10-14T06:30:38Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2049,11 +2049,11 @@
           "name": "Deer park water",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 17:38:17"
+          "stock_updated": "2026-10-13 22:08:37"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -2493,11 +2493,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 17:38:17"
+          "stock_updated": "2026-10-14 00:45:52"
         },
         {
           "skuid": "S0B30CDD73C721000",

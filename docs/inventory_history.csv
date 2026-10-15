@@ -6034,3 +6034,11 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-10-15T18:53:24Z,16213,haven,TheHaven#2-cooler,S0B2FECA70BC81000,718604001346,cioccolati biscotti,2.5,6,5,-1
 2026-10-15T18:53:24Z,16213,haven,TheHaven#2-cooler,S0B2FE7209DA61003,014100077602,Goldfish Cheddar,2.25,9,8,-1
 2026-10-15T18:53:24Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,5,3,-2
+2026-10-15T21:58:08Z,16214,doylestown,333 North Broad Cooler,S0B246944E4EB1007,889392010145,Celsius Kiwi Guava,3.57,2,1,-1
+2026-10-15T21:58:08Z,129111,philly,Philly TrueCooler II,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,11,9,-2
+2026-10-15T21:58:08Z,16213,haven,TheHaven#2-cooler,S0B3052F2BFF3100A,811620022118,Fairlife Nutrition Plan 30g High Quality Protein,5.0,8,6,-2
+2026-10-15T21:58:08Z,16213,haven,TheHaven#2-cooler,S0B30B2FB9466100A,840442200947,Liquid Death Energy Scary,2.5,8,7,-1
+2026-10-15T21:58:08Z,16213,haven,TheHaven#2-cooler,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.6,8,7,-1
+2026-10-15T21:58:08Z,16213,haven,TheHaven#2-cooler,S0B2D484E0EFD1001,014100043706,Milano,2.0,8,7,-1
+2026-10-15T21:58:08Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,3,2,-1
+2026-10-15T21:58:08Z,16213,haven,TheHaven#2-cooler,S0B30B38D5A5B1002,815700020049,Kim Nori Seaweed,2.5,12,11,-1

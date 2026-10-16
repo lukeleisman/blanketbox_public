@@ -6042,3 +6042,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-10-15T21:58:08Z,16213,haven,TheHaven#2-cooler,S0B2D484E0EFD1001,014100043706,Milano,2.0,8,7,-1
 2026-10-15T21:58:08Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,3,2,-1
 2026-10-15T21:58:08Z,16213,haven,TheHaven#2-cooler,S0B30B38D5A5B1002,815700020049,Kim Nori Seaweed,2.5,12,11,-1
+2026-10-16T00:11:55Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,2,0,-2

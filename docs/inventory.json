@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T14:34:27Z",
+  "updated": "2026-10-16T18:38:23Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 49,
-      "in_stock": 43,
-      "out_of_stock": 6,
+      "in_stock": 42,
+      "out_of_stock": 7,
       "low_stock": 0,
       "products": [
         {
@@ -18,11 +18,11 @@
           "name": "3 Musketeers",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168901411356537.jpeg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-14 11:54:20"
+          "stock_updated": "2026-10-16 10:36:26"
         },
         {
           "skuid": "S0B260510FB391004",
@@ -474,11 +474,11 @@
           "name": "Sour Patch Kids Watermelon",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17490402625956.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 19:40:42"
+          "stock_updated": "2026-10-16 10:36:26"
         },
         {
           "skuid": "S0B2BDB14A2A7100A",
@@ -1051,11 +1051,11 @@
           "name": "Powerade Zero Grape",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175799657047375.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 19:23:22"
+          "stock_updated": "2026-10-16 10:36:13"
         },
         {
           "skuid": "S0B2F61930CDF1009",
@@ -2001,11 +2001,11 @@
           "name": "Celsius Kiwi Guava",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1633372949844.jpeg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-13 08:45:46"
+          "stock_updated": "2026-10-16 10:24:10"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -2037,11 +2037,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-10-15 16:57:02"
+          "stock_updated": "2026-10-16 10:24:10"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -2157,11 +2157,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063766829.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 17:38:17"
+          "stock_updated": "2026-10-16 11:44:07"
         },
         {
           "skuid": "S0B2FE7209DA61003",

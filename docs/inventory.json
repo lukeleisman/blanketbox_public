@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T00:11:55Z",
+  "updated": "2026-10-16T04:49:24Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -78,11 +78,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 10,
-          "fill_pct": 110,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 19:44:38"
+          "stock_updated": "2026-10-15 19:30:07"
         },
         {
           "skuid": "S0B2FECA70BC81000",
@@ -258,11 +258,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-10-14 18:23:16"
+          "stock_updated": "2026-10-15 19:30:07"
         },
         {
           "skuid": "S0B29439727A41005",
@@ -318,11 +318,11 @@
           "name": "Natures Bakery - Double Chocolate Brownie",
           "price": 2.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173368269911559.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 19:40:42"
+          "stock_updated": "2026-10-15 22:08:41"
         },
         {
           "skuid": "S0B27699FED1E1005",
@@ -378,11 +378,11 @@
           "name": "Pub Spicy Blend",
           "price": 15.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178803812880949.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 19:40:42"
+          "stock_updated": "2026-10-15 19:30:07"
         },
         {
           "skuid": "S0B246944E3C2100B",
@@ -609,8 +609,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 48,
-      "in_stock": 46,
-      "out_of_stock": 2,
+      "in_stock": 45,
+      "out_of_stock": 3,
       "low_stock": 0,
       "products": [
         {
@@ -715,11 +715,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 19:32:08"
+          "stock_updated": "2026-10-15 23:07:08"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -1027,11 +1027,11 @@
           "name": "Oikos Protein Shake Chocolate 12 oz",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175796271645448.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 19:23:22"
+          "stock_updated": "2026-10-15 23:07:08"
         },
         {
           "skuid": "S0B2F619342CA1009",
@@ -1063,11 +1063,11 @@
           "name": "Powerade Zero Mixed Berry 20floz",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176048132401919.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 6,
-          "fill_pct": 17,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 19:23:22"
+          "stock_updated": "2026-10-15 20:29:37"
         },
         {
           "skuid": "S0B2C858213931004",
@@ -1352,11 +1352,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-10-14 20:58:29"
+          "stock_updated": "2026-10-15 21:21:41"
         },
         {
           "skuid": "S0B2BAC924065100B",
@@ -1388,11 +1388,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-10-14 07:55:25"
+          "stock_updated": "2026-10-15 21:08:03"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1580,11 +1580,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 11,
-          "fill_pct": 82,
+          "fill_pct": 73,
           "stock_warning": 0,
-          "stock_updated": "2026-10-15 16:28:10"
+          "stock_updated": "2026-10-15 21:21:41"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1977,11 +1977,11 @@
           "name": "Candy M&M Plain",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 17:38:17"
+          "stock_updated": "2026-10-15 22:32:40"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -2109,11 +2109,11 @@
           "name": "Fairlife Nutrition Plan 30g High Quality Protein",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1653508825716.jpeg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-10-15 15:56:52"
+          "stock_updated": "2026-10-15 22:32:40"
         },
         {
           "skuid": "S0B2FECB8B02B1009",
@@ -2325,11 +2325,11 @@
           "name": "Milano",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-15 15:56:52"
+          "stock_updated": "2026-10-15 22:32:40"
         },
         {
           "skuid": "S0B2BC10A038C1008",

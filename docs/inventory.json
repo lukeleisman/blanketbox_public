@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T09:01:46Z",
+  "updated": "2026-10-17T13:05:23Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1919,8 +1919,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 55,
-      "in_stock": 48,
-      "out_of_stock": 7,
+      "in_stock": 47,
+      "out_of_stock": 8,
       "low_stock": 0,
       "products": [
         {
@@ -1977,11 +1977,11 @@
           "name": "Candy M&M Plain",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-15 22:32:40"
+          "stock_updated": "2026-10-17 04:30:40"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -2313,11 +2313,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 10,
-          "fill_pct": 60,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-10-17 00:06:04"
+          "stock_updated": "2026-10-17 04:30:40"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2493,11 +2493,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-10-14 00:45:52"
+          "stock_updated": "2026-10-17 04:30:40"
         },
         {
           "skuid": "S0B30CDD73C721000",

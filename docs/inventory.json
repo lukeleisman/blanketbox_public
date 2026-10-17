@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T13:05:23Z",
+  "updated": "2026-10-17T16:34:21Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1015,11 +1015,11 @@
           "name": "Monster Zero Sugar Guava",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473811426492.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-16 18:07:35"
+          "stock_updated": "2026-10-17 09:25:09"
         },
         {
           "skuid": "S0B300263EBDF1004",
@@ -1460,11 +1460,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176135320494550.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 21:21:55"
+          "stock_updated": "2026-10-17 11:16:22"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1496,11 +1496,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173685359821166.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 21:21:55"
+          "stock_updated": "2026-10-17 10:01:36"
         },
         {
           "skuid": "S0B3136541BC31004",
@@ -1664,11 +1664,11 @@
           "name": "Nonni\u2019s Chocolate Biscotti",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378025726710.png",
-          "stock": 6,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 21:03:39"
+          "stock_updated": "2026-10-17 11:16:22"
         },
         {
           "skuid": "S0B25F6365FD11002",
@@ -1844,11 +1844,11 @@
           "name": "Starburst original",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175337864986311.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 21:03:39"
+          "stock_updated": "2026-10-17 11:16:22"
         },
         {
           "skuid": "S0B246944E7241001",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T23:47:07Z",
+  "updated": "2026-10-18T03:20:35Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1580,11 +1580,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 11,
-          "fill_pct": 73,
+          "fill_pct": 64,
           "stock_warning": 0,
-          "stock_updated": "2026-10-15 21:21:41"
+          "stock_updated": "2026-10-17 21:56:20"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1772,11 +1772,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-10-16 17:05:33"
+          "stock_updated": "2026-10-17 21:56:20"
         },
         {
           "skuid": "S0B30CDD5FE8E1006",
@@ -2313,11 +2313,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 5,
+          "stock": 3,
           "capacity": 10,
-          "fill_pct": 50,
+          "fill_pct": 30,
           "stock_warning": 0,
-          "stock_updated": "2026-10-17 04:30:40"
+          "stock_updated": "2026-10-17 21:39:13"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2421,11 +2421,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 17:38:17"
+          "stock_updated": "2026-10-17 21:39:13"
         },
         {
           "skuid": "S0B2F619342CA1009",

@@ -6095,3 +6095,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-10-17T19:02:24Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.6,7,6,-1
 2026-10-17T23:47:07Z,129111,philly,Philly TrueCooler II,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,6,5,-1
 2026-10-17T23:47:07Z,15520,mckinley,mHUBPrototypingShop,S0B2E92CBE7C81009,F0B2E92CBE7C81007,Robot Brown Bag,20.0,9991,9989,-2
+2026-10-18T03:20:35Z,129111,philly,Philly TrueCooler II,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,8,7,-1
+2026-10-18T03:20:35Z,129111,philly,Philly TrueCooler II,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,9,8,-1
+2026-10-18T03:20:35Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.6,9,8,-1
+2026-10-18T03:20:35Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.5,5,3,-2

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T21:17:09Z",
+  "updated": "2026-10-18T23:30:51Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -2109,11 +2109,11 @@
           "name": "Fairlife Nutrition Plan 30g High Quality Protein",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1653508825716.jpeg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-10-16 08:52:11"
+          "stock_updated": "2026-10-18 17:19:05"
         },
         {
           "skuid": "S0B2FECB8B02B1009",
@@ -2241,11 +2241,11 @@
           "name": "Kim Nori Seaweed",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178965721524086.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-15 15:56:52"
+          "stock_updated": "2026-10-18 17:19:05"
         },
         {
           "skuid": "S0B246944E6C51002",
@@ -2265,11 +2265,11 @@
           "name": "Liquid Death Energy Murder",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176616577399761.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 17:38:17"
+          "stock_updated": "2026-10-18 17:19:05"
         },
         {
           "skuid": "S0B30B2FB4C961001",

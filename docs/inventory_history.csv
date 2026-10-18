@@ -6120,3 +6120,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-10-18T21:17:09Z,129111,philly,Philly TrueCooler II,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,7,6,-1
 2026-10-18T21:17:09Z,129111,philly,Philly TrueCooler II,S0B30CDD5FE8E1006,040000595373,Snickers Pecan,2.67,2,1,-1
 2026-10-18T21:17:09Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.6,6,5,-1
+2026-10-18T23:30:51Z,16213,haven,TheHaven#2-cooler,S0B3052F2BFF3100A,811620022118,Fairlife Nutrition Plan 30g High Quality Protein,5.0,4,3,-1
+2026-10-18T23:30:51Z,16213,haven,TheHaven#2-cooler,S0B30B2FAEB911000,840442200978,Liquid Death Energy Murder,2.5,9,8,-1
+2026-10-18T23:30:51Z,16213,haven,TheHaven#2-cooler,S0B30B38D5A5B1002,815700020049,Kim Nori Seaweed,2.5,11,10,-1

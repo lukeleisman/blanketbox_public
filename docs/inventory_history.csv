@@ -6105,3 +6105,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-10-18T08:15:05Z,129111,philly,Philly TrueCooler II,S0B273E97D6C2100B,F0B273E97D6C21009,Sour Patch Kids Watermelon,2.5,10,9,-1
 2026-10-18T08:15:05Z,129111,philly,Philly TrueCooler II,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,7,5,-2
 2026-10-18T08:15:05Z,129111,philly,Philly TrueCooler II,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,5,4,-1
+2026-10-18T12:43:42Z,16213,haven,TheHaven#2-cooler,S0B246944E4B51008,012000813313,Starbucks_Frappuccino_Vanilla,4.27,6,5,-1
+2026-10-18T12:43:42Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.5,3,2,-1
+2026-10-18T12:43:42Z,16213,haven,TheHaven#2-cooler,S0B25F6365FD11002,0980080005,NutellaGo,2.75,8,7,-1

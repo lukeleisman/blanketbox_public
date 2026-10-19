@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T23:30:51Z",
+  "updated": "2026-10-19T03:32:48Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -991,11 +991,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.37,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 15,
+          "stock": 14,
           "capacity": 24,
-          "fill_pct": 62,
+          "fill_pct": 58,
           "stock_warning": 0,
-          "stock_updated": "2026-10-16 18:07:35"
+          "stock_updated": "2026-10-18 19:52:41"
         },
         {
           "skuid": "S0B30F22A91B21006",
@@ -1003,11 +1003,11 @@
           "name": "Monster Ultra Fantasy Ruby Red 500ml",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178488332087637.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 19:23:22"
+          "stock_updated": "2026-10-18 19:52:41"
         },
         {
           "skuid": "S0B27699FED6C1005",
@@ -1232,11 +1232,11 @@
           "name": "Brisk Iced Tea",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176736539400427.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 21:21:55"
+          "stock_updated": "2026-10-18 19:30:09"
         },
         {
           "skuid": "S0B25FC5136E7100C",
@@ -1244,11 +1244,11 @@
           "name": "Buldak Spicy Ramen",
           "price": 6.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176703148096672.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-10-16 17:05:33"
+          "stock_updated": "2026-10-18 22:08:39"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -1352,11 +1352,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 3,
+          "stock": 1,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-10-16 21:34:52"
+          "stock_updated": "2026-10-18 18:31:33"
         },
         {
           "skuid": "S0B2BAC924065100B",
@@ -2013,11 +2013,11 @@
           "name": "Cheez It Original",
           "price": 2.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254819896872.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-10-13 12:57:43"
+          "stock_updated": "2026-10-18 20:28:26"
         },
         {
           "skuid": "S0B2FECA70BC81000",
@@ -2325,11 +2325,11 @@
           "name": "Milano",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-15 22:32:40"
+          "stock_updated": "2026-10-18 20:28:26"
         },
         {
           "skuid": "S0B2BC10A038C1008",
@@ -2349,11 +2349,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-10-13 12:57:43"
+          "stock_updated": "2026-10-18 20:28:26"
         },
         {
           "skuid": "S0B30CDD32EDA1003",

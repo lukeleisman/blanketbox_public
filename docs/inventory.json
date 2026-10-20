@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T15:36:50Z",
+  "updated": "2026-10-20T19:50:45Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -739,11 +739,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 24,
-          "fill_pct": 46,
+          "fill_pct": 42,
           "stock_warning": 0,
-          "stock_updated": "2026-10-19 14:14:51"
+          "stock_updated": "2026-10-20 13:43:05"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1919,8 +1919,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 55,
-      "in_stock": 45,
-      "out_of_stock": 10,
+      "in_stock": 44,
+      "out_of_stock": 11,
       "low_stock": 0,
       "products": [
         {
@@ -1929,11 +1929,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-10-15 12:45:41"
+          "stock_updated": "2026-10-20 12:11:40"
         },
         {
           "skuid": "S0B2740EB95E01006",
@@ -2061,11 +2061,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 2,
+          "stock": 0,
           "capacity": 8,
-          "fill_pct": 25,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-10-19 18:57:23"
+          "stock_updated": "2026-10-20 12:16:50"
         },
         {
           "skuid": "S0B30016DFAA81002",
@@ -2109,11 +2109,11 @@
           "name": "Fairlife Nutrition Plan 30g High Quality Protein",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1653508825716.jpeg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 8,
-          "fill_pct": 25,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-10-20 00:50:01"
+          "stock_updated": "2026-10-20 12:16:50"
         },
         {
           "skuid": "S0B2FECB8B02B1009",

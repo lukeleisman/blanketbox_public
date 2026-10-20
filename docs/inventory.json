@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T00:30:44Z",
+  "updated": "2026-10-20T05:41:51Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -609,8 +609,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 48,
-      "in_stock": 43,
-      "out_of_stock": 5,
+      "in_stock": 42,
+      "out_of_stock": 6,
       "low_stock": 0,
       "products": [
         {
@@ -679,11 +679,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 8,
-          "fill_pct": 12,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-10-19 11:12:10"
+          "stock_updated": "2026-10-19 21:40:46"
         },
         {
           "skuid": "S0B246944E4EB1007",
@@ -1003,11 +1003,11 @@
           "name": "Monster Ultra Fantasy Ruby Red 500ml",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178488332087637.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-18 19:52:41"
+          "stock_updated": "2026-10-19 20:45:41"
         },
         {
           "skuid": "S0B27699FED6C1005",
@@ -1688,11 +1688,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 10,
-          "fill_pct": 50,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-10-18 00:17:20"
+          "stock_updated": "2026-10-19 22:01:36"
         },
         {
           "skuid": "S0B2D90E22889100A",

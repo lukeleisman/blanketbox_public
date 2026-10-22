@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T00:06:17Z",
+  "updated": "2026-10-22T05:11:32Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 49,
-      "in_stock": 40,
-      "out_of_stock": 9,
+      "in_stock": 39,
+      "out_of_stock": 10,
       "low_stock": 0,
       "products": [
         {
@@ -54,11 +54,11 @@
           "name": "Candy M&M Plain",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1597370038495.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 6,
-          "fill_pct": 17,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-10-18 13:09:32"
+          "stock_updated": "2026-10-21 23:29:33"
         },
         {
           "skuid": "S0B30D45D64CD1004",
@@ -402,11 +402,11 @@
           "name": "Skittles Tropical",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175355854839065.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 19:40:42"
+          "stock_updated": "2026-10-21 23:29:33"
         },
         {
           "skuid": "S0B30022A02171005",
@@ -522,11 +522,11 @@
           "name": "Swedish Fish",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168902127228068.jpeg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 19:44:38"
+          "stock_updated": "2026-10-21 21:13:45"
         },
         {
           "skuid": "S0B30CDD73C721000",
@@ -594,11 +594,11 @@
           "name": "Wild Berry Skittles",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174196255228456.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-14 13:24:46"
+          "stock_updated": "2026-10-21 21:13:45"
         }
       ]
     },
@@ -667,11 +667,11 @@
           "name": "Celsius Cherry Cola",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176202960060787.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-10-21 06:38:57"
+          "stock_updated": "2026-10-21 22:13:07"
         },
         {
           "skuid": "S0B2D0552D8121008",
@@ -1039,11 +1039,11 @@
           "name": "Powerade Zero Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172366735251318.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 19:23:22"
+          "stock_updated": "2026-10-21 22:13:07"
         },
         {
           "skuid": "S0B2F6194A055100A",
@@ -1688,11 +1688,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 10,
-          "fill_pct": 40,
+          "fill_pct": 30,
           "stock_warning": 0,
-          "stock_updated": "2026-10-19 22:01:36"
+          "stock_updated": "2026-10-21 22:16:40"
         },
         {
           "skuid": "S0B2D90E22889100A",
@@ -2265,11 +2265,11 @@
           "name": "Liquid Death Energy Murder",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176616577399761.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-18 17:19:05"
+          "stock_updated": "2026-10-21 20:47:54"
         },
         {
           "skuid": "S0B30B2FB4C961001",
@@ -2325,11 +2325,11 @@
           "name": "Milano",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 4,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-20 10:21:18"
+          "stock_updated": "2026-10-21 20:51:32"
         },
         {
           "skuid": "S0B2BC10A038C1008",
@@ -2409,11 +2409,11 @@
           "name": "NutellaGo",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 10,
-          "fill_pct": 70,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-10-18 04:25:09"
+          "stock_updated": "2026-10-21 20:51:32"
         },
         {
           "skuid": "S0B246944E3D51001",
@@ -2493,11 +2493,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-10-21 01:31:35"
+          "stock_updated": "2026-10-21 20:47:54"
         },
         {
           "skuid": "S0B30CDD73C721000",

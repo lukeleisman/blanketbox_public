@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T15:29:35Z",
+  "updated": "2026-10-22T19:23:48Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 49,
-      "in_stock": 39,
-      "out_of_stock": 10,
+      "in_stock": 38,
+      "out_of_stock": 11,
       "low_stock": 0,
       "products": [
         {
@@ -78,11 +78,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 10,
-          "fill_pct": 70,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-10-20 00:49:24"
+          "stock_updated": "2026-10-22 12:58:38"
         },
         {
           "skuid": "S0B2FECA70BC81000",
@@ -570,11 +570,11 @@
           "name": "Twix Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781964327.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 10,
-          "fill_pct": 10,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-10-21 15:04:30"
+          "stock_updated": "2026-10-22 12:58:38"
         },
         {
           "skuid": "S0B246944E8251002",
@@ -991,11 +991,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.37,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 24,
-          "fill_pct": 42,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-10-22 06:07:45"
+          "stock_updated": "2026-10-22 12:48:21"
         },
         {
           "skuid": "S0B30F22A91B21006",
@@ -2145,11 +2145,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-10-21 10:03:23"
+          "stock_updated": "2026-10-22 12:01:24"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2505,11 +2505,11 @@
           "name": "TAKIS FUEGO HOT CHILI PEPPER AND LIME",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174645971192562.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 17:38:17"
+          "stock_updated": "2026-10-22 12:02:06"
         },
         {
           "skuid": "S0B300176CD16100C",

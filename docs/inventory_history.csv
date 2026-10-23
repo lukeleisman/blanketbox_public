@@ -6264,3 +6264,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-10-23T16:38:41Z,16213,haven,TheHaven#2-cooler,S0B30B2FAEB911000,840442200978,Liquid Death Energy Murder,2.5,7,6,-1
 2026-10-23T16:38:41Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.25,3,2,-1
 2026-10-23T16:38:41Z,16213,haven,TheHaven#2-cooler,S0B2F61985D4D1008,786162003546,Vitamin Water XXX,3.0,5,4,-1
+2026-10-23T20:12:38Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.6,7,6,-1
+2026-10-23T20:12:38Z,16214,doylestown,333 North Broad Cooler,S0B246944E4F01003,052000328677,GATORADE 20OZ ORANGE,3.25,6,5,-1

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T16:38:41Z",
+  "updated": "2026-10-23T20:12:38Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -739,11 +739,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 24,
-          "fill_pct": 29,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-10-23 10:07:00"
+          "stock_updated": "2026-10-23 15:01:57"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -811,11 +811,11 @@
           "name": "GATORADE 20OZ ORANGE",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1634632186095.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 19:23:22"
+          "stock_updated": "2026-10-23 11:39:05"
         },
         {
           "skuid": "S0B246944E40F1008",

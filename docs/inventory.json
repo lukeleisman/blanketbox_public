@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T06:18:54Z",
+  "updated": "2026-10-23T11:55:43Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -991,11 +991,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.37,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 24,
-          "fill_pct": 38,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-10-22 12:48:21"
+          "stock_updated": "2026-10-23 05:32:28"
         },
         {
           "skuid": "S0B30F22A91B21006",
@@ -1376,11 +1376,11 @@
           "name": "Deer park water",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 15,
+          "stock": 14,
           "capacity": 16,
-          "fill_pct": 94,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 21:21:55"
+          "stock_updated": "2026-10-23 03:28:53"
         },
         {
           "skuid": "S0B246944E3EC1003",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T11:55:43Z",
+  "updated": "2026-10-23T16:38:41Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -426,11 +426,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": -1,
+          "stock": -2,
           "capacity": 7,
-          "fill_pct": -14,
+          "fill_pct": -29,
           "stock_warning": 0,
-          "stock_updated": "2026-10-21 13:16:20"
+          "stock_updated": "2026-10-23 09:20:50"
         },
         {
           "skuid": "S0B30D3F42A2E100A",
@@ -739,11 +739,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 24,
-          "fill_pct": 33,
+          "fill_pct": 29,
           "stock_warning": 0,
-          "stock_updated": "2026-10-22 09:54:55"
+          "stock_updated": "2026-10-23 10:07:00"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -799,11 +799,11 @@
           "name": "Fairlife Vanilla Protein",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000535/platgoods/a743c6ae-ae17-49ee-a05c-3438581609f1.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 19:23:22"
+          "stock_updated": "2026-10-23 10:01:05"
         },
         {
           "skuid": "S0B246944E4F01003",
@@ -1424,11 +1424,11 @@
           "name": "Fairlife Nutrition Plan 30g High Quality Protein",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175432756797186.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-21 16:09:35"
+          "stock_updated": "2026-10-23 09:05:51"
         },
         {
           "skuid": "S0B2FECB8B02B1009",
@@ -1892,11 +1892,11 @@
           "name": "Vita coconut water",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176913044023980.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-19 16:15:09"
+          "stock_updated": "2026-10-23 09:05:51"
         },
         {
           "skuid": "S0B2F619785511007",
@@ -1919,8 +1919,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 55,
-      "in_stock": 43,
-      "out_of_stock": 12,
+      "in_stock": 40,
+      "out_of_stock": 15,
       "low_stock": 0,
       "products": [
         {
@@ -1989,11 +1989,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-22 08:31:09"
+          "stock_updated": "2026-10-23 09:33:29"
         },
         {
           "skuid": "S0B246944E4EB1007",
@@ -2109,11 +2109,11 @@
           "name": "Fairlife Nutrition Plan 30g High Quality Protein",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1653508825716.jpeg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 8,
-          "fill_pct": 12,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-10-20 12:16:50"
+          "stock_updated": "2026-10-23 10:45:40"
         },
         {
           "skuid": "S0B2FECB8B02B1009",
@@ -2145,11 +2145,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-10-22 12:01:24"
+          "stock_updated": "2026-10-23 10:11:14"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2265,11 +2265,11 @@
           "name": "Liquid Death Energy Murder",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176616577399761.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-21 20:47:54"
+          "stock_updated": "2026-10-23 10:45:40"
         },
         {
           "skuid": "S0B30B2FB4C961001",
@@ -2373,11 +2373,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 8,
-          "fill_pct": 12,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-10-22 15:46:18"
+          "stock_updated": "2026-10-23 10:45:40"
         },
         {
           "skuid": "S0B27699FED6C1005",
@@ -2577,11 +2577,11 @@
           "name": "Vitamin Water XXX",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176010518975523.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-10-22 08:31:09"
+          "stock_updated": "2026-10-23 09:33:29"
         }
       ]
     },

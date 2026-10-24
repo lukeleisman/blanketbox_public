@@ -6280,3 +6280,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-10-24T06:54:40Z,129111,philly,Philly TrueCooler II,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,5,4,-1
 2026-10-24T11:51:59Z,15519,doylestown,333 North Broad Ambient,S0B246944E8251002,300450449153,Tylenol 10 Pack,4.0,4,3,-1
 2026-10-24T11:51:59Z,129111,philly,Philly TrueCooler II,S0B30CDD73C721000,757528005047,TAKIS FUEGO HOT CHILI PEPPER AND LIME,2.5,8,6,-2
+2026-10-24T15:28:55Z,129111,philly,Philly TrueCooler II,S0B2D48452F7E1005,89899900002,Vita coconut water,3.0,5,4,-1

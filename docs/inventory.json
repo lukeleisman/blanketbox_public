@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T15:28:55Z",
+  "updated": "2026-10-24T18:19:06Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1388,11 +1388,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-10-23 21:37:58"
+          "stock_updated": "2026-10-24 12:55:19"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1484,11 +1484,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 21:03:39"
+          "stock_updated": "2026-10-24 11:26:13"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2049,11 +2049,11 @@
           "name": "Deer park water",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 8,
-          "fill_pct": 25,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-10-21 01:31:35"
+          "stock_updated": "2026-10-24 12:40:43"
         },
         {
           "skuid": "S0B246944E3EC1003",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T23:19:24Z",
+  "updated": "2026-10-24T01:48:51Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -30,11 +30,11 @@
           "name": "Betterway Toilet Paper Roll",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/4424820250404.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 6,
-          "fill_pct": 33,
+          "fill_pct": 17,
           "stock_warning": 0,
-          "stock_updated": "2026-10-15 13:48:14"
+          "stock_updated": "2026-10-23 18:45:52"
         },
         {
           "skuid": "S0B26D8C6EAF31008",
@@ -2421,11 +2421,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 10,
-          "fill_pct": 20,
+          "fill_pct": 10,
           "stock_warning": 0,
-          "stock_updated": "2026-10-22 20:19:15"
+          "stock_updated": "2026-10-23 19:39:58"
         },
         {
           "skuid": "S0B2F619342CA1009",
@@ -2493,11 +2493,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-10-21 20:47:54"
+          "stock_updated": "2026-10-23 19:39:58"
         },
         {
           "skuid": "S0B30CDD73C721000",

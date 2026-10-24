@@ -6272,3 +6272,6 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-10-23T23:19:24Z,16213,haven,TheHaven#2-cooler,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.6,2,0,-2
 2026-10-23T23:19:24Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.6,3,0,-3
 2026-10-23T23:19:24Z,16213,haven,TheHaven#2-cooler,S0B2EB7FF1C0F1007,01275900,Brisk Iced Tea,2.5,7,6,-1
+2026-10-24T01:48:51Z,15519,doylestown,333 North Broad Ambient,S0B260510FB391004,860002564531,Betterway Toilet Paper Roll,3.25,2,1,-1
+2026-10-24T01:48:51Z,16213,haven,TheHaven#2-cooler,S0B246944E4B51008,012000813313,Starbucks_Frappuccino_Vanilla,4.27,3,2,-1
+2026-10-24T01:48:51Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.6,2,1,-1

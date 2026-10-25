@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T23:32:01Z",
+  "updated": "2026-10-25T03:29:52Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1868,11 +1868,11 @@
           "name": "TAKIS FUEGO HOT CHILI PEPPER AND LIME",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174645971192562.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-24 02:25:13"
+          "stock_updated": "2026-10-24 20:19:31"
         },
         {
           "skuid": "S0B2FED291FB81003",
@@ -2265,11 +2265,11 @@
           "name": "Liquid Death Energy Murder",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176616577399761.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-23 10:45:40"
+          "stock_updated": "2026-10-24 20:16:54"
         },
         {
           "skuid": "S0B30B2FB4C961001",

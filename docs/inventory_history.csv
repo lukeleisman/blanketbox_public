@@ -6312,3 +6312,4 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-10-25T17:26:06Z,129111,philly,Philly TrueCooler II,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,5,4,-1
 2026-10-25T17:26:06Z,129111,philly,Philly TrueCooler II,S0B26051286771004,1860400134,Nonni’s Chocolate Biscotti,2.0,4,3,-1
 2026-10-25T17:26:06Z,16213,haven,TheHaven#2-cooler,S0B2F6194A055100A,4900005074,Powerade Zero Grape,3.0,5,4,-1
+2026-10-25T19:52:33Z,129111,philly,Philly TrueCooler II,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,4,3,-1

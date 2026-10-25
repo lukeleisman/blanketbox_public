@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T13:34:59Z",
+  "updated": "2026-10-25T17:26:06Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -474,11 +474,11 @@
           "name": "Sour Patch Kids Watermelon",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17490402625956.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-24 22:32:11"
+          "stock_updated": "2026-10-25 10:08:48"
         },
         {
           "skuid": "S0B2BDB14A2A7100A",
@@ -883,11 +883,11 @@
           "name": "Hint Watermelon Water",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178091499226935.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 19:23:22"
+          "stock_updated": "2026-10-25 10:09:57"
         },
         {
           "skuid": "S0B30F20F9AB61000",
@@ -1460,11 +1460,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176135320494550.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-10-17 11:16:22"
+          "stock_updated": "2026-10-25 10:41:14"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1664,11 +1664,11 @@
           "name": "Nonni\u2019s Chocolate Biscotti",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378025726710.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-17 11:16:22"
+          "stock_updated": "2026-10-25 10:41:14"
         },
         {
           "skuid": "S0B25F6365FD11002",
@@ -1676,11 +1676,11 @@
           "name": "NutellaGo",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 10,
-          "fill_pct": 60,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-10-17 23:47:28"
+          "stock_updated": "2026-10-25 10:41:14"
         },
         {
           "skuid": "S0B246944E3D51001",
@@ -2445,11 +2445,11 @@
           "name": "Powerade Zero Grape",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175799657047375.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-10-20 08:49:29"
+          "stock_updated": "2026-10-25 09:56:02"
         },
         {
           "skuid": "S0B2F61930CDF1009",

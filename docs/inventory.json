@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T08:40:52Z",
+  "updated": "2026-10-25T13:34:59Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -739,11 +739,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 24,
-          "fill_pct": 12,
+          "fill_pct": 8,
           "stock_warning": 0,
-          "stock_updated": "2026-10-24 16:22:26"
+          "stock_updated": "2026-10-25 08:33:27"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1135,11 +1135,11 @@
           "name": "Tropicana Orange Juice",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176954850457683.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-10-22 20:31:21"
+          "stock_updated": "2026-10-25 08:33:27"
         },
         {
           "skuid": "S0B246944E7B61003",
@@ -1171,11 +1171,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 19:23:22"
+          "stock_updated": "2026-10-25 08:33:27"
         },
         {
           "skuid": "S0B246944DECF100B",
@@ -1919,8 +1919,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 55,
-      "in_stock": 38,
-      "out_of_stock": 17,
+      "in_stock": 37,
+      "out_of_stock": 18,
       "low_stock": 0,
       "products": [
         {
@@ -2121,11 +2121,11 @@
           "name": "Fairlife Vanilla Protein",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178408032447260.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-10-22 19:07:28"
+          "stock_updated": "2026-10-25 05:34:05"
         },
         {
           "skuid": "S0B246944E4F01003",
@@ -2421,11 +2421,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 10,
-          "fill_pct": 10,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-10-23 19:39:58"
+          "stock_updated": "2026-10-25 05:34:05"
         },
         {
           "skuid": "S0B2F619342CA1009",

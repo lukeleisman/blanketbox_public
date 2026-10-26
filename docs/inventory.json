@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T00:33:39Z",
+  "updated": "2026-10-26T05:48:03Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -294,11 +294,11 @@
           "name": "Milky Way",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176366967811221.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 19:40:42"
+          "stock_updated": "2026-10-25 23:21:52"
         },
         {
           "skuid": "S0B30022234F81004",
@@ -486,11 +486,11 @@
           "name": "Sour Skittles",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176160435418133.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-21 15:04:30"
+          "stock_updated": "2026-10-25 21:27:15"
         },
         {
           "skuid": "S0B2BDB15D6F41005",
@@ -594,11 +594,11 @@
           "name": "Wild Berry Skittles",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174196255228456.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-25 18:55:15"
+          "stock_updated": "2026-10-25 23:21:52"
         }
       ]
     },
@@ -1208,11 +1208,11 @@
           "name": "Arnold palmer",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174672329279714.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 21:03:39"
+          "stock_updated": "2026-10-25 21:16:31"
         },
         {
           "skuid": "S0B2DD528E0CD100B",
@@ -1388,11 +1388,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-10-24 12:55:19"
+          "stock_updated": "2026-10-25 22:18:43"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1772,11 +1772,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 10,
-          "fill_pct": 70,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-10-24 23:26:53"
+          "stock_updated": "2026-10-25 19:34:14"
         },
         {
           "skuid": "S0B30CDD5FE8E1006",
@@ -1844,11 +1844,11 @@
           "name": "Starburst original",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175337864986311.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-25 00:53:27"
+          "stock_updated": "2026-10-25 22:18:43"
         },
         {
           "skuid": "S0B246944E7241001",
@@ -1880,11 +1880,11 @@
           "name": "Tropicana Orange Juice",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176954850457683.png",
-          "stock": 7,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 21:03:39"
+          "stock_updated": "2026-10-25 21:16:31"
         },
         {
           "skuid": "S0B2D48452F7E1005",

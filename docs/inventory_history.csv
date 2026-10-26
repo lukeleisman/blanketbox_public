@@ -6336,3 +6336,11 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-10-26T00:33:39Z,16213,haven,TheHaven#2-cooler,S0B2FE7209DA61003,014100077602,Goldfish Cheddar,2.25,7,10,3
 2026-10-26T00:33:39Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,0,10,10
 2026-10-26T00:33:39Z,16213,haven,TheHaven#2-cooler,S0B30016FDCE11007,071879126009,Jennie’s Cranberry & coconut,18.0,0,1,1
+2026-10-26T05:48:03Z,15519,doylestown,333 North Broad Ambient,S0B2BDB14A2A7100A,402660,Sour Skittles,2.5,2,1,-1
+2026-10-26T05:48:03Z,15519,doylestown,333 North Broad Ambient,S0B27699FEBC61004,040000001621,Wild Berry Skittles,2.57,2,1,-1
+2026-10-26T05:48:03Z,15519,doylestown,333 North Broad Ambient,S0B2BC10A038C1008,040000522065,Milky Way,2.57,3,2,-1
+2026-10-26T05:48:03Z,129111,philly,Philly TrueCooler II,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,3,2,-1
+2026-10-26T05:48:03Z,129111,philly,Philly TrueCooler II,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,7,6,-1
+2026-10-26T05:48:03Z,129111,philly,Philly TrueCooler II,S0B2BDB1580711003,400000051,Starburst original,2.5,2,1,-1
+2026-10-26T05:48:03Z,129111,philly,Philly TrueCooler II,S0B30D2113F861008,613008725914,Arnold palmer,2.5,8,7,-1
+2026-10-26T05:48:03Z,129111,philly,Philly TrueCooler II,S0B2FED291FB81003,048500206867,Tropicana Orange Juice,3.0,7,5,-2

@@ -6345,3 +6345,9 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-10-26T05:48:03Z,129111,philly,Philly TrueCooler II,S0B30D2113F861008,613008725914,Arnold palmer,2.5,8,7,-1
 2026-10-26T05:48:03Z,129111,philly,Philly TrueCooler II,S0B2FED291FB81003,048500206867,Tropicana Orange Juice,3.0,7,5,-2
 2026-10-26T12:22:14Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.37,8,6,-2
+2026-10-26T18:48:16Z,129111,philly,Philly TrueCooler II,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,3,2,-1
+2026-10-26T18:48:16Z,129111,philly,Philly TrueCooler II,S0B2BDB1580711003,400000051,Starburst original,2.5,1,0,-1
+2026-10-26T18:48:16Z,129111,philly,Philly TrueCooler II,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,4,3,-1
+2026-10-26T18:48:16Z,16213,haven,TheHaven#2-cooler,S0B30B2FAEB911000,840442200978,Liquid Death Energy Murder,2.5,5,4,-1
+2026-10-26T18:48:16Z,16213,haven,TheHaven#2-cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.25,5,4,-1
+2026-10-26T18:48:16Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.25,2,1,-1

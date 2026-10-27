@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T19:50:28Z",
+  "updated": "2026-10-27T23:32:19Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -835,11 +835,11 @@
           "name": "Fairlife Nutrition Plan 30g High Quality Protein",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023836433496.png",
-          "stock": 13,
+          "stock": 12,
           "capacity": 8,
-          "fill_pct": 162,
+          "fill_pct": 150,
           "stock_warning": 0,
-          "stock_updated": "2026-10-26 15:02:51"
+          "stock_updated": "2026-10-27 16:14:34"
         },
         {
           "skuid": "S0B2FECB8B02B1009",
@@ -1967,8 +1967,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 56,
-      "in_stock": 46,
-      "out_of_stock": 10,
+      "in_stock": 45,
+      "out_of_stock": 11,
       "low_stock": 0,
       "products": [
         {
@@ -2145,11 +2145,11 @@
           "name": "Fairlife Core Power - Strawberry (26g Complete Protein)",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175859439715951.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-26 14:30:34"
+          "stock_updated": "2026-10-27 15:17:27"
         },
         {
           "skuid": "S0B246944DFD21006",
@@ -2241,11 +2241,11 @@
           "name": "Hint Blackberry Water",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178647947763165.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-10-25 18:09:14"
+          "stock_updated": "2026-10-27 15:17:27"
         },
         {
           "skuid": "S0B30F20FD8EC1002",
@@ -2373,11 +2373,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 10,
-          "fill_pct": 10,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-10-25 18:17:10"
+          "stock_updated": "2026-10-27 17:18:14"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2637,11 +2637,11 @@
           "name": "Vitamin Water XXX",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176010518975523.png",
-          "stock": 4,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-10-25 18:09:14"
+          "stock_updated": "2026-10-27 17:18:14"
         }
       ]
     },

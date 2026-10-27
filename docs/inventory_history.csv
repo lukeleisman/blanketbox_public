@@ -6400,3 +6400,8 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-10-27T14:48:18Z,129111,philly,Philly TrueCooler II,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,2,1,-1
 2026-10-27T14:48:18Z,16213,haven,TheHaven#2-cooler,S0B30B300238A1008,840442200954,Liquid Death Energy Tropical,2.5,4,3,-1
 2026-10-27T14:48:18Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.25,1,0,-1
+2026-10-27T19:50:28Z,16213,haven,TheHaven#2-cooler,S0B27699FED6C1005,070847898146,Monster Zero Sugar Guava,4.27,5,4,-1
+2026-10-27T19:50:28Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.6,8,7,-1
+2026-10-27T19:50:28Z,16213,haven,TheHaven#2-cooler,S0B2FECA70BC81000,718604001346,cioccolati biscotti,2.5,3,1,-2
+2026-10-27T19:50:28Z,16213,haven,TheHaven#2-cooler,S0B27699FEA161007,024100123223,Cheez It Original,2.25,10,9,-1
+2026-10-27T19:50:28Z,16213,haven,TheHaven#2-cooler,S0B2FE7209DA61003,014100077602,Goldfish Cheddar,2.25,10,8,-2

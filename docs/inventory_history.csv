@@ -6389,3 +6389,10 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-10-27T02:18:16Z,16214,doylestown,333 North Broad Cooler,S0B246944E4141002,052000328684,Gatorade Lemon Lime,3.25,8,7,-1
 2026-10-27T02:18:16Z,129111,philly,Philly TrueCooler II,S0B3052F2BFF3100A,811620022118,Fairlife Nutrition Plan 30g High Quality Protein,5.5,5,4,-1
 2026-10-27T02:18:16Z,129111,philly,Philly TrueCooler II,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,5,4,-1
+2026-10-27T08:13:07Z,15519,doylestown,333 North Broad Ambient,S0B2BE0D01EC7100A,040000001638,Skittles Tropical,2.57,6,5,-1
+2026-10-27T08:13:07Z,15519,doylestown,333 North Broad Ambient,S0B27699FEBC61004,040000001621,Wild Berry Skittles,2.57,5,4,-1
+2026-10-27T08:13:07Z,129111,philly,Philly TrueCooler II,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.57,2,1,-1
+2026-10-27T08:13:07Z,129111,philly,Philly TrueCooler II,S0B273E97D6C2100B,F0B273E97D6C21009,Sour Patch Kids Watermelon,2.5,9,8,-1
+2026-10-27T08:13:07Z,129111,philly,Philly TrueCooler II,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,3,2,-1
+2026-10-27T08:13:07Z,129111,philly,Philly TrueCooler II,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,3,2,-1
+2026-10-27T08:13:07Z,129111,philly,Philly TrueCooler II,S0B2BAC9D24491002,F0B2BAC9D24491000,Pop Secret popcorn,2.0,5,4,-1

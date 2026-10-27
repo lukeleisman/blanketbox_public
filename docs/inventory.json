@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T02:18:16Z",
+  "updated": "2026-10-27T08:13:07Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -462,11 +462,11 @@
           "name": "Skittles Tropical",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175355854839065.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-26 15:17:46"
+          "stock_updated": "2026-10-26 22:50:57"
         },
         {
           "skuid": "S0B30022A02171005",
@@ -642,11 +642,11 @@
           "name": "Wild Berry Skittles",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174196255228456.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-26 15:17:46"
+          "stock_updated": "2026-10-26 22:50:57"
         }
       ]
     },
@@ -1436,11 +1436,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 8,
-          "fill_pct": 25,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-10-25 22:18:43"
+          "stock_updated": "2026-10-26 23:43:43"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1544,11 +1544,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173685359821166.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-10-26 10:59:18"
+          "stock_updated": "2026-10-26 23:16:59"
         },
         {
           "skuid": "S0B3136541BC31004",
@@ -1736,11 +1736,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 10,
-          "fill_pct": 30,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-10-21 22:16:40"
+          "stock_updated": "2026-10-26 23:43:43"
         },
         {
           "skuid": "S0B2D90E22889100A",
@@ -1760,11 +1760,11 @@
           "name": "Pop Secret popcorn",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 10,
-          "fill_pct": 50,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 21:10:50"
+          "stock_updated": "2026-10-26 23:43:43"
         },
         {
           "skuid": "S0B2F619342CA1009",
@@ -1856,11 +1856,11 @@
           "name": "Sour Patch Kids Watermelon",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17490402625956.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-18 01:01:42"
+          "stock_updated": "2026-10-26 23:43:43"
         },
         {
           "skuid": "S0B246944E4B51008",

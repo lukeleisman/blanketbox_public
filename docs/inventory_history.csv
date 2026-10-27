@@ -6396,3 +6396,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-10-27T08:13:07Z,129111,philly,Philly TrueCooler II,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,3,2,-1
 2026-10-27T08:13:07Z,129111,philly,Philly TrueCooler II,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.0,3,2,-1
 2026-10-27T08:13:07Z,129111,philly,Philly TrueCooler II,S0B2BAC9D24491002,F0B2BAC9D24491000,Pop Secret popcorn,2.0,5,4,-1
+2026-10-27T14:48:18Z,129111,philly,Philly TrueCooler II,S0B2D48452F7E1005,89899900002,Vita coconut water,3.0,4,3,-1
+2026-10-27T14:48:18Z,129111,philly,Philly TrueCooler II,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,2,1,-1
+2026-10-27T14:48:18Z,16213,haven,TheHaven#2-cooler,S0B30B300238A1008,840442200954,Liquid Death Energy Tropical,2.5,4,3,-1
+2026-10-27T14:48:18Z,16213,haven,TheHaven#2-cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.25,1,0,-1

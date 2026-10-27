@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T08:13:07Z",
+  "updated": "2026-10-27T14:48:18Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1664,11 +1664,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 8,
-          "fill_pct": 25,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-10-26 07:44:49"
+          "stock_updated": "2026-10-27 04:17:01"
         },
         {
           "skuid": "S0B30F22A91B21006",
@@ -1940,11 +1940,11 @@
           "name": "Vita coconut water",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176913044023980.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-24 07:39:35"
+          "stock_updated": "2026-10-27 04:17:01"
         },
         {
           "skuid": "S0B2F619785511007",
@@ -1967,8 +1967,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 56,
-      "in_stock": 47,
-      "out_of_stock": 9,
+      "in_stock": 46,
+      "out_of_stock": 10,
       "low_stock": 0,
       "products": [
         {
@@ -2205,11 +2205,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 6,
-          "fill_pct": 17,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-10-26 08:52:26"
+          "stock_updated": "2026-10-27 09:19:21"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2361,11 +2361,11 @@
           "name": "Liquid Death Energy Tropical",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176616588958860.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-25 18:09:14"
+          "stock_updated": "2026-10-27 09:19:21"
         },
         {
           "skuid": "S0B246944E19E1000",

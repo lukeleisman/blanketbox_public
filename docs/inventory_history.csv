@@ -6385,3 +6385,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-10-26T23:02:05Z,16213,haven,TheHaven#2-cooler,S0B2D055ACE44100B,1162002198,Fairlife Core Power - Strawberry (26g Complete Protein),5.27,6,5,-1
 2026-10-26T23:02:05Z,16213,haven,TheHaven#2-cooler,S0B246944E3DB1006,048500008607,Tropicana Orange Juice,3.0,6,5,-1
 2026-10-26T23:02:05Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,10,9,-1
+2026-10-27T02:18:16Z,15519,doylestown,333 North Broad Ambient,S0B30016DFAA81002,84908896,Every daze Konjac,3.5,7,6,-1
+2026-10-27T02:18:16Z,16214,doylestown,333 North Broad Cooler,S0B246944E4141002,052000328684,Gatorade Lemon Lime,3.25,8,7,-1
+2026-10-27T02:18:16Z,129111,philly,Philly TrueCooler II,S0B3052F2BFF3100A,811620022118,Fairlife Nutrition Plan 30g High Quality Protein,5.5,5,4,-1
+2026-10-27T02:18:16Z,129111,philly,Philly TrueCooler II,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,5,4,-1

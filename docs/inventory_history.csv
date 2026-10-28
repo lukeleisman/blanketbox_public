@@ -6419,3 +6419,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-10-28T04:21:09Z,16214,doylestown,333 North Broad Cooler,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.25,8,7,-1
 2026-10-28T04:21:09Z,16214,doylestown,333 North Broad Cooler,S0B3052F18C8E1002,850058349138,Moment black lavender,7.5,2,1,-1
 2026-10-28T04:21:09Z,16214,doylestown,333 North Broad Cooler,S0B308CFC6B011002,810119680259,Trip Raspberry,5.25,1,0,-1
+2026-10-28T10:44:00Z,15519,doylestown,333 North Broad Ambient,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,9,7,-2
+2026-10-28T10:44:00Z,15519,doylestown,333 North Broad Ambient,S0B2C6BE9F76D100A,2410012261,Cheez-It 1.5 oz,2.5,10,8,-2

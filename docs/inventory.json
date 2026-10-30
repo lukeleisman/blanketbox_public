@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T18:44:05Z",
+  "updated": "2026-10-30T22:48:11Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -534,11 +534,11 @@
           "name": "Sour Patch Kids Watermelon",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17490402625956.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-26 15:07:43"
+          "stock_updated": "2026-10-30 17:38:18"
         },
         {
           "skuid": "S0B2BDB14A2A7100A",
@@ -582,11 +582,11 @@
           "name": "Swedish Fish",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168902127228068.jpeg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-29 20:13:41"
+          "stock_updated": "2026-10-30 17:38:18"
         },
         {
           "skuid": "S0B30CDD73C721000",
@@ -1147,11 +1147,11 @@
           "name": "San Pelligrino Pomegranate and Orange",
           "price": 3.77,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17601191596212.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-10-26 14:51:48"
+          "stock_updated": "2026-10-30 16:45:24"
         },
         {
           "skuid": "S0B246944E4B51008",
@@ -2145,11 +2145,11 @@
           "name": "Fairlife Core Power - Strawberry (26g Complete Protein)",
           "price": 5.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175859439715951.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-30 10:17:03"
+          "stock_updated": "2026-10-30 16:32:13"
         },
         {
           "skuid": "S0B246944DFD21006",
@@ -2217,11 +2217,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063766829.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-10-30 11:27:04"
+          "stock_updated": "2026-10-30 14:38:50"
         },
         {
           "skuid": "S0B2FE7209DA61003",
@@ -2229,11 +2229,11 @@
           "name": "Goldfish Cheddar",
           "price": 2.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172165768291916.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-10-27 11:48:42"
+          "stock_updated": "2026-10-30 14:49:10"
         },
         {
           "skuid": "S0B30F2100488100A",
@@ -2241,11 +2241,11 @@
           "name": "Hint Blackberry Water",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178647947763165.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-10-27 15:17:27"
+          "stock_updated": "2026-10-30 16:32:13"
         },
         {
           "skuid": "S0B30F20FD8EC1002",
@@ -2385,11 +2385,11 @@
           "name": "Milano",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623536968959.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-25 18:09:14"
+          "stock_updated": "2026-10-30 16:32:13"
         },
         {
           "skuid": "S0B2BC10A038C1008",

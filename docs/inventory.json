@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T22:48:11Z",
+  "updated": "2026-10-31T02:02:59Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -787,11 +787,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 11,
+          "stock": 8,
           "capacity": 24,
-          "fill_pct": 46,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-10-29 10:59:20"
+          "stock_updated": "2026-10-30 19:21:40"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1039,11 +1039,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.37,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 14,
+          "stock": 13,
           "capacity": 24,
-          "fill_pct": 58,
+          "fill_pct": 54,
           "stock_warning": 0,
-          "stock_updated": "2026-10-30 08:59:19"
+          "stock_updated": "2026-10-30 18:16:02"
         },
         {
           "skuid": "S0B30F22A91B21006",
@@ -1280,11 +1280,11 @@
           "name": "Brisk Iced Tea",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176736539400427.png",
-          "stock": 7,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-10-18 19:30:09"
+          "stock_updated": "2026-10-30 20:42:01"
         },
         {
           "skuid": "S0B25FC5136E7100C",
@@ -1676,11 +1676,11 @@
           "name": "Monster Ultra Fantasy Ruby Red 500ml",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178488332087637.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-19 12:22:29"
+          "stock_updated": "2026-10-30 18:58:08"
         },
         {
           "skuid": "S0B30022234F81004",
@@ -1892,11 +1892,11 @@
           "name": "Starburst original",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175337864986311.png",
-          "stock": -2,
+          "stock": -3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-28 21:35:19"
+          "stock_updated": "2026-10-30 20:42:01"
         },
         {
           "skuid": "S0B246944E7241001",
@@ -1977,11 +1977,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-10-30 11:40:21"
+          "stock_updated": "2026-10-30 19:18:56"
         },
         {
           "skuid": "S0B2740EB95E01006",
@@ -2217,11 +2217,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063766829.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 6,
-          "fill_pct": 33,
+          "fill_pct": 17,
           "stock_warning": 0,
-          "stock_updated": "2026-10-30 14:38:50"
+          "stock_updated": "2026-10-30 20:03:54"
         },
         {
           "skuid": "S0B2FE7209DA61003",
@@ -2469,11 +2469,11 @@
           "name": "NutellaGo",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 10,
-          "fill_pct": 40,
+          "fill_pct": 30,
           "stock_warning": 0,
-          "stock_updated": "2026-10-28 17:58:37"
+          "stock_updated": "2026-10-30 19:18:56"
         },
         {
           "skuid": "S0B246944E3D51001",

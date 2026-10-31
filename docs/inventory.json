@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T02:02:59Z",
+  "updated": "2026-10-31T08:40:48Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -534,11 +534,11 @@
           "name": "Sour Patch Kids Watermelon",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17490402625956.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-30 17:38:18"
+          "stock_updated": "2026-10-31 02:45:09"
         },
         {
           "skuid": "S0B2BDB14A2A7100A",
@@ -546,11 +546,11 @@
           "name": "Sour Skittles",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176160435418133.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-26 15:10:50"
+          "stock_updated": "2026-10-31 02:45:09"
         },
         {
           "skuid": "S0B2BDB15D6F41005",
@@ -763,11 +763,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-10-26 15:02:51"
+          "stock_updated": "2026-10-31 00:00:37"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -775,11 +775,11 @@
           "name": "Deer park water",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-10-26 15:02:51"
+          "stock_updated": "2026-10-31 00:00:37"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -787,11 +787,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 24,
-          "fill_pct": 33,
+          "fill_pct": 29,
           "stock_warning": 0,
-          "stock_updated": "2026-10-30 19:21:40"
+          "stock_updated": "2026-10-31 00:00:37"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -835,11 +835,11 @@
           "name": "Fairlife Nutrition Plan 30g High Quality Protein",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023836433496.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 8,
-          "fill_pct": 112,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-10-30 10:55:07"
+          "stock_updated": "2026-10-30 21:51:23"
         },
         {
           "skuid": "S0B2FECB8B02B1009",
@@ -919,11 +919,11 @@
           "name": "Hint Blackberry Water",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178647947763165.png",
-          "stock": 5,
+          "stock": 3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-26 14:51:48"
+          "stock_updated": "2026-10-30 22:16:55"
         },
         {
           "skuid": "S0B30F20FD8EC1002",

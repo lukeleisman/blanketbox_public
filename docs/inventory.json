@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T08:40:48Z",
+  "updated": "2026-10-31T15:05:43Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -787,11 +787,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 7,
+          "stock": 5,
           "capacity": 24,
-          "fill_pct": 29,
+          "fill_pct": 21,
           "stock_warning": 0,
-          "stock_updated": "2026-10-31 00:00:37"
+          "stock_updated": "2026-10-31 08:53:03"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1424,11 +1424,11 @@
           "name": "Deer park water",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 11,
+          "stock": 9,
           "capacity": 16,
-          "fill_pct": 69,
+          "fill_pct": 56,
           "stock_warning": 0,
-          "stock_updated": "2026-10-25 00:53:27"
+          "stock_updated": "2026-10-31 04:07:31"
         },
         {
           "skuid": "S0B246944E3EC1003",

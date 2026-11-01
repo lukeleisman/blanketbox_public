@@ -6535,3 +6535,9 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-10-31T22:43:33Z,16213,haven,TheHaven#2-cooler,S0B2EF08BF2341003,847485,Namai,6.99,2,1,-1
 2026-10-31T22:43:33Z,16213,haven,TheHaven#2-cooler,S0B246944E6C51002,076410901633,Lance Peanut Butter,2.0,7,6,-1
 2026-11-01T01:54:07Z,16213,haven,TheHaven#2-cooler,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.6,7,6,-1
+2026-11-01T08:47:53Z,15519,doylestown,333 North Broad Ambient,S0B246944E7241001,070462431230,Swedish Fish,2.5,2,1,-1
+2026-11-01T08:47:53Z,129111,philly,Philly TrueCooler II,S0B2D48452F7E1005,89899900002,Vita coconut water,3.0,1,0,-1
+2026-11-01T08:47:53Z,129111,philly,Philly TrueCooler II,S0B2BAC924065100B,7066203003,Cup noodles chicken,3.0,6,5,-1
+2026-11-01T08:47:53Z,129111,philly,Philly TrueCooler II,S0B2FECB8B02B1009,811620022125,Fairlife Vanilla Protein,5.0,2,1,-1
+2026-11-01T08:47:53Z,129111,philly,Philly TrueCooler II,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,2,1,-1
+2026-11-01T08:47:53Z,16213,haven,TheHaven#2-cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.25,1,0,-1

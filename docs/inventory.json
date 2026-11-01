@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T01:54:07Z",
+  "updated": "2026-11-01T08:47:53Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -582,11 +582,11 @@
           "name": "Swedish Fish",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168902127228068.jpeg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-30 17:38:18"
+          "stock_updated": "2026-10-31 22:10:45"
         },
         {
           "skuid": "S0B30CDD73C721000",
@@ -1246,8 +1246,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 59,
-      "in_stock": 49,
-      "out_of_stock": 10,
+      "in_stock": 48,
+      "out_of_stock": 11,
       "low_stock": 0,
       "products": [
         {
@@ -1412,11 +1412,11 @@
           "name": "Cup noodles chicken",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176642324576087.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 21:03:39"
+          "stock_updated": "2026-10-31 21:37:29"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -1484,11 +1484,11 @@
           "name": "Fairlife Vanilla Protein",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000535/platgoods/a743c6ae-ae17-49ee-a05c-3438581609f1.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 4,
-          "fill_pct": 50,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 21:03:39"
+          "stock_updated": "2026-11-01 01:15:32"
         },
         {
           "skuid": "S0B246944E4F01003",
@@ -1628,11 +1628,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 11,
-          "fill_pct": 18,
+          "fill_pct": 9,
           "stock_warning": 0,
-          "stock_updated": "2026-10-30 04:17:10"
+          "stock_updated": "2026-11-01 01:15:32"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1940,11 +1940,11 @@
           "name": "Vita coconut water",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176913044023980.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-31 11:03:13"
+          "stock_updated": "2026-11-01 01:15:32"
         },
         {
           "skuid": "S0B2F619785511007",
@@ -1967,8 +1967,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 56,
-      "in_stock": 44,
-      "out_of_stock": 12,
+      "in_stock": 43,
+      "out_of_stock": 13,
       "low_stock": 0,
       "products": [
         {
@@ -2217,11 +2217,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063766829.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 6,
-          "fill_pct": 17,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-10-30 20:03:54"
+          "stock_updated": "2026-11-01 01:27:12"
         },
         {
           "skuid": "S0B2FE7209DA61003",

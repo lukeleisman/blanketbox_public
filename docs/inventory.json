@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T08:47:53Z",
+  "updated": "2026-11-01T15:49:07Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -787,11 +787,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 4,
+          "stock": 2,
           "capacity": 24,
-          "fill_pct": 17,
+          "fill_pct": 8,
           "stock_warning": 0,
-          "stock_updated": "2026-10-31 14:30:10"
+          "stock_updated": "2026-11-01 08:22:01"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -859,11 +859,11 @@
           "name": "GATORADE 20OZ ORANGE",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1634632186095.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-10-29 23:19:59"
+          "stock_updated": "2026-11-01 09:30:25"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -1508,11 +1508,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176135320494550.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 7,
-          "fill_pct": 29,
+          "fill_pct": 14,
           "stock_warning": 0,
-          "stock_updated": "2026-10-29 01:38:31"
+          "stock_updated": "2026-11-01 08:40:22"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",

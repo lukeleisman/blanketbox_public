@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T22:24:52Z",
+  "updated": "2026-11-03T03:36:37Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -871,11 +871,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-10-27 20:54:40"
+          "stock_updated": "2026-11-02 20:15:32"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -1039,11 +1039,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.37,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 24,
-          "fill_pct": 46,
+          "fill_pct": 42,
           "stock_warning": 0,
-          "stock_updated": "2026-11-02 14:07:58"
+          "stock_updated": "2026-11-02 20:44:52"
         },
         {
           "skuid": "S0B30F22A91B21006",
@@ -1219,11 +1219,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 10,
-          "fill_pct": 60,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-10-31 12:39:34"
+          "stock_updated": "2026-11-02 20:44:52"
         },
         {
           "skuid": "S0B246944DECF100B",

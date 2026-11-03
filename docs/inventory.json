@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T03:36:37Z",
+  "updated": "2026-11-03T11:39:35Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1246,8 +1246,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 59,
-      "in_stock": 46,
-      "out_of_stock": 13,
+      "in_stock": 45,
+      "out_of_stock": 14,
       "low_stock": 0,
       "products": [
         {
@@ -1280,11 +1280,11 @@
           "name": "Brisk Iced Tea",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176736539400427.png",
-          "stock": 5,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-10-30 20:42:01"
+          "stock_updated": "2026-11-03 02:33:44"
         },
         {
           "skuid": "S0B25FC5136E7100C",
@@ -1604,11 +1604,11 @@
           "name": "Liquid Death Energy Murder",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176616577399761.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 21:03:39"
+          "stock_updated": "2026-11-03 01:13:58"
         },
         {
           "skuid": "S0B30B2FB9466100A",
@@ -1652,11 +1652,11 @@
           "name": "MONSTER ENERGY ULTRA BLUE HAWAIIAN",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17463835125505.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-13 19:52:18"
+          "stock_updated": "2026-11-03 01:13:58"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -1724,11 +1724,11 @@
           "name": "NutellaGo",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 10,
-          "fill_pct": 30,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-10-30 05:59:54"
+          "stock_updated": "2026-11-03 02:33:44"
         },
         {
           "skuid": "S0B246944E3D51001",
@@ -1844,11 +1844,11 @@
           "name": "SNICKERS XTREME",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178257312503836.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 21:03:39"
+          "stock_updated": "2026-11-03 02:33:44"
         },
         {
           "skuid": "S0B273E97D6C2100B",

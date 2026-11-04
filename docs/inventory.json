@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T00:05:30Z",
+  "updated": "2026-11-04T06:51:34Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -78,11 +78,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 6,
+          "stock": 4,
           "capacity": 10,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-10-29 21:09:08"
+          "stock_updated": "2026-11-03 22:49:31"
         },
         {
           "skuid": "S0B2FECA70BC81000",
@@ -402,11 +402,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 16,
-          "fill_pct": 38,
+          "fill_pct": 31,
           "stock_warning": 0,
-          "stock_updated": "2026-10-29 21:09:08"
+          "stock_updated": "2026-11-03 22:49:31"
         },
         {
           "skuid": "S0B2BAC9D24491002",
@@ -657,8 +657,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 48,
-      "in_stock": 35,
-      "out_of_stock": 13,
+      "in_stock": 34,
+      "out_of_stock": 14,
       "low_stock": 0,
       "products": [
         {
@@ -763,11 +763,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 8,
-          "fill_pct": 12,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-11-03 17:30:39"
+          "stock_updated": "2026-11-03 20:39:32"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -811,11 +811,11 @@
           "name": "Fairlife Core Power - Strawberry (26g Complete Protein)",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175859439715951.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 5,
-          "fill_pct": 80,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-10-26 14:51:48"
+          "stock_updated": "2026-11-03 20:49:44"
         },
         {
           "skuid": "S0B246944DFD21006",
@@ -883,11 +883,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 4,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-11-02 01:13:27"
+          "stock_updated": "2026-11-03 20:39:32"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -1075,11 +1075,11 @@
           "name": "Oikos Protein Shake Chocolate 12 oz",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175796271645448.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-10-26 14:51:48"
+          "stock_updated": "2026-11-03 21:05:08"
         },
         {
           "skuid": "S0B2F619342CA1009",
@@ -1256,11 +1256,11 @@
           "name": "Arnold palmer",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174672329279714.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-25 21:16:31"
+          "stock_updated": "2026-11-03 23:17:54"
         },
         {
           "skuid": "S0B2DD528E0CD100B",
@@ -1316,11 +1316,11 @@
           "name": "Canada Dry Ginger Ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175847239862745.png",
-          "stock": 3,
+          "stock": 1,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-11-01 18:48:18"
+          "stock_updated": "2026-11-03 19:55:04"
         },
         {
           "skuid": "S0B246944E6EA1003",
@@ -1424,11 +1424,11 @@
           "name": "Deer park water",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 8,
+          "stock": 5,
           "capacity": 16,
-          "fill_pct": 50,
+          "fill_pct": 31,
           "stock_warning": 0,
-          "stock_updated": "2026-11-02 08:11:58"
+          "stock_updated": "2026-11-03 19:55:04"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -1448,11 +1448,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-13 07:53:16"
+          "stock_updated": "2026-11-03 20:45:57"
         },
         {
           "skuid": "S0B246944DFD21006",
@@ -1580,11 +1580,11 @@
           "name": "Kim Nori Seaweed",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178965721524086.png",
-          "stock": 6,
+          "stock": 3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 21:21:55"
+          "stock_updated": "2026-11-03 23:17:54"
         },
         {
           "skuid": "S0B2D918381EA1006",
@@ -1796,11 +1796,11 @@
           "name": "Powerade Zero Mixed Berry 20floz",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176048132401919.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 21:03:39"
+          "stock_updated": "2026-11-03 22:48:31"
         },
         {
           "skuid": "S0B246944E3C2100B",
@@ -1820,11 +1820,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 10,
-          "fill_pct": 40,
+          "fill_pct": 30,
           "stock_warning": 0,
-          "stock_updated": "2026-10-30 04:17:10"
+          "stock_updated": "2026-11-03 22:09:21"
         },
         {
           "skuid": "S0B30CDD5FE8E1006",
@@ -1977,11 +1977,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-11-02 12:18:34"
+          "stock_updated": "2026-11-03 20:11:16"
         },
         {
           "skuid": "S0B2740EB95E01006",
@@ -2109,11 +2109,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-11-03 15:18:25"
+          "stock_updated": "2026-11-03 20:11:16"
         },
         {
           "skuid": "S0B30016DFAA81002",
@@ -2217,11 +2217,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063766829.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-11-02 12:18:34"
+          "stock_updated": "2026-11-03 23:52:54"
         },
         {
           "skuid": "S0B2FE7209DA61003",
@@ -2373,11 +2373,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-11-02 12:18:34"
+          "stock_updated": "2026-11-03 23:52:54"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2529,11 +2529,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 10,
-          "fill_pct": 110,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-11-02 12:18:34"
+          "stock_updated": "2026-11-03 20:11:16"
         },
         {
           "skuid": "S0B30CDD5FE8E1006",
@@ -2553,11 +2553,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-10-31 10:10:49"
+          "stock_updated": "2026-11-03 23:52:54"
         },
         {
           "skuid": "S0B30CDD73C721000",

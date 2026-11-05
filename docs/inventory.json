@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T09:01:25Z",
+  "updated": "2026-11-05T17:32:21Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -594,11 +594,11 @@
           "name": "TAKIS FUEGO HOT CHILI PEPPER AND LIME",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174645971192562.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-26 15:07:43"
+          "stock_updated": "2026-11-05 09:44:09"
         },
         {
           "skuid": "S0B300172DC1E1001",
@@ -787,11 +787,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 25,
+          "stock": 24,
           "capacity": 24,
-          "fill_pct": 104,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-11-04 21:44:36"
+          "stock_updated": "2026-11-05 10:35:32"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1039,11 +1039,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.37,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 18,
+          "stock": 17,
           "capacity": 24,
-          "fill_pct": 75,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-11-04 21:44:36"
+          "stock_updated": "2026-11-05 06:07:17"
         },
         {
           "skuid": "S0B30F22A91B21006",
@@ -1051,11 +1051,11 @@
           "name": "Monster Ultra Fantasy Ruby Red 500ml",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178488332087637.png",
-          "stock": 12,
+          "stock": 11,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-04 04:12:13"
+          "stock_updated": "2026-11-05 06:12:48"
         },
         {
           "skuid": "S0B27699FED6C1005",
@@ -1063,11 +1063,11 @@
           "name": "Monster Zero Sugar Guava",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473811426492.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-04 13:14:28"
+          "stock_updated": "2026-11-05 06:07:17"
         },
         {
           "skuid": "S0B300263EBDF1004",
@@ -1195,11 +1195,11 @@
           "name": "Vita Coco Coconut Water Organic",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1650653929348.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-04 21:44:36"
+          "stock_updated": "2026-11-05 09:43:06"
         },
         {
           "skuid": "S0B2F619785511007",
@@ -1256,11 +1256,11 @@
           "name": "Arnold palmer",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174672329279714.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-03 23:17:54"
+          "stock_updated": "2026-11-05 05:22:00"
         },
         {
           "skuid": "S0B2DD528E0CD100B",
@@ -2109,11 +2109,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-11-04 14:00:49"
+          "stock_updated": "2026-11-05 11:25:55"
         },
         {
           "skuid": "S0B30016DFAA81002",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T17:32:21Z",
+  "updated": "2026-11-05T23:19:49Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -546,11 +546,11 @@
           "name": "Sour Skittles",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176160435418133.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-31 02:45:09"
+          "stock_updated": "2026-11-05 15:06:57"
         },
         {
           "skuid": "S0B2BDB15D6F41005",
@@ -558,11 +558,11 @@
           "name": "Starburst Fave Reds",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175355844746183.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-26 15:17:46"
+          "stock_updated": "2026-11-05 15:06:57"
         },
         {
           "skuid": "S0B2BDB1580711003",
@@ -787,11 +787,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 24,
+          "stock": 19,
           "capacity": 24,
-          "fill_pct": 100,
+          "fill_pct": 79,
           "stock_warning": 0,
-          "stock_updated": "2026-11-05 10:35:32"
+          "stock_updated": "2026-11-05 13:19:47"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1967,8 +1967,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 56,
-      "in_stock": 45,
-      "out_of_stock": 11,
+      "in_stock": 44,
+      "out_of_stock": 12,
       "low_stock": 0,
       "products": [
         {
@@ -2301,11 +2301,11 @@
           "name": "Kim Nori Seaweed",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178965721524086.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-25 18:09:14"
+          "stock_updated": "2026-11-05 12:52:44"
         },
         {
           "skuid": "S0B246944E6C51002",
@@ -2421,11 +2421,11 @@
           "name": "MONSTER ENERGY ULTRA BLUE HAWAIIAN",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17463835125505.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-03 11:35:38"
+          "stock_updated": "2026-11-05 12:52:44"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -2565,11 +2565,11 @@
           "name": "TAKIS FUEGO HOT CHILI PEPPER AND LIME",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174645971192562.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-25 18:09:14"
+          "stock_updated": "2026-11-05 12:52:44"
         },
         {
           "skuid": "S0B300176CD16100C",

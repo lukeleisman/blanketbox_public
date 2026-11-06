@@ -6683,3 +6683,9 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-11-06T03:32:17Z,16213,haven,TheHaven#2-cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.6,5,4,-1
 2026-11-06T03:32:17Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.6,10,9,-1
 2026-11-06T03:32:17Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.5,9,8,-1
+2026-11-06T11:50:56Z,15519,doylestown,333 North Broad Ambient,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,18,15,-3
+2026-11-06T11:50:56Z,15519,doylestown,333 North Broad Ambient,S0B2C6BE9F76D100A,2410012261,Cheez-It 1.5 oz,2.5,8,5,-3
+2026-11-06T11:50:56Z,129111,philly,Philly TrueCooler II,S0B25F6365FD11002,0980080005,NutellaGo,3.25,1,0,-1
+2026-11-06T11:50:56Z,16213,haven,TheHaven#2-cooler,S0B30F20FD8EC1002,847390031,Hint Watermelon Water,3.0,6,5,-1
+2026-11-06T11:50:56Z,16213,haven,TheHaven#2-cooler,S0B30F20F9AB61000,184739001535,Hint-Peach Raspberry,3.0,5,4,-1
+2026-11-06T11:50:56Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.6,2,1,-1

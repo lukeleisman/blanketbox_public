@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T03:32:17Z",
+  "updated": "2026-11-06T11:50:56Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -78,11 +78,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 8,
+          "stock": 5,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-11-04 23:25:38"
+          "stock_updated": "2026-11-05 22:10:37"
         },
         {
           "skuid": "S0B2FECA70BC81000",
@@ -402,11 +402,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 18,
+          "stock": 15,
           "capacity": 16,
-          "fill_pct": 112,
+          "fill_pct": 94,
           "stock_warning": 0,
-          "stock_updated": "2026-11-04 23:25:38"
+          "stock_updated": "2026-11-05 22:10:37"
         },
         {
           "skuid": "S0B2BAC9D24491002",
@@ -1246,8 +1246,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 59,
-      "in_stock": 45,
-      "out_of_stock": 14,
+      "in_stock": 44,
+      "out_of_stock": 15,
       "low_stock": 0,
       "products": [
         {
@@ -1724,11 +1724,11 @@
           "name": "NutellaGo",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 10,
-          "fill_pct": 10,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-11-04 01:35:20"
+          "stock_updated": "2026-11-06 00:47:38"
         },
         {
           "skuid": "S0B246944E3D51001",
@@ -2109,11 +2109,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 8,
-          "fill_pct": 25,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-11-05 11:25:55"
+          "stock_updated": "2026-11-06 01:30:10"
         },
         {
           "skuid": "S0B30016DFAA81002",
@@ -2253,11 +2253,11 @@
           "name": "Hint Watermelon Water",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178091499226935.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-10-25 18:09:14"
+          "stock_updated": "2026-11-06 01:30:10"
         },
         {
           "skuid": "S0B30F20F9AB61000",
@@ -2265,11 +2265,11 @@
           "name": "Hint-Peach Raspberry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177574577282010.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-11-02 12:18:34"
+          "stock_updated": "2026-11-06 01:30:10"
         },
         {
           "skuid": "S0B2D90DF10651003",

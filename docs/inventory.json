@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T11:31:48Z",
+  "updated": "2026-11-07T17:29:29Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -895,11 +895,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023828232980.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 8,
-          "fill_pct": 125,
+          "fill_pct": 112,
           "stock_warning": 0,
-          "stock_updated": "2026-10-26 15:02:51"
+          "stock_updated": "2026-11-07 11:16:46"
         },
         {
           "skuid": "S0B3136541BC31004",
@@ -1448,11 +1448,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-06 14:46:28"
+          "stock_updated": "2026-11-07 09:23:03"
         },
         {
           "skuid": "S0B246944DFD21006",

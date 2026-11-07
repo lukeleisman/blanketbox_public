@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T17:29:29Z",
+  "updated": "2026-11-07T21:02:58Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 53,
-      "in_stock": 41,
-      "out_of_stock": 12,
+      "in_stock": 40,
+      "out_of_stock": 13,
       "low_stock": 0,
       "products": [
         {
@@ -546,11 +546,11 @@
           "name": "Sour Skittles",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176160435418133.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-06 13:40:46"
+          "stock_updated": "2026-11-07 12:54:47"
         },
         {
           "skuid": "S0B2BDB15D6F41005",
@@ -787,11 +787,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 12,
+          "stock": 11,
           "capacity": 24,
-          "fill_pct": 50,
+          "fill_pct": 46,
           "stock_warning": 0,
-          "stock_updated": "2026-11-06 18:29:44"
+          "stock_updated": "2026-11-07 14:39:32"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1424,11 +1424,11 @@
           "name": "Deer park water",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 5,
+          "stock": 3,
           "capacity": 16,
-          "fill_pct": 31,
+          "fill_pct": 19,
           "stock_warning": 0,
-          "stock_updated": "2026-11-03 19:55:04"
+          "stock_updated": "2026-11-07 11:30:46"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -1977,11 +1977,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-11-06 21:34:13"
+          "stock_updated": "2026-11-07 11:49:38"
         },
         {
           "skuid": "S0B2740EB95E01006",
@@ -2553,11 +2553,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-11-06 21:34:13"
+          "stock_updated": "2026-11-07 11:49:38"
         },
         {
           "skuid": "S0B30CDD73C721000",

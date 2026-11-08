@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T14:10:16Z",
+  "updated": "2026-11-08T18:57:25Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1039,11 +1039,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.37,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 13,
+          "stock": 12,
           "capacity": 24,
-          "fill_pct": 54,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-11-07 19:05:20"
+          "stock_updated": "2026-11-08 11:19:36"
         },
         {
           "skuid": "S0B30F22A91B21006",
@@ -1075,11 +1075,11 @@
           "name": "Oikos Protein Shake Chocolate 12 oz",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175796271645448.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-11-03 21:05:08"
+          "stock_updated": "2026-11-08 11:19:36"
         },
         {
           "skuid": "S0B2F619342CA1009",
@@ -1772,11 +1772,11 @@
           "name": "Powerade Zero Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172366735251318.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 21:03:39"
+          "stock_updated": "2026-11-08 10:33:50"
         },
         {
           "skuid": "S0B2F6194A055100A",

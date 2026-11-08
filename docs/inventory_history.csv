@@ -6731,3 +6731,5 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-11-08T06:56:58Z,16213,haven,TheHaven#2-cooler,S0B27699FED6C1005,070847898146,Monster Zero Sugar Guava,4.27,3,2,-1
 2026-11-08T06:56:58Z,16213,haven,TheHaven#2-cooler,S0B300176CD16100C,753656720555,Think adventurefuls,2.0,4,3,-1
 2026-11-08T06:56:58Z,16213,haven,TheHaven#2-cooler,S0B25F6365FD11002,0980080005,NutellaGo,2.75,2,1,-1
+2026-11-08T14:10:16Z,129111,philly,Philly TrueCooler II,S0B30CDD73C721000,757528005047,TAKIS FUEGO HOT CHILI PEPPER AND LIME,2.5,4,2,-2
+2026-11-08T14:10:16Z,129111,philly,Philly TrueCooler II,S0B2EB7FF1C0F1007,01275900,Brisk Iced Tea,2.57,3,2,-1

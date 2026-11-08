@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T00:50:11Z",
+  "updated": "2026-11-08T06:56:58Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1027,11 +1027,11 @@
           "name": "MONSTER ENERGY ULTRA BLUE HAWAIIAN",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17463835125505.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-26 15:02:51"
+          "stock_updated": "2026-11-07 19:05:20"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -1039,11 +1039,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.37,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 14,
+          "stock": 13,
           "capacity": 24,
-          "fill_pct": 58,
+          "fill_pct": 54,
           "stock_warning": 0,
-          "stock_updated": "2026-11-06 18:10:49"
+          "stock_updated": "2026-11-07 19:05:20"
         },
         {
           "skuid": "S0B30F22A91B21006",
@@ -1784,11 +1784,11 @@
           "name": "Powerade Zero Grape",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175799657047375.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-12 21:03:39"
+          "stock_updated": "2026-11-07 21:27:38"
         },
         {
           "skuid": "S0B2F61930CDF1009",
@@ -2169,11 +2169,11 @@
           "name": "Fairlife Nutrition Plan 30g High Quality Protein",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1653508825716.jpeg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-11-02 12:18:34"
+          "stock_updated": "2026-11-07 19:26:12"
         },
         {
           "skuid": "S0B2FECB8B02B1009",
@@ -2445,11 +2445,11 @@
           "name": "Monster Zero Sugar Guava",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473811426492.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-28 06:52:23"
+          "stock_updated": "2026-11-07 19:26:12"
         },
         {
           "skuid": "S0B2EF08BF2341003",
@@ -2469,11 +2469,11 @@
           "name": "NutellaGo",
           "price": 2.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 10,
-          "fill_pct": 20,
+          "fill_pct": 10,
           "stock_warning": 0,
-          "stock_updated": "2026-11-02 14:07:47"
+          "stock_updated": "2026-11-07 19:26:12"
         },
         {
           "skuid": "S0B246944E3D51001",
@@ -2577,11 +2577,11 @@
           "name": "Think adventurefuls",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178666939290752.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-25 18:09:14"
+          "stock_updated": "2026-11-07 19:26:12"
         },
         {
           "skuid": "S0B300172DC1E1001",

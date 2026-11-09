@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T22:43:53Z",
+  "updated": "2026-11-09T02:24:34Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1027,11 +1027,11 @@
           "name": "MONSTER ENERGY ULTRA BLUE HAWAIIAN",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17463835125505.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-07 19:05:20"
+          "stock_updated": "2026-11-08 17:45:37"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -1039,11 +1039,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.37,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 12,
+          "stock": 11,
           "capacity": 24,
-          "fill_pct": 50,
+          "fill_pct": 46,
           "stock_warning": 0,
-          "stock_updated": "2026-11-08 11:19:36"
+          "stock_updated": "2026-11-08 17:45:37"
         },
         {
           "skuid": "S0B30F22A91B21006",

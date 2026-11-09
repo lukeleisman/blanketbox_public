@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T02:24:34Z",
+  "updated": "2026-11-09T10:05:44Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -402,11 +402,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 13,
+          "stock": 12,
           "capacity": 16,
-          "fill_pct": 81,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-11-07 00:46:56"
+          "stock_updated": "2026-11-08 21:09:32"
         },
         {
           "skuid": "S0B2BAC9D24491002",
@@ -667,11 +667,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-10-28 19:18:51"
+          "stock_updated": "2026-11-09 00:32:15"
         },
         {
           "skuid": "S0B30D2113F861008",
@@ -1075,11 +1075,11 @@
           "name": "Oikos Protein Shake Chocolate 12 oz",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175796271645448.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-11-08 11:19:36"
+          "stock_updated": "2026-11-08 23:13:34"
         },
         {
           "skuid": "S0B2F619342CA1009",
@@ -1246,8 +1246,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 59,
-      "in_stock": 44,
-      "out_of_stock": 15,
+      "in_stock": 43,
+      "out_of_stock": 16,
       "low_stock": 0,
       "products": [
         {
@@ -1280,11 +1280,11 @@
           "name": "Brisk Iced Tea",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176736539400427.png",
-          "stock": 2,
+          "stock": 0,
           "capacity": 8,
-          "fill_pct": 25,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-11-08 04:53:20"
+          "stock_updated": "2026-11-09 02:36:44"
         },
         {
           "skuid": "S0B25FC5136E7100C",
@@ -1424,11 +1424,11 @@
           "name": "Deer park water",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 16,
-          "fill_pct": 19,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-11-07 11:30:46"
+          "stock_updated": "2026-11-08 20:28:26"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -1520,11 +1520,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 5,
+          "stock": 3,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 43,
           "stock_warning": 0,
-          "stock_updated": "2026-10-29 11:21:16"
+          "stock_updated": "2026-11-09 00:33:24"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -1652,11 +1652,11 @@
           "name": "MONSTER ENERGY ULTRA BLUE HAWAIIAN",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17463835125505.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-03 01:13:58"
+          "stock_updated": "2026-11-08 23:09:53"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -1772,11 +1772,11 @@
           "name": "Powerade Zero Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172366735251318.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-08 10:33:50"
+          "stock_updated": "2026-11-08 21:10:01"
         },
         {
           "skuid": "S0B2F6194A055100A",
@@ -1796,11 +1796,11 @@
           "name": "Powerade Zero Mixed Berry 20floz",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176048132401919.png",
-          "stock": 3,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-03 22:48:31"
+          "stock_updated": "2026-11-08 21:10:01"
         },
         {
           "skuid": "S0B246944E3C2100B",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T11:32:17Z",
+  "updated": "2026-11-10T19:23:35Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -606,11 +606,11 @@
           "name": "TAKIS FUEGO HOT CHILI PEPPER AND LIME",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174645971192562.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:01:07"
+          "stock_updated": "2026-11-10 11:27:13"
         },
         {
           "skuid": "S0B300172DC1E1001",
@@ -739,11 +739,11 @@
           "name": "Celsius Grape",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174721875268245.png",
-          "stock": 0,
+          "stock": -1,
           "capacity": 8,
-          "fill_pct": 0,
+          "fill_pct": -12,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:41:56"
+          "stock_updated": "2026-11-10 06:11:12"
         },
         {
           "skuid": "S0B246944E4EB1007",
@@ -775,11 +775,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 14,
+          "stock": 13,
           "capacity": 8,
-          "fill_pct": 175,
+          "fill_pct": 162,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:41:56"
+          "stock_updated": "2026-11-10 11:28:04"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -1003,11 +1003,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.37,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 24,
+          "stock": 23,
           "capacity": 24,
-          "fill_pct": 100,
+          "fill_pct": 96,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:41:56"
+          "stock_updated": "2026-11-10 06:07:26"
         },
         {
           "skuid": "S0B30F22A91B21006",
@@ -1376,11 +1376,11 @@
           "name": "Deer park water",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 13,
+          "stock": 12,
           "capacity": 16,
-          "fill_pct": 81,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:47:45"
+          "stock_updated": "2026-11-10 13:13:22"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -1436,11 +1436,11 @@
           "name": "Fairlife Vanilla Protein",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000535/platgoods/a743c6ae-ae17-49ee-a05c-3438581609f1.jpg",
-          "stock": 5,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 125,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 14:25:08"
+          "stock_updated": "2026-11-10 08:37:25"
         },
         {
           "skuid": "S0B246944E4F01003",

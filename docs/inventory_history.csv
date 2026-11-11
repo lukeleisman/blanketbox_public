@@ -6867,3 +6867,11 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-11-11T06:55:59Z,129111,philly,Philly TrueCooler II,S0B2F6194A055100A,4900005074,Powerade Zero Grape,3.0,7,6,-1
 2026-11-11T06:55:59Z,129111,philly,Philly TrueCooler II,S0B2BAC9D24491002,F0B2BAC9D24491000,Pop Secret popcorn,2.0,4,3,-1
 2026-11-11T06:55:59Z,129111,philly,Philly TrueCooler II,S0B246944E3C2100B,040000001607,Skittles Original Candy,2.5,7,6,-1
+2026-11-11T14:57:47Z,15519,doylestown,333 North Broad Ambient,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,10,8,-2
+2026-11-11T14:57:47Z,15519,doylestown,333 North Broad Ambient,S0B2BAC9D24491002,F0B2BAC9D24491000,Pop Secret popcorn,2.0,11,10,-1
+2026-11-11T14:57:47Z,15519,doylestown,333 North Broad Ambient,S0B2FE7209DA61003,014100077602,Goldfish Cheddar,2.57,11,10,-1
+2026-11-11T14:57:47Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.37,23,22,-1
+2026-11-11T14:57:47Z,129111,philly,Philly TrueCooler II,S0B25F6365FD11002,0980080005,NutellaGo,3.25,6,4,-2
+2026-11-11T14:57:47Z,129111,philly,Philly TrueCooler II,S0B2FECB8B02B1009,811620022125,Fairlife Vanilla Protein,5.0,3,1,-2
+2026-11-11T14:57:47Z,16213,haven,TheHaven#2-cooler,S0B246944E3DB1006,048500008607,Tropicana Orange Juice,3.0,5,4,-1
+2026-11-11T14:57:47Z,16213,haven,TheHaven#2-cooler,S0B246944E4051007,052000324815,Gatorade_Cool_Blue,3.25,6,5,-1

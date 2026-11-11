@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T06:55:59Z",
+  "updated": "2026-11-11T14:57:47Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -210,11 +210,11 @@
           "name": "Goldfish Cheddar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172165768291916.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 10,
-          "fill_pct": 110,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 23:26:14"
+          "stock_updated": "2026-11-11 01:13:07"
         },
         {
           "skuid": "S0B317D918D791002",
@@ -402,11 +402,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 10,
+          "stock": 8,
           "capacity": 16,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 21:06:33"
+          "stock_updated": "2026-11-11 01:13:07"
         },
         {
           "skuid": "S0B2BAC9D24491002",
@@ -414,11 +414,11 @@
           "name": "Pop Secret popcorn",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 20,
-          "fill_pct": 55,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:01:07"
+          "stock_updated": "2026-11-11 01:13:07"
         },
         {
           "skuid": "S0B30530C0E711003",
@@ -1003,11 +1003,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.37,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 23,
+          "stock": 22,
           "capacity": 24,
-          "fill_pct": 96,
+          "fill_pct": 92,
           "stock_warning": 0,
-          "stock_updated": "2026-11-10 06:07:26"
+          "stock_updated": "2026-11-11 06:02:55"
         },
         {
           "skuid": "S0B30F22A91B21006",
@@ -1436,11 +1436,11 @@
           "name": "Fairlife Vanilla Protein",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000535/platgoods/a743c6ae-ae17-49ee-a05c-3438581609f1.jpg",
-          "stock": 3,
+          "stock": 1,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-11-10 08:37:25"
+          "stock_updated": "2026-11-11 07:38:19"
         },
         {
           "skuid": "S0B246944E4F01003",
@@ -1664,11 +1664,11 @@
           "name": "NutellaGo",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 6,
+          "stock": 4,
           "capacity": 10,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-11-10 23:42:09"
+          "stock_updated": "2026-11-11 06:59:21"
         },
         {
           "skuid": "S0B246944E3D51001",
@@ -2157,11 +2157,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063766829.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 12:13:54"
+          "stock_updated": "2026-11-11 03:39:10"
         },
         {
           "skuid": "S0B2FE7209DA61003",
@@ -2505,11 +2505,11 @@
           "name": "Tropicana Orange Juice",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175016539318827.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-10-26 14:30:34"
+          "stock_updated": "2026-11-11 03:39:10"
         },
         {
           "skuid": "S0B246944E3C71001",

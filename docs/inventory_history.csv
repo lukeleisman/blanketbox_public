@@ -6905,3 +6905,10 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-11-12T10:41:57Z,16213,haven,TheHaven#2-cooler,S0B27699FEA161007,024100123223,Cheez It Original,2.25,5,4,-1
 2026-11-12T10:41:57Z,16213,haven,TheHaven#2-cooler,S0B25F6365FD11002,0980080005,NutellaGo,2.75,7,6,-1
 2026-11-12T10:41:57Z,16213,haven,TheHaven#2-cooler,S0B30016FDCE11007,071879126009,Jennie’s Cranberry & coconut,18.0,1,0,-1
+2026-11-12T18:42:31Z,16214,doylestown,333 North Broad Cooler,S0B246944E4B51008,012000813313,Starbucks_Frappuccino_Vanilla,3.75,7,6,-1
+2026-11-12T18:42:31Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.37,21,20,-1
+2026-11-12T18:42:31Z,16214,doylestown,333 North Broad Cooler,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.5,13,11,-2
+2026-11-12T18:42:31Z,16214,doylestown,333 North Broad Cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.6,22,20,-2
+2026-11-12T18:42:31Z,16214,doylestown,333 North Broad Cooler,S0B2FECB8B02B1009,811620022125,Fairlife Vanilla Protein,5.0,8,7,-1
+2026-11-12T18:42:31Z,16214,doylestown,333 North Broad Cooler,S0B3052F2BFF3100A,811620022118,Fairlife Nutrition Plan 30g High Quality Protein,5.0,7,6,-1
+2026-11-12T18:42:31Z,129111,philly,Philly TrueCooler II,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,7,6,-1

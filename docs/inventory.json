@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T10:41:57Z",
+  "updated": "2026-11-12T18:42:31Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -775,11 +775,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 13,
+          "stock": 11,
           "capacity": 8,
-          "fill_pct": 162,
+          "fill_pct": 138,
           "stock_warning": 0,
-          "stock_updated": "2026-11-10 11:28:04"
+          "stock_updated": "2026-11-12 11:59:00"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -799,11 +799,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 22,
+          "stock": 20,
           "capacity": 24,
-          "fill_pct": 92,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-11-11 16:13:38"
+          "stock_updated": "2026-11-12 10:26:43"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -847,11 +847,11 @@
           "name": "Fairlife Nutrition Plan 30g High Quality Protein",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023836433496.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-11-10 23:46:57"
+          "stock_updated": "2026-11-12 09:28:59"
         },
         {
           "skuid": "S0B2FECB8B02B1009",
@@ -859,11 +859,11 @@
           "name": "Fairlife Vanilla Protein",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000535/platgoods/a743c6ae-ae17-49ee-a05c-3438581609f1.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-11-11 15:57:55"
+          "stock_updated": "2026-11-12 09:28:59"
         },
         {
           "skuid": "S0B246944E4F01003",
@@ -1003,11 +1003,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.37,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 21,
+          "stock": 20,
           "capacity": 24,
-          "fill_pct": 88,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-11-11 09:07:10"
+          "stock_updated": "2026-11-12 06:05:56"
         },
         {
           "skuid": "S0B30F22A91B21006",
@@ -1135,11 +1135,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 3.75,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:41:56"
+          "stock_updated": "2026-11-12 09:22:55"
         },
         {
           "skuid": "S0B308CFC6B011002",
@@ -1604,11 +1604,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 14:43:51"
+          "stock_updated": "2026-11-12 11:03:28"
         },
         {
           "skuid": "S0B30F22A91B21006",

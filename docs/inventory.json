@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T18:42:31Z",
+  "updated": "2026-11-12T23:58:33Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -558,11 +558,11 @@
           "name": "Sour Skittles",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176160435418133.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:01:07"
+          "stock_updated": "2026-11-12 14:07:10"
         },
         {
           "skuid": "S0B2BDB15D6F41005",
@@ -582,11 +582,11 @@
           "name": "Starburst original",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175337864986311.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:01:07"
+          "stock_updated": "2026-11-12 14:07:10"
         },
         {
           "skuid": "S0B246944E7241001",
@@ -823,11 +823,11 @@
           "name": "Fairlife Core Power - Strawberry (26g Complete Protein)",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175859439715951.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 5,
-          "fill_pct": 60,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:41:56"
+          "stock_updated": "2026-11-12 15:35:29"
         },
         {
           "skuid": "S0B246944DFD21006",
@@ -1003,11 +1003,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.37,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 20,
+          "stock": 19,
           "capacity": 24,
-          "fill_pct": 83,
+          "fill_pct": 79,
           "stock_warning": 0,
-          "stock_updated": "2026-11-12 06:05:56"
+          "stock_updated": "2026-11-12 15:48:53"
         },
         {
           "skuid": "S0B30F22A91B21006",
@@ -1883,8 +1883,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 55,
-      "in_stock": 45,
-      "out_of_stock": 10,
+      "in_stock": 44,
+      "out_of_stock": 11,
       "low_stock": 0,
       "products": [
         {
@@ -1989,11 +1989,11 @@
           "name": "Cheez It Original",
           "price": 2.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173254819896872.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 10,
-          "fill_pct": 40,
+          "fill_pct": 30,
           "stock_warning": 0,
-          "stock_updated": "2026-11-11 23:31:26"
+          "stock_updated": "2026-11-12 13:25:00"
         },
         {
           "skuid": "S0B2FECA70BC81000",
@@ -2253,11 +2253,11 @@
           "name": "Liquid Death Energy Murder",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176616577399761.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-10-30 05:30:00"
+          "stock_updated": "2026-11-12 17:30:42"
         },
         {
           "skuid": "S0B30B2FB4C961001",
@@ -2301,11 +2301,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 10,
-          "fill_pct": 10,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-11-11 22:05:33"
+          "stock_updated": "2026-11-12 15:58:03"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2409,11 +2409,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 3,
+          "stock": 1,
           "capacity": 10,
-          "fill_pct": 30,
+          "fill_pct": 10,
           "stock_warning": 0,
-          "stock_updated": "2026-11-11 23:31:26"
+          "stock_updated": "2026-11-12 15:58:03"
         },
         {
           "skuid": "S0B2F619342CA1009",
@@ -2638,11 +2638,11 @@
           "name": "artist brushes kit",
           "price": 11.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/f32508c4-d7ab-4091-aa0e-1dea993e7059.jpg",
-          "stock": 9999,
+          "stock": 9998,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-06-19 17:33:23"
+          "stock_updated": "2026-11-12 17:23:47"
         },
         {
           "skuid": "S0B2E92C8030B1006",

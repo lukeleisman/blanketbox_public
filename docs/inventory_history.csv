@@ -6912,3 +6912,12 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-11-12T18:42:31Z,16214,doylestown,333 North Broad Cooler,S0B2FECB8B02B1009,811620022125,Fairlife Vanilla Protein,5.0,8,7,-1
 2026-11-12T18:42:31Z,16214,doylestown,333 North Broad Cooler,S0B3052F2BFF3100A,811620022118,Fairlife Nutrition Plan 30g High Quality Protein,5.0,7,6,-1
 2026-11-12T18:42:31Z,129111,philly,Philly TrueCooler II,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,7,6,-1
+2026-11-12T23:58:33Z,15519,doylestown,333 North Broad Ambient,S0B2BDB1580711003,400000051,Starburst original,2.5,10,9,-1
+2026-11-12T23:58:33Z,15519,doylestown,333 North Broad Ambient,S0B2BDB14A2A7100A,402660,Sour Skittles,2.5,6,5,-1
+2026-11-12T23:58:33Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.37,20,19,-1
+2026-11-12T23:58:33Z,16214,doylestown,333 North Broad Cooler,S0B2D055ACE44100B,1162002198,Fairlife Core Power - Strawberry (26g Complete Protein),5.0,3,2,-1
+2026-11-12T23:58:33Z,16213,haven,TheHaven#2-cooler,S0B30B2FAEB911000,840442200978,Liquid Death Energy Murder,2.5,3,2,-1
+2026-11-12T23:58:33Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.6,3,1,-2
+2026-11-12T23:58:33Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.5,1,0,-1
+2026-11-12T23:58:33Z,16213,haven,TheHaven#2-cooler,S0B27699FEA161007,024100123223,Cheez It Original,2.25,4,3,-1
+2026-11-12T23:58:33Z,15520,mckinley,mHUBPrototypingShop,S0B2E96B27D89100B,077089353006,artist brushes kit,11.0,9999,9998,-1

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T06:23:03Z",
+  "updated": "2026-11-13T14:48:00Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -895,11 +895,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-11-12 18:09:29"
+          "stock_updated": "2026-11-13 04:55:48"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -907,11 +907,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023828232980.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 8,
-          "fill_pct": 112,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:41:56"
+          "stock_updated": "2026-11-13 04:51:59"
         },
         {
           "skuid": "S0B3136541BC31004",
@@ -1015,11 +1015,11 @@
           "name": "Monster Ultra Fantasy Ruby Red 500ml",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178488332087637.png",
-          "stock": 11,
+          "stock": 10,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:41:56"
+          "stock_updated": "2026-11-13 06:51:25"
         },
         {
           "skuid": "S0B27699FED6C1005",
@@ -1376,11 +1376,11 @@
           "name": "Deer park water",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 12,
+          "stock": 10,
           "capacity": 16,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-11-10 13:13:22"
+          "stock_updated": "2026-11-13 08:30:24"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -1460,11 +1460,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176135320494550.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 14:40:55"
+          "stock_updated": "2026-11-13 08:30:24"
         },
         {
           "skuid": "S0B2BDAE8D5FB1006",
@@ -1604,11 +1604,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-11-12 11:03:28"
+          "stock_updated": "2026-11-13 06:21:04"
         },
         {
           "skuid": "S0B30F22A91B21006",
@@ -1652,11 +1652,11 @@
           "name": "Nonni\u2019s Chocolate Biscotti",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174378025726710.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 14:13:53"
+          "stock_updated": "2026-11-13 08:30:24"
         },
         {
           "skuid": "S0B25F6365FD11002",

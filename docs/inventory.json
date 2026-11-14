@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T08:40:01Z",
+  "updated": "2026-11-14T15:36:00Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -306,11 +306,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-11-13 09:49:23"
+          "stock_updated": "2026-11-14 08:46:14"
         },
         {
           "skuid": "S0B29439727A41005",
@@ -1436,11 +1436,11 @@
           "name": "Fairlife Vanilla Protein",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000535/platgoods/a743c6ae-ae17-49ee-a05c-3438581609f1.jpg",
-          "stock": 0,
+          "stock": -1,
           "capacity": 4,
-          "fill_pct": 0,
+          "fill_pct": -25,
           "stock_warning": 0,
-          "stock_updated": "2026-11-13 15:38:17"
+          "stock_updated": "2026-11-14 05:54:16"
         },
         {
           "skuid": "S0B246944E4F01003",
@@ -1604,11 +1604,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-11-13 06:21:04"
+          "stock_updated": "2026-11-14 05:54:16"
         },
         {
           "skuid": "S0B30F22A91B21006",
@@ -2361,11 +2361,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-11-13 18:40:12"
+          "stock_updated": "2026-11-14 09:24:26"
         },
         {
           "skuid": "S0B27699FED6C1005",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T01:35:27Z",
+  "updated": "2026-11-14T08:40:01Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -78,11 +78,11 @@
           "name": "Cheetos NKD P",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/179020772041454.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:01:07"
+          "stock_updated": "2026-11-13 21:48:44"
         },
         {
           "skuid": "S0B2C6BE9F76D100A",
@@ -402,11 +402,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 8,
+          "stock": 6,
           "capacity": 16,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-11-11 01:13:07"
+          "stock_updated": "2026-11-14 00:26:25"
         },
         {
           "skuid": "S0B2BAC9D24491002",
@@ -414,11 +414,11 @@
           "name": "Pop Secret popcorn",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 20,
-          "fill_pct": 50,
+          "fill_pct": 45,
           "stock_warning": 0,
-          "stock_updated": "2026-11-11 01:13:07"
+          "stock_updated": "2026-11-14 00:26:25"
         },
         {
           "skuid": "S0B30530C0E711003",
@@ -450,11 +450,11 @@
           "name": "REESE'S Peanut Butter 2 Cups",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/051DFD41882B8010.png",
-          "stock": 21,
+          "stock": 19,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-12 22:14:43"
+          "stock_updated": "2026-11-14 01:41:31"
         },
         {
           "skuid": "S0B246944E3C2100B",
@@ -582,11 +582,11 @@
           "name": "Starburst original",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175337864986311.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-12 14:07:10"
+          "stock_updated": "2026-11-13 22:19:55"
         },
         {
           "skuid": "S0B246944E7241001",
@@ -669,8 +669,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 45,
-      "in_stock": 37,
-      "out_of_stock": 8,
+      "in_stock": 36,
+      "out_of_stock": 9,
       "low_stock": 0,
       "products": [
         {
@@ -823,11 +823,11 @@
           "name": "Fairlife Core Power - Strawberry (26g Complete Protein)",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175859439715951.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 5,
-          "fill_pct": 20,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-11-13 18:30:09"
+          "stock_updated": "2026-11-13 22:20:34"
         },
         {
           "skuid": "S0B246944DFD21006",
@@ -1207,11 +1207,11 @@
           "name": "XXX Acai-Blueberry-Pomegranate 20 Oz Bottle",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000021/goods/000021/mergoods/1593545699367.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 4,
-          "fill_pct": 150,
+          "fill_pct": 125,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:41:56"
+          "stock_updated": "2026-11-14 01:42:40"
         }
       ]
     },
@@ -1352,11 +1352,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-11-13 15:16:16"
+          "stock_updated": "2026-11-13 20:47:49"
         },
         {
           "skuid": "S0B2BAC924065100B",
@@ -1883,8 +1883,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 55,
-      "in_stock": 44,
-      "out_of_stock": 11,
+      "in_stock": 43,
+      "out_of_stock": 12,
       "low_stock": 0,
       "products": [
         {
@@ -2409,11 +2409,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 10,
-          "fill_pct": 10,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-11-12 15:58:03"
+          "stock_updated": "2026-11-13 22:16:32"
         },
         {
           "skuid": "S0B2F619342CA1009",
@@ -2529,11 +2529,11 @@
           "name": "Vitamin Water Tropical Citrus",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176040330342693.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 6,
-          "fill_pct": 33,
+          "fill_pct": 17,
           "stock_warning": 0,
-          "stock_updated": "2026-11-11 20:05:32"
+          "stock_updated": "2026-11-13 22:16:32"
         },
         {
           "skuid": "S0B2F61985D4D1008",

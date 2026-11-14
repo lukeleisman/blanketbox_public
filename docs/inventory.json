@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T21:13:15Z",
+  "updated": "2026-11-14T01:35:27Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -823,11 +823,11 @@
           "name": "Fairlife Core Power - Strawberry (26g Complete Protein)",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175859439715951.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 5,
-          "fill_pct": 40,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-11-12 15:35:29"
+          "stock_updated": "2026-11-13 18:30:09"
         },
         {
           "skuid": "S0B246944DFD21006",
@@ -1195,11 +1195,11 @@
           "name": "Voss Water",
           "price": 6.99,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177972712811977.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 10,
-          "fill_pct": 50,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:41:56"
+          "stock_updated": "2026-11-13 18:30:09"
         },
         {
           "skuid": "S0B246944DECF100B",
@@ -1222,8 +1222,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 54,
-      "in_stock": 49,
-      "out_of_stock": 5,
+      "in_stock": 48,
+      "out_of_stock": 6,
       "low_stock": 0,
       "products": [
         {
@@ -1352,11 +1352,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-11-13 11:53:51"
+          "stock_updated": "2026-11-13 15:16:16"
         },
         {
           "skuid": "S0B2BAC924065100B",
@@ -1436,11 +1436,11 @@
           "name": "Fairlife Vanilla Protein",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000535/platgoods/a743c6ae-ae17-49ee-a05c-3438581609f1.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 4,
-          "fill_pct": 25,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-11-11 07:38:19"
+          "stock_updated": "2026-11-13 15:38:17"
         },
         {
           "skuid": "S0B246944E4F01003",
@@ -1748,11 +1748,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 10,
-          "fill_pct": 50,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 14:41:39"
+          "stock_updated": "2026-11-13 15:16:16"
         },
         {
           "skuid": "S0B30D3F42A2E100A",
@@ -1772,11 +1772,11 @@
           "name": "Snickers Pecan",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178257269042050.png",
-          "stock": 3,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 14:20:51"
+          "stock_updated": "2026-11-13 16:37:40"
         },
         {
           "skuid": "S0B30D3F4D5051001",
@@ -1832,11 +1832,11 @@
           "name": "TAKIS FUEGO HOT CHILI PEPPER AND LIME",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174645971192562.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 14:13:53"
+          "stock_updated": "2026-11-13 16:37:40"
         },
         {
           "skuid": "S0B2FED291FB81003",
@@ -2097,11 +2097,11 @@
           "name": "Fairlife Nutrition Plan 30g High Quality Protein",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1653508825716.jpeg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-11-08 14:29:45"
+          "stock_updated": "2026-11-13 18:40:12"
         },
         {
           "skuid": "S0B2FECB8B02B1009",
@@ -2169,11 +2169,11 @@
           "name": "Goldfish Cheddar",
           "price": 2.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172165768291916.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-11-03 11:35:38"
+          "stock_updated": "2026-11-13 15:48:04"
         },
         {
           "skuid": "S0B30F2100488100A",
@@ -2361,11 +2361,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-11-03 15:18:25"
+          "stock_updated": "2026-11-13 18:40:12"
         },
         {
           "skuid": "S0B27699FED6C1005",
@@ -2433,11 +2433,11 @@
           "name": "Powerade Zero Grape",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175799657047375.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 12:13:11"
+          "stock_updated": "2026-11-13 15:48:04"
         },
         {
           "skuid": "S0B2F61930CDF1009",

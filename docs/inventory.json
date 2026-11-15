@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T00:07:43Z",
+  "updated": "2026-11-15T06:57:34Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -306,11 +306,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-11-14 08:46:14"
+          "stock_updated": "2026-11-14 19:11:55"
         },
         {
           "skuid": "S0B29439727A41005",
@@ -426,11 +426,11 @@
           "name": "Pub Spicy Blend",
           "price": 15.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178803812880949.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:01:07"
+          "stock_updated": "2026-11-14 19:11:55"
         },
         {
           "skuid": "S0C317D93630A1003",
@@ -1496,11 +1496,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173685359821166.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 14:40:55"
+          "stock_updated": "2026-11-14 18:42:38"
         },
         {
           "skuid": "S0B3136541BC31004",
@@ -1736,11 +1736,11 @@
           "name": "Skittles Original Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177009328012364.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-13 12:26:35"
+          "stock_updated": "2026-11-14 18:42:38"
         },
         {
           "skuid": "S0B27699FEBCD1003",
@@ -1760,11 +1760,11 @@
           "name": "SNICKERS CRUNCHY PEANUT BUTTER SQUARES",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174645624967656.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-10 23:42:09"
+          "stock_updated": "2026-11-14 18:42:38"
         },
         {
           "skuid": "S0B30CDD5FE8E1006",
@@ -1856,11 +1856,11 @@
           "name": "Vita coconut water",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176913044023980.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-12 01:01:02"
+          "stock_updated": "2026-11-14 18:40:13"
         },
         {
           "skuid": "S0B2F619785511007",
@@ -2253,11 +2253,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 16,
+          "stock": 15,
           "capacity": 10,
-          "fill_pct": 160,
+          "fill_pct": 150,
           "stock_warning": 0,
-          "stock_updated": "2026-11-14 16:57:09"
+          "stock_updated": "2026-11-14 18:52:02"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2337,11 +2337,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 21,
+          "stock": 20,
           "capacity": 10,
-          "fill_pct": 210,
+          "fill_pct": 200,
           "stock_warning": 0,
-          "stock_updated": "2026-11-14 17:01:25"
+          "stock_updated": "2026-11-14 18:52:02"
         },
         {
           "skuid": "S0B2F619342CA1009",
@@ -2385,11 +2385,11 @@
           "name": "REESE'S Peanut Butter 2 Cups",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/051DFD41882B8010.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-14 16:57:09"
+          "stock_updated": "2026-11-14 22:10:00"
         },
         {
           "skuid": "S0B246944E3C2100B",
@@ -2421,11 +2421,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 10,
-          "fill_pct": 50,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-11-08 14:29:45"
+          "stock_updated": "2026-11-14 18:52:02"
         },
         {
           "skuid": "S0B246944E4B51008",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T14:38:17Z",
+  "updated": "2026-11-15T20:10:13Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -306,11 +306,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 8,
-          "fill_pct": 25,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-11-14 19:11:55"
+          "stock_updated": "2026-11-15 08:44:53"
         },
         {
           "skuid": "S0B29439727A41005",
@@ -450,11 +450,11 @@
           "name": "REESE'S Peanut Butter 2 Cups",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/051DFD41882B8010.png",
-          "stock": 19,
+          "stock": 18,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-14 01:41:31"
+          "stock_updated": "2026-11-15 08:44:53"
         },
         {
           "skuid": "S0B246944E3C2100B",
@@ -594,11 +594,11 @@
           "name": "Swedish Fish",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168902127228068.jpeg",
-          "stock": 13,
+          "stock": 12,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:01:07"
+          "stock_updated": "2026-11-15 10:05:16"
         },
         {
           "skuid": "S0B30CDD73C721000",
@@ -799,11 +799,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 18,
+          "stock": 17,
           "capacity": 24,
-          "fill_pct": 75,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-11-13 13:42:20"
+          "stock_updated": "2026-11-15 09:51:32"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -907,11 +907,11 @@
           "name": "Gatorade_Cool_Blue",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177023828232980.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-11-13 04:51:59"
+          "stock_updated": "2026-11-15 12:46:54"
         },
         {
           "skuid": "S0B3136541BC31004",
@@ -1171,11 +1171,11 @@
           "name": "Vita Coco Coconut Water Organic",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1650653929348.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-10 23:44:23"
+          "stock_updated": "2026-11-15 09:25:14"
         },
         {
           "skuid": "S0B2F619785511007",
@@ -1304,11 +1304,11 @@
           "name": "Celsius Cherry Cola",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176202960060787.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 8,
-          "fill_pct": 125,
+          "fill_pct": 112,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 14:43:51"
+          "stock_updated": "2026-11-15 11:36:30"
         },
         {
           "skuid": "S0B261B96B2F51000",
@@ -1424,11 +1424,11 @@
           "name": "Fairlife Nutrition Plan 30g High Quality Protein",
           "price": 5.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175432756797186.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 14:40:55"
+          "stock_updated": "2026-11-15 13:51:16"
         },
         {
           "skuid": "S0B2FECB8B02B1009",
@@ -1989,11 +1989,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-11-14 16:57:09"
+          "stock_updated": "2026-11-15 11:02:28"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -2253,11 +2253,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 15,
+          "stock": 14,
           "capacity": 10,
-          "fill_pct": 150,
+          "fill_pct": 140,
           "stock_warning": 0,
-          "stock_updated": "2026-11-14 18:52:02"
+          "stock_updated": "2026-11-15 13:24:43"
         },
         {
           "skuid": "S0B2D484E0EFD1001",

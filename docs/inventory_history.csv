@@ -7029,3 +7029,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-11-16T00:10:57Z,16213,haven,TheHaven#2-cooler,S0B246944E3B71005,03444009,REESE'S Peanut Butter 2 Cups,2.67,8,7,-1
 2026-11-16T00:10:57Z,16213,haven,TheHaven#2-cooler,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.6,20,18,-2
 2026-11-16T00:10:57Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.5,14,13,-1
+2026-11-16T07:03:42Z,129111,philly,Philly TrueCooler II,S0B25F6365FD11002,0980080005,NutellaGo,3.25,3,2,-1
+2026-11-16T07:03:42Z,129111,philly,Philly TrueCooler II,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.57,3,2,-1
+2026-11-16T07:03:42Z,129111,philly,Philly TrueCooler II,S0B30D3F4D5051001,040000641650,SNICKERS XTREME,2.67,3,2,-1
+2026-11-16T07:03:42Z,129111,philly,Philly TrueCooler II,S0B2F619342CA1009,049000056433,Powerade Zero Fruit Punch,3.0,7,6,-1

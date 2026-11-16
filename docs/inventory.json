@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T20:10:13Z",
+  "updated": "2026-11-16T00:10:57Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -114,11 +114,11 @@
           "name": "Cliff  Chocolate Chip Protein Bar",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17674936233687.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:01:07"
+          "stock_updated": "2026-11-15 17:50:13"
         },
         {
           "skuid": "S0D317D94E72B1005",
@@ -691,11 +691,11 @@
           "name": "Arnold palmer",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17608957377979.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-12 19:35:07"
+          "stock_updated": "2026-11-15 14:10:24"
         },
         {
           "skuid": "S0B2EB7FF1C0F1007",
@@ -751,11 +751,11 @@
           "name": "Celsius Kiwi Guava",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/171949904019511.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:41:56"
+          "stock_updated": "2026-11-15 14:10:24"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -1388,11 +1388,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 14:13:53"
+          "stock_updated": "2026-11-15 15:15:21"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1448,11 +1448,11 @@
           "name": "GATORADE 20OZ ORANGE",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063782730.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 14:40:55"
+          "stock_updated": "2026-11-15 15:38:54"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -1856,11 +1856,11 @@
           "name": "Vita coconut water",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176913044023980.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-14 18:40:13"
+          "stock_updated": "2026-11-15 15:15:21"
         },
         {
           "skuid": "S0B2F619785511007",
@@ -2253,11 +2253,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 14,
+          "stock": 13,
           "capacity": 10,
-          "fill_pct": 140,
+          "fill_pct": 130,
           "stock_warning": 0,
-          "stock_updated": "2026-11-15 13:24:43"
+          "stock_updated": "2026-11-15 15:30:24"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2337,11 +2337,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 20,
+          "stock": 18,
           "capacity": 10,
-          "fill_pct": 200,
+          "fill_pct": 180,
           "stock_warning": 0,
-          "stock_updated": "2026-11-14 18:52:02"
+          "stock_updated": "2026-11-15 15:48:00"
         },
         {
           "skuid": "S0B2F619342CA1009",
@@ -2385,11 +2385,11 @@
           "name": "REESE'S Peanut Butter 2 Cups",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/051DFD41882B8010.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-14 22:10:00"
+          "stock_updated": "2026-11-15 15:30:24"
         },
         {
           "skuid": "S0B246944E3C2100B",

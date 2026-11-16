@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T07:03:42Z",
+  "updated": "2026-11-16T17:17:17Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -775,11 +775,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 8,
-          "fill_pct": 112,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-11-15 06:00:40"
+          "stock_updated": "2026-11-16 11:14:33"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -895,11 +895,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-11-13 04:55:48"
+          "stock_updated": "2026-11-16 10:21:46"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -1003,11 +1003,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.37,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 18,
+          "stock": 17,
           "capacity": 24,
-          "fill_pct": 75,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-11-12 18:54:20"
+          "stock_updated": "2026-11-16 06:06:47"
         },
         {
           "skuid": "S0B30F22A91B21006",
@@ -1027,11 +1027,11 @@
           "name": "Monster Zero Sugar Guava",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473811426492.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-11 10:44:49"
+          "stock_updated": "2026-11-16 06:06:47"
         },
         {
           "skuid": "S0B300263EBDF1004",
@@ -1953,11 +1953,11 @@
           "name": "Celsius Kiwi Guava",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1633372949844.jpeg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 12:16:06"
+          "stock_updated": "2026-11-16 07:15:01"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -1965,11 +1965,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 12:19:56"
+          "stock_updated": "2026-11-16 08:41:13"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -2109,11 +2109,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-14 16:57:09"
+          "stock_updated": "2026-11-16 08:41:13"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2409,11 +2409,11 @@
           "name": "Skittles Tropical",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175355854839065.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-14 16:59:45"
+          "stock_updated": "2026-11-16 10:32:04"
         },
         {
           "skuid": "S0B27699FEBCD1003",

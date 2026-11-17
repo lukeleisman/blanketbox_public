@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T08:57:36Z",
+  "updated": "2026-11-17T18:21:58Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -775,11 +775,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-11-16 11:14:33"
+          "stock_updated": "2026-11-17 07:19:07"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -799,11 +799,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 17,
+          "stock": 16,
           "capacity": 24,
-          "fill_pct": 71,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-11-15 09:51:32"
+          "stock_updated": "2026-11-17 10:20:51"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1003,11 +1003,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.37,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 17,
+          "stock": 16,
           "capacity": 24,
-          "fill_pct": 71,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-11-16 06:06:47"
+          "stock_updated": "2026-11-17 06:10:36"
         },
         {
           "skuid": "S0B30F22A91B21006",
@@ -1027,11 +1027,11 @@
           "name": "Monster Zero Sugar Guava",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473811426492.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-16 06:06:47"
+          "stock_updated": "2026-11-17 06:10:36"
         },
         {
           "skuid": "S0B300263EBDF1004",
@@ -1051,11 +1051,11 @@
           "name": "Powerade Zero Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172366735251318.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-11-10 23:44:23"
+          "stock_updated": "2026-11-17 06:10:36"
         },
         {
           "skuid": "S0B2F6194A055100A",
@@ -1664,11 +1664,11 @@
           "name": "NutellaGo",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 10,
-          "fill_pct": 20,
+          "fill_pct": 10,
           "stock_warning": 0,
-          "stock_updated": "2026-11-15 20:38:35"
+          "stock_updated": "2026-11-17 06:01:03"
         },
         {
           "skuid": "S0B246944E3D51001",
@@ -1953,11 +1953,11 @@
           "name": "Celsius Kiwi Guava",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1633372949844.jpeg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-16 07:15:01"
+          "stock_updated": "2026-11-17 10:14:23"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -2109,11 +2109,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-16 08:41:13"
+          "stock_updated": "2026-11-17 10:14:23"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2722,11 +2722,11 @@
           "name": "milwaukee 18mm boxcutter knife",
           "price": 15.0,
           "image": "https://image-us.sandstar.com/images/goods/000332/platgoods/f3a07106-9f49-4d3c-88db-dc9b1ccc5764.jpg",
-          "stock": 9998,
+          "stock": 9997,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-09-21 02:52:08"
+          "stock_updated": "2026-11-17 10:22:10"
         },
         {
           "skuid": "S0B2E92CCA1881001",

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T00:57:35Z",
+  "updated": "2026-11-17T08:57:36Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -679,11 +679,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 10,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 125,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-11-15 08:04:01"
+          "stock_updated": "2026-11-17 01:51:25"
         },
         {
           "skuid": "S0B30D2113F861008",
@@ -1304,11 +1304,11 @@
           "name": "Celsius Cherry Cola",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176202960060787.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-11-16 14:15:20"
+          "stock_updated": "2026-11-16 22:18:01"
         },
         {
           "skuid": "S0B261B96B2F51000",
@@ -1580,11 +1580,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 14:13:53"
+          "stock_updated": "2026-11-16 22:18:01"
         },
         {
           "skuid": "S0B30CDD32EDA1003",
@@ -1676,11 +1676,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 12,
+          "stock": 10,
           "capacity": 10,
-          "fill_pct": 120,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-11-10 22:47:14"
+          "stock_updated": "2026-11-17 00:03:24"
         },
         {
           "skuid": "S0B2BAC9D24491002",
@@ -1868,11 +1868,11 @@
           "name": "VITAMIN WATER DRAGONFRUIT",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176953552008452.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 14:49:19"
+          "stock_updated": "2026-11-17 01:39:40"
         }
       ]
     },
@@ -2097,11 +2097,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 12:13:54"
+          "stock_updated": "2026-11-16 19:13:16"
         },
         {
           "skuid": "S0B246944E4141002",

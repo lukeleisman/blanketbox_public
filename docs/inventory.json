@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T01:09:11Z",
+  "updated": "2026-11-18T08:54:08Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -8,8 +8,8 @@
       "machine_name": "333 North Broad Ambient",
       "address": "333 North Broad Doylestown PA, 18901",
       "total_skus": 54,
-      "in_stock": 45,
-      "out_of_stock": 9,
+      "in_stock": 44,
+      "out_of_stock": 10,
       "low_stock": 0,
       "products": [
         {
@@ -306,11 +306,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 1,
+          "stock": 0,
           "capacity": 8,
-          "fill_pct": 12,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-11-15 08:44:53"
+          "stock_updated": "2026-11-17 19:54:25"
         },
         {
           "skuid": "S0B29439727A41005",
@@ -450,11 +450,11 @@
           "name": "REESE'S Peanut Butter 2 Cups",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/051DFD41882B8010.png",
-          "stock": 17,
+          "stock": 16,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-16 12:08:00"
+          "stock_updated": "2026-11-17 19:54:25"
         },
         {
           "skuid": "S0B246944E3C2100B",
@@ -811,11 +811,11 @@
           "name": "Fair Life Core Power 26g Vanilla Protein Shake",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175840475987435.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:41:56"
+          "stock_updated": "2026-11-17 20:33:56"
         },
         {
           "skuid": "S0B2D055ACE44100B",
@@ -1099,11 +1099,11 @@
           "name": "Red Bull Pink Sugar Free",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17536444517188.png",
-          "stock": 18,
+          "stock": 17,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:41:56"
+          "stock_updated": "2026-11-17 19:47:12"
         },
         {
           "skuid": "S0B2D3E6D7FBD1003",
@@ -1736,11 +1736,11 @@
           "name": "Skittles Original Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177009328012364.png",
-          "stock": 4,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-14 18:42:38"
+          "stock_updated": "2026-11-17 21:36:09"
         },
         {
           "skuid": "S0B27699FEBCD1003",

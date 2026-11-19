@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T16:21:15Z",
+  "updated": "2026-11-19T23:08:58Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -775,11 +775,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 75,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-11-18 18:27:44"
+          "stock_updated": "2026-11-19 11:02:04"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -799,11 +799,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 16,
+          "stock": 15,
           "capacity": 24,
-          "fill_pct": 67,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-11-17 10:20:51"
+          "stock_updated": "2026-11-19 10:37:14"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -2361,11 +2361,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 17,
+          "stock": 15,
           "capacity": 10,
-          "fill_pct": 170,
+          "fill_pct": 150,
           "stock_warning": 0,
-          "stock_updated": "2026-11-17 15:18:45"
+          "stock_updated": "2026-11-19 15:47:50"
         },
         {
           "skuid": "S0B2F619342CA1009",
@@ -2397,11 +2397,11 @@
           "name": "Powerade Zero Mixed Berry 20floz",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176048132401919.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-11-16 16:15:19"
+          "stock_updated": "2026-11-19 16:35:13"
         },
         {
           "skuid": "S0B246944E3B71005",
@@ -2505,11 +2505,11 @@
           "name": "Vitamin Water Tropical Citrus",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176040330342693.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-11-14 16:57:09"
+          "stock_updated": "2026-11-19 15:47:50"
         },
         {
           "skuid": "S0B2F61985D4D1008",

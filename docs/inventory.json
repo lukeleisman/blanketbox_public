@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T23:56:27Z",
+  "updated": "2026-11-19T06:40:39Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -450,11 +450,11 @@
           "name": "REESE'S Peanut Butter 2 Cups",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/051DFD41882B8010.png",
-          "stock": 16,
+          "stock": 15,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-17 19:54:25"
+          "stock_updated": "2026-11-18 17:59:50"
         },
         {
           "skuid": "S0B246944E3C2100B",
@@ -474,11 +474,11 @@
           "name": "Skittles Tropical",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175355854839065.png",
-          "stock": 6,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:01:07"
+          "stock_updated": "2026-11-18 17:59:50"
         },
         {
           "skuid": "S0B30022A02171005",
@@ -498,11 +498,11 @@
           "name": "Snickers Candy Bar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594781894587.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 7,
-          "fill_pct": 143,
+          "fill_pct": 129,
           "stock_warning": 0,
-          "stock_updated": "2026-11-17 18:30:10"
+          "stock_updated": "2026-11-18 18:08:48"
         },
         {
           "skuid": "S0B30D3F42A2E100A",
@@ -534,11 +534,11 @@
           "name": "SNICKERS XTREME",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178257312503836.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:01:07"
+          "stock_updated": "2026-11-18 17:59:50"
         },
         {
           "skuid": "S0B273E97D6C2100B",
@@ -679,11 +679,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 7,
+          "stock": 5,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 62,
           "stock_warning": 0,
-          "stock_updated": "2026-11-17 01:51:25"
+          "stock_updated": "2026-11-18 21:59:29"
         },
         {
           "skuid": "S0B30D2113F861008",
@@ -691,11 +691,11 @@
           "name": "Arnold palmer",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17608957377979.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-15 14:10:24"
+          "stock_updated": "2026-11-18 22:50:16"
         },
         {
           "skuid": "S0B2EB7FF1C0F1007",
@@ -775,11 +775,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-11-17 07:19:07"
+          "stock_updated": "2026-11-18 18:27:44"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -871,11 +871,11 @@
           "name": "GATORADE 20OZ ORANGE",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1634632186095.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 8,
-          "fill_pct": 38,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:41:56"
+          "stock_updated": "2026-11-18 18:27:44"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -883,11 +883,11 @@
           "name": "Gatorade Fruit Punch",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063790629.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 8,
-          "fill_pct": 112,
+          "fill_pct": 100,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:41:56"
+          "stock_updated": "2026-11-18 18:09:56"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -955,11 +955,11 @@
           "name": "Hint-Peach Raspberry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177574577282010.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:41:56"
+          "stock_updated": "2026-11-18 22:50:16"
         },
         {
           "skuid": "S0B3052F18C8E1002",
@@ -1222,8 +1222,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 56,
-      "in_stock": 52,
-      "out_of_stock": 4,
+      "in_stock": 51,
+      "out_of_stock": 5,
       "low_stock": 0,
       "products": [
         {
@@ -1748,11 +1748,11 @@
           "name": "Powerade Zero Mixed Berry 20floz",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176048132401919.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 14:13:53"
+          "stock_updated": "2026-11-18 20:13:55"
         },
         {
           "skuid": "S0B246944E3C2100B",
@@ -1760,11 +1760,11 @@
           "name": "Skittles Original Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177009328012364.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-18 17:24:18"
+          "stock_updated": "2026-11-18 18:33:58"
         },
         {
           "skuid": "S0B27699FEBCD1003",
@@ -1784,11 +1784,11 @@
           "name": "SNICKERS CRUNCHY PEANUT BUTTER SQUARES",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174645624967656.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-14 18:42:38"
+          "stock_updated": "2026-11-18 18:33:58"
         },
         {
           "skuid": "S0B30CDD5FE8E1006",

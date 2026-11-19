@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T06:40:39Z",
+  "updated": "2026-11-19T16:21:15Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -1352,11 +1352,11 @@
           "name": "Clif Bar Crunchy Peanut Butter",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/168874317706623.jpeg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-18 17:29:21"
+          "stock_updated": "2026-11-19 01:52:24"
         },
         {
           "skuid": "S0B246944DEAE1000",
@@ -1592,11 +1592,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 14,
+          "stock": 13,
           "capacity": 11,
-          "fill_pct": 127,
+          "fill_pct": 118,
           "stock_warning": 0,
-          "stock_updated": "2026-11-18 17:24:18"
+          "stock_updated": "2026-11-19 01:52:24"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1604,11 +1604,11 @@
           "name": "Monster Energy",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 10,
-          "fill_pct": 70,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-11-16 22:18:01"
+          "stock_updated": "2026-11-19 01:44:39"
         },
         {
           "skuid": "S0B30CDD32EDA1003",
@@ -1688,11 +1688,11 @@
           "name": "NutellaGo",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 10,
-          "fill_pct": 50,
+          "fill_pct": 40,
           "stock_warning": 0,
-          "stock_updated": "2026-11-18 17:24:18"
+          "stock_updated": "2026-11-19 01:52:24"
         },
         {
           "skuid": "S0B246944E3D51001",
@@ -1989,11 +1989,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-16 08:41:13"
+          "stock_updated": "2026-11-19 09:08:24"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -2133,11 +2133,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-18 07:48:14"
+          "stock_updated": "2026-11-19 09:08:24"
         },
         {
           "skuid": "S0B246944E4051007",

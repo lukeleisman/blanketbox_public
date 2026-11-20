@@ -7139,3 +7139,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-11-20T04:09:25Z,129111,philly,Philly TrueCooler II,S0B246944DEAE1000,04963406,Coca-Cola 12oz can,2.57,5,4,-1
 2026-11-20T04:09:25Z,129111,philly,Philly TrueCooler II,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,13,12,-1
 2026-11-20T04:09:25Z,15452,borellis,BorellisBox,S0B263F734F7E100C,F0B263F734F7E100A,Magnetic Fidget Sphere,15.0,3,2,-1
+2026-11-20T13:26:02Z,129111,philly,Philly TrueCooler II,S0B25F6365FD11002,0980080005,NutellaGo,3.25,4,3,-1
+2026-11-20T13:26:02Z,129111,philly,Philly TrueCooler II,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,12,11,-1
+2026-11-20T13:26:02Z,129111,philly,Philly TrueCooler II,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,8,7,-1
+2026-11-20T13:26:02Z,129111,philly,Philly TrueCooler II,S0B2F619785511007,8616201000,VITAMIN WATER DRAGONFRUIT,3.0,7,6,-1

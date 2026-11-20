@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T13:26:02Z",
+  "updated": "2026-11-20T21:25:49Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -654,11 +654,11 @@
           "name": "Wild Berry Skittles",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174196255228456.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:01:07"
+          "stock_updated": "2026-11-20 10:11:33"
         }
       ]
     },
@@ -775,11 +775,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 5,
+          "stock": 4,
           "capacity": 8,
-          "fill_pct": 62,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-11-19 11:02:04"
+          "stock_updated": "2026-11-20 12:11:59"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -799,11 +799,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 15,
+          "stock": 13,
           "capacity": 24,
-          "fill_pct": 62,
+          "fill_pct": 54,
           "stock_warning": 0,
-          "stock_updated": "2026-11-19 10:37:14"
+          "stock_updated": "2026-11-20 10:55:15"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -859,11 +859,11 @@
           "name": "Fairlife Vanilla Protein",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000535/platgoods/a743c6ae-ae17-49ee-a05c-3438581609f1.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-11-19 17:46:08"
+          "stock_updated": "2026-11-20 10:55:15"
         },
         {
           "skuid": "S0B246944E4F01003",
@@ -871,11 +871,11 @@
           "name": "GATORADE 20OZ ORANGE",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1634632186095.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 8,
-          "fill_pct": 25,
+          "fill_pct": 12,
           "stock_warning": 0,
-          "stock_updated": "2026-11-18 18:27:44"
+          "stock_updated": "2026-11-20 12:11:59"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -979,11 +979,11 @@
           "name": "Monster Energy",
           "price": 4.25,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703603228.jpg",
-          "stock": 14,
+          "stock": 13,
           "capacity": 8,
-          "fill_pct": 175,
+          "fill_pct": 162,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:41:56"
+          "stock_updated": "2026-11-20 09:10:27"
         },
         {
           "skuid": "S0B30CDD32EDA1003",
@@ -1003,11 +1003,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.37,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 13,
+          "stock": 11,
           "capacity": 24,
-          "fill_pct": 54,
+          "fill_pct": 46,
           "stock_warning": 0,
-          "stock_updated": "2026-11-19 18:45:49"
+          "stock_updated": "2026-11-20 10:11:16"
         },
         {
           "skuid": "S0B30F22A91B21006",
@@ -1027,11 +1027,11 @@
           "name": "Monster Zero Sugar Guava",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473811426492.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-19 18:45:49"
+          "stock_updated": "2026-11-20 10:11:16"
         },
         {
           "skuid": "S0B300263EBDF1004",
@@ -1592,11 +1592,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 91,
           "stock_warning": 0,
-          "stock_updated": "2026-11-20 02:15:28"
+          "stock_updated": "2026-11-20 08:03:01"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1688,11 +1688,11 @@
           "name": "NutellaGo",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 10,
-          "fill_pct": 30,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-11-20 02:15:28"
+          "stock_updated": "2026-11-20 08:03:01"
         },
         {
           "skuid": "S0B246944E3D51001",
@@ -1907,8 +1907,8 @@
       "machine_name": "TheHaven#2-cooler",
       "address": "1000 Terrain St, Malvern, PA 19355",
       "total_skus": 52,
-      "in_stock": 49,
-      "out_of_stock": 3,
+      "in_stock": 47,
+      "out_of_stock": 5,
       "low_stock": 0,
       "products": [
         {
@@ -1917,11 +1917,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 8,
-          "fill_pct": 50,
+          "fill_pct": 38,
           "stock_warning": 0,
-          "stock_updated": "2026-11-12 19:29:52"
+          "stock_updated": "2026-11-20 09:11:40"
         },
         {
           "skuid": "S0B2740EB95E01006",
@@ -1965,11 +1965,11 @@
           "name": "Celsius Cherry Cola",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176202960060787.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-14 16:57:09"
+          "stock_updated": "2026-11-20 11:54:24"
         },
         {
           "skuid": "S0B246944E4EB1007",
@@ -1977,11 +1977,11 @@
           "name": "Celsius Kiwi Guava",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1633372949844.jpeg",
-          "stock": 3,
+          "stock": 2,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-18 07:48:14"
+          "stock_updated": "2026-11-20 10:07:38"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -2037,11 +2037,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-11-17 13:33:03"
+          "stock_updated": "2026-11-20 10:36:55"
         },
         {
           "skuid": "S0B30016DFAA81002",
@@ -2097,11 +2097,11 @@
           "name": "Fairlife Nutrition Plan 30g High Quality Protein",
           "price": 5.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1653508825716.jpeg",
-          "stock": 11,
+          "stock": 10,
           "capacity": 8,
-          "fill_pct": 138,
+          "fill_pct": 125,
           "stock_warning": 0,
-          "stock_updated": "2026-11-14 16:57:09"
+          "stock_updated": "2026-11-20 11:54:24"
         },
         {
           "skuid": "S0B2FECB8B02B1009",
@@ -2133,11 +2133,11 @@
           "name": "Gatorade Lemon Lime",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929063805330.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-19 09:08:24"
+          "stock_updated": "2026-11-20 10:07:38"
         },
         {
           "skuid": "S0B246944E4051007",
@@ -2433,11 +2433,11 @@
           "name": "Skittles Tropical",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175355854839065.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-16 13:45:23"
+          "stock_updated": "2026-11-20 09:11:40"
         },
         {
           "skuid": "S0B27699FEBCD1003",

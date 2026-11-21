@@ -7163,3 +7163,7 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-11-21T02:41:14Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.37,11,9,-2
 2026-11-21T02:41:14Z,16213,haven,TheHaven#2-cooler,S0B246944E3EC1003,04965802,Diet Coke 12oz can,2.6,6,4,-2
 2026-11-21T02:41:14Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.5,11,10,-1
+2026-11-21T10:41:22Z,15519,doylestown,333 North Broad Ambient,S0B246944E3D51001,044000047009,Oreo Cookies-Sleeve Pack,2.57,6,5,-1
+2026-11-21T10:41:22Z,15519,doylestown,333 North Broad Ambient,S0B2FE7209DA61003,014100077602,Goldfish Cheddar,2.57,8,7,-1
+2026-11-21T10:41:22Z,16213,haven,TheHaven#2-cooler,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.5,10,9,-1
+2026-11-21T10:41:22Z,16213,haven,TheHaven#2-cooler,S0B2F6194A055100A,4900005074,Powerade Zero Grape,3.0,5,4,-1

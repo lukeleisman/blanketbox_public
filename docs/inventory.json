@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T02:41:14Z",
+  "updated": "2026-11-21T10:41:22Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -210,11 +210,11 @@
           "name": "Goldfish Cheddar",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172165768291916.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 80,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-11-12 22:14:43"
+          "stock_updated": "2026-11-21 00:42:20"
         },
         {
           "skuid": "S0B317D918D791002",
@@ -402,11 +402,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 6,
+          "stock": 5,
           "capacity": 16,
-          "fill_pct": 38,
+          "fill_pct": 31,
           "stock_warning": 0,
-          "stock_updated": "2026-11-14 00:26:25"
+          "stock_updated": "2026-11-21 00:42:20"
         },
         {
           "skuid": "S0B2BAC9D24491002",
@@ -2277,11 +2277,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-11-20 18:38:17"
+          "stock_updated": "2026-11-20 21:11:58"
         },
         {
           "skuid": "S0B2D484E0EFD1001",
@@ -2385,11 +2385,11 @@
           "name": "Powerade Zero Grape",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175799657047375.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-11-13 15:48:04"
+          "stock_updated": "2026-11-20 21:11:58"
         },
         {
           "skuid": "S0B2F61930CDF1009",

@@ -7214,3 +7214,11 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-11-22T10:46:48Z,16213,haven,TheHaven#2-cooler,S0B27699FEA161007,024100123223,Cheez It Original,2.25,2,10,8
 2026-11-22T10:46:48Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,3,9,6
 2026-11-22T10:46:48Z,16213,haven,TheHaven#2-cooler,S0B30CDD73C721000,757528005047,TAKIS FUEGO HOT CHILI PEPPER AND LIME,2.5,2,10,8
+2026-11-22T18:14:55Z,16214,doylestown,333 North Broad Cooler,S0B30F22A91B21006,5056784910085,Monster Ultra Fantasy Ruby Red 500ml,4.27,9,8,-1
+2026-11-22T18:14:55Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.37,31,30,-1
+2026-11-22T18:14:55Z,16214,doylestown,333 North Broad Cooler,S0B2F61930CDF1009,0049000050752,Powerade Zero Mixed Berry 20floz,3.0,8,7,-1
+2026-11-22T18:14:55Z,16214,doylestown,333 North Broad Cooler,S0B27699FEE4D1004,078000001143,12oz Canada Dry ginger ale,2.57,7,6,-1
+2026-11-22T18:14:55Z,129111,philly,Philly TrueCooler II,S0B2D48452F7E1005,89899900002,Vita coconut water,3.57,2,1,-1
+2026-11-22T18:14:55Z,129111,philly,Philly TrueCooler II,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,9,7,-2
+2026-11-22T18:14:55Z,16213,haven,TheHaven#2-cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.27,8,7,-1
+2026-11-22T18:14:55Z,16213,haven,TheHaven#2-cooler,S0B246944E4B51008,012000813313,Starbucks_Frappuccino_Vanilla,4.27,7,6,-1

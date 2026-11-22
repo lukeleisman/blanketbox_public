@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T10:46:48Z",
+  "updated": "2026-11-22T18:14:55Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -643,11 +643,11 @@
           "name": "12oz Canada Dry ginger ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174473758801395.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-11-21 20:39:05"
+          "stock_updated": "2026-11-22 08:42:05"
         },
         {
           "skuid": "S0B30D2113F861008",
@@ -967,11 +967,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.37,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 31,
+          "stock": 30,
           "capacity": 32,
-          "fill_pct": 97,
+          "fill_pct": 94,
           "stock_warning": 0,
-          "stock_updated": "2026-11-22 00:48:40"
+          "stock_updated": "2026-11-22 11:02:51"
         },
         {
           "skuid": "S0B30F22A91B21006",
@@ -979,11 +979,11 @@
           "name": "Monster Ultra Fantasy Ruby Red 500ml",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178488332087637.png",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-11-21 20:39:05"
+          "stock_updated": "2026-11-22 10:17:14"
         },
         {
           "skuid": "S0B27699FED6C1005",
@@ -1039,11 +1039,11 @@
           "name": "Powerade Zero Mixed Berry 20floz",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176048132401919.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-11-21 20:39:05"
+          "stock_updated": "2026-11-22 11:02:51"
         },
         {
           "skuid": "S0B2C858213931004",
@@ -1133,7 +1133,7 @@
           "skuid": "S0B246944E7B61003",
           "barcode": "898999011011",
           "name": "Vita Coco Coconut Water Organic",
-          "price": 3.0,
+          "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1650653929348.png",
           "stock": 7,
           "capacity": 7,
@@ -1568,11 +1568,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 9,
+          "stock": 7,
           "capacity": 10,
-          "fill_pct": 90,
+          "fill_pct": 70,
           "stock_warning": 0,
-          "stock_updated": "2026-11-22 03:53:26"
+          "stock_updated": "2026-11-22 09:43:04"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1854,13 +1854,13 @@
           "skuid": "S0B2D48452F7E1005",
           "barcode": "89899900002",
           "name": "Vita coconut water",
-          "price": 3.0,
+          "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176913044023980.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-11-22 02:46:00"
+          "stock_updated": "2026-11-22 07:08:42"
         },
         {
           "skuid": "S0B2F619785511007",
@@ -2313,11 +2313,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-11-14 16:57:09"
+          "stock_updated": "2026-11-22 11:52:15"
         },
         {
           "skuid": "S0B27699FED6C1005",
@@ -2445,11 +2445,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-11-21 22:31:50"
+          "stock_updated": "2026-11-22 11:52:15"
         },
         {
           "skuid": "S0B30CDD73C721000",

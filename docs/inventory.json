@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T06:03:08Z",
+  "updated": "2026-11-23T18:36:39Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -282,11 +282,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 0,
+          "stock": -1,
           "capacity": 0,
           "fill_pct": null,
           "stock_warning": 0,
-          "stock_updated": "2026-11-17 19:54:25"
+          "stock_updated": "2026-11-23 01:17:05"
         },
         {
           "skuid": "S0B29439727A41005",
@@ -618,11 +618,11 @@
           "name": "Wild Berry Skittles",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174196255228456.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-11-20 10:11:33"
+          "stock_updated": "2026-11-23 01:17:05"
         }
       ]
     },
@@ -715,11 +715,11 @@
           "name": "Celsius Kiwi Guava",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/171949904019511.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-11-21 20:39:05"
+          "stock_updated": "2026-11-23 10:37:32"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -739,11 +739,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-11-21 20:39:05"
+          "stock_updated": "2026-11-23 11:00:38"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -1198,8 +1198,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 56,
-      "in_stock": 51,
-      "out_of_stock": 5,
+      "in_stock": 50,
+      "out_of_stock": 6,
       "low_stock": 0,
       "products": [
         {
@@ -1280,11 +1280,11 @@
           "name": "Celsius Cherry Cola",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176202960060787.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-11-18 05:52:41"
+          "stock_updated": "2026-11-23 02:47:21"
         },
         {
           "skuid": "S0B261B96B2F51000",
@@ -1352,11 +1352,11 @@
           "name": "Cup noodles chicken",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176642324576087.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 5,
-          "fill_pct": 100,
+          "fill_pct": 80,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 14:13:53"
+          "stock_updated": "2026-11-23 02:47:21"
         },
         {
           "skuid": "S0B246944E9A41003",
@@ -1364,11 +1364,11 @@
           "name": "Deer park water",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 16,
+          "stock": 14,
           "capacity": 16,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-11-18 17:24:18"
+          "stock_updated": "2026-11-23 04:13:29"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -1412,11 +1412,11 @@
           "name": "Fairlife Nutrition Plan 30g High Quality Protein",
           "price": 5.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175432756797186.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 3,
-          "fill_pct": 67,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-11-22 02:52:02"
+          "stock_updated": "2026-11-23 06:22:20"
         },
         {
           "skuid": "S0B2FECB8B02B1009",
@@ -1460,11 +1460,11 @@
           "name": "Gatorade Glacier Cherry",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174102825834521.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 14:13:53"
+          "stock_updated": "2026-11-23 04:13:29"
         },
         {
           "skuid": "S0B246944E4141002",
@@ -1532,11 +1532,11 @@
           "name": "Liquid D Mango",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178970499984960.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 7,
-          "fill_pct": 100,
+          "fill_pct": 86,
           "stock_warning": 0,
-          "stock_updated": "2026-11-21 17:35:13"
+          "stock_updated": "2026-11-23 03:10:25"
         },
         {
           "skuid": "S0B30B2FAEB911000",
@@ -1568,11 +1568,11 @@
           "name": "M&M'S, Peanut Milk Chocolate Candy",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964102564.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 10,
-          "fill_pct": 70,
+          "fill_pct": 60,
           "stock_warning": 0,
-          "stock_updated": "2026-11-22 09:43:04"
+          "stock_updated": "2026-11-23 10:04:48"
         },
         {
           "skuid": "S0B246944DEF51002",
@@ -1664,11 +1664,11 @@
           "name": "NutellaGo",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/174353094847726.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 2,
-          "fill_pct": 50,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-11-22 03:53:26"
+          "stock_updated": "2026-11-23 10:04:48"
         },
         {
           "skuid": "S0B246944E3D51001",
@@ -1676,11 +1676,11 @@
           "name": "Oreo Cookies-Sleeve Pack",
           "price": 2.67,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594964237783.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-11-18 05:54:22"
+          "stock_updated": "2026-11-23 01:17:57"
         },
         {
           "skuid": "S0B2BAC9D24491002",
@@ -1953,11 +1953,11 @@
           "name": "Celsius Kiwi Guava",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1633372949844.jpeg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 2,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-11-20 10:07:38"
+          "stock_updated": "2026-11-23 06:45:46"
         },
         {
           "skuid": "S0B246944E5841006",
@@ -1965,11 +1965,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 4,
+          "stock": 3,
           "capacity": 4,
-          "fill_pct": 100,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-11-19 09:08:24"
+          "stock_updated": "2026-11-23 07:38:18"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -1989,11 +1989,11 @@
           "name": "cioccolati biscotti",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623526987032.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-11-21 22:35:19"
+          "stock_updated": "2026-11-23 06:45:46"
         },
         {
           "skuid": "S0B246944DEAE1000",
@@ -2025,11 +2025,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.6,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386674172.jpg",
-          "stock": 9,
+          "stock": 8,
           "capacity": 9,
-          "fill_pct": 100,
+          "fill_pct": 89,
           "stock_warning": 0,
-          "stock_updated": "2026-11-21 22:35:19"
+          "stock_updated": "2026-11-23 11:38:10"
         },
         {
           "skuid": "S0B30016DFAA81002",
@@ -2361,11 +2361,11 @@
           "name": "Powerade Zero Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172366735251318.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 83,
           "stock_warning": 0,
-          "stock_updated": "2026-11-14 16:57:57"
+          "stock_updated": "2026-11-23 07:38:18"
         },
         {
           "skuid": "S0B2F6194A055100A",

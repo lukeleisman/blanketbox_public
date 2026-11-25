@@ -7300,3 +7300,12 @@ timestamp,freezer_id,location_id,machine_name,skuid,barcode,name,price,old_stock
 2026-11-25T08:14:20Z,16213,haven,TheHaven#2-cooler,S0B27699FEBCD1003,040000424314,Snickers Candy Bar,2.57,7,6,-1
 2026-11-25T08:14:20Z,16213,haven,TheHaven#2-cooler,S0B25F6365FD11002,0980080005,NutellaGo,3.0,10,9,-1
 2026-11-25T08:14:20Z,16213,haven,TheHaven#2-cooler,S0B30B38D5A5B1002,815700020049,Kim Nori Seaweed,2.5,9,8,-1
+2026-11-25T18:45:20Z,16214,doylestown,333 North Broad Cooler,S0B246944DEFB1003,070847012474,Monster Energy Zerosugar,4.37,24,23,-1
+2026-11-25T18:45:20Z,129111,philly,Philly TrueCooler II,S0B2C6BE9F76D100A,2410012261,Cheez-It 1.5 oz,2.0,9,7,-2
+2026-11-25T18:45:20Z,129111,philly,Philly TrueCooler II,S0B246944E19E1000,006ckhkp04,"M&M'S, Peanut Milk Chocolate Candy",2.57,6,5,-1
+2026-11-25T18:45:20Z,129111,philly,Philly TrueCooler II,S0B30CDD5FE8E1006,040000595373,Snickers Pecan,2.57,0,-1,-1
+2026-11-25T18:45:20Z,129111,philly,Philly TrueCooler II,S0B2F6194A055100A,4900005074,Powerade Zero Grape,3.0,5,4,-1
+2026-11-25T18:45:20Z,129111,philly,Philly TrueCooler II,S0B246944E40F1008,052000328660,Gatorade Fruit Punch,3.0,6,5,-1
+2026-11-25T18:45:20Z,129111,philly,Philly TrueCooler II,S0B246944E3C2100B,040000001607,Skittles Original Candy,2.5,3,2,-1
+2026-11-25T18:45:20Z,16213,haven,TheHaven#2-cooler,S0B30F20F9AB61000,184739001535,Hint-Peach Raspberry,3.0,4,3,-1
+2026-11-25T18:45:20Z,16213,haven,TheHaven#2-cooler,S0B30B300238A1008,840442200954,Liquid Death Energy Tropical,2.5,3,2,-1

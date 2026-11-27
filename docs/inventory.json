@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T12:56:42Z",
+  "updated": "2026-11-27T21:51:08Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -342,11 +342,11 @@
           "name": "Nissin Hot & Spicy Chicken Flavor",
           "price": 4.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173168999483124.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 3,
-          "fill_pct": 100,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-11-19 17:09:43"
+          "stock_updated": "2026-11-27 10:59:19"
         },
         {
           "skuid": "S0B25F6365FD11002",
@@ -534,11 +534,11 @@
           "name": "Starburst Fave Reds",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175355844746183.png",
-          "stock": 10,
+          "stock": 9,
           "capacity": 10,
-          "fill_pct": 100,
+          "fill_pct": 90,
           "stock_warning": 0,
-          "stock_updated": "2026-11-09 18:01:07"
+          "stock_updated": "2026-11-27 14:54:14"
         },
         {
           "skuid": "S0B2BDB1580711003",
@@ -633,8 +633,8 @@
       "machine_name": "333 North Broad Cooler",
       "address": "333 N Broad St, Doylestown, PA 18901",
       "total_skus": 46,
-      "in_stock": 37,
-      "out_of_stock": 9,
+      "in_stock": 36,
+      "out_of_stock": 10,
       "low_stock": 0,
       "products": [
         {
@@ -727,11 +727,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 3,
+          "stock": 1,
           "capacity": 4,
-          "fill_pct": 75,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-11-25 14:10:07"
+          "stock_updated": "2026-11-27 13:53:32"
         },
         {
           "skuid": "S0B246944DEAE1000",
@@ -835,11 +835,11 @@
           "name": "GATORADE 20OZ ORANGE",
           "price": 3.25,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/mergoods/1634632186095.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 1,
-          "fill_pct": 100,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-11-21 20:39:05"
+          "stock_updated": "2026-11-27 10:59:44"
         },
         {
           "skuid": "S0B246944E40F1008",
@@ -1198,8 +1198,8 @@
       "machine_name": "Philly TrueCooler II",
       "address": "4200 Ludlow St, Philadelphia PA, 19104",
       "total_skus": 56,
-      "in_stock": 47,
-      "out_of_stock": 9,
+      "in_stock": 46,
+      "out_of_stock": 10,
       "low_stock": 0,
       "products": [
         {
@@ -1316,11 +1316,11 @@
           "name": "Cheez-It 1.5 oz",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17700948562425.png",
-          "stock": 1,
+          "stock": 0,
           "capacity": 9,
-          "fill_pct": 11,
+          "fill_pct": 0,
           "stock_warning": 0,
-          "stock_updated": "2026-11-26 17:17:55"
+          "stock_updated": "2026-11-27 10:08:29"
         },
         {
           "skuid": "S0B246944E6431007",
@@ -1376,11 +1376,11 @@
           "name": "Diet Coke 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/173634873565999.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 7,
-          "fill_pct": 29,
+          "fill_pct": 14,
           "stock_warning": 0,
-          "stock_updated": "2026-11-26 18:47:22"
+          "stock_updated": "2026-11-27 11:04:10"
         },
         {
           "skuid": "S0B2C85783CD31007",
@@ -1688,11 +1688,11 @@
           "name": "Pop Secret popcorn",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176806597220021.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 7,
-          "fill_pct": 71,
+          "fill_pct": 57,
           "stock_warning": 0,
-          "stock_updated": "2026-11-26 07:34:12"
+          "stock_updated": "2026-11-27 10:08:29"
         },
         {
           "skuid": "S0B2F619342CA1009",
@@ -1808,11 +1808,11 @@
           "name": "Starburst Fave Reds",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175355844746183.png",
-          "stock": 3,
+          "stock": 2,
           "capacity": 6,
-          "fill_pct": 50,
+          "fill_pct": 33,
           "stock_warning": 0,
-          "stock_updated": "2026-11-26 17:17:55"
+          "stock_updated": "2026-11-27 10:08:29"
         },
         {
           "skuid": "S0B2BDB1580711003",
@@ -1965,11 +1965,11 @@
           "name": "Celsius Orange",
           "price": 3.57,
           "image": "https://image-us.sandstar.com/images/goods/000346/goods/000346/platgoods/173929064163545.jpg",
-          "stock": 2,
+          "stock": 1,
           "capacity": 4,
-          "fill_pct": 50,
+          "fill_pct": 25,
           "stock_warning": 0,
-          "stock_updated": "2026-11-24 09:26:50"
+          "stock_updated": "2026-11-27 08:58:03"
         },
         {
           "skuid": "S0B27699FEA161007",
@@ -2313,11 +2313,11 @@
           "name": "Monster Energy Zerosugar",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000022/goods/000022/mergoods/1594703703341.jpg",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-11-22 11:52:15"
+          "stock_updated": "2026-11-27 13:33:18"
         },
         {
           "skuid": "S0B27699FED6C1005",
@@ -2373,11 +2373,11 @@
           "name": "Powerade Zero Grape",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175799657047375.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 67,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-11-26 21:06:50"
+          "stock_updated": "2026-11-27 08:58:03"
         },
         {
           "skuid": "S0B2F61930CDF1009",
@@ -2409,11 +2409,11 @@
           "name": "Skittles Original Candy",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/177009328012364.png",
-          "stock": 2,
+          "stock": 1,
           "capacity": 5,
-          "fill_pct": 40,
+          "fill_pct": 20,
           "stock_warning": 0,
-          "stock_updated": "2026-11-24 20:21:31"
+          "stock_updated": "2026-11-27 10:14:35"
         },
         {
           "skuid": "S0B2BE0D01EC7100A",
@@ -2445,11 +2445,11 @@
           "name": "Starbucks_Frappuccino_Vanilla",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172433844807026.png",
-          "stock": 6,
+          "stock": 5,
           "capacity": 7,
-          "fill_pct": 86,
+          "fill_pct": 71,
           "stock_warning": 0,
-          "stock_updated": "2026-11-22 11:52:15"
+          "stock_updated": "2026-11-27 13:33:18"
         },
         {
           "skuid": "S0B30CDD73C721000",

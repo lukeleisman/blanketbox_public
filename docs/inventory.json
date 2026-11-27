@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T03:03:37Z",
+  "updated": "2026-11-27T12:56:42Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -751,11 +751,11 @@
           "name": "Deer park water",
           "price": 2.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172866323536019.png",
-          "stock": 11,
+          "stock": 8,
           "capacity": 11,
-          "fill_pct": 100,
+          "fill_pct": 73,
           "stock_warning": 0,
-          "stock_updated": "2026-11-21 20:39:05"
+          "stock_updated": "2026-11-26 22:07:09"
         },
         {
           "skuid": "S0B246944E3EC1003",
@@ -883,11 +883,11 @@
           "name": "Gold Peak - Sweet Tea",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175494520605363.png",
-          "stock": 6,
+          "stock": 3,
           "capacity": 6,
-          "fill_pct": 100,
+          "fill_pct": 50,
           "stock_warning": 0,
-          "stock_updated": "2026-11-21 20:39:05"
+          "stock_updated": "2026-11-26 22:07:09"
         },
         {
           "skuid": "S0B30F2100488100A",
@@ -979,11 +979,11 @@
           "name": "Monster Ultra Fantasy Ruby Red 500ml",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/178488332087637.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 9,
-          "fill_pct": 78,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-11-25 21:41:47"
+          "stock_updated": "2026-11-27 06:43:17"
         },
         {
           "skuid": "S0B27699FED6C1005",
@@ -1340,11 +1340,11 @@
           "name": "Coca-Cola 12oz can",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000013/goods/000013/mergoods/1584386622582.jpg",
-          "stock": 0,
+          "stock": -1,
           "capacity": 3,
-          "fill_pct": 0,
+          "fill_pct": -33,
           "stock_warning": 0,
-          "stock_updated": "2026-11-24 21:10:18"
+          "stock_updated": "2026-11-26 22:39:05"
         },
         {
           "skuid": "S0B2BAC924065100B",
@@ -1989,11 +1989,11 @@
           "name": "cioccolati biscotti",
           "price": 2.5,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17623526987032.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-11-23 06:45:46"
+          "stock_updated": "2026-11-26 21:06:50"
         },
         {
           "skuid": "S0B246944DEAE1000",
@@ -2361,11 +2361,11 @@
           "name": "Powerade Zero Fruit Punch",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/172366735251318.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-11-23 07:38:18"
+          "stock_updated": "2026-11-26 21:06:50"
         },
         {
           "skuid": "S0B2F6194A055100A",
@@ -2373,11 +2373,11 @@
           "name": "Powerade Zero Grape",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175799657047375.png",
-          "stock": 5,
+          "stock": 4,
           "capacity": 6,
-          "fill_pct": 83,
+          "fill_pct": 67,
           "stock_warning": 0,
-          "stock_updated": "2026-11-24 09:26:50"
+          "stock_updated": "2026-11-26 21:06:50"
         },
         {
           "skuid": "S0B2F61930CDF1009",

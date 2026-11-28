@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T21:51:08Z",
+  "updated": "2026-11-28T03:43:47Z",
   "machines": [
     {
       "freezer_id": "15519",
@@ -955,11 +955,11 @@
           "name": "MONSTER ENERGY ULTRA BLUE HAWAIIAN",
           "price": 4.27,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/17463835125505.png",
-          "stock": 8,
+          "stock": 7,
           "capacity": 8,
-          "fill_pct": 100,
+          "fill_pct": 88,
           "stock_warning": 0,
-          "stock_updated": "2026-11-21 20:39:05"
+          "stock_updated": "2026-11-27 20:30:13"
         },
         {
           "skuid": "S0B246944DEFB1003",
@@ -1039,11 +1039,11 @@
           "name": "Powerade Zero Mixed Berry 20floz",
           "price": 3.0,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/176048132401919.png",
-          "stock": 7,
+          "stock": 6,
           "capacity": 8,
-          "fill_pct": 88,
+          "fill_pct": 75,
           "stock_warning": 0,
-          "stock_updated": "2026-11-22 11:02:51"
+          "stock_updated": "2026-11-27 20:47:59"
         },
         {
           "skuid": "S0B2C858213931004",
@@ -1268,11 +1268,11 @@
           "name": "Canada Dry Ginger Ale",
           "price": 2.57,
           "image": "https://image-us.sandstar.com/images/goods/000001/goods/000001/platgoods/175847239862745.png",
-          "stock": 4,
+          "stock": 3,
           "capacity": 7,
-          "fill_pct": 57,
+          "fill_pct": 43,
           "stock_warning": 0,
-          "stock_updated": "2026-11-26 18:47:22"
+          "stock_updated": "2026-11-27 19:41:52"
         },
         {
           "skuid": "S0B2A44D16D23100C",
